@@ -1,4 +1,4 @@
-{
+var ibook_history = {
   "book_count": 143,
   "author_count": 109,
   "notes_count": 1103,
@@ -950,12 +950,15 @@
     {
       "book_id": "84CCAF04FD3E8BBAF6767DE30ACFAA2E",
       "author": "CamScanner",
+      "zauthor": "JD Nasio",
       "title": "Sim, a Psicanálise Cura - JD Nasio (JD Nasio) (z-lib.org)",
+      "ztitle": "Sim, a Psicanálise Cura",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2022-05-19 22:07:07 -0700",
       "genre": "Novo Documento 2019-10-12 12.03.57",
+      "zgenre": null,
       "lang": null,
       "file_size": 40309568,
       "page_count": 98,

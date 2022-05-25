@@ -38,16 +38,17 @@
     </footer>    
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="ibook_history.js"></script>
     <script>
-      function notesTag(notesCounter) {
+      function notesCountTag(notesCounter) {
         if (!notesCounter) return ''
         return `<span class="badge text-wrap text-bg-secondary">${notesCounter} notes</span>`
       }
-      function genreLang(lang) {
+      function langTag(lang) {
         if (!lang) return ''
         return `<span class="text-bg-light badge text-wrap text-secondary">${lang}</span>`
       }
-      function genrePageCount(pageCount) {
+      function pageCountTag(pageCount) {
         if (!pageCount) return ''
         return `<span class="text-bg-light badge text-wrap text-secondary">${pageCount} pages</span>`
       }
@@ -56,47 +57,48 @@
         return `<span class="text-bg-light badge text-wrap text-secondary">${genre}</span>`
       }
 
-      function createProgressbar(percent) {
-        if (percent == 0) return ''
+      function createProgressbar(percent, finished) {
+        if (!percent && !finished) return ''
 
-        if (percent == 100){
+        if (percent === 100 || finished === 1) {
           return `<span class="badge text-bg-success">Finished</span>`
         } else {
           return `
-            <div class="progress" style="height: 1px;">
-              <div class="progress-bar" role="progressbar" style="width: ${percent}%;" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
+            <p>
+              <div class="progress" style="height: 1px;">
+                <div class="progress-bar" role="progressbar" style="width: ${percent}%;" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </p>
           `
         }
       }
 
-      function mountCard(book, isEven) {
+      function display_cover(src){
+        if (!src) return ''
+        return `<img src="${src}" class="img-thumbnail">`
+      }
+
+      function mountCard(book) {
         return `
           <div class="card mb-3 p-3 mx-2" style="max-width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">${book.title}</h5>
-              <p class="card-text">${book.author}</p>
-              ${createProgressbar(book.reading_progress*100)}
+              ${display_cover(book.cover?.src)}
+              <h5 class="card-title">${book.ztitle || book.title}</h5>
+              <p class="card-text">${book.zauthor || book.author}</p>
+              ${createProgressbar(book.reading_progress*100, book.marked_as_finished)}
               ${genreTag(book.genre)}
-              ${genrePageCount(book.page_count)}
-              ${genreLang(book.lang)}
-              ${notesTag(book.notes.length)}
+              ${pageCountTag(book.page_count)}
+              ${langTag(book.lang)}
+              ${notesCountTag(book.notes.length)}
             </div>
           </div>        
         `
       }
 
-      $.get("https://gist.githubusercontent.com/altherlex/74d2c2a581063dbec4296bbc10dfaf76/raw/ibook_history.json", "json")
-        .done(function(data) {
-          data = JSON.parse(data);
-          books = data.data
-          for (var index=0; index < books.length; index++) {
-            $("#library").append(mountCard(books[index], index%2==0));
-          }
-        })
-        .fail(function() {
-          console.log( "error" );
-        });
+      books = ibook_history.data
+      for (var index=0; index < books.length; index++) {
+        $("#library").append(mountCard(books[index]));
+      }
     </script>
   </body>
 </html>
