@@ -1,4 +1,4 @@
-var ibook_history = {
+{
   "book_count": 143,
   "author_count": 109,
   "notes_count": 1103,
@@ -996,7 +996,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:06 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:06 -0700",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51M+ulRvavL._SX322_BO1,204,203,200_.jpg"
       },
       "notes": [
 
@@ -1006,6 +1006,7 @@ var ibook_history = {
       "book_id": "A283B26E5D293E8843B50F558EDF4870",
       "author": "Juan David Nasio",
       "title": "O livro da dor e do amor (Juan David Nasio [Nasio, Juan David]) (z-lib.org)",
+      "ztitle": "O livro da dor e do amor",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -1018,7 +1019,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:06 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:06 -0700",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51WVV+G6QNL.jpg"
       },
       "notes": [
 
@@ -1026,7 +1027,7 @@ var ibook_history = {
     },
     {
       "book_id": "DA2121424F75E0219EB1DCB46CAAA3D2",
-      "author": "Unknown",
+      "author": "Cicero",
       "title": "How to be a friend : an ancient guide to true friendship",
       "last_engaged_date": null,
       "reading_progress": 0.05284553021192551,
@@ -1040,7 +1041,7 @@ var ibook_history = {
       "updated_at": "2022-05-17 18:23:52 -0700",
       "asset_details_modification_date": "2022-05-17 18:23:52 -0700",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/718lftmRGTL.jpg"
       },
       "notes": [
 
@@ -1048,7 +1049,7 @@ var ibook_history = {
     },
     {
       "book_id": "6A32D00EEB8353D7CF3C475C02C415EA",
-      "author": "Cícero",
+      "author": "Cicero",
       "title": "Saber Envelhecer - seguido de A Amizade",
       "last_engaged_date": "2022-05-17 18:19:41 -0700",
       "reading_progress": 0.4144737124443054,
@@ -1062,7 +1063,7 @@ var ibook_history = {
       "updated_at": "2022-05-17 18:19:44 -0700",
       "asset_details_modification_date": "2022-05-17 18:19:44 -0700",
       "cover": {
-        "src": null
+        "src": "https://imagens.lelivros.love/2018/04/Baixar-Saber-Envelhecer-seguido-de-A-Amizade-Cicero-em-Pdf-ePub-e-Mobi-ou-ler-online-370x555.jpg"
       },
       "notes": [
 
