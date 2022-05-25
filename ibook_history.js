@@ -982,8 +982,10 @@ var ibook_history = {
     },
     {
       "book_id": "686FBAF8F332A7C1DF9E85540721F2A5",
-      "author": "XXXXXXXXXXXXXx",
-      "title": "O Paraíso Reconquistado by John Milton (z-lib.org)",
+      "author": "John Milton",
+      "zauthor": "John Milton",
+      "title": "O Paraíso Reconquistado",
+      "ztitle": "O Paraíso Reconquistado",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -3373,7 +3375,8 @@ var ibook_history = {
     {
       "book_id": "76287EAF4902986C599FD98FBC5BC160",
       "author": "Rubem Alves",
-      "title": "Gandhi – A magia dos gestos poéticos - Rubem Alves",
+      "title": "Gandhi – A magia dos gestos poéticos",
+      "ztitle": "Gandhi – A magia dos gestos poéticos",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -3388,65 +3391,6 @@ var ibook_history = {
       "cover":  {
         "src": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/bbcfc64c8a07df452f22ad4d3d61efb91a48e45f.jpg"
       },
-      "extra_covers": [
-        {
-          "src_2": "https://img.travessa.com.br/livro/BA/8b/8b4a184e-69b3-42c5-99ec-87230f6e9386.jpg"
-        },
-        {
-          "src_3": "https://img.yumpu.com/12685697/1/500x640/rubem-alves-gandhi-magia-dos-gestos-poeticos-pdf-rev.jpg"
-        },
-        {
-          "src_4": "https://img2.docero.com.br/image/m/1xeseec.png"
-        },
-        {
-          "src_5": "https://img2.docero.com.br/image/m/xsv1s.png"
-        },
-        {
-          "src_6": "https://images-na.ssl-images-amazon.com/images/I/514azzqE1kL._SX342_SY445_QL70_ML2_.jpg"
-        },
-        {
-          "src_7": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/de/RubemAlves_relogio.jpg/200px-RubemAlves_relogio.jpg"
-        },
-        {
-          "src_8": "https://img.yumpu.com/14568062/1/190x245/rubem-alves-teologia-do-cotidianopdf-a-era-do-espirito.jpg?quality=85"
-        },
-        {
-          "src_9": "https://cdn.slidesharecdn.com/ss_thumbnails/apresentaaorubemalvesjc-121213132542-phpapp01-thumbnail-4.jpg?cb=1355405199"
-        },
-        {
-          "src_10": "https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2014/07/17/rubem-alves.jpg"
-        },
-        {
-          "src_11": "http://4.bp.blogspot.com/-JomoxYEP7Yc/U8r35q4gk3I/AAAAAAAAL5A/u6d1pI4n2hA/s1600/rubem-alves.jpg"
-        },
-        {
-          "src_12": "https://www.ecured.cu/images/6/6d/Rubem_Alvez.jpg"
-        },
-        {
-          "src_13": "https://otempodefato.com.br/polopoly_fs/1.1740064.1436495597!/imagens/14364955980180.jpg"
-        },
-        {
-          "src_14": "http://2.bp.blogspot.com/-L8XibwTXvEM/U-Cz07szrcI/AAAAAAAABq8/4qAVvZowrP4/s1600/Livros+de+Rubem+Alves+para+Download.jpg"
-        },
-        {
-          "src_15": "https://image.slidesharecdn.com/apresentaaorubemalvesjc-121213132542-phpapp01/95/apresentaao-rubem-alves-jc-2-638.jpg?cb=1355405199"
-        },
-        {
-          "src_16": "https://img2.docero.com.br/image/m/v8e885e.png"
-        },
-        {
-          "src_17": "http://2.bp.blogspot.com/-8X7UuVyD-vc/UxTFVne7VkI/AAAAAAAAMdw/_CYwYeQ9ySI/s1600/Rubem+Alves+15.jpg"
-        },
-        {
-          "src_18": "https://institutomosaico.com.br/wp-content/uploads/2018/01/mahatma-ghandi-fue-un-precursor-de-lucha-no-violenta-en-el-mundo_2021611-1-380x315.jpeg"
-        },
-        {
-          "src_19": "http://2.bp.blogspot.com/-7I6sdcuSEDI/U8wweAxwmFI/AAAAAAAA09M/yMh7fiDoNZ8/s1600/Rubem+Alves+(Capa).jpg"
-        },
-        {
-          "src_20": "https://image.slidesharecdn.com/apresentaaorubemalvesjc-121213132542-phpapp01/85/apresentaao-rubem-alves-jc-3-320.jpg?cb=1355405199"
-        }
-      ],
       "notes": [
         {
           "pk": 1045,
@@ -10813,67 +10757,8 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover":  {
-        "src": "https://static.poetryfoundation.org/jstor/i20591908/pages/27.png"
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51WOjmKolCL.jpg"
       },
-      "extra_covers": [
-        {
-          "src_2": "https://i.pinimg.com/originals/ce/6c/a6/ce6ca6114b93800b555d2cd9a9f92df5.jpg"
-        },
-        {
-          "src_3": "https://i.pinimg.com/originals/8e/cb/84/8ecb84fc7d075e9390039ee9f830da23.jpg"
-        },
-        {
-          "src_4": "https://pbs.twimg.com/media/EpWdF0WWMAA_IPe.jpg"
-        },
-        {
-          "src_5": "https://static.poetryfoundation.org/jstor/i20602890/pages/5.png"
-        },
-        {
-          "src_6": "https://pbs.twimg.com/media/DVhZB5PWAAARZKv.jpg"
-        },
-        {
-          "src_7": "https://internetpoem.com/img/poems/037/insomnia-poem-by-elizabeth-bishop.png"
-        },
-        {
-          "src_8": "https://s3.studylib.net/store/data/007272338_1-064c3f7421809f0ecbded5bf2faad06b.png"
-        },
-        {
-          "src_9": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157147906274443"
-        },
-        {
-          "src_10": "https://images-na.ssl-images-amazon.com/images/I/51WOjmKolCL.jpg"
-        },
-        {
-          "src_11": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/one-art-elizabeth-bishop-poem-literature-minimal-typewriter-print-on-old-paper-studio-grafiikka.jpg"
-        },
-        {
-          "src_12": "https://i1.sndcdn.com/artworks-7zt0ViiKqJzWVDIy-lhSdqA-t500x500.jpg"
-        },
-        {
-          "src_13": "https://readingpartisanreview1930s.files.wordpress.com/2017/11/screen-shot-2014-01-12-at-11-14-31-am.png"
-        },
-        {
-          "src_14": "https://i.pinimg.com/474x/c6/cd/62/c6cd621fb629ccbbb48d1f09de843688--elizabeth-bishop-famous-poems.jpg"
-        },
-        {
-          "src_15": "https://static.poetryfoundation.org/jstor/i20595784/pages/15.png"
-        },
-        {
-          "src_16": "https://mypoeticside.com/wp-content/uploads/textimage/70410b1b3e9bcb2bb98b580a5ee8be50.png"
-        },
-        {
-          "src_17": "https://s3.studylib.net/store/data/008032911_1-741c9750f5b2ff976c294f815e224e42.png"
-        },
-        {
-          "src_18": "https://internetpoem.com/img/poems/181/lullaby-for-the-cat-poem-by-elizabeth-bishop.png"
-        },
-        {
-          "src_19": "https://img.yumpu.com/51859283/1/500x640/elizabeth-bishops-poetry-by-dr-matthew-hanson-winner-of-the-.jpg"
-        },
-        {
-          "src_20": "https://mariabergswritinglife.files.wordpress.com/2021/05/screenshot_2021-05-16-one-art-by-elizabeth-bishop-poetry-foundation1-1.png?w=640"
-        }
-      ],
       "notes": [
 
       ]
@@ -11700,7 +11585,7 @@ var ibook_history = {
     },
     {
       "book_id": "0281F08ED95771CEE3C1180C77A51348",
-      "author": "Antonio  Callado",
+      "author": "Antonio Callado",
       "title": "Quarup",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -11714,7 +11599,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398550042i/22015327._UY200_.jpg"
       },
       "notes": [
         {
@@ -12281,8 +12166,10 @@ var ibook_history = {
     },
     {
       "book_id": "449DA0D6FB692D029D52C6412375D656",
-      "author": "Paulo  Freire",
-      "title": "Pedagogia  da  autonomia   |   Saberes  necessários  à  prática  educativa",
+      "author": "Paulo Freire",
+      "zauthor": "Paulo Freire",
+      "title": "Pedagogia da autonomia | Saberes necessários à prática educativa",
+      "ztitle": "Pedagogia da autonomia | Saberes necessários à prática educativa",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -12295,7 +12182,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51uKSv4pSOL.jpg"
       },
       "notes": [
         {
@@ -13353,7 +13240,8 @@ var ibook_history = {
     },
     {
       "book_id": "D9C4125358DEEAF98D982277537D6251",
-      "author": "Unknown",
+      "author": "Hermann Hesse",
+      "zauthor": "Hermann Hesse",
       "title": "Peter camenzind",
       "last_engaged_date": null,
       "reading_progress": 0.0,

@@ -1,11 +1,13 @@
+#!/usr/bin/ruby
+
 require "sqlite3"
 require "active_support/core_ext"
 require "json"
 
 APPLE_BOOK_ANNOTATION_PATH = "/Library/Containers/com.apple.iBooksX/Data/Documents/AEAnnotation/AEAnnotation_v10312011_1727_local.sqlite"
 APPLE_BOOK_LIBRARY_PATH = "/Library/Containers/com.apple.iBooksX/Data/Documents/BKLibrary/BKLibrary-1-091020131601.sqlite"
-# TODO: Change .JSON to .JS and add "var ibook_history ="
-BOOK_DB_FILENAME = "ibook_history.json"
+DATA_FILENAME = "ibook_history.js"
+JS_CODE = "var ibook_history = "
 
 def get(path, sql, object)
   path = File.expand_path('~') + path
@@ -110,7 +112,8 @@ end
 annota_grouped = annotations.group_by{|i| i[:book_id]}
 
 
-cache = File.read(BOOK_DB_FILENAME)
+cache = File.read(DATA_FILENAME)
+cache.slice!(JS_CODE)
 cache = JSON.parse(cache.empty? ? '{"data":[]}' : cache)
 
 books.map! do |book|
@@ -132,10 +135,11 @@ end
 
 
 result_set = {
+  updated_at: Time.now,
   book_count: books.length,
   author_count: books.group_by{|i| i[:author]}.length,
   notes_count: annotations.length,
   data: books
 }
 
-File.write(BOOK_DB_FILENAME, JSON.pretty_generate(result_set))
+File.write(DATA_FILENAME, JS_CODE+JSON.pretty_generate(result_set))
