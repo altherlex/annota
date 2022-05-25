@@ -1,14 +1,10 @@
 require "sqlite3"
+require "active_support/core_ext"
 require "json"
-require "google_search_results"
-require "json"
-require "httpx"
-require 'dotenv/load'
 
 APPLE_BOOK_ANNOTATION_PATH = "/Library/Containers/com.apple.iBooksX/Data/Documents/AEAnnotation/AEAnnotation_v10312011_1727_local.sqlite"
 APPLE_BOOK_LIBRARY_PATH = "/Library/Containers/com.apple.iBooksX/Data/Documents/BKLibrary/BKLibrary-1-091020131601.sqlite"
 BOOK_DB_FILENAME = "ibook_history.json"
-BOOKCOVER_FILENAME = "bookcovers_cached.json"
 
 def get(path, sql, object)
   path = File.expand_path('~') + path
@@ -22,11 +18,9 @@ def get(path, sql, object)
   result
 end
 
-def cloud_upload(filename)
-  file = File.read(filename)
-  body = { files: Hash[filename, { content: file }] }
-  auth_client = HTTPX.plugin(:authentication)
-  auth_client.authentication("Bearer #{ENV["TOKEN"]}").patch(ENV["API_SERVER"], body: body.to_json )
+# ? Not known why iBook insert date 31 years ago.
+def convert_date(int)
+  Time.at(int).next_year(31) if int
 end
 
 SELECT_ANNOTATION=<<~SQL
@@ -45,7 +39,7 @@ SELECT_ANNOTATION=<<~SQL
     ZANNOTATIONTYPE AS TYPE
   FROM ZAEANNOTATION
   WHERE ZANNOTATIONDELETED = 0
-    AND (ZANNOTATIONSELECTEDTEXT IS NOT NULL AND ZANNOTATIONREPRESENTATIVETEXT IS NOT NULL)
+    AND (ZANNOTATIONSELECTEDTEXT IS NOT NULL OR ZANNOTATIONREPRESENTATIVETEXT IS NOT NULL)
   ORDER BY Z_PK DESC
 SQL
 
@@ -104,50 +98,43 @@ Library = Struct.new(
 )
 books = get(APPLE_BOOK_LIBRARY_PATH, SELECT_LIBRARY, Library)
 
-annotations = annotations.group_by{|i| i[:book_id]}
-
-book_covers_file = File.read(BOOKCOVER_FILENAME)
-book_covers = JSON.parse(book_covers_file.empty? ? "{}" : book_covers_file)
-
-# FOR TESTING
-books = [books[1]]
-
-books.each do |book| 
-# DOC: Joins Annotation with Library by book_id
-  book[:notes] = annotations[book[:book_id]] || []
-
-  book[:covers] = book_covers[book[:book_id]] || []
-  # Get a book cover online
-  if book[:covers].empty?
-    begin
-      search = GoogleSearch.new(
-        q: "#{book[:title]} #{book[:author]}", 
-        tbm: "isch", 
-        serp_api_key: ENV["SERP_API_KEY"], 
-        num: 10
-      )
-      search = search.get_hash[:images_results]
-    rescue
-    end
-
-    book[:covers] ||= search.take(10).map{|img| img.slice(:position, :thumbnail, :original)}
-  end
+# DOC: convert date
+annotations.map! do |annota| 
+  annota[:created_at] = convert_date(annota[:created_at])
+  annota[:updated_at] = convert_date(annota[:updated_at])
+  annota[:asset_details_modification_date] = convert_date(annota[:asset_details_modification_date])
+  annota
 end
+
+annota_grouped = annotations.group_by{|i| i[:book_id]}
+
+
+cache = File.read(BOOK_DB_FILENAME)
+cache = JSON.parse(cache.empty? ? '{"data":[]}' : cache)
+
+books.map! do |book|
+  book[:last_engaged_date] = convert_date(book[:last_engaged_date])
+  book[:purchase_date] = convert_date(book[:purchase_date])
+  book[:created_at] = convert_date(book[:created_at])
+  book[:updated_at] = convert_date(book[:updated_at])
+  book[:asset_details_modification_date] = convert_date(book[:asset_details_modification_date])
+
+  book_cached = cache['data'].find{|b| b['book_id'] == book[:book_id]} || {}
+  book = book_cached.transform_keys(&:to_sym).merge(book)
+  book[:cover] ||=  { src: nil }
+
+  # DOC: Join Annotations
+  book[:notes] = annota_grouped[book[:book_id]] || []
+
+  book
+end
+
 
 result_set = {
   book_count: books.length,
   author_count: books.group_by{|i| i[:author]}.length,
+  notes_count: annotations.length,
   data: books
 }
 
 File.write(BOOK_DB_FILENAME, JSON.pretty_generate(result_set))
-
-book_covers = {}
-books.each do |book|
-  book_covers[book[:book_id]] = book[:covers]
-end
-File.write(BOOKCOVER_FILENAME, JSON.pretty_generate(book_covers))
-
-# DOC: Upload
-cloud_upload(BOOKCOVER_FILENAME)
-cloud_upload(BOOK_DB_FILENAME)
