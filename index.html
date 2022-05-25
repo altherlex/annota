@@ -86,7 +86,7 @@
               <h5 class="card-title">${book.ztitle || book.title}</h5>
               <p class="card-text">${book.zauthor || book.author}</p>
               ${createProgressbar(book.reading_progress*100, book.marked_as_finished)}
-              ${genreTag(book.genre)}
+              ${genreTag(book.hasOwnProperty('zgenre') ? book.zgenre : book.genre)}
               ${pageCountTag(book.page_count)}
               ${langTag(book.lang)}
               ${notesCountTag(book.notes.length)}
