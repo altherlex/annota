@@ -19,7 +19,7 @@ var ibook_history = {
       "updated_at": "2022-05-24 23:25:58 -0700",
       "asset_details_modification_date": "2022-05-24 23:25:58 -0700",
       "cover": {
-        "src": "assets/images/minha-formacao-joaquim-nabuco.jpeg"
+        "src": "assets/images/BDBCE4ADE1BC20C9692195517AF48370.jpeg"
       },
       "notes": [
         {
@@ -2874,8 +2874,10 @@ var ibook_history = {
     },
     {
       "book_id": "7517406CDE0AE2DD90CF24D2F84DBE6E",
-      "author": "CARLOS CASTANEDA",
+      "author": "Carlos Castaneda",
+      "zauthor": "Carlos Castaneda",
       "title": "A ERVA DO DIABO",
+      "ztitle": "A Erva do Diabo",
       "last_engaged_date": "2022-03-10 19:08:52 -0800",
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -2888,67 +2890,8 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-13 21:08:57 -0700",
       "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41mQ04Fq7vL._SX326_BO1,204,203,200_.jpg"
+        "src": "https://imagens.lelivros.love/2016/08/Baixar-Livro-A-Erva-do-Diabo-Carlos-Castaneda-em-PDF-ePub-e-Mobi-ou-ler-online.jpg"
       },
-      "extra_covers": [
-        {
-          "src_2": "https://images-na.ssl-images-amazon.com/images/I/91t2luY3tUL.jpg"
-        },
-        {
-          "src_3": "https://images-na.ssl-images-amazon.com/images/I/71rcD3U6jhL.jpg"
-        },
-        {
-          "src_4": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360004629l/170085.jpg"
-        },
-        {
-          "src_5": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360004629i/170085._UY475_SS475_.jpg"
-        },
-        {
-          "src_6": "https://www.traca.com.br/capas/577/577015.jpg"
-        },
-        {
-          "src_7": "https://images-na.ssl-images-amazon.com/images/I/41mQ04Fq7vL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFIVE%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA5%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
-        },
-        {
-          "src_8": "https://i.ytimg.com/vi/XiSEzWSQA2I/hqdefault.jpg"
-        },
-        {
-          "src_9": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_52c9221cb4acabd90ae916ddc6649ddad4083dea.jpg"
-        },
-        {
-          "src_10": "https://miro.medium.com/max/354/0*FCAMG2B1WG0Pwg5P.jpg"
-        },
-        {
-          "src_11": "https://images-na.ssl-images-amazon.com/images/I/51P7cmPgUwL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
-        },
-        {
-          "src_12": "https://photos.enjoei.com.br/public/1200x1200/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy82MzA1MDY0LzMwNTI4Mzk5ZDlhODc5ODY2OWZjZWI1MmI2YWJjY2M0LmpwZw"
-        },
-        {
-          "src_13": "https://cf.shopee.com.br/file/a6326dd40ac0efb7258bf0a8fea6033f"
-        },
-        {
-          "src_14": "https://paginasusadas.pt/26-medium_default/a-erva-do-diabo.jpg"
-        },
-        {
-          "src_15": "https://livrariadavila.vteximg.com.br/arquivos/ids/918885-642-930/9786555320855.jpg?v=637590433127070000"
-        },
-        {
-          "src_16": "https://i.pinimg.com/originals/dd/86/e4/dd86e4839acca239ff8f4d5bb9aacef7.jpg"
-        },
-        {
-          "src_17": "https://d38h3sy5jr28pf.cloudfront.net/capas-livros/9788501007193-carlos-castaneda-a-erva-do-diabo-os-ensinamentos-de-dom-juan-1093902963.jpg"
-        },
-        {
-          "src_18": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/324/853/products/book191-fad97db8e8bb54057216183433344643-1024-1024.jpg"
-        },
-        {
-          "src_19": "https://aaaummm.files.wordpress.com/2011/03/donjuan.jpg?w=234&h=322"
-        },
-        {
-          "src_20": "https://megaleitores.com.br/images/livros/carlos-castaneda/circulo-do-livro/a-erva-do-diabo/13046/19753280-carlos-castaneda-circulo-do-livro-a-erva-do-diabo-5c84092899aa6-540x728.jpg"
-        }
-      ],
       "notes": [
 
       ]
@@ -3052,65 +2995,6 @@ var ibook_history = {
       "cover":  {
         "src": "https://m.media-amazon.com/images/I/51vLLA9mq8L.jpg"
       },
-      "extra_covers": [
-        {
-          "src_2": "https://images-na.ssl-images-amazon.com/images/I/51vLLA9mq8L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
-        },
-        {
-          "src_3": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625241420i/58473583._UY2525_SS2525_.jpg"
-        },
-        {
-          "src_4": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625241420l/58473583._SY475_.jpg"
-        },
-        {
-          "src_5": "https://images-na.ssl-images-amazon.com/images/I/51FRzg-aY5L._SX338_BO1,204,203,200_.jpg"
-        },
-        {
-          "src_6": null
-        },
-        {
-          "src_7": "https://aeditora.com.br/wp-content/uploads/2020/09/fernando-pessoa-o-banqueiro-anarquista-scaled.jpg"
-        },
-        {
-          "src_8": "https://images-na.ssl-images-amazon.com/images/I/41+YtW1Mw2L.jpg"
-        },
-        {
-          "src_9": "https://pictures.abebooks.com/inventory/6733443401.jpg"
-        },
-        {
-          "src_10": "https://img.wook.pt/images/o-banqueiro-anarquista-e-outros-contos-fernando-pessoa/MXwxNjUxMzEzNHwxMjExMzg3M3wxNDMzMzQyMjU4MDAw"
-        },
-        {
-          "src_11": "https://i0.wp.com/projectoadamastor.org/wp-content/uploads/2013/03/O-Banqueiro-Anarquista-Capa.jpg?fit=1300%2C2000&ssl=1"
-        },
-        {
-          "src_12": "https://i.ytimg.com/vi/32f6HsXG8ao/hqdefault.jpg"
-        },
-        {
-          "src_13": null
-        },
-        {
-          "src_14": "https://thumbs.web.sapo.io/?epic=V2:X5oVaygxFQxG10TBMcI7eHbA1+YMZRuGiJWp461+l4BCqouRuCNihy/61N4Fu/LCdrkBMcvTl+YZd3lhbRHjw+6zONv1lb1htScacbf2l35HdUbY9GjpU/QFG6jzkcl9R/v87fNJEwAEYw3m8kWLIrIr3BGtdwzSp28vkYJbDHM=&H=400&ar=1&Q=90&W=400&crop=center"
-        },
-        {
-          "src_15": "https://img.yumpu.com/55693510/1/500x640/-.jpg"
-        },
-        {
-          "src_16": "https://thumbs.web.sapo.io/?epic=V2:kXRVKekhOMSnvfoSf2pdBSb5jcG6VS7wauc5NjBufY10+F98K+Ii9jEuQ9Akesh3cLd6RipkVJ97Caat+BZ4nafcYui8ByshVweKJkDTbJFkILr7vUeVoH1jRscsSV7+w/lzs8y/99gvoFBCr2QwY7SfOyOp2fCLNZSaFXU7+WZlRZNDZ3OPkeQMKFhzfZLu&ar=1&H=400&crop=center&W=400&Q=90"
-        },
-        {
-          "src_17": "https://0.academia-photos.com/185861540/51463391/39537599/original_pessoa_plural_a.journal_of_fernando_pessoa_studies.jpeg"
-        },
-        {
-          "src_18": "https://image.slidesharecdn.com/banqueiroanarquista-100607113908-phpapp01/85/fernando-pessoa-o-banqueiro-anarquista-2-320.jpg?cb=1289970735"
-        },
-        {
-          "src_19": "https://img2.docero.com.br/image/m/n805x.png"
-        },
-        {
-          "src_20": "https://img2.docero.com.br/image/m/xscv.png"
-        }
-      ],
       "notes": [
 
       ]

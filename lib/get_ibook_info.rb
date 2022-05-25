@@ -6,7 +6,7 @@ require "json"
 
 APPLE_BOOK_ANNOTATION_PATH = "/Library/Containers/com.apple.iBooksX/Data/Documents/AEAnnotation/AEAnnotation_v10312011_1727_local.sqlite"
 APPLE_BOOK_LIBRARY_PATH = "/Library/Containers/com.apple.iBooksX/Data/Documents/BKLibrary/BKLibrary-1-091020131601.sqlite"
-DATA_FILENAME = "ibook_history.js"
+DATA_FILENAME = "data/ibook_history.js"
 JS_CODE = "var ibook_history = "
 
 def get(path, sql, object)
