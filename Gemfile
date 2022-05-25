@@ -1,0 +1,5 @@
+gem 'dotenv'
+gem 'sqlite3'
+gem 'google_search_results'
+gem 'json'
+gem 'httpx'
