@@ -760,7 +760,7 @@ var ibook_history = {
       "updated_at": "2022-05-23 12:26:43 -0700",
       "asset_details_modification_date": "2022-05-23 12:26:43 -0700",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41TuhPL2l4L.jpg"
+        "src": "assets/images/B2CFA9917092F5E955FEAC631712D797.jpg"
       },
       "notes": [
 
@@ -784,7 +784,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:25:29 -0700",
       "asset_details_modification_date": "2022-05-19 22:25:29 -0700",
       "cover": {
-        "src": "https://img2.docero.com.br/image/l/xcsc01c.png"
+        "src": "assets/images/9FAB92291FD59DF59DCBA785D7A641DA.png"
       },
       "notes": [
 
@@ -807,7 +807,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:10 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:10 -0700",
       "cover": {
-        "src": "https://images.routledge.com/common/jackets/crclarge/978131509/9781315099552.jpg"
+        "src": "assets/images/F9503C3C11ED5CF3B3C56E767383C761.jpg"
       },
       "notes": [
 
@@ -831,7 +831,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:10 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:10 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/818My-iBtNL.jpg"
+        "src": "assets/images/AE0CAF6A1D631FD7D3AD475DB4D1A069.jpg"
       },
       "notes": [
 
@@ -853,7 +853,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:10 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:10 -0700",
       "cover": {
-        "src": "https://img.yumpu.com/12862927/1/500x640/tudo-que-eu-devia-saber-aprendi-no-jardim-de-infancia-rcacomum.jpg"
+        "src": "assets/images/85C83216CB060ACE79333C90A8EC2942.jpg"
       },
       "notes": [
 
@@ -877,7 +877,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:09 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:09 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91JxXdx0QlL.jpg"
+        "src": "assets/images/11EBAD3180C7990DBDD315424789C414.jpg"
       },
       "notes": [
 
@@ -901,7 +901,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:09 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:09 -0700",
       "cover": {
-        "src": "https://www.bookstellyouwhy.com/pictures/59419.jpg"
+        "src": "assets/images/60A41E8053C055B5162A89B03C4C36A1.jpg"
       },
       "notes": [
 
@@ -925,7 +925,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:08 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:08 -0700",
       "cover": {
-        "src": "https://broadviewpress.com/wp-content/uploads/2016/06/9781551111780.jpg"
+        "src": "assets/images/71C5A807E1FB19BBDF35FF305146A29F.jpg"
       },
       "notes": [
 
@@ -949,7 +949,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:08 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:08 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/317Q+fX6tnL._SX373_BO1,204,203,200_.jpg"
+        "src": "assets/images/16D42D2A82CEC35BCF31B9073EE25A06.jpg"
       },
       "notes": [
 
@@ -974,7 +974,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:07 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:08 -0700",
       "cover": {
-        "src": "https://covers.zlibcdn2.com/covers/books/84/cc/af/84ccaf04fd3e8bbaf6767de30acfaa2e.jpg"
+        "src": "assets/images/84CCAF04FD3E8BBAF6767DE30ACFAA2E.jpg"
       },
       "notes": [
 
@@ -998,7 +998,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:06 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:06 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51M+ulRvavL._SX322_BO1,204,203,200_.jpg"
+        "src": "assets/images/686FBAF8F332A7C1DF9E85540721F2A5.jpg"
       },
       "notes": [
 
@@ -1021,7 +1021,7 @@ var ibook_history = {
       "updated_at": "2022-05-19 22:07:06 -0700",
       "asset_details_modification_date": "2022-05-19 22:07:06 -0700",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51WVV+G6QNL.jpg"
+        "src": "assets/images/A283B26E5D293E8843B50F558EDF4870.jpg"
       },
       "notes": [
 
@@ -1043,7 +1043,7 @@ var ibook_history = {
       "updated_at": "2022-05-17 18:23:52 -0700",
       "asset_details_modification_date": "2022-05-17 18:23:52 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/718lftmRGTL.jpg"
+        "src": "assets/images/DA2121424F75E0219EB1DCB46CAAA3D2.jpg"
       },
       "notes": [
 
@@ -1065,7 +1065,7 @@ var ibook_history = {
       "updated_at": "2022-05-17 18:19:44 -0700",
       "asset_details_modification_date": "2022-05-17 18:19:44 -0700",
       "cover": {
-        "src": "https://imagens.lelivros.love/2018/04/Baixar-Saber-Envelhecer-seguido-de-A-Amizade-Cicero-em-Pdf-ePub-e-Mobi-ou-ler-online-370x555.jpg"
+        "src": "assets/images/6A32D00EEB8353D7CF3C475C02C415EA.jpg"
       },
       "notes": [
 
@@ -1086,8 +1086,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 17:26:36 -0700",
       "asset_details_modification_date": "2022-05-15 17:26:36 -0700",
-      "cover":  {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403804741l/22591023.jpg"
+      "cover": {
+        "src": "assets/images/B209458A4AB362EC546B3118D546702C.jpg"
       },
       "extra_covers": [
         {
@@ -1196,8 +1196,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:28:22 -0700",
       "asset_details_modification_date": "2022-05-15 09:10:22 -0700",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51TNBkAIRsL.jpg"
+      "cover": {
+        "src": "assets/images/B4CEE1EB49219A027623F448D22FB556.jpg"
       },
       "extra_covers": [
         {
@@ -2101,8 +2101,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-21 19:10:33 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/918NvZsnTUL.jpg"
+      "cover": {
+        "src": "assets/images/8D4FCDE61AA9DD9C01579E55A9E4A556.jpg"
       },
       "extra_covers": [
         {
@@ -2182,8 +2182,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-05-15 08:26:21 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41YKw0ryPDL._SX381_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/5CFA8E27F85F974C3860116C1D446356.jpg"
       },
       "extra_covers": [
         {
@@ -2517,8 +2517,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-20 20:54:23 -0700",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41mec92060L.jpg"
+      "cover": {
+        "src": "assets/images/49045CD1E858C85C11A9B3BFC14F8E87.jpg"
       },
       "extra_covers": [
         {
@@ -2762,8 +2762,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-20 04:30:35 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91ByhMcJ2eL.jpg"
+      "cover": {
+        "src": "assets/images/54B29B1EB1A6E934EFD6C643F190D388.jpg"
       },
       "extra_covers": [
         {
@@ -2889,8 +2889,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-13 21:08:57 -0700",
-      "cover":  {
-        "src": "https://imagens.lelivros.love/2016/08/Baixar-Livro-A-Erva-do-Diabo-Carlos-Castaneda-em-PDF-ePub-e-Mobi-ou-ler-online.jpg"
+      "cover": {
+        "src": "assets/images/7517406CDE0AE2DD90CF24D2F84DBE6E.jpg"
       },
       "notes": [
 
@@ -2911,8 +2911,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-04-26 23:37:50 -0700",
-      "cover":  {
-        "src": "https://globaleditora.com.br/capas/400/1603.jpg"
+      "cover": {
+        "src": "assets/images/D189EDAD9D806A72DBCFAC5B4EABB2A6.jpg"
       },
       "extra_covers": [
         {
@@ -2992,8 +2992,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-07 08:54:08 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51vLLA9mq8L.jpg"
+      "cover": {
+        "src": "assets/images/2410EC11A439248CB9655977786FA703.jpg"
       },
       "notes": [
 
@@ -3014,8 +3014,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-11 09:25:13 -0800",
-      "cover":  {
-        "src": "https://img.wook.pt/images/o-poder-do-silencio-carlos-castaneda/MXwxODg5Mzl8MjM4Nzg1fDEzODM1NzcwMzEwMDA=/500x"
+      "cover": {
+        "src": "assets/images/FEACF5E8CFF3CEA436B058A7D728570E.jpg"
       },
       "extra_covers": [
         {
@@ -3095,8 +3095,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://pictures.abebooks.com/isbn/9788571642447-us.jpg"
+      "cover": {
+        "src": "assets/images/3D1D0DEE6F2B5132507F90E5DE2CE98C.jpg"
       },
       "extra_covers": [
         {
@@ -3190,8 +3190,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41k2iIBO-nL._SX340_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/7A183051B25BB4B3D92C033BBD2DEBA7.jpg"
       },
       "extra_covers": [
         {
@@ -3272,8 +3272,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/bbcfc64c8a07df452f22ad4d3d61efb91a48e45f.jpg"
+      "cover": {
+        "src": "assets/images/76287EAF4902986C599FD98FBC5BC160.jpg"
       },
       "notes": [
         {
@@ -3368,8 +3368,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-05-23 17:39:03 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91og6RNmJwL.jpg"
+      "cover": {
+        "src": "assets/images/92107246319D005056910355FB92387A.jpg"
       },
       "extra_covers": [
         {
@@ -3449,8 +3449,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51lmVefpNcL.jpg"
+      "cover": {
+        "src": "assets/images/AAA706341040AB4357EF3686FB2AEA48.jpg"
       },
       "extra_covers": [
         {
@@ -3530,8 +3530,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41H9qPdyN8L.jpg"
+      "cover": {
+        "src": "assets/images/717D20BA21BED335064BFB50976ADD5B.jpg"
       },
       "extra_covers": [
         {
@@ -3611,8 +3611,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51aUZpJZi5L._SX346_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/053D32C8131865EB34681D2E89131FD1.jpg"
       },
       "extra_covers": [
         {
@@ -3692,8 +3692,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51f3oRgvI3L._SY291_BO1,204,203,200_QL40_ML2_.jpg"
+      "cover": {
+        "src": "assets/images/0FA244AECF45272ECDB7F2FB03FE892C.jpg"
       },
       "extra_covers": [
         {
@@ -3937,8 +3937,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41H9qPdyN8L.jpg"
+      "cover": {
+        "src": "assets/images/740E1EC5C977DCDD5EFDD5997B03112B.jpg"
       },
       "extra_covers": [
         {
@@ -4033,8 +4033,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/513JkLEdLlL.jpg"
+      "cover": {
+        "src": "assets/images/50B18E0C882AA563EEA3B6F01D326A86.jpg"
       },
       "extra_covers": [
         {
@@ -4114,8 +4114,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51SPZq2cSFL._SX323_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/A84512BBA18EB3FC6B4F9F77F7714034.jpg"
       },
       "extra_covers": [
         {
@@ -4195,8 +4195,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/813epQ9wzRL.jpg"
+      "cover": {
+        "src": "assets/images/18AF85BE1D89949679E81D1B95E85F7E.jpg"
       },
       "extra_covers": [
         {
@@ -4665,8 +4665,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91og6RNmJwL.jpg"
+      "cover": {
+        "src": "assets/images/A92F7BB0898BF9AB4785F227856FF47A.jpg"
       },
       "extra_covers": [
         {
@@ -4746,8 +4746,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/412566QqI0L._SX326_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/85BBE45A27F4169A8470395C83A97DC0.jpg"
       },
       "extra_covers": [
         {
@@ -4827,8 +4827,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41gWGKD5ofL._SX317_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/7AF1B62FD69A9046999D24FF166C08BE.jpg"
       },
       "extra_covers": [
         {
@@ -4908,8 +4908,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-27 15:54:26 -0700",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51l1eHtGLoL._AC_SY1000_.jpg"
+      "cover": {
+        "src": "assets/images/15183FB61FE7C8866AAF8DAD3A99F5A7.jpg"
       },
       "extra_covers": [
         {
@@ -5558,8 +5558,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81Gn6ETyKpL.jpg"
+      "cover": {
+        "src": "assets/images/A9021CED858C6D7DF088068B4EFE2561.jpg"
       },
       "extra_covers": [
         {
@@ -5683,8 +5683,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/A1qhBebbu6L.jpg"
+      "cover": {
+        "src": "assets/images/08EB1B895088F69E144F28208822577E.jpg"
       },
       "extra_covers": [
         {
@@ -5764,8 +5764,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51kjf7sT1hL.jpg"
+      "cover": {
+        "src": "assets/images/B1326F9EC70AE47A5B9A06AFF27082E9.jpg"
       },
       "extra_covers": [
         {
@@ -5845,8 +5845,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/911fyibWEML.jpg"
+      "cover": {
+        "src": "assets/images/0E4F055C8B0B703DA2B26ED85FCBBCE2.jpg"
       },
       "extra_covers": [
         {
@@ -5926,8 +5926,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/A13WKYNKrkL.jpg"
+      "cover": {
+        "src": "assets/images/61E43CD9705F98A7B59C14CD30B3160B.jpg"
       },
       "extra_covers": [
         {
@@ -6007,8 +6007,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51BywJtSObL.jpg"
+      "cover": {
+        "src": "assets/images/21B4AD37EA0B4BD8B57AC11728AEC438.jpg"
       },
       "extra_covers": [
         {
@@ -6088,8 +6088,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51wlySWDELL.jpg"
+      "cover": {
+        "src": "assets/images/34A7B1B18F5BFC8A25A7A72D9C7EF387.jpg"
       },
       "extra_covers": [
         {
@@ -6288,8 +6288,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91KlppDwxDL.jpg"
+      "cover": {
+        "src": "assets/images/D0464A79B12D1479E44055260C0E6310.jpg"
       },
       "extra_covers": [
         {
@@ -6369,8 +6369,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://kbimages1-a.akamaihd.net/04ad76f2-a437-46c6-bfe1-aafe34409be4/1200/1200/False/auto-da-fe.jpg"
+      "cover": {
+        "src": "assets/images/6B26008B5904F4AACC34A0F636C0FFA6.jpg"
       },
       "extra_covers": [
         {
@@ -6450,8 +6450,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81M+qK6BQuL.jpg"
+      "cover": {
+        "src": "assets/images/46BDD5E5FA3482255F1D8BC91D97BB7D.jpg"
       },
       "extra_covers": [
         {
@@ -6531,8 +6531,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81gElgkHRTS.jpg"
+      "cover": {
+        "src": "assets/images/F0D8537C1B543BA9BF103F80762D0A67.jpg"
       },
       "extra_covers": [
         {
@@ -6612,8 +6612,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41GW-mNEQhL._SX329_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/0ED776FCF583C943B3E5173DDAA1259D.jpg"
       },
       "extra_covers": [
         {
@@ -6693,8 +6693,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://prodimage.images-bn.com/pimages/9788520943458_p0_v1_s550x406.jpg"
+      "cover": {
+        "src": "assets/images/07B88E38B654F6CC65CBF5A46744BDA5.jpg"
       },
       "extra_covers": [
         {
@@ -7103,8 +7103,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "http://prodimage.images-bn.com/pimages/9780393328240_p0_v2_s1200x630.jpg"
+      "cover": {
+        "src": "assets/images/E0795ECC0344A84BCD46987DEF164131.jpg"
       },
       "extra_covers": [
         {
@@ -7184,8 +7184,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41+Y0US3YVL.jpg"
+      "cover": {
+        "src": "assets/images/1D7891084F30F94322A9B564DBAD914D.jpg"
       },
       "extra_covers": [
         {
@@ -7564,8 +7564,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/511r8hNuB+L._SX321_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/168D78B5AA56EB4A744A3AB8763BA4AD.jpg"
       },
       "extra_covers": [
         {
@@ -9189,8 +9189,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-05-23 17:39:55 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51Bl3AQEYhL._SX341_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/86BF3BC256D0536C40C6737DFAB6A075.jpg"
       },
       "extra_covers": [
         {
@@ -9344,8 +9344,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81Yza7XmfjL.jpg"
+      "cover": {
+        "src": "assets/images/7B33C51710C13E5677CC788A0887E7ED.jpg"
       },
       "extra_covers": [
         {
@@ -9439,8 +9439,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41OEThX7jML.jpg"
+      "cover": {
+        "src": "assets/images/4F66DD1611316DF57FE924D204BB3930.jpg"
       },
       "extra_covers": [
         {
@@ -10479,8 +10479,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/71SiLQ4Dg2L.jpg"
+      "cover": {
+        "src": "assets/images/49D9842694B017D819DC8568CBC029AF.jpg"
       },
       "extra_covers": [
         {
@@ -10560,8 +10560,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://img1.od-cdn.com/ImageType-100/1980-1/%7B234D94DC-74FD-49E6-968D-9B6081F93ABE%7DImg100.jpg"
+      "cover": {
+        "src": "assets/images/AAEBCBDED4FF66F02127D4A35DCCF394.jpg"
       },
       "extra_covers": [
         {
@@ -10641,8 +10641,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51WOjmKolCL.jpg"
+      "cover": {
+        "src": "assets/images/D315FF312A5B10B24E1A8252EC434ABF.jpg"
       },
       "notes": [
 
@@ -10663,8 +10663,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41HkM-k1bsL._SX297_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/36CD562C27690661456FC2DF60C8294F.jpg"
       },
       "extra_covers": [
         {
@@ -10878,8 +10878,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/A1p-4TcVjLL.jpg"
+      "cover": {
+        "src": "assets/images/C0A101CBE52473AC6271C1B86B1565FE.jpg"
       },
       "extra_covers": [
         {
@@ -11484,7 +11484,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398550042i/22015327._UY200_.jpg"
+        "src": "assets/images/0281F08ED95771CEE3C1180C77A51348.jpg"
       },
       "notes": [
         {
@@ -11549,8 +11549,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/31QTwczGfXS.jpg"
+      "cover": {
+        "src": "assets/images/75F13362DEB6E45542AC4CB94F6FB08A.jpg"
       },
       "extra_covers": [
         {
@@ -11630,8 +11630,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:08 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41lPiYRXCbL.jpg"
+      "cover": {
+        "src": "assets/images/BB191A430F0F48A12A0E10F7D5C833C3.jpg"
       },
       "extra_covers": [
         {
@@ -11711,8 +11711,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41sRXFAu2uL.jpg"
+      "cover": {
+        "src": "assets/images/C56DAF2850BE8B17D2BD93E9E4B1D605.jpg"
       },
       "extra_covers": [
         {
@@ -11792,8 +11792,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351625575l/14281.jpg"
+      "cover": {
+        "src": "assets/images/333A363A1F298E52FA862DEA02736F58.jpg"
       },
       "extra_covers": [
         {
@@ -11873,8 +11873,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41lPiYRXCbL.jpg"
+      "cover": {
+        "src": "assets/images/247C5473CDA5E1F4705F787ED3407AC7.jpg"
       },
       "extra_covers": [
         {
@@ -11983,8 +11983,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91oxkpxV0vL.jpg"
+      "cover": {
+        "src": "assets/images/24F7E42592DE798CC7F32B67060D20C3.jpg"
       },
       "extra_covers": [
         {
@@ -12067,7 +12067,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51uKSv4pSOL.jpg"
+        "src": "assets/images/449DA0D6FB692D029D52C6412375D656.jpg"
       },
       "notes": [
         {
@@ -12552,8 +12552,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-05-23 17:40:19 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81tjn5cj5-L.jpg"
+      "cover": {
+        "src": "assets/images/E9B9B9C22A5F4F93614A9C2528D6DD94.jpg"
       },
       "extra_covers": [
         {
@@ -12692,8 +12692,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/31uV3yGRc8L._SX248_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/7A83495560A5C8BAD4448BF89BB772ED.jpg"
       },
       "extra_covers": [
         {
@@ -13057,8 +13057,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51y7tGk66VL.jpg"
+      "cover": {
+        "src": "assets/images/0B471B873D662EA52CEB58BCA7F794C6.jpg"
       },
       "extra_covers": [
         {
@@ -13139,8 +13139,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-05-10 15:32:17 -0700",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51iXMYTZdsL.jpg"
+      "cover": {
+        "src": "assets/images/D9C4125358DEEAF98D982277537D6251.jpg"
       },
       "extra_covers": [
         {
@@ -13220,8 +13220,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover":  {
-        "src": "https://lojasaraiva.vteximg.com.br/arquivos/ids/1180946-287-426/1000375387.jpg?v=637002236319470000"
+      "cover": {
+        "src": "assets/images/57C8368BDC812DF3D62121AF6F9E3C6D.jpg"
       },
       "extra_covers": [
         {
@@ -13301,8 +13301,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-05-03 17:37:07 -0700",
-      "cover":  {
-        "src": "http://prodimage.images-bn.com/pimages/9781593082185_p0_v2_s1200x630.jpg"
+      "cover": {
+        "src": "assets/images/D17A674AD527A0B76C081CBE7999A378.jpg"
       },
       "extra_covers": [
         {
@@ -13382,8 +13382,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-05-03 18:16:26 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41FTpUXEjtL.jpg"
+      "cover": {
+        "src": "assets/images/65F69ECD8B77E6AF9D63053FD0DA7E23.jpg"
       },
       "extra_covers": [
         {
@@ -13477,8 +13477,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-04-10 23:04:28 -0700",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41lx-3AiGdL._SX313_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/EADEAF75B72E58EAE2244C5AAD775D4A.jpg"
       },
       "extra_covers": [
         {
@@ -13558,8 +13558,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41Rd4M8o89L._SX331_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/9BBB14A11172504CCB5A87601D0816B7.jpg"
       },
       "extra_covers": [
         {
@@ -14103,8 +14103,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91kO1ItfHhL.jpg"
+      "cover": {
+        "src": "assets/images/F92A84389D840B24F639B41175AE7D17.jpg"
       },
       "extra_covers": [
         {
@@ -14184,8 +14184,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41qvtBgO2VL._AC_SY1000_.jpg"
+      "cover": {
+        "src": "assets/images/C2A8D49F42F2652F20CC19BA6594E066.jpg"
       },
       "extra_covers": [
         {
@@ -14489,8 +14489,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51kTmwv2WCL._SX298_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/645A409CF346962815F11798424A930A.jpg"
       },
       "extra_covers": [
         {
@@ -14570,8 +14570,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51C1fJZyYVL._SX344_BO1,204,203,200_.jpg"
+      "cover": {
+        "src": "assets/images/7B7725E896ADCB5980DC62B5AF494E9C.jpg"
       },
       "extra_covers": [
         {
@@ -14651,8 +14651,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91qTmD1m02L.jpg"
+      "cover": {
+        "src": "assets/images/314C546B81A8C2CB1118BFB571650893.jpg"
       },
       "extra_covers": [
         {
@@ -14732,8 +14732,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381797791l/7288627.jpg"
+      "cover": {
+        "src": "assets/images/C5F330781A0703B61355618656A88192.jpg"
       },
       "extra_covers": [
         {
@@ -14827,8 +14827,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81hq46cnm7L.jpg"
+      "cover": {
+        "src": "assets/images/6B76088EA7110BDD33A35553ABB34C7D.jpg"
       },
       "extra_covers": [
         {
@@ -15057,8 +15057,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41-WP-KcLvL.jpg"
+      "cover": {
+        "src": "assets/images/CB27E5D74379F0C4AB49C6509C4EA2A4.jpg"
       },
       "extra_covers": [
         {
@@ -15138,8 +15138,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81zE42gT3xL.jpg"
+      "cover": {
+        "src": "assets/images/0FA5BBF3BFB363228927DA5510652EFF.jpg"
       },
       "extra_covers": [
         {
@@ -15219,8 +15219,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391713502l/20743602.jpg"
+      "cover": {
+        "src": "assets/images/5DF4293CDB6E794A0AC78B52CAA9C6F3.jpg"
       },
       "extra_covers": [
         {
@@ -15569,8 +15569,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/615CCexmj4L.jpg"
+      "cover": {
+        "src": "assets/images/BD0178E15707353DD73331996D5406FD.jpg"
       },
       "extra_covers": [
         {
@@ -15650,8 +15650,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/41grNw31UzL.jpg"
+      "cover": {
+        "src": "assets/images/B1A87284729CC03CDCE31FBB93C0EF12.jpg"
       },
       "extra_covers": [
         {
@@ -15731,8 +15731,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/611fbnfOL9L.jpg"
+      "cover": {
+        "src": "assets/images/7F15366B14819214FCB33999A60E2063.jpg"
       },
       "extra_covers": [
         {
@@ -15946,8 +15946,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://m.media-amazon.com/images/I/51QKlHa0zBL.jpg"
+      "cover": {
+        "src": "assets/images/EFF08806461D6A8210FD31D46E945894.jpg"
       },
       "extra_covers": [
         {
@@ -16356,8 +16356,8 @@ var ibook_history = {
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover":  {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558879951i/46018351._UY500_SS500_.jpg"
+      "cover": {
+        "src": "assets/images/AA8ACFB2FB08894F72783728401CA71F.jpg"
       },
       "extra_covers": [
         {
