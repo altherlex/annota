@@ -4019,7 +4019,8 @@ var ibook_history = {
     },
     {
       "book_id": "50B18E0C882AA563EEA3B6F01D326A86",
-      "author": "Unknown",
+      "author": "Stuart Hall",
+      "zauthor": "Stuart Hall",
       "title": "The Fateful Triangle: Race, Ethnicity, Nation",
       "last_engaged_date": null,
       "reading_progress": 0.0,
