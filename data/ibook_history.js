@@ -1046,7 +1046,7 @@ var ibook_history = {
       "updated_at": "2022-05-17 18:23:52 -0700",
       "asset_details_modification_date": "2022-05-17 18:23:52 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/71kb+edzN5L.jpg",
+        "src": "https://images-na.ssl-images-amazon.com/images/I/71kb+edzN5L.jpg"
       },
       "notes": [
 

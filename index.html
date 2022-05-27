@@ -8,7 +8,6 @@
     <title>Annota</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css">
   </head>
 
@@ -28,7 +27,7 @@
     </header>
 
     <main class="container mt-5">
-      <div id="library" class="row" data-masonry='{"percentPosition": true }'>
+      <div id="library" class="row">
       </div>
     </main>
 
@@ -39,22 +38,32 @@
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
     <script type="text/javascript" src="data/ibook_history.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
     <script>
+      $(function() {
+        books = ibook_history.data
+        for (var index=0; index < books.length; index++) {
+          $("#library").append(mountCard(books[index]));
+        }
+      });
+
       function notesCountTag(notesCounter) {
         if (!notesCounter) return ''
-        return `<span class="badge text-wrap text-bg-secondary">${notesCounter} notes</span>`
+        return `<span class="badge text-wrap text-bg-secondary">${notesCounter} highlights</span>`
       }
       function langTag(lang) {
         if (!lang) return ''
-        return `<span class="text-bg-light badge text-wrap text-secondary">${lang}</span>`
+        return `<span class="badge text-wrap text-secondary bg-white border-secondary">${lang}</span>`
       }
       function pageCountTag(pageCount) {
         if (!pageCount) return ''
-        return `<span class="text-bg-light badge text-wrap text-secondary">${pageCount} pages</span>`
+        return `<span class="badge text-wrap text-secondary bg-white border-secondary">${pageCount} pages</span>`
       }
       function genreTag(genre) {
         if (!genre) return ''
-        return `<span class="text-bg-light badge text-wrap text-secondary">${genre}</span>`
+        return `<span class="badge text-wrap text-secondary bg-white border-secondary">${genre}</span>`
       }
 
       function progressBar(percent, finished, hasNotes) {
@@ -75,31 +84,34 @@
         }
       }
 
-      function display_cover(src){
-        if (!src) return ''
-        return `<img src="${src}" class="img-thumbnail">`
+      function display_cover_and_title(book){
+        var src = book?.cover?.src
+        if (!src) {
+          return `
+            <h5 class="card-title">${book.ztitle || book.title}</h5>
+            <p class="card-text">${book.zauthor || book.author}</p>
+          `
+        } else {
+          return `<img src="${src}" class="card-img-top shadow">`
+        }
       }
 
       function mountCard(book) {
         return `
-          <div class="card mb-3 p-3 mx-2" style="max-width: 18rem;">
-            <div class="card-body">
-              ${display_cover(book.cover?.src)}
-              <h5 class="card-title">${book.ztitle || book.title}</h5>
-              <p class="card-text">${book.zauthor || book.author}</p>
-              ${progressBar(book.reading_progress*100, book.marked_as_finished, !!book.notes.length)}
-              ${genreTag(book.hasOwnProperty('zgenre') ? book.zgenre : book.genre)}
-              ${pageCountTag(book.page_count)}
-              ${langTag(book.lang)}
-              ${notesCountTag(book.notes.length)}
+          <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+            <div class="card mb-3 mx-2 bg-light border-light">
+              <div class="card-body">
+                ${display_cover_and_title(book)}
+              </div>
+              <div class="mb-3">
+                ${progressBar(book.reading_progress*100, book.marked_as_finished, !!book.notes.length)}
+                ${pageCountTag(book.page_count)}
+                ${langTag(book.lang)}
+                ${notesCountTag(book.notes.length)}
+              </div>
             </div>
           </div>        
         `
-      }
-
-      books = ibook_history.data
-      for (var index=0; index < books.length; index++) {
-        $("#library").append(mountCard(books[index]));
       }
     </script>
   </body>
