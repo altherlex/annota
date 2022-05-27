@@ -112,27 +112,34 @@ end
 annota_grouped = annotations.group_by{|i| i[:book_id]}
 
 
-cache = File.read(DATA_FILENAME)
-cache.slice!(JS_CODE)
-cache = JSON.parse(cache.empty? ? '{"data":[]}' : cache)
+content = File.read(DATA_FILENAME)
+content.slice!(JS_CODE)
+cache = JSON.parse(content.empty? ? '{"data":[]}' : content)
 
+# DOC: Mount books from current data
 books.map! do |book|
   book[:last_engaged_date] = convert_date(book[:last_engaged_date])
   book[:purchase_date] = convert_date(book[:purchase_date])
   book[:created_at] = convert_date(book[:created_at])
   book[:updated_at] = convert_date(book[:updated_at])
   book[:asset_details_modification_date] = convert_date(book[:asset_details_modification_date])
-
-  book_cached = cache['data'].find{|b| b['book_id'] == book[:book_id]} || {}
-  book = book_cached.transform_keys(&:to_sym).merge(book)
-  book[:cover] ||=  { src: nil }
-
   # DOC: Join Annotations
   book[:notes] = annota_grouped[book[:book_id]] || []
-
   book
 end
 
+# DOC: update
+books = cache["data"].map do |cbook|
+  cbook = cbook.deep_transform_keys(&:to_sym)
+  book = books.find{|b| b[:book_id]==cbook[:book_id]}
+  book = cbook.merge(book)
+  book[:cover] ||=  { src: nil }
+  book
+end
+
+# TODO: ...
+# DOC: insert
+# books = [*books, *cache["data"]].uniq
 
 result_set = {
   updated_at: Time.now,
