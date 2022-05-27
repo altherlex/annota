@@ -1031,7 +1031,9 @@ var ibook_history = {
     {
       "book_id": "DA2121424F75E0219EB1DCB46CAAA3D2",
       "author": "Unknown",
-      "title": "How to be a friend : an ancient guide to true friendship",
+      "zauthor": "Cicero",
+      "title": "How to be a friend: an ancient guide to true friendship",
+      "ztitle": "How to be a friend: an ancient guide to true friendship",
       "last_engaged_date": null,
       "reading_progress": 0.05284553021192551,
       "marked_as_finished": null,
@@ -1044,7 +1046,7 @@ var ibook_history = {
       "updated_at": "2022-05-17 18:23:52 -0700",
       "asset_details_modification_date": "2022-05-17 18:23:52 -0700",
       "cover": {
-        "src": "assets/images/DA2121424F75E0219EB1DCB46CAAA3D2.jpg"
+        "src": "https://images-na.ssl-images-amazon.com/images/I/71kb+edzN5L.jpg",
       },
       "notes": [
 
@@ -3274,7 +3276,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": "assets/images/76287EAF4902986C599FD98FBC5BC160.jpg"
+        "src": "https://livrandante.com.br/wp-content/uploads/2018/05/gandhi-a-magia-dos-gestos-po%C3%A9ticos.jpg"
       },
       "notes": [
         {
@@ -6009,7 +6011,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": "assets/images/21B4AD37EA0B4BD8B57AC11728AEC438.jpg"
+        "src": "https://images-na.ssl-images-amazon.com/images/I/81eNXSgtJ8L.jpg"
       },
       "extra_covers": [
         {

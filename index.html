@@ -57,15 +57,17 @@
         return `<span class="text-bg-light badge text-wrap text-secondary">${genre}</span>`
       }
 
-      function createProgressbar(percent, finished) {
-        if (!percent && !finished) return ''
+      function progressBar(percent, finished, hasNotes) {
+        if (!percent && !finished && !hasNotes) return ''
 
         if (percent === 100 || finished === 1) {
           return `<span class="badge text-bg-success">Finished</span>`
+        } else if (hasNotes && !percent) {
+          return `<span class="badge text-bg-primary">In Progress</span>`
         } else {
           return `
             <p>
-              <div class="progress" style="height: 1px;">
+              <div class="progress" style="height: 3px;">
                 <div class="progress-bar" role="progressbar" style="width: ${percent}%;" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </p>
@@ -85,7 +87,7 @@
               ${display_cover(book.cover?.src)}
               <h5 class="card-title">${book.ztitle || book.title}</h5>
               <p class="card-text">${book.zauthor || book.author}</p>
-              ${createProgressbar(book.reading_progress*100, book.marked_as_finished)}
+              ${progressBar(book.reading_progress*100, book.marked_as_finished, !!book.notes.length)}
               ${genreTag(book.hasOwnProperty('zgenre') ? book.zgenre : book.genre)}
               ${pageCountTag(book.page_count)}
               ${langTag(book.lang)}
