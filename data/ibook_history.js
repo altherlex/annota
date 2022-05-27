@@ -1,4 +1,5 @@
 var ibook_history = {
+  "updated_at": "2022-05-26 17:32:03 -0700",
   "book_count": 143,
   "author_count": 109,
   "notes_count": 1103,
@@ -7,7 +8,7 @@ var ibook_history = {
       "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
       "author": "Joaquim Nabuco",
       "title": "Minha Formação",
-      "last_engaged_date": "2022-05-24 23:26:38 -0700",
+      "last_engaged_date": "2022-05-26 00:07:14 -0700",
       "reading_progress": 0.5603448152542114,
       "marked_as_finished": null,
       "purchase_date": "2022-05-15 08:26:20 -0700",
@@ -16,8 +17,8 @@ var ibook_history = {
       "file_size": 562981,
       "page_count": 0,
       "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-24 23:25:58 -0700",
-      "asset_details_modification_date": "2022-05-24 23:25:58 -0700",
+      "updated_at": "2022-05-25 23:59:11 -0700",
+      "asset_details_modification_date": "2022-05-25 23:59:11 -0700",
       "cover": {
         "src": "assets/images/BDBCE4ADE1BC20C9692195517AF48370.jpeg"
       },
@@ -885,7 +886,7 @@ var ibook_history = {
     },
     {
       "book_id": "60A41E8053C055B5162A89B03C4C36A1",
-      "author": "Mark Twain",
+      "author": "Twain, Mark, 1835-1910",
       "zauthor": "Mark Twain",
       "title": "The Comic Mark Twain Reader  The most humorous selections from his Stories, Sketches, Novels, Travel Books, and Speeches (Mark Twain Charles Neider) (z-lib.org)",
       "ztitle": "The Comic Mark Twain Reader",
@@ -982,9 +983,9 @@ var ibook_history = {
     },
     {
       "book_id": "686FBAF8F332A7C1DF9E85540721F2A5",
-      "author": "John Milton",
+      "author": "XXXXXXXXXXXXXx",
       "zauthor": "John Milton",
-      "title": "O Paraíso Reconquistado",
+      "title": "O Paraíso Reconquistado by John Milton (z-lib.org)",
       "ztitle": "O Paraíso Reconquistado",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -1029,7 +1030,7 @@ var ibook_history = {
     },
     {
       "book_id": "DA2121424F75E0219EB1DCB46CAAA3D2",
-      "author": "Cicero",
+      "author": "Unknown",
       "title": "How to be a friend : an ancient guide to true friendship",
       "last_engaged_date": null,
       "reading_progress": 0.05284553021192551,
@@ -1051,7 +1052,7 @@ var ibook_history = {
     },
     {
       "book_id": "6A32D00EEB8353D7CF3C475C02C415EA",
-      "author": "Cicero",
+      "author": "Cícero",
       "title": "Saber Envelhecer - seguido de A Amizade",
       "last_engaged_date": "2022-05-17 18:19:41 -0700",
       "reading_progress": 0.4144737124443054,
@@ -2874,7 +2875,7 @@ var ibook_history = {
     },
     {
       "book_id": "7517406CDE0AE2DD90CF24D2F84DBE6E",
-      "author": "Carlos Castaneda",
+      "author": "CARLOS CASTANEDA",
       "zauthor": "Carlos Castaneda",
       "title": "A ERVA DO DIABO",
       "ztitle": "A Erva do Diabo",
@@ -3259,7 +3260,7 @@ var ibook_history = {
     {
       "book_id": "76287EAF4902986C599FD98FBC5BC160",
       "author": "Rubem Alves",
-      "title": "Gandhi – A magia dos gestos poéticos",
+      "title": "Gandhi – A magia dos gestos poéticos - Rubem Alves",
       "ztitle": "Gandhi – A magia dos gestos poéticos",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -4019,7 +4020,7 @@ var ibook_history = {
     },
     {
       "book_id": "50B18E0C882AA563EEA3B6F01D326A86",
-      "author": "Stuart Hall",
+      "author": "Unknown",
       "zauthor": "Stuart Hall",
       "title": "The Fateful Triangle: Race, Ethnicity, Nation",
       "last_engaged_date": null,
@@ -7555,7 +7556,7 @@ var ibook_history = {
       "title": "Cem anos de solidão",
       "last_engaged_date": null,
       "reading_progress": 0.0,
-      "marked_as_finished": null,
+      "marked_as_finished": 1,
       "purchase_date": "2022-05-15 08:26:20 -0700",
       "genre": "Ficção colombiana - Romance",
       "lang": null,
@@ -7563,7 +7564,7 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "asset_details_modification_date": "2022-05-25 12:41:50 -0700",
       "cover": {
         "src": "assets/images/168D78B5AA56EB4A744A3AB8763BA4AD.jpg"
       },
@@ -11470,7 +11471,7 @@ var ibook_history = {
     },
     {
       "book_id": "0281F08ED95771CEE3C1180C77A51348",
-      "author": "Antonio Callado",
+      "author": "Antonio  Callado",
       "title": "Quarup",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -12051,9 +12052,9 @@ var ibook_history = {
     },
     {
       "book_id": "449DA0D6FB692D029D52C6412375D656",
-      "author": "Paulo Freire",
+      "author": "Paulo  Freire",
       "zauthor": "Paulo Freire",
-      "title": "Pedagogia da autonomia | Saberes necessários à prática educativa",
+      "title": "Pedagogia  da  autonomia   |   Saberes  necessários  à  prática  educativa",
       "ztitle": "Pedagogia da autonomia | Saberes necessários à prática educativa",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -13125,7 +13126,7 @@ var ibook_history = {
     },
     {
       "book_id": "D9C4125358DEEAF98D982277537D6251",
-      "author": "Hermann Hesse",
+      "author": "Unknown",
       "zauthor": "Hermann Hesse",
       "title": "Peter camenzind",
       "last_engaged_date": null,
@@ -16999,7 +17000,7 @@ var ibook_history = {
       "title": "Não Verás País Nenhum",
       "last_engaged_date": null,
       "reading_progress": 0.0,
-      "marked_as_finished": null,
+      "marked_as_finished": 1,
       "purchase_date": "2022-05-15 08:26:19 -0700",
       "genre": "Contos",
       "lang": null,
@@ -17007,7 +17008,7 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "asset_details_modification_date": "2022-05-25 09:32:06 -0700",
       "cover": {
         "src": null
       },
@@ -18398,7 +18399,7 @@ var ibook_history = {
       "title": "A Hora e Vez de Augusto Matraga",
       "last_engaged_date": null,
       "reading_progress": 0.0,
-      "marked_as_finished": null,
+      "marked_as_finished": 1,
       "purchase_date": "2022-05-15 08:26:19 -0700",
       "genre": null,
       "lang": null,
@@ -18406,7 +18407,7 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2022-05-15 08:26:21 -0700",
       "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "asset_details_modification_date": "2022-05-25 15:19:51 -0700",
       "cover": {
         "src": null
       },
