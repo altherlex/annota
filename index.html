@@ -76,13 +76,14 @@
       <p class="text-muted"><a href="#">Back to top</a></p>
     </footer>    
 
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
     <script type="text/javascript" src="data/ibook_history.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 
+    <script src="https://linzap.github.io/waterfall/waterfall-light.js"></script>
     <script>      
       $(function() {
+        $('#library').waterfall({refresh: 1000});
         mountAll();
       });
 
@@ -109,10 +110,12 @@
       }
 
       function mountLib(books) {
+        $('#library').waterfall('stop');
         $('#library').empty();
         for (var index=0; index < books.length; index++) {
           $("#library").append(mountCard(books[index]));
         }
+        $('#library').waterfall({refresh: 1000});
       }
 
       function notesCountTag(notesCounter) {
