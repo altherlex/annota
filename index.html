@@ -9,36 +9,64 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css">
+    <style>
+      #buttonTop {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: red;
+        color: white;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 10px;
+        font-size: 18px;
+      }
+
+      #buttonTop:hover {
+        background-color: #555;
+      }      
+    </style>
   </head>
 
   <body class="bg-light">
-    <header class="bd-header bg-warning bg-gradient py-4 d-flex align-items-stretch border-bottom border-yellow sticky-top">
-      <div class="container-fluid d-flex align-items-center">
-        <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap" aria-label="Main navigation">
-          <h1 class="d-flex align-items-center fs-4 text-white mb-0">
-            <i class="bi bi-book" style="padding-right: 5px;"></i>
-            Annota
-          </h1>
-          <p class="text-white">
-            What I am reading lately
-          </p>
-        </nav>
-      </div>
-    </header>
 
-    <main class="container mt-3">
-      <ul class="nav justify-content-center nav-pills">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="true" onclick="mountAll(this)" href="#">All</a>
+    <button onclick="topFunction()" id="buttonTop" title="Go to top">
+      <i class="bi bi-arrow-up-circle-fill"></i>
+      Top
+    </button>
+
+    <div class="sticky-top vstack">
+      <header class="bd-header bg-warning bg-gradient py-4 d-flex align-items-stretch border-bottom border-yellow">
+        <div class="container-fluid d-flex align-items-center">
+          <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap" aria-label="Main navigation">
+            <h1 class="d-flex align-items-center fs-4 text-white mb-0">
+              <i class="bi bi-book" style="padding-right: 5px;"></i>
+              Annota
+            </h1>
+            <p class="text-white">
+              What I am reading lately
+            </p>
+          </nav>
+        </div>
+      </header>
+      <ul class="nav justify-content-center nav-pills bg-light p-2">
+        <li class="nav-item p-2" role="button">
+          <a class="nav-link active" aria-current="true" onclick="mountAll(this)">All</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" aria-current="true" onclick="mountInProgress(this)" href="#">In Progress</a>
+        <li class="nav-item p-2" role="button">
+          <a class="nav-link" aria-current="true" onclick="mountInProgress(this)">In Progress</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" aria-current="true" onclick="mountFinished(this)" href="#">Finished</a>
+        <li class="nav-item p-2" role="button">
+          <a class="nav-link" aria-current="true" onclick="mountFinished(this)">Finished</a>
         </li>
       </ul>
+    </div>
 
+    <main class="container mt-3">
       <div id="library" class="row">
       </div>
     </main>
@@ -53,7 +81,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 
-    <script>
+    <script>      
       $(function() {
         mountAll();
       });
@@ -151,6 +179,26 @@
           </div>        
         `
       }
+
+      //Get the button:
+      buttonTop = document.getElementById("buttonTop");
+
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          buttonTop.style.display = "block";
+        } else {
+          buttonTop.style.display = "none";
+        }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      }      
     </script>
   </body>
 </html>
