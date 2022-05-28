@@ -9,52 +9,68 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css">
-    <style>
-      #buttonTop {
-        display: none;
-        position: fixed;
-        bottom: 20px;
-        right: 30px;
-        z-index: 99;
-        border: none;
-        outline: none;
-        background-color: red;
-        color: white;
-        cursor: pointer;
-        padding: 15px;
-        border-radius: 10px;
-        font-size: 18px;
-      }
-
-      #buttonTop:hover {
-        background-color: #555;
-      }      
-    </style>
+    <link href="assets/css/annota.css" rel="stylesheet">
   </head>
 
   <body class="bg-light">
-
+    <!-- Back to top button -->
     <button onclick="topFunction()" id="buttonTop" title="Go to top">
       <i class="bi bi-arrow-up-circle-fill"></i>
       Top
     </button>
 
-    <div class="sticky-top vstack">
-      <header class="bd-header text-bg-warning py-3 d-flex align-items-stretch">
+    <!-- Header -->
+    <div>
+      <header class="bd-header bg-gradient py-3 d-flex align-items-stretch" style='background-color: #FFAD06;'>
         <div class="container-fluid d-flex align-items-center">
           <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap" aria-label="Main navigation">
 
-            <h1 class="d-flex align-items-center fs-4 mt-2 text-white mb-0">
-              <i class="bi bi-book pe-2"></i>
+            <h1 class="d-flex align-items-center text-dark fs-2 mt-2 mb-0 fw-bolder">
+              <i class="bi bi-book pe-3"></i>
               Annota
             </h1>
             <p class="text-white">
-              What I am reading lately
+              What I've been reading
             </p>
           </nav>
         </div>
       </header>
-      <ul class="nav justify-content-center nav-pills bg-light shadow-sm">
+    </div>
+
+    <main class="container mt-3">
+
+      <!-- Quotes -->
+      <div class="row">
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div id="quoteOne"></div>
+            </div>
+            <div class="carousel-item">
+              <div id="quoteTwo"></div>
+            </div>
+            <div class="carousel-item">
+              <div id="quoteThree"></div>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Filters -->
+      <ul class="nav justify-content-center nav-pills bg-light shadow-sm m-2 sticky-top">
         <li class="nav-item p-2" role="button">
           <a class="nav-link active" aria-current="true" onclick="mountAll(this)">All</a>
         </li>
@@ -65,26 +81,29 @@
           <a class="nav-link" aria-current="true" onclick="mountFinished(this)">Finished</a>
         </li>
       </ul>
-    </div>
 
-    <main class="container mt-3">
+      <!-- Library -->
       <div id="library" class="row">
       </div>
     </main>
 
-    <!-- <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top"> -->
     <footer class="py-3 my-4 text-center border-top">
       <p class="text-muted"><a href="#">Back to top</a></p>
     </footer>    
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
-    <script type="text/javascript" src="data/ibook_history.js"></script>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
-
+    <script type="text/javascript" src="data/ibook_history.js"></script>
+    <script type="text/javascript" src="assets/js/helper.js"></script>
     <script>      
       $(function() {
         mountAll();
+
+        var book = ibook_history.data[0]
+        var notes = ibook_history.data[0].notes
+        $("#quoteOne").append(mountBigQuote(notes[0], book));
+        $("#quoteTwo").append(mountBigQuote(notes[1], book));
+        $("#quoteThree").append(mountBigQuote(notes[2], book));
       });
 
       function mountAll(element=null) {
@@ -122,17 +141,15 @@
         if (!notesCounter) return ''
         return `<span class="badge text-wrap text-bg-secondary">${notesCounter} highlights</span>`
       }
+
       function langTag(lang) {
         if (!lang) return ''
-        return `<span class="badge text-wrap text-secondary bg-white border-secondary">${lang}</span>`
+        return `<span class="badge text-wrap text-secondary bg-white border-secondary">${lang.toUpperCase()}</span>`
       }
+
       function pageCountTag(pageCount) {
         if (!pageCount) return ''
         return `<span class="badge text-wrap text-secondary bg-white border-secondary">${pageCount} pages</span>`
-      }
-      function genreTag(genre) {
-        if (!genre) return ''
-        return `<span class="badge text-wrap text-secondary bg-white border-secondary">${genre}</span>`
       }
 
       function progressBar(percent, finished, hasNotes) {
@@ -158,10 +175,10 @@
           <div class="card shadow-sm text-white bg-gradient" style="height: 380px; width: 250px;background-color:var(--bs-indigo);">
             <div class="card-body">
               <div class="card-body h-75">
-                <h5 class="card-title">${book.ztitle || book.title}</h5>
+                <h5 class="card-title text-capitalize">${title(book)}</h5>
               </div>
               <div class="card-footer bg-transparent">
-                <p class="card-text">${book.zauthor || book.author}</p>
+                <p class="card-text text-capitalize">${book.zauthor || book.author}</p>
               </div>
             </div>
           </div>
@@ -173,7 +190,10 @@
         if (!src) {
           return mountFakeCover(book);
         } else {
-          return `<img src="${src}" class="card-img-top shadow">`
+          return `
+          <img src="${src}" class="card-img-top shadow border">
+          <p class="fw-semibold text-capitalize">${shortTitle(book)}</p>
+          `
         }
       }
 
@@ -181,26 +201,38 @@
         return `
           <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
             <div class="card mb-3 mx-2 bg-light border-light">
-              <div class="card-body">
+              <div class="card-body" onclick="setFocus(this)">
                 ${display_cover_and_title(book)}
-              </div>
-              <div class="mb-3">
                 ${progressBar(book.reading_progress, book.marked_as_finished, !!book.notes.length)}
                 ${pageCountTag(book.page_count)}
-                ${langTag(book.lang)}
                 ${notesCountTag(book.notes.length)}
+                ${langTag(book.lang)}
               </div>
             </div>
           </div>        
         `
       }
 
-      //Get the button:
+      function setFocus(element){
+        console.log(element);
+      }
+
+      function mountBigQuote(note, book){
+        return `
+          <div class="w-100 bg-success text-light text-wrap" alt="test" style="height: 300px;">
+            <figure class="position-absolute top-50 start-50 translate-middle">
+              <blockquote class='lead'>${note.text || note.sentence}</blockquote>
+              <figcaption class='fs-6'>
+                ${book.author} <cite title="Source Title" class="text-capitalize">(${title(book)})</cite>
+              </figcaption>
+            </figure>
+          </div>        
+        `
+      }      
+
+      //Back to top button
       buttonTop = document.getElementById("buttonTop");
-
-      // When the user scrolls down 20px from the top of the document, show the button
       window.onscroll = function() {scrollFunction()};
-
       function scrollFunction() {
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
           buttonTop.style.display = "block";
@@ -208,11 +240,9 @@
           buttonTop.style.display = "none";
         }
       }
-
-      // When the user clicks on the button, scroll to the top of the document
       function topFunction() {
-        document.body.scrollTop = 0; // For Safari
-        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
       }      
     </script>
   </body>
