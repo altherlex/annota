@@ -40,11 +40,12 @@
     </button>
 
     <div class="sticky-top vstack">
-      <header class="bd-header bg-warning bg-gradient py-4 d-flex align-items-stretch border-bottom border-yellow">
+      <header class="bd-header text-bg-warning py-3 d-flex align-items-stretch">
         <div class="container-fluid d-flex align-items-center">
           <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap" aria-label="Main navigation">
-            <h1 class="d-flex align-items-center fs-4 text-white mb-0">
-              <i class="bi bi-book" style="padding-right: 5px;"></i>
+
+            <h1 class="d-flex align-items-center fs-4 mt-2 text-white mb-0">
+              <i class="bi bi-book pe-2"></i>
               Annota
             </h1>
             <p class="text-white">
@@ -53,7 +54,7 @@
           </nav>
         </div>
       </header>
-      <ul class="nav justify-content-center nav-pills bg-light p-2">
+      <ul class="nav justify-content-center nav-pills bg-light shadow-sm">
         <li class="nav-item p-2" role="button">
           <a class="nav-link active" aria-current="true" onclick="mountAll(this)">All</a>
         </li>
@@ -109,10 +110,12 @@
       }
 
       function mountLib(books) {
+        $('#library').hide();
         $('#library').empty();
         for (var index=0; index < books.length; index++) {
           $("#library").append(mountCard(books[index]));
         }
+        $('#library').slideDown('slow');
       }
 
       function notesCountTag(notesCounter) {
@@ -150,13 +153,25 @@
         }
       }
 
+      function mountFakeCover(book) {
+        return `
+          <div class="card shadow-sm text-white bg-gradient" style="height: 380px; width: 250px;background-color:var(--bs-indigo);">
+            <div class="card-body">
+              <div class="card-body h-75">
+                <h5 class="card-title">${book.ztitle || book.title}</h5>
+              </div>
+              <div class="card-footer bg-transparent">
+                <p class="card-text">${book.zauthor || book.author}</p>
+              </div>
+            </div>
+          </div>
+        `
+      }
+
       function display_cover_and_title(book){
         var src = book?.cover?.src
         if (!src) {
-          return `
-            <h5 class="card-title">${book.ztitle || book.title}</h5>
-            <p class="card-text">${book.zauthor || book.author}</p>
-          `
+          return mountFakeCover(book);
         } else {
           return `<img src="${src}" class="card-img-top shadow">`
         }
