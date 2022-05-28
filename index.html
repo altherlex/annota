@@ -26,7 +26,19 @@
       </div>
     </header>
 
-    <main class="container mt-5">
+    <main class="container mt-3">
+      <ul class="nav justify-content-center nav-pills">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="true" onclick="mountAll(this)" href="#">All</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="true" onclick="mountInProgress(this)" href="#">In Progress</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="true" onclick="mountFinished(this)" href="#">Finished</a>
+        </li>
+      </ul>
+
       <div id="library" class="row">
       </div>
     </main>
@@ -43,11 +55,37 @@
 
     <script>
       $(function() {
-        books = ibook_history.data
+        mountAll();
+      });
+
+      function mountAll(element=null) {
+        $(element).tab('show');
+        const books = ibook_history.data
+        mountLib(books);
+      }
+
+      function mountInProgress(element) {
+        $(element).tab('show');
+        const books = ibook_history.data.filter(function(book){ 
+          return !!book.notes.length && !(book.reading_progress === 1 || book.marked_as_finished === 1)
+        })
+        mountLib(books);
+      }
+
+      function mountFinished(element) {
+        $(element).tab('show');
+        const books = ibook_history.data.filter(function(book){ 
+          return book.reading_progress === 1 || book.marked_as_finished === 1
+        })
+        mountLib(books);
+      }
+
+      function mountLib(books) {
+        $('#library').empty();
         for (var index=0; index < books.length; index++) {
           $("#library").append(mountCard(books[index]));
         }
-      });
+      }
 
       function notesCountTag(notesCounter) {
         if (!notesCounter) return ''
@@ -69,7 +107,7 @@
       function progressBar(percent, finished, hasNotes) {
         if (!percent && !finished && !hasNotes) return ''
 
-        if (percent === 100 || finished === 1) {
+        if (percent === 1 || finished === 1) {
           return `<span class="badge text-bg-success">Finished</span>`
         } else if (hasNotes && !percent) {
           return `<span class="badge text-bg-primary">In Progress</span>`
@@ -77,7 +115,7 @@
           return `
             <p>
               <div class="progress" style="height: 3px;">
-                <div class="progress-bar" role="progressbar" style="width: ${percent}%;" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" style="width: ${percent*100}%;" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </p>
           `
@@ -104,7 +142,7 @@
                 ${display_cover_and_title(book)}
               </div>
               <div class="mb-3">
-                ${progressBar(book.reading_progress*100, book.marked_as_finished, !!book.notes.length)}
+                ${progressBar(book.reading_progress, book.marked_as_finished, !!book.notes.length)}
                 ${pageCountTag(book.page_count)}
                 ${langTag(book.lang)}
                 ${notesCountTag(book.notes.length)}
