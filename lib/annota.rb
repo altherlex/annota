@@ -128,6 +128,9 @@ books.map! do |book|
   book
 end
 
+new_books_id = books.map{|i| i[:book_id]} - cache["data"].map{|i| i['book_id']}
+new_book = books.select{|i| new_books_id.include?(i[:book_id]) }
+
 # DOC: update
 books = cache["data"].map do |cbook|
   cbook = cbook.deep_transform_keys(&:to_sym)
@@ -137,9 +140,8 @@ books = cache["data"].map do |cbook|
   book
 end
 
-# TODO: ...
 # DOC: insert
-# books = [*books, *cache["data"]].uniq
+books = [*books, *new_book]
 
 result_set = {
   updated_at: Time.now,
