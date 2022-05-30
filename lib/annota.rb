@@ -106,11 +106,17 @@ annotations.map! do |annota|
   annota[:created_at] = convert_date(annota[:created_at])
   annota[:updated_at] = convert_date(annota[:updated_at])
   annota[:asset_details_modification_date] = convert_date(annota[:asset_details_modification_date])
+  annota[:words_count] = (annota[:text] || annota[:sentence]).split.count 
   annota
 end
 
-annota_grouped = annotations.group_by{|i| i[:book_id]}
+vocabularies = []
+annotations.each_with_index do |nota, index| 
+  vocabularies << annotations.delete_at(index) if nota[:text].split.count == 1
+end
 
+new_words_grouped = vocabularies.group_by{|i| i[:book_id]}
+annota_grouped = annotations.group_by{|i| i[:book_id]}
 
 content = File.read(DATA_FILENAME)
 content.slice!(JS_CODE)
@@ -125,6 +131,8 @@ books.map! do |book|
   book[:asset_details_modification_date] = convert_date(book[:asset_details_modification_date])
   # DOC: Join Annotations
   book[:notes] = annota_grouped[book[:book_id]] || []
+  # DOC: Join Vocabulary
+  book[:new_words] = new_words_grouped[book[:book_id]] || []
   book
 end
 
@@ -136,7 +144,6 @@ books = cache["data"].map do |cbook|
   cbook = cbook.deep_transform_keys(&:to_sym)
   book = books.find{|b| b[:book_id]==cbook[:book_id]}
   book = cbook.merge(book)
-  book[:cover] ||=  { src: nil }
   book
 end
 
@@ -148,6 +155,7 @@ result_set = {
   book_count: books.length,
   author_count: books.group_by{|i| i[:author]}.length,
   notes_count: annotations.length,
+  new_words_count: new_words_grouped.length,
   data: books
 }
 

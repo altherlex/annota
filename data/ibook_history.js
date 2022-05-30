@@ -1,8 +1,9 @@
 var ibook_history = {
-  "updated_at": "2022-05-29 20:11:36 -0700",
+  "updated_at": "2022-05-29 20:42:47 -0700",
   "book_count": 149,
   "author_count": 114,
-  "notes_count": 1121,
+  "notes_count": 1048,
+  "new_words_count": 21,
   "data": [
     {
       "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
@@ -23,21 +24,6 @@ var ibook_history = {
         "src": "assets/images/BDBCE4ADE1BC20C9692195517AF48370.jpeg"
       },
       "notes": [
-        {
-          "pk": 1337,
-          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
-          "chapter": "Capítulo XX: Massangana (1)",
-          "text": "frêmito",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/48[body022]!/4/26/1,:841,:848)",
-          "created_at": "2022-05-29 18:25:44 -0700",
-          "updated_at": "2022-05-29 18:25:45 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
         {
           "pk": 1336,
           "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
@@ -363,21 +349,6 @@ var ibook_history = {
           "path": "epubcfi(/6/40[body018]!/4/26/1,:137,:289)",
           "created_at": "2022-05-23 06:58:03 -0700",
           "updated_at": "2022-05-23 06:58:04 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 1310,
-          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
-          "chapter": "Capítulo XVI: Traços americanos",
-          "text": "visceral",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/40[body018]!/4/24/1,:1090,:1098)",
-          "created_at": "2022-05-23 06:56:49 -0700",
-          "updated_at": "2022-05-23 06:56:50 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -774,21 +745,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 1280,
-          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
-          "chapter": "Capítulo IV: Atração do mundo",
-          "text": "squatters",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/16[body006]!/4/26/2/1,:0,:9)",
-          "created_at": "2022-05-16 20:14:09 -0700",
-          "updated_at": "2022-05-16 20:14:09 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 1279,
           "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
           "chapter": "Capítulo IV: Atração do mundo",
@@ -843,21 +799,6 @@ var ibook_history = {
           "path": "epubcfi(/6/16[body006]!/4/18/1,:432,:711)",
           "created_at": "2022-05-16 19:58:55 -0700",
           "updated_at": "2022-05-16 19:58:55 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 1275,
-          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
-          "chapter": "Capítulo IV: Atração do mundo",
-          "text": "atavismo",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/16[body006]!/4/18/1,:106,:114)",
-          "created_at": "2022-05-16 19:57:02 -0700",
-          "updated_at": "2022-05-16 19:57:02 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -1013,6 +954,68 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 1337,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XX: Massangana (1)",
+          "text": "frêmito",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/48[body022]!/4/26/1,:841,:848)",
+          "created_at": "2022-05-29 18:25:44 -0700",
+          "updated_at": "2022-05-29 18:25:45 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 1310,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XVI: Traços americanos",
+          "text": "visceral",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[body018]!/4/24/1,:1090,:1098)",
+          "created_at": "2022-05-23 06:56:49 -0700",
+          "updated_at": "2022-05-23 06:56:50 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 1280,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo IV: Atração do mundo",
+          "text": "squatters",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[body006]!/4/26/2/1,:0,:9)",
+          "created_at": "2022-05-16 20:14:09 -0700",
+          "updated_at": "2022-05-16 20:14:09 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 1275,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo IV: Atração do mundo",
+          "text": "atavismo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[body006]!/4/18/1,:106,:114)",
+          "created_at": "2022-05-16 19:57:02 -0700",
+          "updated_at": "2022-05-16 19:57:02 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -1034,6 +1037,9 @@ var ibook_history = {
         "src": "assets/images/B2CFA9917092F5E955FEAC631712D797.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -1059,6 +1065,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1081,6 +1090,9 @@ var ibook_history = {
         "src": "assets/images/F9503C3C11ED5CF3B3C56E767383C761.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -1106,6 +1118,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1127,6 +1142,9 @@ var ibook_history = {
         "src": "assets/images/85C83216CB060ACE79333C90A8EC2942.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -1152,6 +1170,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1175,6 +1196,9 @@ var ibook_history = {
         "src": "assets/images/60A41E8053C055B5162A89B03C4C36A1.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -1200,6 +1224,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1223,6 +1250,9 @@ var ibook_history = {
         "src": "assets/images/16D42D2A82CEC35BCF31B9073EE25A06.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -1249,6 +1279,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1273,6 +1306,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1295,6 +1331,9 @@ var ibook_history = {
         "src": "assets/images/A283B26E5D293E8843B50F558EDF4870.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -1320,6 +1359,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1341,6 +1383,9 @@ var ibook_history = {
         "src": "assets/images/6A32D00EEB8353D7CF3C475C02C415EA.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -1452,6 +1497,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -1842,21 +1890,6 @@ var ibook_history = {
           "path": "epubcfi(/6/20[id24]!/4[FRANCISCO_DE_ASSIS_Editado-9]/2/16/1,:481,:574)",
           "created_at": "2022-05-02 21:45:14 -0700",
           "updated_at": "2022-05-02 21:45:15 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 1222,
-          "book_id": "B4CEE1EB49219A027623F448D22FB556",
-          "chapter": "Final",
-          "text": "ovente",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/20[id24]!/4[FRANCISCO_DE_ASSIS_Editado-9]/2/14/1,:541,:547)",
-          "created_at": "2022-05-02 21:41:16 -0700",
-          "updated_at": "2022-05-02 21:41:16 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -2357,6 +2390,23 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 1222,
+          "book_id": "B4CEE1EB49219A027623F448D22FB556",
+          "chapter": "Final",
+          "text": "ovente",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/20[id24]!/4[FRANCISCO_DE_ASSIS_Editado-9]/2/14/1,:541,:547)",
+          "created_at": "2022-05-02 21:41:16 -0700",
+          "updated_at": "2022-05-02 21:41:16 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -2437,6 +2487,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -2699,21 +2752,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 1174,
-          "book_id": "5CFA8E27F85F974C3860116C1D446356",
-          "chapter": "1. A Man in a Shell",
-          "text": "tattletales.’",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/18[Chapter001]!/4/136/2/1,:210,:223)",
-          "created_at": "2022-03-31 19:00:04 -0700",
-          "updated_at": "2022-03-31 19:00:05 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 1173,
           "book_id": "5CFA8E27F85F974C3860116C1D446356",
           "chapter": "1. A Man in a Shell",
@@ -2768,6 +2806,23 @@ var ibook_history = {
           "path": "epubcfi(/6/18[Chapter001]!/4/14/2/3,:171,:244)",
           "created_at": "2022-03-28 21:34:45 -0700",
           "updated_at": "2022-03-28 21:34:45 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 1174,
+          "book_id": "5CFA8E27F85F974C3860116C1D446356",
+          "chapter": "1. A Man in a Shell",
+          "text": "tattletales.’",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Chapter001]!/4/136/2/1,:210,:223)",
+          "created_at": "2022-03-31 19:00:04 -0700",
+          "updated_at": "2022-03-31 19:00:05 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -3018,6 +3073,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -3127,7 +3185,9 @@ var ibook_history = {
           "color": 3,
           "type": 2,
           "asset_details_modification_date": null
-        },
+        }
+      ],
+      "new_words": [
         {
           "pk": 1114,
           "book_id": "54B29B1EB1A6E934EFD6C643F190D388",
@@ -3166,6 +3226,9 @@ var ibook_history = {
         "src": "assets/images/7517406CDE0AE2DD90CF24D2F84DBE6E.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -3248,6 +3311,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -3269,6 +3335,9 @@ var ibook_history = {
         "src": "assets/images/2410EC11A439248CB9655977786FA703.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -3351,6 +3420,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -3431,6 +3503,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
         {
           "pk": 1033,
           "book_id": "3D1D0DEE6F2B5132507F90E5DE2CE98C",
@@ -3526,6 +3601,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -3624,6 +3702,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -3704,6 +3785,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -3786,6 +3870,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -3867,6 +3954,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -3947,6 +4037,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -4193,6 +4286,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -4288,6 +4384,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -4370,6 +4469,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -4450,6 +4552,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -4682,21 +4787,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 1026,
-          "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
-          "chapter": null,
-          "text": "outset ",
-          "sentence": "At the outset of the war I recall being told that Hitler was a crazed dictator who wanted to dominate the world and threatened the British Empire and ‘the democracies’, of which, presumably, we were a dependent part! ",
-          "note": null,
-          "path": "epubcfi(/6/30[chapter005]!/4/2[sec-chapter005]/36[fam0000951]/3,:705,:712)",
-          "created_at": "2022-02-05 16:41:21 -0800",
-          "updated_at": "2022-02-05 16:41:21 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 1025,
           "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
           "chapter": null,
@@ -4751,21 +4841,6 @@ var ibook_history = {
           "path": "epubcfi(/6/30[chapter005]!/4/2[sec-chapter005]/132[fam0000999]/1,:86,:137)",
           "created_at": "2022-02-11 00:19:07 -0800",
           "updated_at": "2022-02-11 00:19:07 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 1021,
-          "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
-          "chapter": null,
-          "text": " wilfully ",
-          "sentence": "Every line of this modern poetry seemed wilfully constructed in a radically unhomely idiom. ",
-          "note": null,
-          "path": "epubcfi(/6/30[chapter005]!/4/2[sec-chapter005]/68[fam0000967]/1,:39,:49)",
-          "created_at": "2022-02-05 18:28:47 -0800",
-          "updated_at": "2022-02-05 18:28:47 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -4862,21 +4937,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 1007,
-          "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
-          "chapter": null,
-          "text": " aficionados",
-          "sentence": "Some of my close friends at school were serious jazz aficionados, and a number of us began to listen to very early modern jazz and to exchange records. ",
-          "note": null,
-          "path": "epubcfi(/6/30[chapter005]!/4/2[sec-chapter005]/104[fam0000985]/1,:52,:64)",
-          "created_at": "2022-02-10 23:36:27 -0800",
-          "updated_at": "2022-02-10 23:36:27 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 1005,
           "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
           "chapter": null,
@@ -4918,6 +4978,53 @@ var ibook_history = {
           "updated_at": "2022-02-11 00:29:49 -0800",
           "is_inderline": 0,
           "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 1026,
+          "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
+          "chapter": null,
+          "text": "outset ",
+          "sentence": "At the outset of the war I recall being told that Hitler was a crazed dictator who wanted to dominate the world and threatened the British Empire and ‘the democracies’, of which, presumably, we were a dependent part! ",
+          "note": null,
+          "path": "epubcfi(/6/30[chapter005]!/4/2[sec-chapter005]/36[fam0000951]/3,:705,:712)",
+          "created_at": "2022-02-05 16:41:21 -0800",
+          "updated_at": "2022-02-05 16:41:21 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 1021,
+          "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
+          "chapter": null,
+          "text": " wilfully ",
+          "sentence": "Every line of this modern poetry seemed wilfully constructed in a radically unhomely idiom. ",
+          "note": null,
+          "path": "epubcfi(/6/30[chapter005]!/4/2[sec-chapter005]/68[fam0000967]/1,:39,:49)",
+          "created_at": "2022-02-05 18:28:47 -0800",
+          "updated_at": "2022-02-05 18:28:47 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 1007,
+          "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
+          "chapter": null,
+          "text": " aficionados",
+          "sentence": "Some of my close friends at school were serious jazz aficionados, and a number of us began to listen to very early modern jazz and to exchange records. ",
+          "note": null,
+          "path": "epubcfi(/6/30[chapter005]!/4/2[sec-chapter005]/104[fam0000985]/1,:52,:64)",
+          "created_at": "2022-02-10 23:36:27 -0800",
+          "updated_at": "2022-02-10 23:36:27 -0800",
+          "is_inderline": 0,
+          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         }
@@ -5002,6 +5109,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -5083,6 +5193,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -5163,6 +5276,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -5814,6 +5930,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -5939,6 +6058,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -6019,6 +6141,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -6101,6 +6226,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -6181,6 +6309,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -6263,6 +6394,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -6343,6 +6477,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -6544,6 +6681,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -6624,6 +6764,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -6706,6 +6849,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -6786,6 +6932,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -6868,6 +7017,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -6948,6 +7100,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -7359,6 +7514,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -7439,6 +7597,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -7820,6 +7981,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -7901,21 +8065,6 @@ var ibook_history = {
       ],
       "notes": [
         {
-          "pk": 928,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " sorumbáticos",
-          "sentence": "“Esses meninos andam sorumbáticos”, dizia Úrsula. ",
-          "note": null,
-          "path": "epubcfi(/6/18[id24]!/4[Cem_anos_de_solid_o-6]/2/56/1,:708,:721)",
-          "created_at": "2021-12-12 19:19:52 -0800",
-          "updated_at": "2021-12-12 19:19:52 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 927,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -7940,21 +8089,6 @@ var ibook_history = {
           "path": "epubcfi(/6/18[id24]!/4[Cem_anos_de_solid_o-6]/2/62/1,:248,:268)",
           "created_at": "2021-12-12 19:24:45 -0800",
           "updated_at": "2021-12-12 19:31:08 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 925,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " indelével",
-          "sentence": "De volta para casa, quando o mais jovem quis limpar a testa, descobriu que a mancha era indelével, da mesma forma que as dos irmãos. ",
-          "note": null,
-          "path": "epubcfi(/6/36[id33]!/4[Cem_anos_de_solid_o-15]/2/54/1,:3165,:3175)",
-          "created_at": "2021-12-18 17:42:21 -0800",
-          "updated_at": "2021-12-18 17:42:21 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -8171,21 +8305,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 910,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " dilapidação.",
-          "sentence": "“Meu Deus”, suplicava, “faça com que a gente torne a ser tão pobre como éramos quando fundamos este povoado, não vá nos cobrar na outra vida esta dilapidação.” ",
-          "note": null,
-          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/58/1,:258,:271)",
-          "created_at": "2021-12-17 19:01:53 -0800",
-          "updated_at": "2021-12-17 19:01:53 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 909,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8216,21 +8335,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 907,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " desbaratados",
-          "sentence": "Talvez fosse esse entrelaçado de estaturas, nomes e gênios que fez Úrsula suspeitar que estavam desbaratados desde a infância.\n",
-          "note": null,
-          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/6/1,:2641,:2654)",
-          "created_at": "2021-12-17 18:05:07 -0800",
-          "updated_at": "2021-12-17 18:05:07 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 906,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8240,21 +8344,6 @@ var ibook_history = {
           "path": "epubcfi(/6/40[id35]!/4[Cem_anos_de_solid_o-17]/2/44/1,:1800,:1815)",
           "created_at": "2021-12-20 07:04:54 -0800",
           "updated_at": "2021-12-20 07:04:54 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 905,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": "salomonicamente ",
-          "sentence": "Mas Aureliano Segundo imediatamente superou a perplexidade, declarou que os recém-chegados eram hóspedes de honra, e salomonicamente sentou Remédios, a Bela, no mesmo pedestal que a rainha intrusa. ",
-          "note": null,
-          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/80/1,:1140,:1156)",
-          "created_at": "2021-12-18 16:09:49 -0800",
-          "updated_at": "2021-12-18 16:09:49 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -8396,21 +8485,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 894,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " auscultou ",
-          "sentence": "O médico auscultou e depois pintou um círculo em seu peito com um algodão sujo de iodo.\n",
-          "note": null,
-          "path": "epubcfi(/6/32[id31]!/4[Cem_anos_de_solid_o-13]/2/124/1,:772,:783)",
-          "created_at": "2021-12-17 13:33:05 -0800",
-          "updated_at": "2021-12-17 13:33:05 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 893,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8456,21 +8530,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 890,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " desatinadas ",
-          "sentence": "Adotou-o como um filho que haveria de compartilhar sua solidão e aliviá-la do láudano involuntário que suas súplicas desatinadas puseram no café de Remédios. ",
-          "note": null,
-          "path": "epubcfi(/6/24[id27]!/4[Cem_anos_de_solid_o-9]/2/30/1,:731,:744)",
-          "created_at": "2021-12-15 00:23:12 -0800",
-          "updated_at": "2021-12-15 00:23:12 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 889,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8495,21 +8554,6 @@ var ibook_history = {
           "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/2/1,:388,:499)",
           "created_at": "2021-11-01 20:54:16 -0700",
           "updated_at": "2021-11-01 20:54:16 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 887,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " salvo-conduto.",
-          "sentence": "Mas alguém podia ter comprado aquele peixinho antes da guerra, ou roubado, e portanto não tinha nenhum mérito como salvo-conduto. ",
-          "note": null,
-          "path": "epubcfi(/6/26[id28]!/4[Cem_anos_de_solid_o-10]/2/48/1,:309,:324)",
-          "created_at": "2021-12-15 08:18:21 -0800",
-          "updated_at": "2021-12-15 08:18:21 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -8587,21 +8631,6 @@ var ibook_history = {
           "updated_at": "2021-12-12 19:20:46 -0800",
           "is_inderline": 0,
           "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 879,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " Amaranta",
-          "sentence": "Numa quinta-feira de janeiro, às duas da madrugada, nasceu Amaranta. ",
-          "note": null,
-          "path": "epubcfi(/6/18[id24]!/4[Cem_anos_de_solid_o-6]/2/60/1,:58,:67)",
-          "created_at": "2021-12-12 19:23:08 -0800",
-          "updated_at": "2021-12-12 19:23:08 -0800",
-          "is_inderline": 0,
-          "color": 1,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -8726,21 +8755,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 870,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " insidiosa ",
-          "sentence": "O chão tornou-se mole e úmido, feito cinza vulcânica, e a vegetação ficou cada vez mais insidiosa e se fizeram cada vez mais distantes os gritos dos pássaros e a algazarra dos macacos, e o mundo ficou triste para sempre. ",
-          "note": null,
-          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/34/1,:648,:659)",
-          "created_at": "2021-12-12 17:25:44 -0800",
-          "updated_at": "2021-12-12 17:25:44 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 869,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8786,21 +8800,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 866,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " impávida",
-          "sentence": "Ao final da primeira noite, enquanto A Elefanta continuava impávida, Aureliano Segundo estava se esgotando de tanto falar e rir. ",
-          "note": null,
-          "path": "epubcfi(/6/40[id35]!/4[Cem_anos_de_solid_o-17]/2/48/1,:3357,:3366)",
-          "created_at": "2021-12-20 07:20:10 -0800",
-          "updated_at": "2021-12-20 07:20:10 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 865,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8831,21 +8830,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 863,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": "Aureliano, ",
-          "sentence": "Aureliano, que não tinha mais que cinco anos, haveria de recordá-lo pelo resto da vida do jeito que o viu naquela tarde, sentado contra a claridade metálica e reverberante da janela, alumbrando com sua profunda voz de órgão os territórios mais escuros da imaginação, enquanto deixava jorrar pela sua fronte a gordura derretida pelo calor. ",
-          "note": null,
-          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:1802,:1812)",
-          "created_at": "2021-11-01 21:59:57 -0700",
-          "updated_at": "2021-11-01 21:59:57 -0700",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 862,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8870,21 +8854,6 @@ var ibook_history = {
           "path": "epubcfi(/6/54[id42]!/4[Cem_anos_de_solid_o-24]/2/14/1,:151,:218)",
           "created_at": "2021-12-26 09:43:29 -0800",
           "updated_at": "2021-12-26 09:43:29 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 859,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " parcimônia ",
-          "sentence": "Mas o sedentarismo que acentuou seus pômulos e concentrou o fulgor de seus olhos não aumentou seu peso nem alterou a parcimônia de seu temperamento e, pelo contrário, endureceu em seus lábios a linha reta da meditação solitária e da decisão implacável. ",
-          "note": null,
-          "path": "epubcfi(/6/24[id27]!/4[Cem_anos_de_solid_o-9]/2/28/1,:3128,:3140)",
-          "created_at": "2021-12-15 00:03:37 -0800",
-          "updated_at": "2021-12-15 00:03:37 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -8951,21 +8920,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 853,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": "altissonante ",
-          "sentence": "Então agarrou a tranca da porta e com a violência selvagem de sua força descomunal destroçou até fazer virar pó os aparelhos de alquimia, o gabinete de daguerreotipia, a oficina de ourivesaria, gritando feito um endemoniado num idioma altissonante e fluido mas completamente incompreensível. ",
-          "note": null,
-          "path": "epubcfi(/6/22[id26]!/4[Cem_anos_de_solid_o-8]/2/78/1,:4049,:4062)",
-          "created_at": "2021-12-14 07:29:46 -0800",
-          "updated_at": "2021-12-14 07:29:46 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 852,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -8975,21 +8929,6 @@ var ibook_history = {
           "path": "epubcfi(/6/44[id37]!/4[Cem_anos_de_solid_o-19]/2/98/1,:2282,:2327)",
           "created_at": "2021-12-23 07:22:57 -0800",
           "updated_at": "2021-12-23 07:22:57 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 851,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": "exasperante",
-          "sentence": "Com seu terrível senso prático, ela não conseguia entender o negócio do coronel, que trocava os peixinhos por moedas de ouro, e em seguida transformava as moedas de ouro em peixinhos, e assim sucessivamente, de tal forma que quanto mais vendia mais precisava trabalhar para satisfazer um círculo vicioso exasperante. ",
-          "note": null,
-          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/74/1,:1917,:1928)",
-          "created_at": "2021-12-18 06:09:48 -0800",
-          "updated_at": "2021-12-18 06:09:48 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -9146,21 +9085,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 840,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": "incautos ",
-          "sentence": "Num povoado escaldado pela lembrança da experiência com os ciganos, não havia um bom porvir para aqueles equilibristas do comércio ambulante, que com a mesma ligeireza ofereciam uma panela assoviadora e uma receita de vida para a salvação da alma no sétimo dia — mas entre os que se deixavam convencer por cansaço e os incautos de sempre, obtinham lucros estupendos. ",
-          "note": null,
-          "path": "epubcfi(/6/38[id34]!/4[Cem_anos_de_solid_o-16]/2/2/1,:3641,:3650)",
-          "created_at": "2021-12-19 12:30:22 -0800",
-          "updated_at": "2021-12-19 12:30:22 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 839,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -9185,21 +9109,6 @@ var ibook_history = {
           "path": "epubcfi(/6/54[id42]!/4[Cem_anos_de_solid_o-24]/2/12/1,:2380,:2910)",
           "created_at": "2021-12-26 09:36:07 -0800",
           "updated_at": "2021-12-26 09:36:07 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 837,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " incautos",
-          "sentence": "Desde aquela época o pároco manifestava os primeiros sintomas do delírio senil que o levou a dizer, anos mais tarde, que o diabo provavelmente havia ganho a rebelião contra Deus, e era quem estava sentado no trono celestial, sem revelar sua verdadeira identidade para pegar os incautos. ",
-          "note": null,
-          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/30/1,:649,:658)",
-          "created_at": "2021-12-17 18:30:53 -0800",
-          "updated_at": "2021-12-17 18:30:53 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -9341,21 +9250,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 826,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " Úrsula, ",
-          "sentence": "José Arcádio, seu irmão mais velho, haveria de transmitir aquela imagem maravilhosa, como uma recordação hereditária, a toda a sua descendência. Úrsula, porém, conservou uma lembrança desagradável daquela visita, porque entrou no quarto no momento em que Melquíades quebrou por distração um frasco de bicloreto de mercúrio.\n",
-          "note": null,
-          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:2285,:2293)",
-          "created_at": "2021-11-01 22:00:23 -0700",
-          "updated_at": "2021-11-01 22:00:23 -0700",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 825,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -9367,21 +9261,6 @@ var ibook_history = {
           "updated_at": "2021-12-25 09:35:28 -0800",
           "is_inderline": 0,
           "color": 5,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 823,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " lúgubre",
-          "sentence": "Aquele ser prodigioso, que dizia possuir o código de Nostradamus, era um ser lúgubre, envolto numa aura triste, com um olhar asiático que parecia conhecer o outro lado das coisas. ",
-          "note": null,
-          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:1025,:1033)",
-          "created_at": "2021-11-01 21:57:13 -0700",
-          "updated_at": "2021-11-01 21:57:13 -0700",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -9416,21 +9295,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 820,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " Melquíades ",
-          "sentence": "Naquela altura, Melquíades tinha envelhecido com uma rapidez assombrosa. ",
-          "note": null,
-          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:15,:27)",
-          "created_at": "2021-11-01 22:01:07 -0700",
-          "updated_at": "2021-11-01 22:01:07 -0700",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 819,
           "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
           "chapter": null,
@@ -9440,6 +9304,308 @@ var ibook_history = {
           "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/2/1,:165,:194)",
           "created_at": "2021-12-12 14:35:20 -0800",
           "updated_at": "2021-12-12 14:35:20 -0800",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 928,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " sorumbáticos",
+          "sentence": "“Esses meninos andam sorumbáticos”, dizia Úrsula. ",
+          "note": null,
+          "path": "epubcfi(/6/18[id24]!/4[Cem_anos_de_solid_o-6]/2/56/1,:708,:721)",
+          "created_at": "2021-12-12 19:19:52 -0800",
+          "updated_at": "2021-12-12 19:19:52 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 925,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " indelével",
+          "sentence": "De volta para casa, quando o mais jovem quis limpar a testa, descobriu que a mancha era indelével, da mesma forma que as dos irmãos. ",
+          "note": null,
+          "path": "epubcfi(/6/36[id33]!/4[Cem_anos_de_solid_o-15]/2/54/1,:3165,:3175)",
+          "created_at": "2021-12-18 17:42:21 -0800",
+          "updated_at": "2021-12-18 17:42:21 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 910,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " dilapidação.",
+          "sentence": "“Meu Deus”, suplicava, “faça com que a gente torne a ser tão pobre como éramos quando fundamos este povoado, não vá nos cobrar na outra vida esta dilapidação.” ",
+          "note": null,
+          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/58/1,:258,:271)",
+          "created_at": "2021-12-17 19:01:53 -0800",
+          "updated_at": "2021-12-17 19:01:53 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 907,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " desbaratados",
+          "sentence": "Talvez fosse esse entrelaçado de estaturas, nomes e gênios que fez Úrsula suspeitar que estavam desbaratados desde a infância.\n",
+          "note": null,
+          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/6/1,:2641,:2654)",
+          "created_at": "2021-12-17 18:05:07 -0800",
+          "updated_at": "2021-12-17 18:05:07 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 905,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": "salomonicamente ",
+          "sentence": "Mas Aureliano Segundo imediatamente superou a perplexidade, declarou que os recém-chegados eram hóspedes de honra, e salomonicamente sentou Remédios, a Bela, no mesmo pedestal que a rainha intrusa. ",
+          "note": null,
+          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/80/1,:1140,:1156)",
+          "created_at": "2021-12-18 16:09:49 -0800",
+          "updated_at": "2021-12-18 16:09:49 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 894,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " auscultou ",
+          "sentence": "O médico auscultou e depois pintou um círculo em seu peito com um algodão sujo de iodo.\n",
+          "note": null,
+          "path": "epubcfi(/6/32[id31]!/4[Cem_anos_de_solid_o-13]/2/124/1,:772,:783)",
+          "created_at": "2021-12-17 13:33:05 -0800",
+          "updated_at": "2021-12-17 13:33:05 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 890,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " desatinadas ",
+          "sentence": "Adotou-o como um filho que haveria de compartilhar sua solidão e aliviá-la do láudano involuntário que suas súplicas desatinadas puseram no café de Remédios. ",
+          "note": null,
+          "path": "epubcfi(/6/24[id27]!/4[Cem_anos_de_solid_o-9]/2/30/1,:731,:744)",
+          "created_at": "2021-12-15 00:23:12 -0800",
+          "updated_at": "2021-12-15 00:23:12 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 887,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " salvo-conduto.",
+          "sentence": "Mas alguém podia ter comprado aquele peixinho antes da guerra, ou roubado, e portanto não tinha nenhum mérito como salvo-conduto. ",
+          "note": null,
+          "path": "epubcfi(/6/26[id28]!/4[Cem_anos_de_solid_o-10]/2/48/1,:309,:324)",
+          "created_at": "2021-12-15 08:18:21 -0800",
+          "updated_at": "2021-12-15 08:18:21 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 879,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " Amaranta",
+          "sentence": "Numa quinta-feira de janeiro, às duas da madrugada, nasceu Amaranta. ",
+          "note": null,
+          "path": "epubcfi(/6/18[id24]!/4[Cem_anos_de_solid_o-6]/2/60/1,:58,:67)",
+          "created_at": "2021-12-12 19:23:08 -0800",
+          "updated_at": "2021-12-12 19:23:08 -0800",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 870,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " insidiosa ",
+          "sentence": "O chão tornou-se mole e úmido, feito cinza vulcânica, e a vegetação ficou cada vez mais insidiosa e se fizeram cada vez mais distantes os gritos dos pássaros e a algazarra dos macacos, e o mundo ficou triste para sempre. ",
+          "note": null,
+          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/34/1,:648,:659)",
+          "created_at": "2021-12-12 17:25:44 -0800",
+          "updated_at": "2021-12-12 17:25:44 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 866,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " impávida",
+          "sentence": "Ao final da primeira noite, enquanto A Elefanta continuava impávida, Aureliano Segundo estava se esgotando de tanto falar e rir. ",
+          "note": null,
+          "path": "epubcfi(/6/40[id35]!/4[Cem_anos_de_solid_o-17]/2/48/1,:3357,:3366)",
+          "created_at": "2021-12-20 07:20:10 -0800",
+          "updated_at": "2021-12-20 07:20:10 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 863,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": "Aureliano, ",
+          "sentence": "Aureliano, que não tinha mais que cinco anos, haveria de recordá-lo pelo resto da vida do jeito que o viu naquela tarde, sentado contra a claridade metálica e reverberante da janela, alumbrando com sua profunda voz de órgão os territórios mais escuros da imaginação, enquanto deixava jorrar pela sua fronte a gordura derretida pelo calor. ",
+          "note": null,
+          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:1802,:1812)",
+          "created_at": "2021-11-01 21:59:57 -0700",
+          "updated_at": "2021-11-01 21:59:57 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 859,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " parcimônia ",
+          "sentence": "Mas o sedentarismo que acentuou seus pômulos e concentrou o fulgor de seus olhos não aumentou seu peso nem alterou a parcimônia de seu temperamento e, pelo contrário, endureceu em seus lábios a linha reta da meditação solitária e da decisão implacável. ",
+          "note": null,
+          "path": "epubcfi(/6/24[id27]!/4[Cem_anos_de_solid_o-9]/2/28/1,:3128,:3140)",
+          "created_at": "2021-12-15 00:03:37 -0800",
+          "updated_at": "2021-12-15 00:03:37 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 853,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": "altissonante ",
+          "sentence": "Então agarrou a tranca da porta e com a violência selvagem de sua força descomunal destroçou até fazer virar pó os aparelhos de alquimia, o gabinete de daguerreotipia, a oficina de ourivesaria, gritando feito um endemoniado num idioma altissonante e fluido mas completamente incompreensível. ",
+          "note": null,
+          "path": "epubcfi(/6/22[id26]!/4[Cem_anos_de_solid_o-8]/2/78/1,:4049,:4062)",
+          "created_at": "2021-12-14 07:29:46 -0800",
+          "updated_at": "2021-12-14 07:29:46 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 851,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": "exasperante",
+          "sentence": "Com seu terrível senso prático, ela não conseguia entender o negócio do coronel, que trocava os peixinhos por moedas de ouro, e em seguida transformava as moedas de ouro em peixinhos, e assim sucessivamente, de tal forma que quanto mais vendia mais precisava trabalhar para satisfazer um círculo vicioso exasperante. ",
+          "note": null,
+          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/74/1,:1917,:1928)",
+          "created_at": "2021-12-18 06:09:48 -0800",
+          "updated_at": "2021-12-18 06:09:48 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 840,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": "incautos ",
+          "sentence": "Num povoado escaldado pela lembrança da experiência com os ciganos, não havia um bom porvir para aqueles equilibristas do comércio ambulante, que com a mesma ligeireza ofereciam uma panela assoviadora e uma receita de vida para a salvação da alma no sétimo dia — mas entre os que se deixavam convencer por cansaço e os incautos de sempre, obtinham lucros estupendos. ",
+          "note": null,
+          "path": "epubcfi(/6/38[id34]!/4[Cem_anos_de_solid_o-16]/2/2/1,:3641,:3650)",
+          "created_at": "2021-12-19 12:30:22 -0800",
+          "updated_at": "2021-12-19 12:30:22 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 837,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " incautos",
+          "sentence": "Desde aquela época o pároco manifestava os primeiros sintomas do delírio senil que o levou a dizer, anos mais tarde, que o diabo provavelmente havia ganho a rebelião contra Deus, e era quem estava sentado no trono celestial, sem revelar sua verdadeira identidade para pegar os incautos. ",
+          "note": null,
+          "path": "epubcfi(/6/34[id32]!/4[Cem_anos_de_solid_o-14]/2/30/1,:649,:658)",
+          "created_at": "2021-12-17 18:30:53 -0800",
+          "updated_at": "2021-12-17 18:30:53 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 826,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " Úrsula, ",
+          "sentence": "José Arcádio, seu irmão mais velho, haveria de transmitir aquela imagem maravilhosa, como uma recordação hereditária, a toda a sua descendência. Úrsula, porém, conservou uma lembrança desagradável daquela visita, porque entrou no quarto no momento em que Melquíades quebrou por distração um frasco de bicloreto de mercúrio.\n",
+          "note": null,
+          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:2285,:2293)",
+          "created_at": "2021-11-01 22:00:23 -0700",
+          "updated_at": "2021-11-01 22:00:23 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 823,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " lúgubre",
+          "sentence": "Aquele ser prodigioso, que dizia possuir o código de Nostradamus, era um ser lúgubre, envolto numa aura triste, com um olhar asiático que parecia conhecer o outro lado das coisas. ",
+          "note": null,
+          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:1025,:1033)",
+          "created_at": "2021-11-01 21:57:13 -0700",
+          "updated_at": "2021-11-01 21:57:13 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 820,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " Melquíades ",
+          "sentence": "Naquela altura, Melquíades tinha envelhecido com uma rapidez assombrosa. ",
+          "note": null,
+          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/10/1,:15,:27)",
+          "created_at": "2021-11-01 22:01:07 -0700",
+          "updated_at": "2021-11-01 22:01:07 -0700",
           "is_inderline": 0,
           "color": 1,
           "type": 2,
@@ -9600,6 +9766,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -9695,6 +9864,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -9890,21 +10062,6 @@ var ibook_history = {
           "path": "epubcfi(/6/16[id2]!/4/62/1,:176,:264)",
           "created_at": "2021-02-03 01:41:41 -0800",
           "updated_at": "2021-02-03 01:41:41 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 91,
-          "book_id": "4F66DD1611316DF57FE924D204BB3930",
-          "chapter": null,
-          "text": "insurgent. ",
-          "sentence": "For they are the bearers of the human being’s age-old capacity to be insurgent. They love to emerse themselves in chaos in order to put it into form, just as God created form out of chaos in Genesis. ",
-          "note": null,
-          "path": "epubcfi(/6/14[id1]!/4/158/3,:365,:376)",
-          "created_at": "2021-01-31 22:48:27 -0800",
-          "updated_at": "2021-01-31 22:48:27 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -10691,21 +10848,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 32,
-          "book_id": "4F66DD1611316DF57FE924D204BB3930",
-          "chapter": null,
-          "text": " sensitivity",
-          "sentence": "I propose a new form of courage of the body: the use of the body not for the development of musclemen, but for the cultivation of sensitivity. ",
-          "note": null,
-          "path": "epubcfi(/6/14[id1]!/4/40/3,:144,:156)",
-          "created_at": "2021-01-18 21:16:05 -0800",
-          "updated_at": "2021-01-18 21:16:05 -0800",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 31,
           "book_id": "4F66DD1611316DF57FE924D204BB3930",
           "chapter": null,
@@ -10732,6 +10874,38 @@ var ibook_history = {
           "updated_at": "2021-02-03 20:04:39 -0800",
           "is_inderline": 0,
           "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 91,
+          "book_id": "4F66DD1611316DF57FE924D204BB3930",
+          "chapter": null,
+          "text": "insurgent. ",
+          "sentence": "For they are the bearers of the human being’s age-old capacity to be insurgent. They love to emerse themselves in chaos in order to put it into form, just as God created form out of chaos in Genesis. ",
+          "note": null,
+          "path": "epubcfi(/6/14[id1]!/4/158/3,:365,:376)",
+          "created_at": "2021-01-31 22:48:27 -0800",
+          "updated_at": "2021-01-31 22:48:27 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 32,
+          "book_id": "4F66DD1611316DF57FE924D204BB3930",
+          "chapter": null,
+          "text": " sensitivity",
+          "sentence": "I propose a new form of courage of the body: the use of the body not for the development of musclemen, but for the cultivation of sensitivity. ",
+          "note": null,
+          "path": "epubcfi(/6/14[id1]!/4/40/3,:144,:156)",
+          "created_at": "2021-01-18 21:16:05 -0800",
+          "updated_at": "2021-01-18 21:16:05 -0800",
+          "is_inderline": 0,
+          "color": 1,
           "type": 2,
           "asset_details_modification_date": null
         }
@@ -10816,6 +10990,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -10897,6 +11074,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -10918,6 +11098,9 @@ var ibook_history = {
         "src": "assets/images/D315FF312A5B10B24E1A8252EC434ABF.jpg"
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -11105,21 +11288,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 148,
-          "book_id": "36CD562C27690661456FC2DF60C8294F",
-          "chapter": null,
-          "text": "‘idealists",
-          "sentence": "They were ‘idealists’ who clothed their ideals in the terms of positivism, utilitarianism, rational egoism. ",
-          "note": null,
-          "path": "epubcfi(/6/12[frontm02]!/4/82/1,:266,:276)",
-          "created_at": "2021-03-19 21:25:57 -0700",
-          "updated_at": "2021-03-19 21:25:57 -0700",
-          "is_inderline": 0,
-          "color": 4,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 143,
           "book_id": "36CD562C27690661456FC2DF60C8294F",
           "chapter": null,
@@ -11131,6 +11299,23 @@ var ibook_history = {
           "updated_at": "2021-03-19 21:25:45 -0700",
           "is_inderline": 0,
           "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 148,
+          "book_id": "36CD562C27690661456FC2DF60C8294F",
+          "chapter": null,
+          "text": "‘idealists",
+          "sentence": "They were ‘idealists’ who clothed their ideals in the terms of positivism, utilitarianism, rational egoism. ",
+          "note": null,
+          "path": "epubcfi(/6/12[frontm02]!/4/82/1,:266,:276)",
+          "created_at": "2021-03-19 21:25:57 -0700",
+          "updated_at": "2021-03-19 21:25:57 -0700",
+          "is_inderline": 0,
+          "color": 4,
           "type": 2,
           "asset_details_modification_date": null
         }
@@ -11224,21 +11409,6 @@ var ibook_history = {
           "path": "epubcfi(/6/70[id23]!/4/2/54/1,:814,:862)",
           "created_at": "2022-01-04 08:17:09 -0800",
           "updated_at": "2022-01-04 08:17:09 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 969,
-          "book_id": "C0A101CBE52473AC6271C1B86B1565FE",
-          "chapter": null,
-          "text": " inflige ",
-          "sentence": "A crueldade daquele que se obriga à verdade atormenta sobretudo ele próprio: o que o escritor inflige a si próprio é cem vezes mais do que o faz ao leitor. ",
-          "note": null,
-          "path": "epubcfi(/6/66[id21]!/4/2/62/1,:308,:317)",
-          "created_at": "2022-01-02 11:15:31 -0800",
-          "updated_at": "2022-01-02 11:15:31 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -11739,6 +11909,23 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 969,
+          "book_id": "C0A101CBE52473AC6271C1B86B1565FE",
+          "chapter": null,
+          "text": " inflige ",
+          "sentence": "A crueldade daquele que se obriga à verdade atormenta sobretudo ele próprio: o que o escritor inflige a si próprio é cem vezes mais do que o faz ao leitor. ",
+          "note": null,
+          "path": "epubcfi(/6/66[id21]!/4/2/62/1,:308,:317)",
+          "created_at": "2022-01-02 11:15:31 -0800",
+          "updated_at": "2022-01-02 11:15:31 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -11805,6 +11992,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -11885,6 +12075,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -11967,6 +12160,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -12048,6 +12244,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -12128,6 +12327,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -12239,6 +12441,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -12319,6 +12524,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -12764,21 +12972,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 1066,
-          "book_id": "449DA0D6FB692D029D52C6412375D656",
-          "chapter": null,
-          "text": " conjunção ",
-          "sentence": "A conjunção mas, aí, implica um juízo falso, ideológico: sendo negra, espera-se que Madalena nem seja competente nem decente. ",
-          "note": null,
-          "path": "epubcfi(/6/22[a3]!/4/2[a3]/2/12/23,:86,:97)",
-          "created_at": "2021-10-18 22:55:10 -0700",
-          "updated_at": "2021-10-18 22:55:10 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 1065,
           "book_id": "449DA0D6FB692D029D52C6412375D656",
           "chapter": null,
@@ -12805,6 +12998,23 @@ var ibook_history = {
           "updated_at": "2021-09-20 07:09:35 -0700",
           "is_inderline": 0,
           "color": 5,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 1066,
+          "book_id": "449DA0D6FB692D029D52C6412375D656",
+          "chapter": null,
+          "text": " conjunção ",
+          "sentence": "A conjunção mas, aí, implica um juízo falso, ideológico: sendo negra, espera-se que Madalena nem seja competente nem decente. ",
+          "note": null,
+          "path": "epubcfi(/6/22[a3]!/4/2[a3]/2/12/23,:86,:97)",
+          "created_at": "2021-10-18 22:55:10 -0700",
+          "updated_at": "2021-10-18 22:55:10 -0700",
+          "is_inderline": 0,
+          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         }
@@ -12889,6 +13099,23 @@ var ibook_history = {
       ],
       "notes": [
         {
+          "pk": 749,
+          "book_id": "E9B9B9C22A5F4F93614A9C2528D6DD94",
+          "chapter": null,
+          "text": " congênito ",
+          "sentence": "Já conhecia um pouco minha esposa, seu gênio impetuoso, seu medo congênito de que tirava força para enfrentar qualquer situação perigosa. ",
+          "note": null,
+          "path": "epubcfi(/6/60[CinzasNorte-29.html]!/4/2/2/6/1,:259,:270)",
+          "created_at": "2021-10-25 03:46:13 -0700",
+          "updated_at": "2021-10-25 03:46:13 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
           "pk": 755,
           "book_id": "E9B9B9C22A5F4F93614A9C2528D6DD94",
           "chapter": null,
@@ -12928,21 +13155,6 @@ var ibook_history = {
           "path": "epubcfi(/6/62[CinzasNorte-30.html]!/4/2/164/1,:483,:492)",
           "created_at": "2021-10-26 02:45:07 -0700",
           "updated_at": "2021-10-26 02:45:07 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 749,
-          "book_id": "E9B9B9C22A5F4F93614A9C2528D6DD94",
-          "chapter": null,
-          "text": " congênito ",
-          "sentence": "Já conhecia um pouco minha esposa, seu gênio impetuoso, seu medo congênito de que tirava força para enfrentar qualquer situação perigosa. ",
-          "note": null,
-          "path": "epubcfi(/6/60[CinzasNorte-29.html]!/4/2/2/6/1,:259,:270)",
-          "created_at": "2021-10-25 03:46:13 -0700",
-          "updated_at": "2021-10-25 03:46:13 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -13040,21 +13252,6 @@ var ibook_history = {
           "updated_at": "2021-01-24 21:56:17 -0800",
           "is_inderline": 0,
           "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 207,
-          "book_id": "7A83495560A5C8BAD4448BF89BB772ED",
-          "chapter": null,
-          "text": " ubíquo",
-          "sentence": "até o outro em que o rio ubíquo\n",
-          "note": null,
-          "path": "epubcfi(/6/72[id48]!/4[NovaAntologiaPessoal]/2/30/1,:24,:31)",
-          "created_at": "2021-01-24 21:47:58 -0800",
-          "updated_at": "2021-01-24 21:47:58 -0800",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -13313,6 +13510,23 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 207,
+          "book_id": "7A83495560A5C8BAD4448BF89BB772ED",
+          "chapter": null,
+          "text": " ubíquo",
+          "sentence": "até o outro em que o rio ubíquo\n",
+          "note": null,
+          "path": "epubcfi(/6/72[id48]!/4[NovaAntologiaPessoal]/2/30/1,:24,:31)",
+          "created_at": "2021-01-24 21:47:58 -0800",
+          "updated_at": "2021-01-24 21:47:58 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -13393,6 +13607,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -13476,6 +13693,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -13557,6 +13777,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -13637,6 +13860,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -13733,6 +13959,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -13813,6 +14042,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -14300,21 +14532,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 118,
-          "book_id": "9BBB14A11172504CCB5A87601D0816B7",
-          "chapter": null,
-          "text": " Brooke",
-          "sentence": "Aqui eu gostaria de recordar uma citação do grande poeta inglês Brooke, que diz — com admirável poesia, mas talvez com má filosofia —: “E lá, depois de mortos, tocaremos, já que não temos mãos; e veremos, não mais cegados por nossos olhos”. ",
-          "note": null,
-          "path": "epubcfi(/6/16[id21]!/4[BorgesOral]/2/48/1,:63,:70)",
-          "created_at": "2021-01-09 06:49:37 -0800",
-          "updated_at": "2021-01-09 06:49:37 -0800",
-          "is_inderline": 0,
-          "color": 2,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 117,
           "book_id": "9BBB14A11172504CCB5A87601D0816B7",
           "chapter": null,
@@ -14356,6 +14573,23 @@ var ibook_history = {
           "updated_at": "2021-01-07 22:44:31 -0800",
           "is_inderline": 0,
           "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 118,
+          "book_id": "9BBB14A11172504CCB5A87601D0816B7",
+          "chapter": null,
+          "text": " Brooke",
+          "sentence": "Aqui eu gostaria de recordar uma citação do grande poeta inglês Brooke, que diz — com admirável poesia, mas talvez com má filosofia —: “E lá, depois de mortos, tocaremos, já que não temos mãos; e veremos, não mais cegados por nossos olhos”. ",
+          "note": null,
+          "path": "epubcfi(/6/16[id21]!/4[BorgesOral]/2/48/1,:63,:70)",
+          "created_at": "2021-01-09 06:49:37 -0800",
+          "updated_at": "2021-01-09 06:49:37 -0800",
+          "is_inderline": 0,
+          "color": 2,
           "type": 2,
           "asset_details_modification_date": null
         }
@@ -14439,6 +14673,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -14745,6 +14982,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -14825,6 +15065,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -14907,6 +15150,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -14987,6 +15233,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -15083,6 +15332,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -15194,21 +15446,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 460,
-          "book_id": "6B76088EA7110BDD33A35553ABB34C7D",
-          "chapter": null,
-          "text": " néscios",
-          "sentence": "O mestre escolhe o discípulo, mas o livro não escolhe seus leitores, que podem ser malvados ou néscios; esse receio platônico perdura nas palavras de Clemente de Alexandria, homem de cultura pagã: \"O mais prudente é não escrever, e sim aprender e ensinar de viva voz, pois o escrito fica\" (Stromateis), e nestas outras, do mesmo tratado: \"Escrever todas as coisas em um livro é deixar uma espada nas mãos de uma criança\"; que derivam também das evangélicas: \"Não deis o santo aos cães nem jogueis vossas pérolas aos porcos, para que não as pisoteiem e depois se voltem para vos destroçar\". ",
-          "note": null,
-          "path": "epubcfi(/6/54[OutrasInquisicoes-021.html]!/4/6/9,:446,:454)",
-          "created_at": "2021-09-27 07:56:22 -0700",
-          "updated_at": "2021-09-27 07:56:22 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 459,
           "book_id": "6B76088EA7110BDD33A35553ABB34C7D",
           "chapter": null,
@@ -15313,6 +15550,23 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 460,
+          "book_id": "6B76088EA7110BDD33A35553ABB34C7D",
+          "chapter": null,
+          "text": " néscios",
+          "sentence": "O mestre escolhe o discípulo, mas o livro não escolhe seus leitores, que podem ser malvados ou néscios; esse receio platônico perdura nas palavras de Clemente de Alexandria, homem de cultura pagã: \"O mais prudente é não escrever, e sim aprender e ensinar de viva voz, pois o escrito fica\" (Stromateis), e nestas outras, do mesmo tratado: \"Escrever todas as coisas em um livro é deixar uma espada nas mãos de uma criança\"; que derivam também das evangélicas: \"Não deis o santo aos cães nem jogueis vossas pérolas aos porcos, para que não as pisoteiem e depois se voltem para vos destroçar\". ",
+          "note": null,
+          "path": "epubcfi(/6/54[OutrasInquisicoes-021.html]!/4/6/9,:446,:454)",
+          "created_at": "2021-09-27 07:56:22 -0700",
+          "updated_at": "2021-09-27 07:56:22 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -15394,6 +15648,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -15474,6 +15731,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -15571,21 +15831,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 807,
-          "book_id": "5DF4293CDB6E794A0AC78B52CAA9C6F3",
-          "chapter": null,
-          "text": " pensamenteando",
-          "sentence": "Depois, só comigo, me pus pensamenteando: O que queria dizer exatamente essa palavra “espírito”, bastante comum em crítica de arte e na terminologia dos artistas? ",
-          "note": null,
-          "path": "epubcfi(/6/10[baile_quatro_artes-4]!/4/2[baile_quatro_artes-4.html]/2/80/1,:647,:662)",
-          "created_at": "2021-12-01 00:27:45 -0800",
-          "updated_at": "2021-12-01 00:27:45 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 806,
           "book_id": "5DF4293CDB6E794A0AC78B52CAA9C6F3",
           "chapter": null,
@@ -15670,21 +15915,6 @@ var ibook_history = {
           "path": "epubcfi(/6/14[baile_quatro_artes-6]!/4/2[baile_quatro_artes-6.html]/2/50/9,:2,:56)",
           "created_at": "2021-12-11 18:15:13 -0800",
           "updated_at": "2021-12-11 18:15:13 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 800,
-          "book_id": "5DF4293CDB6E794A0AC78B52CAA9C6F3",
-          "chapter": null,
-          "text": " impersonalidade ",
-          "sentence": "A um olho perito as diferenciações não escaparão; e o próprio Maspero, reconhecendo a impersonalidade da arte egípcia, se viu obrigado a acrescentar que “o temperamento pessoal do indivíduo não se revela sinão por detalhes de fatura quase imperceptíveis”. ",
-          "note": null,
-          "path": "epubcfi(/6/10[baile_quatro_artes-4]!/4/2[baile_quatro_artes-4.html]/2/36/1,:636,:653)",
-          "created_at": "2021-11-28 16:56:16 -0800",
-          "updated_at": "2021-11-28 16:56:16 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -15825,6 +16055,38 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 807,
+          "book_id": "5DF4293CDB6E794A0AC78B52CAA9C6F3",
+          "chapter": null,
+          "text": " pensamenteando",
+          "sentence": "Depois, só comigo, me pus pensamenteando: O que queria dizer exatamente essa palavra “espírito”, bastante comum em crítica de arte e na terminologia dos artistas? ",
+          "note": null,
+          "path": "epubcfi(/6/10[baile_quatro_artes-4]!/4/2[baile_quatro_artes-4.html]/2/80/1,:647,:662)",
+          "created_at": "2021-12-01 00:27:45 -0800",
+          "updated_at": "2021-12-01 00:27:45 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 800,
+          "book_id": "5DF4293CDB6E794A0AC78B52CAA9C6F3",
+          "chapter": null,
+          "text": " impersonalidade ",
+          "sentence": "A um olho perito as diferenciações não escaparão; e o próprio Maspero, reconhecendo a impersonalidade da arte egípcia, se viu obrigado a acrescentar que “o temperamento pessoal do indivíduo não se revela sinão por detalhes de fatura quase imperceptíveis”. ",
+          "note": null,
+          "path": "epubcfi(/6/10[baile_quatro_artes-4]!/4/2[baile_quatro_artes-4.html]/2/36/1,:636,:653)",
+          "created_at": "2021-11-28 16:56:16 -0800",
+          "updated_at": "2021-11-28 16:56:16 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -15906,6 +16168,9 @@ var ibook_history = {
       ],
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -15986,6 +16251,9 @@ var ibook_history = {
         }
       ],
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -16202,6 +16470,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -16612,6 +16883,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -17023,21 +17297,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 517,
-          "book_id": "AA8ACFB2FB08894F72783728401CA71F",
-          "chapter": null,
-          "text": "enrijeçamos ",
-          "sentence": "E diante disso nos enrijeçamos e nos fortaleçamos. ",
-          "note": null,
-          "path": "epubcfi(/6/30[montaigne-13]!/4/2[montaigne]/56/1,:512,:524)",
-          "created_at": "2021-10-11 10:01:16 -0700",
-          "updated_at": "2021-10-11 10:01:16 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 504,
           "book_id": "AA8ACFB2FB08894F72783728401CA71F",
           "chapter": null,
@@ -17067,6 +17326,23 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 517,
+          "book_id": "AA8ACFB2FB08894F72783728401CA71F",
+          "chapter": null,
+          "text": "enrijeçamos ",
+          "sentence": "E diante disso nos enrijeçamos e nos fortaleçamos. ",
+          "note": null,
+          "path": "epubcfi(/6/30[montaigne-13]!/4/2[montaigne]/56/1,:512,:524)",
+          "created_at": "2021-10-11 10:01:16 -0700",
+          "updated_at": "2021-10-11 10:01:16 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -17088,6 +17364,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -17140,6 +17419,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -17176,6 +17458,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -17197,6 +17482,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -17264,6 +17552,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -17316,21 +17607,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 397,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": " cretino ",
-          "sentence": "O sujeito não é surdo, não, é cretino mesmo. ",
-          "note": null,
-          "path": "epubcfi(/6/66[Nao_Veras-32]!/4/2[Nao_Veras-32.html]/2/40/1,:92,:101)",
-          "created_at": "2021-09-06 00:35:00 -0700",
-          "updated_at": "2021-09-06 00:35:00 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 395,
           "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
           "chapter": null,
@@ -17355,21 +17631,6 @@ var ibook_history = {
           "path": "epubcfi(/6/24[Nao_Veras-11]!/4/2[Nao_Veras-11.html]/2/50/1,:141,:157)",
           "created_at": "2021-08-28 23:32:16 -0700",
           "updated_at": "2021-08-28 23:32:16 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 393,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": " grassando",
-          "sentence": "Tudo começou na grande ditadura com as reformas de ensino, as dificuldades para estudar, o analfabetismo grassando. ",
-          "note": null,
-          "path": "epubcfi(/6/40[Nao_Veras-19]!/4/2[Nao_Veras-19.html]/2/50/1,:317,:327)",
-          "created_at": "2021-08-30 00:47:54 -0700",
-          "updated_at": "2021-08-30 00:47:54 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -17571,21 +17832,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 379,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": " indolentes.",
-          "sentence": "Os prédios concentram o mormaço, as filas de circulação caminham indolentes. ",
-          "note": null,
-          "path": "epubcfi(/6/38[Nao_Veras-18]!/4/2[Nao_Veras-18.html]/2/6/1,:64,:76)",
-          "created_at": "2021-08-30 00:26:40 -0700",
-          "updated_at": "2021-08-30 00:26:40 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 378,
           "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
           "chapter": null,
@@ -17597,21 +17843,6 @@ var ibook_history = {
           "updated_at": "2021-08-28 03:11:53 -0700",
           "is_inderline": 0,
           "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 377,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": " trambolhões,",
-          "sentence": "Aquele quinto pacote me incomoda, desço a montanha de lixo aos trambolhões, me agarro ao meu sobrinho. ",
-          "note": null,
-          "path": "epubcfi(/6/72[Nao_Veras-35]!/4/2[Nao_Veras-35.html]/2/70/1,:62,:75)",
-          "created_at": "2021-09-07 01:05:41 -0700",
-          "updated_at": "2021-09-07 01:05:41 -0700",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -17700,21 +17931,6 @@ var ibook_history = {
           "path": "epubcfi(/6/64[Nao_Veras-31]!/4/2[Nao_Veras-31.html]/2/4/3,:807,:966)",
           "created_at": "2021-09-05 10:30:50 -0700",
           "updated_at": "2021-09-05 10:30:50 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 370,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": " insondável",
-          "sentence": "Estamos hoje na mesma posição insondável.\n",
-          "note": null,
-          "path": "epubcfi(/6/70[Nao_Veras-34]!/4/2[Nao_Veras-34.html]/2/74/1,:259,:270)",
-          "created_at": "2021-09-06 23:35:12 -0700",
-          "updated_at": "2021-09-06 23:35:12 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -17811,21 +18027,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 363,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": "contemporizando ",
-          "sentence": "Será que venho contemporizando de propósito? ",
-          "note": null,
-          "path": "epubcfi(/6/64[Nao_Veras-31]!/4/2[Nao_Veras-31.html]/2/86/1,:62,:78)",
-          "created_at": "2021-09-05 11:16:01 -0700",
-          "updated_at": "2021-09-05 11:16:01 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 362,
           "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
           "chapter": null,
@@ -17856,21 +18057,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 360,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": " bojudas. ",
-          "sentence": "Eram palavras sonoras, suaves, bojudas. ",
-          "note": null,
-          "path": "epubcfi(/6/50[Nao_Veras-24]!/4/2[Nao_Veras-24.html]/2/164/1,:248,:257)",
-          "created_at": "2021-08-31 04:42:41 -0700",
-          "updated_at": "2021-08-31 04:42:41 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 359,
           "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
           "chapter": null,
@@ -17895,21 +18081,6 @@ var ibook_history = {
           "path": "epubcfi(/6/16[Nao_Veras-7]!/4/2[Nao_Veras-7.html]/2/36/1,:50,:65)",
           "created_at": "2021-08-28 02:44:26 -0700",
           "updated_at": "2021-08-28 02:44:26 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 357,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": "mefítico.",
-          "sentence": "Pavoroso, mefítico. ",
-          "note": null,
-          "path": "epubcfi(/6/70[Nao_Veras-34]!/4/2[Nao_Veras-34.html]/2/356/1,:118,:127)",
-          "created_at": "2021-09-07 00:16:44 -0700",
-          "updated_at": "2021-09-07 00:16:44 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -18111,21 +18282,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 342,
-          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
-          "chapter": null,
-          "text": "arregimentar, ",
-          "sentence": "Bem que os Operários Esclarecidos tentaram se movimentar, se arregimentar, abrir as cabeças dos trabalhadores. ",
-          "note": null,
-          "path": "epubcfi(/6/64[Nao_Veras-31]!/4/2[Nao_Veras-31.html]/2/4/3,:1756,:1770)",
-          "created_at": "2021-09-05 10:34:10 -0700",
-          "updated_at": "2021-09-05 10:34:10 -0700",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 341,
           "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
           "chapter": null,
@@ -18170,6 +18326,143 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 397,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": " cretino ",
+          "sentence": "O sujeito não é surdo, não, é cretino mesmo. ",
+          "note": null,
+          "path": "epubcfi(/6/66[Nao_Veras-32]!/4/2[Nao_Veras-32.html]/2/40/1,:92,:101)",
+          "created_at": "2021-09-06 00:35:00 -0700",
+          "updated_at": "2021-09-06 00:35:00 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 393,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": " grassando",
+          "sentence": "Tudo começou na grande ditadura com as reformas de ensino, as dificuldades para estudar, o analfabetismo grassando. ",
+          "note": null,
+          "path": "epubcfi(/6/40[Nao_Veras-19]!/4/2[Nao_Veras-19.html]/2/50/1,:317,:327)",
+          "created_at": "2021-08-30 00:47:54 -0700",
+          "updated_at": "2021-08-30 00:47:54 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 379,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": " indolentes.",
+          "sentence": "Os prédios concentram o mormaço, as filas de circulação caminham indolentes. ",
+          "note": null,
+          "path": "epubcfi(/6/38[Nao_Veras-18]!/4/2[Nao_Veras-18.html]/2/6/1,:64,:76)",
+          "created_at": "2021-08-30 00:26:40 -0700",
+          "updated_at": "2021-08-30 00:26:40 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 377,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": " trambolhões,",
+          "sentence": "Aquele quinto pacote me incomoda, desço a montanha de lixo aos trambolhões, me agarro ao meu sobrinho. ",
+          "note": null,
+          "path": "epubcfi(/6/72[Nao_Veras-35]!/4/2[Nao_Veras-35.html]/2/70/1,:62,:75)",
+          "created_at": "2021-09-07 01:05:41 -0700",
+          "updated_at": "2021-09-07 01:05:41 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 370,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": " insondável",
+          "sentence": "Estamos hoje na mesma posição insondável.\n",
+          "note": null,
+          "path": "epubcfi(/6/70[Nao_Veras-34]!/4/2[Nao_Veras-34.html]/2/74/1,:259,:270)",
+          "created_at": "2021-09-06 23:35:12 -0700",
+          "updated_at": "2021-09-06 23:35:12 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 363,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": "contemporizando ",
+          "sentence": "Será que venho contemporizando de propósito? ",
+          "note": null,
+          "path": "epubcfi(/6/64[Nao_Veras-31]!/4/2[Nao_Veras-31.html]/2/86/1,:62,:78)",
+          "created_at": "2021-09-05 11:16:01 -0700",
+          "updated_at": "2021-09-05 11:16:01 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 360,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": " bojudas. ",
+          "sentence": "Eram palavras sonoras, suaves, bojudas. ",
+          "note": null,
+          "path": "epubcfi(/6/50[Nao_Veras-24]!/4/2[Nao_Veras-24.html]/2/164/1,:248,:257)",
+          "created_at": "2021-08-31 04:42:41 -0700",
+          "updated_at": "2021-08-31 04:42:41 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 357,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": "mefítico.",
+          "sentence": "Pavoroso, mefítico. ",
+          "note": null,
+          "path": "epubcfi(/6/70[Nao_Veras-34]!/4/2[Nao_Veras-34.html]/2/356/1,:118,:127)",
+          "created_at": "2021-09-07 00:16:44 -0700",
+          "updated_at": "2021-09-07 00:16:44 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 342,
+          "book_id": "C217FE0E9AAA099A2E0990CFA0D40C2B",
+          "chapter": null,
+          "text": "arregimentar, ",
+          "sentence": "Bem que os Operários Esclarecidos tentaram se movimentar, se arregimentar, abrir as cabeças dos trabalhadores. ",
+          "note": null,
+          "path": "epubcfi(/6/64[Nao_Veras-31]!/4/2[Nao_Veras-31.html]/2/4/3,:1756,:1770)",
+          "created_at": "2021-09-05 10:34:10 -0700",
+          "updated_at": "2021-09-05 10:34:10 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -18191,6 +18484,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -18228,6 +18524,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -18249,6 +18548,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -18272,6 +18574,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -18293,6 +18598,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -18375,6 +18683,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -18561,6 +18872,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -18582,6 +18896,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -18619,6 +18936,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -18641,6 +18961,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -18662,6 +18985,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -18741,21 +19067,6 @@ var ibook_history = {
           "updated_at": "2021-09-14 05:52:40 -0700",
           "is_inderline": 0,
           "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 445,
-          "book_id": "EF2198D842CC713124ED31B76FB7D204",
-          "chapter": null,
-          "text": "Mocorongo ",
-          "sentence": "Mocorongo eu não aceito comigo! ",
-          "note": null,
-          "path": "epubcfi(/6/8[Hora-1.xhtml]!/4/498/1,:85,:95)",
-          "created_at": "2021-09-14 05:11:58 -0700",
-          "updated_at": "2021-09-14 05:11:58 -0700",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -18955,21 +19266,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 419,
-          "book_id": "EF2198D842CC713124ED31B76FB7D204",
-          "chapter": null,
-          "text": " capiau ",
-          "sentence": "E Nhô Augusto pegou a cantar a cantiga, muito velha, do capiau exilado: “Eu quero ver a moreninha tabaroa, arregaçada, enchendo o pote na lagoa...\n",
-          "note": null,
-          "path": "epubcfi(/6/8[Hora-1.xhtml]!/4/642/1,:242,:250)",
-          "created_at": "2021-09-14 05:39:23 -0700",
-          "updated_at": "2021-09-14 05:39:23 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 416,
           "book_id": "EF2198D842CC713124ED31B76FB7D204",
           "chapter": null,
@@ -19030,21 +19326,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 410,
-          "book_id": "EF2198D842CC713124ED31B76FB7D204",
-          "chapter": null,
-          "text": " solerte ",
-          "sentence": "E, à noite, tomou um trago sem ser por regra, o que foi bem bom, porque ele já viajou, do acordado para o sono, montado num sonho bonito, no qual havia um Deus valentão, o mais solerte de todos os valentões, assim parecido com seu Joãozinho Bem-Bem, e que o mandava ir brigar, só para lhe experimentar a força, pois que ficava lá em-cima, sem descuido, garantindo tudo. ",
-          "note": null,
-          "path": "epubcfi(/6/8[Hora-1.xhtml]!/4/614/1,:176,:185)",
-          "created_at": "2021-09-14 05:28:33 -0700",
-          "updated_at": "2021-09-14 05:28:33 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 409,
           "book_id": "EF2198D842CC713124ED31B76FB7D204",
           "chapter": null,
@@ -19069,6 +19350,53 @@ var ibook_history = {
           "path": "epubcfi(/6/8[Hora-1.xhtml]!/4/110/1,:148,:185)",
           "created_at": "2021-09-12 10:49:35 -0700",
           "updated_at": "2021-09-12 10:49:35 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 445,
+          "book_id": "EF2198D842CC713124ED31B76FB7D204",
+          "chapter": null,
+          "text": "Mocorongo ",
+          "sentence": "Mocorongo eu não aceito comigo! ",
+          "note": null,
+          "path": "epubcfi(/6/8[Hora-1.xhtml]!/4/498/1,:85,:95)",
+          "created_at": "2021-09-14 05:11:58 -0700",
+          "updated_at": "2021-09-14 05:11:58 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 419,
+          "book_id": "EF2198D842CC713124ED31B76FB7D204",
+          "chapter": null,
+          "text": " capiau ",
+          "sentence": "E Nhô Augusto pegou a cantar a cantiga, muito velha, do capiau exilado: “Eu quero ver a moreninha tabaroa, arregaçada, enchendo o pote na lagoa...\n",
+          "note": null,
+          "path": "epubcfi(/6/8[Hora-1.xhtml]!/4/642/1,:242,:250)",
+          "created_at": "2021-09-14 05:39:23 -0700",
+          "updated_at": "2021-09-14 05:39:23 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 410,
+          "book_id": "EF2198D842CC713124ED31B76FB7D204",
+          "chapter": null,
+          "text": " solerte ",
+          "sentence": "E, à noite, tomou um trago sem ser por regra, o que foi bem bom, porque ele já viajou, do acordado para o sono, montado num sonho bonito, no qual havia um Deus valentão, o mais solerte de todos os valentões, assim parecido com seu Joãozinho Bem-Bem, e que o mandava ir brigar, só para lhe experimentar a força, pois que ficava lá em-cima, sem descuido, garantindo tudo. ",
+          "note": null,
+          "path": "epubcfi(/6/8[Hora-1.xhtml]!/4/614/1,:176,:185)",
+          "created_at": "2021-09-14 05:28:33 -0700",
+          "updated_at": "2021-09-14 05:28:33 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -19125,6 +19453,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -19146,6 +19477,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -19169,6 +19503,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -19190,6 +19527,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -19467,6 +19807,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -19548,6 +19891,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -19599,6 +19945,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -19621,6 +19970,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -19642,6 +19994,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -19694,6 +20049,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -19715,6 +20073,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -20052,6 +20413,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -20074,6 +20438,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -20095,6 +20462,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -20309,21 +20679,6 @@ var ibook_history = {
           "updated_at": "2021-09-30 06:24:32 -0700",
           "is_inderline": 0,
           "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 730,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " mefíticos",
-          "sentence": "Com efeito, elas se vão porque já vinham para não ser, e dilaceram a alma com desejos mefíticos, porque ela também deseja ser e ama repousar naquilo que ama. ",
-          "note": null,
-          "path": "epubcfi(/6/20[id23]!/4[ConfissoesDeSantoAgostinho-9]/2/32/19,:160,:170)",
-          "created_at": "2021-09-23 03:51:19 -0700",
-          "updated_at": "2021-09-23 03:51:19 -0700",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -20553,21 +20908,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 712,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " catecúmeno ",
-          "sentence": "E como soltava a voz para ti, meu Deus, ao ler os salmos de Davi, cantos de fé, sons de piedade que não admitem espíritos orgulhosos, eu, iniciante em teu amor genuíno, catecúmeno em férias numa casa de campo com o catecúmeno Alípio, e minha mãe nos acompanhando com atitude feminina, fé viril, segurança de anciã, caridade de mãe, piedade de cristã! ",
-          "note": null,
-          "path": "epubcfi(/6/30[id28]!/4[ConfissoesDeSantoAgostinho-14]/2/18/3,:216,:228)",
-          "created_at": "2021-10-01 06:23:07 -0700",
-          "updated_at": "2021-10-01 06:23:07 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 711,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -20622,21 +20962,6 @@ var ibook_history = {
           "path": "epubcfi(/6/16[id21]!/4[ConfissoesDeSantoAgostinho-7]/2/4/5,:2,:128)",
           "created_at": "2021-09-19 21:00:48 -0700",
           "updated_at": "2021-09-19 21:00:48 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 706,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " incitou ",
-          "sentence": "Ele lhe perguntou a causa de sua tristeza e de suas lágrimas cotidianas, mais para instruir, como se costuma fazer, do que para aprender; e, quando ela respondeu que chorava minha perdição, ele mandou que ficasse tranquila e a incitou a olhar e ver que onde ela estava eu também estava.46 Ela então olhou e me viu ao lado dela, de pé sobre a mesma régua. ",
-          "note": null,
-          "path": "epubcfi(/6/18[id22]!/4[ConfissoesDeSantoAgostinho-8]/2/40/13,:391,:400)",
-          "created_at": "2021-09-22 05:03:49 -0700",
-          "updated_at": "2021-09-22 05:03:49 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -20898,21 +21223,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 684,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " nequícia",
-          "sentence": "O bom mestre respondeu a ele que o julgava um homem e nada mais — mas ele é bom porque é Deus156 —, lhe respondeu que, se quisesse entrar para a vida, guardasse os mandamentos, afastasse de si o amargo da maldade e da nequícia, não matasse, não cometesse adultério, não roubasse, não dissesse falso testemunho, para que a terra seca aparecesse e gerasse a honra do pai e da mãe e o amor do próximo. ",
-          "note": null,
-          "path": "epubcfi(/6/38[id32]!/4[ConfissoesDeSantoAgostinho-18]/2/50/39,:42,:51)",
-          "created_at": "2021-10-09 12:02:58 -0700",
-          "updated_at": "2021-10-09 12:02:58 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 683,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -20973,21 +21283,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 679,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " reticência",
-          "sentence": "E, por estar bem convencido de que os feitos que nos foram transmitidos dele não poderiam se realizar senão por uma criatura viva e racional, aproximava-se da fé cristã com maior reticência. ",
-          "note": null,
-          "path": "epubcfi(/6/26[id26]!/4[ConfissoesDeSantoAgostinho-12]/2/52/11,:498,:509)",
-          "created_at": "2021-09-30 06:36:50 -0700",
-          "updated_at": "2021-09-30 06:36:50 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 678,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -21029,21 +21324,6 @@ var ibook_history = {
           "updated_at": "2021-10-01 06:08:23 -0700",
           "is_inderline": 0,
           "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 674,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " catecúmeno ",
-          "sentence": "Decidi então me tornar catecúmeno da Igreja católica, seguindo a orientação dos meus pais, enquanto não aparecesse algo certo para onde dirigir meu caminho.85\n",
-          "note": null,
-          "path": "epubcfi(/6/22[id24]!/4[ConfissoesDeSantoAgostinho-10]/2/52/3,:910,:922)",
-          "created_at": "2021-09-24 07:58:17 -0700",
-          "updated_at": "2021-09-24 07:58:17 -0700",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -21363,21 +21643,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 644,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " afãs",
-          "sentence": "São sentimentos, são amores: a impureza do nosso espírito que se derramou para baixo por amor dos afãs, e a santidade do teu que nos recolhe para cima pelo amor da serenidade, para que levantemos o coração para ti, onde teu espírito paira sobre as águas, e venhamos à quietação que está acima, quando nossa alma terá atravessado as águas que são sem substância.20\n",
-          "note": null,
-          "path": "epubcfi(/6/38[id32]!/4[ConfissoesDeSantoAgostinho-18]/2/18/31,:267,:272)",
-          "created_at": "2021-10-09 06:58:12 -0700",
-          "updated_at": "2021-10-09 06:58:12 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 643,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -21537,21 +21802,6 @@ var ibook_history = {
           "path": "epubcfi(/6/14[id20]!/4[ConfissoesDeSantoAgostinho-6]/2/48/5,:1474,:1491)",
           "created_at": "2021-09-19 05:32:12 -0700",
           "updated_at": "2021-09-19 05:32:12 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 628,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " vitupério ",
-          "sentence": "Há algo mais digno de vitupério do que o vício? ",
-          "note": null,
-          "path": "epubcfi(/6/16[id21]!/4[ConfissoesDeSantoAgostinho-7]/2/16/7,:336,:347)",
-          "created_at": "2021-09-19 21:40:47 -0700",
-          "updated_at": "2021-09-19 21:40:47 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -21764,21 +22014,6 @@ var ibook_history = {
           "updated_at": "2021-09-18 20:52:26 -0700",
           "is_inderline": 0,
           "color": 1,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 610,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " prostração, ",
-          "sentence": "Não silencia nem interrompe teus louvores o universo, criatura tua, nem tudo o que sopra7 da boca8 que se volta para ti,9 nem silenciam os animais e os corpos, pela boca de quem os contempla, para que nossa alma ressurja em ti da prostração, apoiando-se naquilo que fizeste para chegar a ti, que o fizeste admiravelmente;10 aí há restabelecimento e verdadeira fortaleza.\n",
-          "note": null,
-          "path": "epubcfi(/6/22[id24]!/4[ConfissoesDeSantoAgostinho-10]/2/4/37,:108,:121)",
-          "created_at": "2021-09-24 06:31:21 -0700",
-          "updated_at": "2021-09-24 06:31:21 -0700",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -22173,21 +22408,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 576,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " lassidão ",
-          "sentence": "Calavas então, e eu ia ainda mais longe de ti, buscando muitos e muitos germes estéreis da dor, em soberba degradação e lassidão inquieta.\n",
-          "note": null,
-          "path": "epubcfi(/6/16[id21]!/4[ConfissoesDeSantoAgostinho-7]/2/6/9,:143,:153)",
-          "created_at": "2021-09-19 21:18:27 -0700",
-          "updated_at": "2021-09-19 21:18:27 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 575,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -22533,21 +22753,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 547,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " sempiterna",
-          "sentence": "Há ainda outro mal do dia, e tomara que baste.59 Com efeito, restauramos as ruínas cotidianas do corpo comendo e bebendo, antes que tu destruas os alimentos e o ventre,60 quando matarás a indigência por uma saciedade magnífica e revestirás este ser corruptível pela incorruptibilidade61 sempiterna. ",
-          "note": null,
-          "path": "epubcfi(/6/32[id29]!/4[ConfissoesDeSantoAgostinho-15]/2/88/19,:0,:11)",
-          "created_at": "2021-10-05 02:54:35 -0700",
-          "updated_at": "2021-10-05 02:54:35 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 546,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -22713,21 +22918,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 533,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " ardores",
-          "sentence": "Ele tampouco conhecia meus ardores, ou a fossa do meu perigo. ",
-          "note": null,
-          "path": "epubcfi(/6/24[id25]!/4[ConfissoesDeSantoAgostinho-11]/2/8/5,:595,:603)",
-          "created_at": "2021-09-26 03:35:29 -0700",
-          "updated_at": "2021-09-26 03:35:29 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 532,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -22799,21 +22989,6 @@ var ibook_history = {
           "updated_at": "2021-10-03 04:49:04 -0700",
           "is_inderline": 0,
           "color": 4,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 525,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": "maniqueísmo",
-          "sentence": "De fato, a biografia agostiniana avança no duplo movimento de uma maturação progressiva, que o narrador encadeia retrospectivamente num processo linear de busca, e de uma sucessão de fracassos que o protagonista sente imediatamente como uma volta constante ao ponto de partida, mas que, na realidade, marcam um aprofundamento contínuo: decepção com a retórica, decepção com a primeira conversão ao maniqueísmo, decepção com a filosofia, decepção com uma segunda conversão, meramente intelectual, ao catolicismo neoplatonizante do círculo de Ambrósio em Milão. ",
-          "note": null,
-          "path": "epubcfi(/6/10[id18]!/4[ConfissoesDeSantoAgostinho-5]/2/86/1,:398,:409)",
-          "created_at": "2021-09-18 21:09:44 -0700",
-          "updated_at": "2021-09-18 21:09:44 -0700",
-          "is_inderline": 0,
-          "color": 1,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -22949,21 +23124,6 @@ var ibook_history = {
           "updated_at": "2021-10-01 05:34:44 -0700",
           "is_inderline": 0,
           "color": 2,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 513,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " decorosa",
-          "sentence": "Quero a ti, justiça e inocência bela e decorosa, com olhares honestos e insaciável saciedade. ",
-          "note": null,
-          "path": "epubcfi(/6/16[id21]!/4[ConfissoesDeSantoAgostinho-7]/2/38/5,:164,:173)",
-          "created_at": "2021-09-19 22:22:10 -0700",
-          "updated_at": "2021-09-19 22:22:10 -0700",
-          "is_inderline": 0,
-          "color": 3,
           "type": 2,
           "asset_details_modification_date": null
         },
@@ -23238,21 +23398,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 492,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " encalço ",
-          "sentence": "Invoco-te em minha alma, que tu preparas a te receber pelo desejo que lhe inspiraste: não me abandones, agora que te invoco, tu, que antes de eu te invocar te adiantaste e vieste ao meu encalço com chamados frequentes e multiformes, para que eu te ouvisse de longe e me virasse e te chamasse, tu, que me chamavas. ",
-          "note": null,
-          "path": "epubcfi(/6/38[id32]!/4[ConfissoesDeSantoAgostinho-18]/2/4/9,:256,:265)",
-          "created_at": "2021-10-09 06:28:43 -0700",
-          "updated_at": "2021-10-09 06:28:43 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 491,
           "book_id": "FC0749237DE0740C62722F21EA90E69E",
           "chapter": null,
@@ -23282,6 +23427,233 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 730,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " mefíticos",
+          "sentence": "Com efeito, elas se vão porque já vinham para não ser, e dilaceram a alma com desejos mefíticos, porque ela também deseja ser e ama repousar naquilo que ama. ",
+          "note": null,
+          "path": "epubcfi(/6/20[id23]!/4[ConfissoesDeSantoAgostinho-9]/2/32/19,:160,:170)",
+          "created_at": "2021-09-23 03:51:19 -0700",
+          "updated_at": "2021-09-23 03:51:19 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 712,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " catecúmeno ",
+          "sentence": "E como soltava a voz para ti, meu Deus, ao ler os salmos de Davi, cantos de fé, sons de piedade que não admitem espíritos orgulhosos, eu, iniciante em teu amor genuíno, catecúmeno em férias numa casa de campo com o catecúmeno Alípio, e minha mãe nos acompanhando com atitude feminina, fé viril, segurança de anciã, caridade de mãe, piedade de cristã! ",
+          "note": null,
+          "path": "epubcfi(/6/30[id28]!/4[ConfissoesDeSantoAgostinho-14]/2/18/3,:216,:228)",
+          "created_at": "2021-10-01 06:23:07 -0700",
+          "updated_at": "2021-10-01 06:23:07 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 706,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " incitou ",
+          "sentence": "Ele lhe perguntou a causa de sua tristeza e de suas lágrimas cotidianas, mais para instruir, como se costuma fazer, do que para aprender; e, quando ela respondeu que chorava minha perdição, ele mandou que ficasse tranquila e a incitou a olhar e ver que onde ela estava eu também estava.46 Ela então olhou e me viu ao lado dela, de pé sobre a mesma régua. ",
+          "note": null,
+          "path": "epubcfi(/6/18[id22]!/4[ConfissoesDeSantoAgostinho-8]/2/40/13,:391,:400)",
+          "created_at": "2021-09-22 05:03:49 -0700",
+          "updated_at": "2021-09-22 05:03:49 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 684,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " nequícia",
+          "sentence": "O bom mestre respondeu a ele que o julgava um homem e nada mais — mas ele é bom porque é Deus156 —, lhe respondeu que, se quisesse entrar para a vida, guardasse os mandamentos, afastasse de si o amargo da maldade e da nequícia, não matasse, não cometesse adultério, não roubasse, não dissesse falso testemunho, para que a terra seca aparecesse e gerasse a honra do pai e da mãe e o amor do próximo. ",
+          "note": null,
+          "path": "epubcfi(/6/38[id32]!/4[ConfissoesDeSantoAgostinho-18]/2/50/39,:42,:51)",
+          "created_at": "2021-10-09 12:02:58 -0700",
+          "updated_at": "2021-10-09 12:02:58 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 679,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " reticência",
+          "sentence": "E, por estar bem convencido de que os feitos que nos foram transmitidos dele não poderiam se realizar senão por uma criatura viva e racional, aproximava-se da fé cristã com maior reticência. ",
+          "note": null,
+          "path": "epubcfi(/6/26[id26]!/4[ConfissoesDeSantoAgostinho-12]/2/52/11,:498,:509)",
+          "created_at": "2021-09-30 06:36:50 -0700",
+          "updated_at": "2021-09-30 06:36:50 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 674,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " catecúmeno ",
+          "sentence": "Decidi então me tornar catecúmeno da Igreja católica, seguindo a orientação dos meus pais, enquanto não aparecesse algo certo para onde dirigir meu caminho.85\n",
+          "note": null,
+          "path": "epubcfi(/6/22[id24]!/4[ConfissoesDeSantoAgostinho-10]/2/52/3,:910,:922)",
+          "created_at": "2021-09-24 07:58:17 -0700",
+          "updated_at": "2021-09-24 07:58:17 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 644,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " afãs",
+          "sentence": "São sentimentos, são amores: a impureza do nosso espírito que se derramou para baixo por amor dos afãs, e a santidade do teu que nos recolhe para cima pelo amor da serenidade, para que levantemos o coração para ti, onde teu espírito paira sobre as águas, e venhamos à quietação que está acima, quando nossa alma terá atravessado as águas que são sem substância.20\n",
+          "note": null,
+          "path": "epubcfi(/6/38[id32]!/4[ConfissoesDeSantoAgostinho-18]/2/18/31,:267,:272)",
+          "created_at": "2021-10-09 06:58:12 -0700",
+          "updated_at": "2021-10-09 06:58:12 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 628,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " vitupério ",
+          "sentence": "Há algo mais digno de vitupério do que o vício? ",
+          "note": null,
+          "path": "epubcfi(/6/16[id21]!/4[ConfissoesDeSantoAgostinho-7]/2/16/7,:336,:347)",
+          "created_at": "2021-09-19 21:40:47 -0700",
+          "updated_at": "2021-09-19 21:40:47 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 610,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " prostração, ",
+          "sentence": "Não silencia nem interrompe teus louvores o universo, criatura tua, nem tudo o que sopra7 da boca8 que se volta para ti,9 nem silenciam os animais e os corpos, pela boca de quem os contempla, para que nossa alma ressurja em ti da prostração, apoiando-se naquilo que fizeste para chegar a ti, que o fizeste admiravelmente;10 aí há restabelecimento e verdadeira fortaleza.\n",
+          "note": null,
+          "path": "epubcfi(/6/22[id24]!/4[ConfissoesDeSantoAgostinho-10]/2/4/37,:108,:121)",
+          "created_at": "2021-09-24 06:31:21 -0700",
+          "updated_at": "2021-09-24 06:31:21 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 576,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " lassidão ",
+          "sentence": "Calavas então, e eu ia ainda mais longe de ti, buscando muitos e muitos germes estéreis da dor, em soberba degradação e lassidão inquieta.\n",
+          "note": null,
+          "path": "epubcfi(/6/16[id21]!/4[ConfissoesDeSantoAgostinho-7]/2/6/9,:143,:153)",
+          "created_at": "2021-09-19 21:18:27 -0700",
+          "updated_at": "2021-09-19 21:18:27 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 547,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " sempiterna",
+          "sentence": "Há ainda outro mal do dia, e tomara que baste.59 Com efeito, restauramos as ruínas cotidianas do corpo comendo e bebendo, antes que tu destruas os alimentos e o ventre,60 quando matarás a indigência por uma saciedade magnífica e revestirás este ser corruptível pela incorruptibilidade61 sempiterna. ",
+          "note": null,
+          "path": "epubcfi(/6/32[id29]!/4[ConfissoesDeSantoAgostinho-15]/2/88/19,:0,:11)",
+          "created_at": "2021-10-05 02:54:35 -0700",
+          "updated_at": "2021-10-05 02:54:35 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 533,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " ardores",
+          "sentence": "Ele tampouco conhecia meus ardores, ou a fossa do meu perigo. ",
+          "note": null,
+          "path": "epubcfi(/6/24[id25]!/4[ConfissoesDeSantoAgostinho-11]/2/8/5,:595,:603)",
+          "created_at": "2021-09-26 03:35:29 -0700",
+          "updated_at": "2021-09-26 03:35:29 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 525,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": "maniqueísmo",
+          "sentence": "De fato, a biografia agostiniana avança no duplo movimento de uma maturação progressiva, que o narrador encadeia retrospectivamente num processo linear de busca, e de uma sucessão de fracassos que o protagonista sente imediatamente como uma volta constante ao ponto de partida, mas que, na realidade, marcam um aprofundamento contínuo: decepção com a retórica, decepção com a primeira conversão ao maniqueísmo, decepção com a filosofia, decepção com uma segunda conversão, meramente intelectual, ao catolicismo neoplatonizante do círculo de Ambrósio em Milão. ",
+          "note": null,
+          "path": "epubcfi(/6/10[id18]!/4[ConfissoesDeSantoAgostinho-5]/2/86/1,:398,:409)",
+          "created_at": "2021-09-18 21:09:44 -0700",
+          "updated_at": "2021-09-18 21:09:44 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 513,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " decorosa",
+          "sentence": "Quero a ti, justiça e inocência bela e decorosa, com olhares honestos e insaciável saciedade. ",
+          "note": null,
+          "path": "epubcfi(/6/16[id21]!/4[ConfissoesDeSantoAgostinho-7]/2/38/5,:164,:173)",
+          "created_at": "2021-09-19 22:22:10 -0700",
+          "updated_at": "2021-09-19 22:22:10 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        },
+        {
+          "pk": 492,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " encalço ",
+          "sentence": "Invoco-te em minha alma, que tu preparas a te receber pelo desejo que lhe inspiraste: não me abandones, agora que te invoco, tu, que antes de eu te invocar te adiantaste e vieste ao meu encalço com chamados frequentes e multiformes, para que eu te ouvisse de longe e me virasse e te chamasse, tu, que me chamavas. ",
+          "note": null,
+          "path": "epubcfi(/6/38[id32]!/4[ConfissoesDeSantoAgostinho-18]/2/4/9,:256,:265)",
+          "created_at": "2021-10-09 06:28:43 -0700",
+          "updated_at": "2021-10-09 06:28:43 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -23303,6 +23675,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -23536,21 +23911,6 @@ var ibook_history = {
           "asset_details_modification_date": null
         },
         {
-          "pk": 146,
-          "book_id": "4C7DB68B91245D931AA20F6E986DC2D7",
-          "chapter": null,
-          "text": " humildade",
-          "sentence": "Outra condição que a relação dialógica impõe é a humildade. ",
-          "note": null,
-          "path": "epubcfi(/6/58[id12]!/4/54/1,:48,:58)",
-          "created_at": "2021-04-10 21:36:10 -0700",
-          "updated_at": "2021-04-10 21:36:10 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
           "pk": 135,
           "book_id": "4C7DB68B91245D931AA20F6E986DC2D7",
           "chapter": null,
@@ -23640,6 +24000,23 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+        {
+          "pk": 146,
+          "book_id": "4C7DB68B91245D931AA20F6E986DC2D7",
+          "chapter": null,
+          "text": " humildade",
+          "sentence": "Outra condição que a relação dialógica impõe é a humildade. ",
+          "note": null,
+          "path": "epubcfi(/6/58[id12]!/4/54/1,:48,:58)",
+          "created_at": "2021-04-10 21:36:10 -0700",
+          "updated_at": "2021-04-10 21:36:10 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "asset_details_modification_date": null
+        }
       ]
     },
     {
@@ -23676,6 +24053,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -23697,6 +24077,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -23720,6 +24103,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -23742,6 +24128,9 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -23763,6 +24152,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -23860,6 +24252,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -23911,6 +24306,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -24172,6 +24570,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -24358,6 +24759,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -24379,6 +24783,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -24416,6 +24823,9 @@ var ibook_history = {
           "type": 2,
           "asset_details_modification_date": null
         }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -24434,6 +24844,9 @@ var ibook_history = {
       "updated_at": "2022-05-29 17:45:06 -0700",
       "asset_details_modification_date": "2022-05-29 17:45:06 -0700",
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -24454,6 +24867,9 @@ var ibook_history = {
       "asset_details_modification_date": "2022-05-29 17:44:56 -0700",
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -24472,6 +24888,9 @@ var ibook_history = {
       "updated_at": "2022-05-29 17:44:25 -0700",
       "asset_details_modification_date": "2022-05-29 17:44:25 -0700",
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     },
@@ -24492,6 +24911,9 @@ var ibook_history = {
       "asset_details_modification_date": "2022-05-29 17:40:24 -0700",
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -24511,6 +24933,9 @@ var ibook_history = {
       "asset_details_modification_date": "2022-05-29 17:37:57 -0700",
       "notes": [
 
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -24529,6 +24954,9 @@ var ibook_history = {
       "updated_at": "2022-05-26 19:19:27 -0700",
       "asset_details_modification_date": "2022-05-26 19:19:27 -0700",
       "notes": [
+
+      ],
+      "new_words": [
 
       ]
     }
