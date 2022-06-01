@@ -105,15 +105,12 @@ books = get(APPLE_BOOK_LIBRARY_PATH, SELECT_LIBRARY, Library)
 annotations.map! do |annota| 
   annota[:created_at] = convert_date(annota[:created_at])
   annota[:updated_at] = convert_date(annota[:updated_at])
-  annota[:asset_details_modification_date] = convert_date(annota[:asset_details_modification_date])
-  annota[:words_count] = (annota[:text] || annota[:sentence]).split.count 
+  annota[:words_count] = (annota[:text] || annota[:sentence] || '').split.count 
   annota
 end
 
-vocabularies = []
-annotations.each_with_index do |nota, index| 
-  vocabularies << annotations.delete_at(index) if nota[:text].split.count == 1
-end
+vocabularies = annotations.select{|annota| annota[:words_count] == 1}
+annotations.reject!{|annota| annota[:words_count] == 1}
 
 new_words_grouped = vocabularies.group_by{|i| i[:book_id]}
 annota_grouped = annotations.group_by{|i| i[:book_id]}
@@ -155,7 +152,7 @@ result_set = {
   book_count: books.length,
   author_count: books.group_by{|i| i[:author]}.length,
   notes_count: annotations.length,
-  new_words_count: new_words_grouped.length,
+  new_words_count: vocabularies.length,
   data: books
 }
 

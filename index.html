@@ -72,13 +72,13 @@
       <!-- Filters -->
       <ul class="nav justify-content-center nav-pills bg-light shadow-sm m-2 sticky-top">
         <li class="nav-item p-2" role="button">
-          <a class="nav-link active" aria-current="true" onclick="mountAll(this)">All</a>
+          <a id="all" class="nav-link active" aria-current="true" onclick="mountAll(this)">All</a>
         </li>
         <li class="nav-item p-2" role="button">
-          <a class="nav-link" aria-current="true" onclick="mountInProgress(this)">In Progress</a>
+          <a id="progress" class="nav-link" aria-current="true" onclick="mountInProgress(this)">In Progress</a>
         </li>
         <li class="nav-item p-2" role="button">
-          <a class="nav-link" aria-current="true" onclick="mountFinished(this)">Finished</a>
+          <a id="finished" class="nav-link" aria-current="true" onclick="mountFinished(this)">Finished</a>
         </li>
       </ul>
 
@@ -99,6 +99,10 @@
       $(function() {
         mountAll();
 
+        $("#all").append(` (${allBooks().length})`);
+        $("#progress").append(` (${inProgressBooks().length})`);
+        $("#finished").append(` (${finishedBooks().length})`);
+
         var book = ibook_history.data[0]
         var notes = ibook_history.data[0].notes
         $("#quoteOne").append(mountBigQuote(notes[0], book));
@@ -108,24 +112,17 @@
 
       function mountAll(element=null) {
         $(element).tab('show');
-        const books = ibook_history.data
-        mountLib(books);
+        mountLib(allBooks());
       }
 
       function mountInProgress(element) {
         $(element).tab('show');
-        const books = ibook_history.data.filter(function(book){ 
-          return !!book.notes.length && !(book.reading_progress === 1 || book.marked_as_finished === 1)
-        })
-        mountLib(books);
+        mountLib(inProgressBooks());
       }
 
       function mountFinished(element) {
         $(element).tab('show');
-        const books = ibook_history.data.filter(function(book){ 
-          return book.reading_progress === 1 || book.marked_as_finished === 1
-        })
-        mountLib(books);
+        mountLib(finishedBooks());
       }
 
       function mountLib(books) {

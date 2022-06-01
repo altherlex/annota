@@ -1,16 +1,16 @@
 var ibook_history = {
-  "updated_at": "2022-05-29 20:42:47 -0700",
+  "updated_at": "2022-06-01 10:26:24 -0700",
   "book_count": 149,
   "author_count": 114,
   "notes_count": 1048,
-  "new_words_count": 21,
+  "new_words_count": 83,
   "data": [
     {
       "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
       "author": "Joaquim Nabuco",
       "title": "Minha Formação",
-      "last_engaged_date": "2022-05-29 18:24:21 -0700",
-      "reading_progress": 0.6637930870056152,
+      "last_engaged_date": "2022-06-01 00:10:42 -0700",
+      "reading_progress": 0.8247125744819641,
       "marked_as_finished": null,
       "purchase_date": "2022-05-15 08:26:20 -0700",
       "genre": "Memórias",
@@ -25,19 +25,139 @@ var ibook_history = {
       },
       "notes": [
         {
-          "pk": 1336,
+          "pk": 1347,
           "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
-          "chapter": "Capítulo XX: Massangana (1)",
-          "text": "pareceume",
+          "chapter": "Capítulo XXII: Caráter do movimento – A parte da dinastia",
+          "text": "A liberdade por si só é fecunda, e sobre os destroços da escravidão refar-se-á com o tempo uma sociedade mais unida, de idéias mais largas,",
           "sentence": null,
           "note": null,
-          "path": "epubcfi(/6/48[body022]!/4/18/1,:1111,:1120)",
-          "created_at": "2022-05-29 18:12:00 -0700",
-          "updated_at": "2022-05-29 18:12:01 -0700",
+          "path": "epubcfi(/6/52[body024]!/4/8/1,:771,:910)",
+          "created_at": "2022-05-31 21:39:44 -0700",
+          "updated_at": "2022-05-31 21:39:45 -0700",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
+        },
+        {
+          "pk": 1345,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXII: Caráter do movimento – A parte da dinastia",
+          "text": "A política é a arte de escolher as sementes; a religião, a de lhes preparar o terreno.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/52[body024]!/4/6/1,:922,:1008)",
+          "created_at": "2022-05-31 21:28:26 -0700",
+          "updated_at": "2022-05-31 21:28:28 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 17
+        },
+        {
+          "pk": 1344,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXI: A abolição",
+          "text": "Era uma fornalha cósmica a que ardia nele. ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[body023]!/4/78/3,:769,:812)",
+          "created_at": "2022-05-31 21:12:12 -0700",
+          "updated_at": "2022-05-31 21:12:13 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 1343,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXI: A abolição",
+          "text": "Enfim… Creio que podemos esperar tranqüilos o juízo de Deus; porque havemos cumprido sua grande lei, trabalhando pelo progresso da humanidade.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[body023]!/4/48/1,:0,:142)",
+          "created_at": "2022-05-31 21:09:08 -0700",
+          "updated_at": "2022-05-31 21:09:09 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 21
+        },
+        {
+          "pk": 1342,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXI: A abolição",
+          "text": "O movimento abolicionista teve com efeito duas fases bem acentuadamente divididas: a primeira, de 1879 a 1884, em que os abolicionistas combateram sós, entregues aos seus próprios recursos, e a segunda, de 1884 a 1888, em que eles viram sua causa adotada sucessivamente pelos dois grandes partidos do país.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[body023]!/4/16/1,:704,:1010)",
+          "created_at": "2022-05-31 20:59:14 -0700",
+          "updated_at": "2022-05-31 20:59:15 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 49
+        },
+        {
+          "pk": 1341,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXI: A abolição",
+          "text": "Ninguém, afinal, sabe quem fez mais pela abolição: se a propaganda, se a resistência: se os que queriam tudo, se os que não queriam nada… Nada há mais ilusório que as distribuições de glória… As lendas hão de sempre viver, como raios de luz na treva amontoada do passado, mas a beleza delas não está em sua verdade, que é sempre pequena; está no esforço que a humanidade faz, para assim reter alguns episódios de uma vida tão extensa que, para abrangê-la, não há memória possível.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[body023]!/4/14/17,:621,:1101)",
+          "created_at": "2022-05-31 20:56:14 -0700",
+          "updated_at": "2022-05-31 20:56:15 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 86
+        },
+        {
+          "pk": 1340,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXI: A abolição",
+          "text": "Não há nada mais difícil do que avaliar a importância relativa dos diversos fatores de um movimento que se torna nacional.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[body023]!/4/14/15,:321,:443)",
+          "created_at": "2022-05-31 20:53:09 -0700",
+          "updated_at": "2022-05-31 20:53:10 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 21
+        },
+        {
+          "pk": 1339,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXI: A abolição",
+          "text": " Compare-se nesse ponto o que ela foi no Brasil com o que foi na América do Norte. No Brasil, a escravidão é uma fusão de raças; nos Estados Unidos, é a guerra entre elas.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[body023]!/4/6/3,:737,:908)",
+          "created_at": "2022-05-31 20:34:28 -0700",
+          "updated_at": "2022-05-31 20:34:30 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 34
+        },
+        {
+          "pk": 1338,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXI: A abolição",
+          "text": "Quando a campanha da abolição foi iniciada, restavam ainda quase dois milhões de escravos, enquanto que os seus filhos de menos de oito e todos os que viessem a nascer, apesar de ingênuos, estavam sujeitos até aos 21 anos a um regime praticamente igual ao cativeiro. Foi esse imenso bloco que atacamos em 1879",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[body023]!/4/6,/1:0,/3:122)",
+          "created_at": "2022-05-31 20:31:59 -0700",
+          "updated_at": "2022-05-31 20:32:01 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 54
         },
         {
           "pk": 1335,
@@ -52,7 +172,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 1330,
@@ -67,7 +187,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 45
         },
         {
           "pk": 1329,
@@ -82,7 +202,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1328,
@@ -97,7 +217,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 1327,
@@ -112,7 +232,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1326,
@@ -127,7 +247,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 51
         },
         {
           "pk": 1325,
@@ -142,7 +262,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1324,
@@ -157,7 +277,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1323,
@@ -172,7 +292,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 118
         },
         {
           "pk": 1322,
@@ -187,7 +307,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 36
         },
         {
           "pk": 1321,
@@ -202,7 +322,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 1320,
@@ -217,7 +337,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 49
         },
         {
           "pk": 1319,
@@ -232,7 +352,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 105
         },
         {
           "pk": 1318,
@@ -247,7 +367,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 68
         },
         {
           "pk": 1317,
@@ -262,7 +382,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 1316,
@@ -277,7 +397,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         },
         {
           "pk": 1315,
@@ -292,7 +412,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 40
         },
         {
           "pk": 1314,
@@ -307,7 +427,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1313,
@@ -322,7 +442,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 1312,
@@ -337,7 +457,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 1311,
@@ -352,7 +472,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 1309,
@@ -367,7 +487,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 1308,
@@ -382,7 +502,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 36
         },
         {
           "pk": 1307,
@@ -397,7 +517,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 133
         },
         {
           "pk": 1306,
@@ -412,7 +532,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 1305,
@@ -427,7 +547,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 40
         },
         {
           "pk": 1304,
@@ -442,7 +562,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 41
         },
         {
           "pk": 1303,
@@ -457,7 +577,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 1302,
@@ -472,7 +592,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 1301,
@@ -487,7 +607,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1300,
@@ -502,7 +622,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 45
         },
         {
           "pk": 1299,
@@ -517,7 +637,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 51
         },
         {
           "pk": 1298,
@@ -532,7 +652,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 1297,
@@ -547,7 +667,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 1296,
@@ -562,7 +682,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 1295,
@@ -577,7 +697,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 1294,
@@ -592,7 +712,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 1293,
@@ -607,7 +727,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 1292,
@@ -622,7 +742,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 1291,
@@ -637,7 +757,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1290,
@@ -652,7 +772,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1289,
@@ -667,7 +787,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1285,
@@ -682,7 +802,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 1284,
@@ -697,7 +817,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 78
         },
         {
           "pk": 1283,
@@ -712,7 +832,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 57
         },
         {
           "pk": 1282,
@@ -727,7 +847,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 1281,
@@ -742,7 +862,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         },
         {
           "pk": 1279,
@@ -757,7 +877,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1278,
@@ -772,7 +892,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1277,
@@ -787,7 +907,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1276,
@@ -802,22 +922,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 1274,
-          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
-          "chapter": "Capítulo IV: Atração do mundo",
-          "text": "ubiqüidade",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/16[body006]!/4/16/3,:153,:163)",
-          "created_at": "2022-05-16 19:53:23 -0700",
-          "updated_at": "2022-05-16 19:53:24 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 54
         },
         {
           "pk": 1273,
@@ -832,7 +937,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 1272,
@@ -847,7 +952,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1268,
@@ -862,7 +967,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 1267,
@@ -877,7 +982,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 56
         },
         {
           "pk": 1266,
@@ -892,7 +997,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 55
         },
         {
           "pk": 1262,
@@ -907,7 +1012,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1244,
@@ -922,7 +1027,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1243,
@@ -937,7 +1042,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 149
         },
         {
           "pk": 1242,
@@ -952,10 +1057,25 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         }
       ],
       "new_words": [
+        {
+          "pk": 1346,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XXII: Caráter do movimento – A parte da dinastia",
+          "text": "sopitados",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/52[body024]!/4/8/1,:760,:769)",
+          "created_at": "2022-05-31 21:38:16 -0700",
+          "updated_at": "2022-05-31 21:38:18 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
         {
           "pk": 1337,
           "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
@@ -969,7 +1089,22 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
+        },
+        {
+          "pk": 1336,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo XX: Massangana (1)",
+          "text": "pareceume",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/48[body022]!/4/18/1,:1111,:1120)",
+          "created_at": "2022-05-29 18:12:00 -0700",
+          "updated_at": "2022-05-29 18:12:01 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
         },
         {
           "pk": 1310,
@@ -984,7 +1119,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 1280,
@@ -999,7 +1134,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 1275,
@@ -1014,7 +1149,22 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
+        },
+        {
+          "pk": 1274,
+          "book_id": "BDBCE4ADE1BC20C9692195517AF48370",
+          "chapter": "Capítulo IV: Atração do mundo",
+          "text": "ubiqüidade",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[body006]!/4/16/3,:153,:163)",
+          "created_at": "2022-05-16 19:53:23 -0700",
+          "updated_at": "2022-05-16 19:53:24 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
         }
       ]
     },
@@ -1480,7 +1630,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1231,
@@ -1495,7 +1645,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         }
       ],
       "new_words": [
@@ -1593,7 +1743,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1258,
@@ -1608,7 +1758,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 1256,
@@ -1623,7 +1773,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 1255,
@@ -1638,7 +1788,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 1253,
@@ -1653,7 +1803,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 83
         },
         {
           "pk": 1251,
@@ -1668,7 +1818,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         },
         {
           "pk": 1250,
@@ -1683,7 +1833,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1249,
@@ -1698,7 +1848,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1248,
@@ -1713,7 +1863,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 1247,
@@ -1728,7 +1878,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1240,
@@ -1743,7 +1893,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 1238,
@@ -1758,7 +1908,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 1236,
@@ -1773,7 +1923,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1235,
@@ -1788,7 +1938,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1234,
@@ -1803,7 +1953,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 1233,
@@ -1818,7 +1968,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1230,
@@ -1833,7 +1983,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 1229,
@@ -1848,7 +1998,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 1225,
@@ -1863,7 +2013,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1224,
@@ -1878,7 +2028,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 1223,
@@ -1893,7 +2043,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 1221,
@@ -1908,7 +2058,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1220,
@@ -1923,7 +2073,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 1219,
@@ -1938,7 +2088,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 1218,
@@ -1953,7 +2103,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 1217,
@@ -1968,7 +2118,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1216,
@@ -1983,7 +2133,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1215,
@@ -1998,7 +2148,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1214,
@@ -2013,7 +2163,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 1213,
@@ -2028,7 +2178,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1212,
@@ -2043,7 +2193,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 1211,
@@ -2058,7 +2208,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 1210,
@@ -2073,7 +2223,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 1209,
@@ -2088,7 +2238,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 1208,
@@ -2103,7 +2253,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 1207,
@@ -2118,7 +2268,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 1206,
@@ -2133,7 +2283,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1205,
@@ -2148,7 +2298,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 1204,
@@ -2163,7 +2313,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 1203,
@@ -2178,7 +2328,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1202,
@@ -2193,7 +2343,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1201,
@@ -2208,7 +2358,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 1200,
@@ -2223,7 +2373,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 1199,
@@ -2238,7 +2388,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1198,
@@ -2253,7 +2403,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1197,
@@ -2268,7 +2418,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 1196,
@@ -2283,7 +2433,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1195,
@@ -2298,7 +2448,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 1194,
@@ -2313,7 +2463,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 1193,
@@ -2328,7 +2478,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 1191,
@@ -2343,7 +2493,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 41
         },
         {
           "pk": 1190,
@@ -2358,7 +2508,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1189,
@@ -2373,7 +2523,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1188,
@@ -2388,7 +2538,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         }
       ],
       "new_words": [
@@ -2405,7 +2555,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -2584,7 +2734,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 56
         },
         {
           "pk": 1185,
@@ -2599,7 +2749,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 52
         },
         {
           "pk": 1184,
@@ -2614,7 +2764,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1183,
@@ -2629,7 +2779,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1182,
@@ -2644,7 +2794,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 1181,
@@ -2659,7 +2809,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 71
         },
         {
           "pk": 1180,
@@ -2674,7 +2824,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1179,
@@ -2689,7 +2839,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1178,
@@ -2704,7 +2854,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1177,
@@ -2719,7 +2869,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 1176,
@@ -2734,7 +2884,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1175,
@@ -2749,7 +2899,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1173,
@@ -2764,7 +2914,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 1172,
@@ -2779,7 +2929,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 1171,
@@ -2794,7 +2944,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 1170,
@@ -2809,7 +2959,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         }
       ],
       "new_words": [
@@ -2826,7 +2976,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -2921,7 +3071,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1125,
@@ -2936,7 +3086,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 1124,
@@ -2951,7 +3101,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 57
         },
         {
           "pk": 1123,
@@ -2966,7 +3116,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 55
         },
         {
           "pk": 1122,
@@ -2981,7 +3131,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 1121,
@@ -2996,7 +3146,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1120,
@@ -3011,7 +3161,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 1119,
@@ -3026,7 +3176,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 1118,
@@ -3041,7 +3191,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 1117,
@@ -3056,7 +3206,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 1116,
@@ -3071,7 +3221,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         }
       ],
       "new_words": [
@@ -3169,7 +3319,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1115,
@@ -3184,7 +3334,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         }
       ],
       "new_words": [
@@ -3201,7 +3351,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -3519,7 +3669,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -3640,7 +3790,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 1036,
@@ -3655,7 +3805,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 1034,
@@ -3670,7 +3820,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 1016,
@@ -3685,7 +3835,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 1011,
@@ -3700,7 +3850,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         }
       ],
       "new_words": [
@@ -4134,7 +4284,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1039,
@@ -4149,7 +4299,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 1037,
@@ -4164,7 +4314,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 1030,
@@ -4179,7 +4329,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 1027,
@@ -4194,7 +4344,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 1015,
@@ -4209,7 +4359,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1014,
@@ -4224,7 +4374,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 1009,
@@ -4239,7 +4389,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1008,
@@ -4254,7 +4404,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 1006,
@@ -4269,7 +4419,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 1002,
@@ -4284,7 +4434,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         }
       ],
       "new_words": [
@@ -4382,7 +4532,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         }
       ],
       "new_words": [
@@ -4649,7 +4799,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1046,
@@ -4664,7 +4814,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1044,
@@ -4679,7 +4829,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1043,
@@ -4694,7 +4844,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 1041,
@@ -4709,7 +4859,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1038,
@@ -4724,7 +4874,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1035,
@@ -4739,7 +4889,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1032,
@@ -4754,7 +4904,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1031,
@@ -4769,7 +4919,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1028,
@@ -4784,7 +4934,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1025,
@@ -4799,7 +4949,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 1024,
@@ -4814,7 +4964,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1023,
@@ -4829,7 +4979,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 1022,
@@ -4844,7 +4994,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1020,
@@ -4859,7 +5009,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 1019,
@@ -4874,7 +5024,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 1017,
@@ -4889,7 +5039,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 1013,
@@ -4904,7 +5054,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1012,
@@ -4919,7 +5069,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 1010,
@@ -4934,7 +5084,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 1005,
@@ -4949,7 +5099,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1004,
@@ -4964,7 +5114,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1003,
@@ -4979,7 +5129,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         }
       ],
       "new_words": [
@@ -4996,7 +5146,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 1021,
@@ -5011,7 +5161,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 1007,
@@ -5026,7 +5176,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -5373,7 +5523,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 55
         },
         {
           "pk": 1167,
@@ -5388,7 +5538,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 56
         },
         {
           "pk": 1166,
@@ -5403,7 +5553,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 1165,
@@ -5418,7 +5568,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 145
         },
         {
           "pk": 1164,
@@ -5433,7 +5583,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1163,
@@ -5448,7 +5598,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 1162,
@@ -5463,7 +5613,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 61
         },
         {
           "pk": 1161,
@@ -5478,7 +5628,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 1160,
@@ -5493,7 +5643,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 1159,
@@ -5508,7 +5658,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         },
         {
           "pk": 1158,
@@ -5523,7 +5673,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1157,
@@ -5538,7 +5688,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 1156,
@@ -5553,7 +5703,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 58
         },
         {
           "pk": 1155,
@@ -5568,7 +5718,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 1154,
@@ -5583,7 +5733,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 1153,
@@ -5598,7 +5748,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 1152,
@@ -5613,7 +5763,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 47
         },
         {
           "pk": 1150,
@@ -5628,7 +5778,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 1149,
@@ -5643,7 +5793,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 1148,
@@ -5658,7 +5808,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 1147,
@@ -5673,7 +5823,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 51
         },
         {
           "pk": 1145,
@@ -5688,7 +5838,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 1144,
@@ -5703,7 +5853,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 1143,
@@ -5718,7 +5868,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 1142,
@@ -5733,7 +5883,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1141,
@@ -5748,7 +5898,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 32
         },
         {
           "pk": 1140,
@@ -5763,7 +5913,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         },
         {
           "pk": 1139,
@@ -5778,7 +5928,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1138,
@@ -5793,7 +5943,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1137,
@@ -5808,7 +5958,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 1136,
@@ -5823,7 +5973,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 1135,
@@ -5838,7 +5988,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1134,
@@ -5853,7 +6003,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 1133,
@@ -5868,7 +6018,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 1132,
@@ -5883,7 +6033,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1131,
@@ -5898,7 +6048,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 1130,
@@ -5913,7 +6063,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1129,
@@ -5928,7 +6078,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         }
       ],
       "new_words": [
@@ -6026,7 +6176,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 995,
@@ -6041,7 +6191,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 977,
@@ -6056,7 +6206,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         }
       ],
       "new_words": [
@@ -6574,7 +6724,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 309,
@@ -6589,7 +6739,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 119
         },
         {
           "pk": 305,
@@ -6604,7 +6754,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 61
         },
         {
           "pk": 295,
@@ -6619,7 +6769,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 40
         },
         {
           "pk": 291,
@@ -6634,7 +6784,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 286,
@@ -6649,7 +6799,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 280,
@@ -6664,7 +6814,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 133
         },
         {
           "pk": 279,
@@ -6679,7 +6829,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 73
         }
       ],
       "new_words": [
@@ -7197,7 +7347,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 999,
@@ -7212,7 +7362,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 998,
@@ -7227,7 +7377,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 997,
@@ -7242,7 +7392,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 996,
@@ -7257,7 +7407,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 994,
@@ -7272,7 +7422,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 993,
@@ -7287,7 +7437,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 992,
@@ -7302,7 +7452,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 991,
@@ -7317,7 +7467,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 990,
@@ -7332,7 +7482,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 989,
@@ -7347,7 +7497,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 988,
@@ -7362,7 +7512,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 987,
@@ -7377,7 +7527,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 41
         },
         {
           "pk": 986,
@@ -7392,7 +7542,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 985,
@@ -7407,7 +7557,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 984,
@@ -7422,7 +7572,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 983,
@@ -7437,7 +7587,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 982,
@@ -7452,7 +7602,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 981,
@@ -7467,7 +7617,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 980,
@@ -7482,7 +7632,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 979,
@@ -7497,7 +7647,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 978,
@@ -7512,7 +7662,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         }
       ],
       "new_words": [
@@ -7694,7 +7844,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 304,
@@ -7709,7 +7859,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 303,
@@ -7724,7 +7874,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 301,
@@ -7739,7 +7889,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 300,
@@ -7754,7 +7904,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 89
         },
         {
           "pk": 299,
@@ -7769,7 +7919,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 38
         },
         {
           "pk": 298,
@@ -7784,7 +7934,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 297,
@@ -7799,7 +7949,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 296,
@@ -7814,7 +7964,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 293,
@@ -7829,7 +7979,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 292,
@@ -7844,7 +7994,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 289,
@@ -7859,7 +8009,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 288,
@@ -7874,7 +8024,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 285,
@@ -7889,7 +8039,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 61
         },
         {
           "pk": 284,
@@ -7904,7 +8054,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 55
         },
         {
           "pk": 283,
@@ -7919,7 +8069,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 282,
@@ -7934,7 +8084,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 85
         },
         {
           "pk": 281,
@@ -7949,7 +8099,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 54
         },
         {
           "pk": 277,
@@ -7964,7 +8114,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 276,
@@ -7979,7 +8129,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 62
         }
       ],
       "new_words": [
@@ -8077,7 +8227,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 926,
@@ -8092,7 +8242,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 924,
@@ -8107,7 +8257,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 923,
@@ -8122,7 +8272,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 922,
@@ -8137,7 +8287,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 921,
@@ -8152,7 +8302,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 920,
@@ -8167,7 +8317,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 919,
@@ -8182,7 +8332,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 918,
@@ -8197,7 +8347,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 917,
@@ -8212,7 +8362,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 916,
@@ -8227,7 +8377,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 915,
@@ -8242,7 +8392,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 914,
@@ -8257,7 +8407,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 913,
@@ -8272,7 +8422,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 912,
@@ -8287,7 +8437,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 911,
@@ -8302,22 +8452,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 909,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": " arrogar ",
-          "sentence": "— Não posso me arrogar a faculdade de administrar justiça — replicou. — Se a senhora tem alguma coisa a dizer, diga diante do conselho de guerra.\n",
-          "note": null,
-          "path": "epubcfi(/6/30[id30]!/4[Cem_anos_de_solid_o-12]/2/82/1,:14,:23)",
-          "created_at": "2021-12-17 04:28:52 -0800",
-          "updated_at": "2021-12-17 04:28:52 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 72
         },
         {
           "pk": 908,
@@ -8332,7 +8467,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 906,
@@ -8347,7 +8482,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 904,
@@ -8362,7 +8497,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 903,
@@ -8377,7 +8512,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 131
         },
         {
           "pk": 902,
@@ -8392,7 +8527,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 901,
@@ -8407,7 +8542,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 900,
@@ -8422,7 +8557,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 899,
@@ -8437,7 +8572,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 897,
@@ -8452,7 +8587,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 896,
@@ -8467,7 +8602,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 895,
@@ -8482,7 +8617,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 893,
@@ -8497,7 +8632,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 892,
@@ -8512,7 +8647,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 50
         },
         {
           "pk": 891,
@@ -8527,7 +8662,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 889,
@@ -8542,7 +8677,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 888,
@@ -8557,7 +8692,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 886,
@@ -8572,7 +8707,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 885,
@@ -8587,7 +8722,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 883,
@@ -8602,7 +8737,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 881,
@@ -8617,7 +8752,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 880,
@@ -8632,7 +8767,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 878,
@@ -8647,7 +8782,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 877,
@@ -8662,7 +8797,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 876,
@@ -8677,7 +8812,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 875,
@@ -8692,7 +8827,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 874,
@@ -8707,7 +8842,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 873,
@@ -8722,7 +8857,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 872,
@@ -8737,7 +8872,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 871,
@@ -8752,7 +8887,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 869,
@@ -8767,7 +8902,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 868,
@@ -8782,7 +8917,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 867,
@@ -8797,7 +8932,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 865,
@@ -8812,7 +8947,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 864,
@@ -8827,7 +8962,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 862,
@@ -8842,7 +8977,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 860,
@@ -8857,7 +8992,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 857,
@@ -8872,7 +9007,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 856,
@@ -8887,7 +9022,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 855,
@@ -8902,7 +9037,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 854,
@@ -8917,7 +9052,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 852,
@@ -8932,7 +9067,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 850,
@@ -8947,7 +9082,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 849,
@@ -8962,7 +9097,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 848,
@@ -8977,7 +9112,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 847,
@@ -8992,7 +9127,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 846,
@@ -9007,7 +9142,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 845,
@@ -9022,7 +9157,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 844,
@@ -9037,7 +9172,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 843,
@@ -9052,7 +9187,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 842,
@@ -9067,7 +9202,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 841,
@@ -9082,22 +9217,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 839,
-          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
-          "chapter": null,
-          "text": "decrépito ",
-          "sentence": "O pavor se converteu em pânico quando Melquíades tirou os dentes, intactos, engastados nas gengivas, e mostrou-os ao público por um instante — um instante fugaz em que voltou a ser o mesmo homem decrépito dos anos anteriores — e colocou-os outra vez e sorriu de novo com um domínio pleno da juventude restaurada. ",
-          "note": null,
-          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/20/1,:892,:902)",
-          "created_at": "2021-12-12 14:48:29 -0800",
-          "updated_at": "2021-12-12 14:48:29 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 838,
@@ -9112,7 +9232,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 86
         },
         {
           "pk": 836,
@@ -9127,7 +9247,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 835,
@@ -9142,7 +9262,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 834,
@@ -9157,7 +9277,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 833,
@@ -9172,7 +9292,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 832,
@@ -9187,7 +9307,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 830,
@@ -9202,7 +9322,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 829,
@@ -9217,7 +9337,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 828,
@@ -9232,7 +9352,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 827,
@@ -9247,7 +9367,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 825,
@@ -9262,7 +9382,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 109
         },
         {
           "pk": 822,
@@ -9277,7 +9397,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 821,
@@ -9292,7 +9412,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 819,
@@ -9307,7 +9427,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         }
       ],
       "new_words": [
@@ -9324,7 +9444,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 925,
@@ -9339,7 +9459,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 910,
@@ -9354,7 +9474,22 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
+        },
+        {
+          "pk": 909,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": " arrogar ",
+          "sentence": "— Não posso me arrogar a faculdade de administrar justiça — replicou. — Se a senhora tem alguma coisa a dizer, diga diante do conselho de guerra.\n",
+          "note": null,
+          "path": "epubcfi(/6/30[id30]!/4[Cem_anos_de_solid_o-12]/2/82/1,:14,:23)",
+          "created_at": "2021-12-17 04:28:52 -0800",
+          "updated_at": "2021-12-17 04:28:52 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
         },
         {
           "pk": 907,
@@ -9369,7 +9504,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 905,
@@ -9384,7 +9519,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 894,
@@ -9399,7 +9534,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 890,
@@ -9414,7 +9549,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 887,
@@ -9429,7 +9564,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 879,
@@ -9444,7 +9579,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 870,
@@ -9459,7 +9594,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 866,
@@ -9474,7 +9609,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 863,
@@ -9489,7 +9624,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 859,
@@ -9504,7 +9639,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 853,
@@ -9519,7 +9654,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 851,
@@ -9534,7 +9669,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 840,
@@ -9549,7 +9684,22 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
+        },
+        {
+          "pk": 839,
+          "book_id": "168D78B5AA56EB4A744A3AB8763BA4AD",
+          "chapter": null,
+          "text": "decrépito ",
+          "sentence": "O pavor se converteu em pânico quando Melquíades tirou os dentes, intactos, engastados nas gengivas, e mostrou-os ao público por um instante — um instante fugaz em que voltou a ser o mesmo homem decrépito dos anos anteriores — e colocou-os outra vez e sorriu de novo com um domínio pleno da juventude restaurada. ",
+          "note": null,
+          "path": "epubcfi(/6/16[id23]!/4[Cem_anos_de_solid_o-5]/2/20/1,:892,:902)",
+          "created_at": "2021-12-12 14:48:29 -0800",
+          "updated_at": "2021-12-12 14:48:29 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
         },
         {
           "pk": 837,
@@ -9564,7 +9714,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 826,
@@ -9579,7 +9729,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 823,
@@ -9594,7 +9744,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 820,
@@ -9609,7 +9759,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -9704,7 +9854,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 74
         },
         {
           "pk": 771,
@@ -9719,7 +9869,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 79
         },
         {
           "pk": 767,
@@ -9734,7 +9884,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 765,
@@ -9749,7 +9899,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 763,
@@ -9764,7 +9914,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         }
       ],
       "new_words": [
@@ -9862,7 +10012,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         }
       ],
       "new_words": [
@@ -9960,7 +10110,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 99,
@@ -9975,7 +10125,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 98,
@@ -9990,7 +10140,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 97,
@@ -10005,7 +10155,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 96,
@@ -10020,7 +10170,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 95,
@@ -10035,7 +10185,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 94,
@@ -10050,7 +10200,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 93,
@@ -10065,7 +10215,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 90,
@@ -10080,7 +10230,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 89,
@@ -10095,7 +10245,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 87,
@@ -10110,7 +10260,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 86,
@@ -10125,7 +10275,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 85,
@@ -10140,7 +10290,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 84,
@@ -10155,7 +10305,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 83,
@@ -10170,7 +10320,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 40
         },
         {
           "pk": 82,
@@ -10185,7 +10335,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 80,
@@ -10200,7 +10350,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 78,
@@ -10215,7 +10365,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 76,
@@ -10230,7 +10380,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 75,
@@ -10245,7 +10395,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 74,
@@ -10260,7 +10410,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 73,
@@ -10275,7 +10425,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 72,
@@ -10290,7 +10440,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 71,
@@ -10305,7 +10455,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 58
         },
         {
           "pk": 70,
@@ -10320,7 +10470,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 69,
@@ -10335,7 +10485,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 68,
@@ -10350,7 +10500,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         },
         {
           "pk": 67,
@@ -10365,7 +10515,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 66,
@@ -10380,7 +10530,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 65,
@@ -10395,7 +10545,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 64,
@@ -10410,7 +10560,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 63,
@@ -10425,7 +10575,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 62,
@@ -10440,7 +10590,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 36
         },
         {
           "pk": 61,
@@ -10455,7 +10605,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 60,
@@ -10470,7 +10620,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 58,
@@ -10485,7 +10635,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 57,
@@ -10500,7 +10650,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 56,
@@ -10515,7 +10665,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 55,
@@ -10530,7 +10680,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 54,
@@ -10545,7 +10695,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 52,
@@ -10560,7 +10710,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 51,
@@ -10575,7 +10725,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 50,
@@ -10590,7 +10740,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 49,
@@ -10605,7 +10755,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 48,
@@ -10620,7 +10770,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 47,
@@ -10635,7 +10785,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 46,
@@ -10650,7 +10800,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 103
         },
         {
           "pk": 45,
@@ -10665,7 +10815,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 44,
@@ -10680,7 +10830,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 43,
@@ -10695,7 +10845,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 42,
@@ -10710,7 +10860,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 41,
@@ -10725,7 +10875,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 40,
@@ -10740,7 +10890,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 39,
@@ -10755,7 +10905,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 38,
@@ -10770,7 +10920,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 37,
@@ -10785,7 +10935,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 36,
@@ -10800,7 +10950,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 35,
@@ -10815,7 +10965,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 34,
@@ -10830,7 +10980,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 33,
@@ -10845,7 +10995,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 31,
@@ -10860,7 +11010,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 30,
@@ -10875,7 +11025,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         }
       ],
       "new_words": [
@@ -10892,7 +11042,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 32,
@@ -10907,7 +11057,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -11195,7 +11345,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 178,
@@ -11210,7 +11360,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 172,
@@ -11225,7 +11375,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 171,
@@ -11240,7 +11390,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 169,
@@ -11255,7 +11405,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 168,
@@ -11270,7 +11420,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 165,
@@ -11285,7 +11435,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 38
         },
         {
           "pk": 143,
@@ -11300,7 +11450,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         }
       ],
       "new_words": [
@@ -11317,7 +11467,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -11412,7 +11562,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 968,
@@ -11427,7 +11577,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 967,
@@ -11442,7 +11592,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 163
         },
         {
           "pk": 966,
@@ -11457,7 +11607,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 965,
@@ -11472,7 +11622,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 964,
@@ -11487,7 +11637,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 963,
@@ -11502,7 +11652,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 962,
@@ -11517,7 +11667,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 51
         },
         {
           "pk": 959,
@@ -11532,7 +11682,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 50
         },
         {
           "pk": 957,
@@ -11547,7 +11697,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 49
         },
         {
           "pk": 956,
@@ -11562,7 +11712,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 955,
@@ -11577,7 +11727,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 954,
@@ -11592,7 +11742,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 953,
@@ -11607,7 +11757,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 93
         },
         {
           "pk": 952,
@@ -11622,7 +11772,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 951,
@@ -11637,7 +11787,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 42
         },
         {
           "pk": 950,
@@ -11652,7 +11802,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 949,
@@ -11667,7 +11817,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 948,
@@ -11682,7 +11832,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 947,
@@ -11697,7 +11847,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 946,
@@ -11712,7 +11862,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 60
         },
         {
           "pk": 945,
@@ -11727,7 +11877,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 944,
@@ -11742,7 +11892,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 943,
@@ -11757,7 +11907,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 942,
@@ -11772,7 +11922,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 941,
@@ -11787,7 +11937,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 940,
@@ -11802,7 +11952,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 938,
@@ -11817,7 +11967,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 937,
@@ -11832,7 +11982,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 936,
@@ -11847,7 +11997,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 935,
@@ -11862,7 +12012,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 934,
@@ -11877,7 +12027,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 78
         },
         {
           "pk": 933,
@@ -11892,7 +12042,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 932,
@@ -11907,7 +12057,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         }
       ],
       "new_words": [
@@ -11924,7 +12074,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -11960,7 +12110,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 152,
@@ -11975,7 +12125,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 122,
@@ -11990,7 +12140,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         }
       ],
       "new_words": [
@@ -12424,7 +12574,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 815,
@@ -12439,7 +12589,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         }
       ],
       "new_words": [
@@ -12564,7 +12714,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1094,
@@ -12579,7 +12729,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 1093,
@@ -12594,7 +12744,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1092,
@@ -12609,7 +12759,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 140
         },
         {
           "pk": 1091,
@@ -12624,7 +12774,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 1090,
@@ -12639,7 +12789,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 1088,
@@ -12654,7 +12804,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 1087,
@@ -12669,7 +12819,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         },
         {
           "pk": 1086,
@@ -12684,7 +12834,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         },
         {
           "pk": 1085,
@@ -12699,7 +12849,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1084,
@@ -12714,7 +12864,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1083,
@@ -12729,7 +12879,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1082,
@@ -12744,7 +12894,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 1081,
@@ -12759,7 +12909,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1080,
@@ -12774,7 +12924,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 1079,
@@ -12789,7 +12939,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 1078,
@@ -12804,7 +12954,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 1077,
@@ -12819,7 +12969,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 1076,
@@ -12834,7 +12984,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 1075,
@@ -12849,7 +12999,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 1074,
@@ -12864,7 +13014,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1073,
@@ -12879,7 +13029,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 1072,
@@ -12894,7 +13044,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 1071,
@@ -12909,7 +13059,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 1070,
@@ -12924,7 +13074,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 1069,
@@ -12939,7 +13089,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1068,
@@ -12954,7 +13104,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 1067,
@@ -12969,7 +13119,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 1065,
@@ -12984,7 +13134,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 1064,
@@ -12999,7 +13149,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         }
       ],
       "new_words": [
@@ -13016,7 +13166,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -13098,21 +13248,7 @@ var ibook_history = {
         }
       ],
       "notes": [
-        {
-          "pk": 749,
-          "book_id": "E9B9B9C22A5F4F93614A9C2528D6DD94",
-          "chapter": null,
-          "text": " congênito ",
-          "sentence": "Já conhecia um pouco minha esposa, seu gênio impetuoso, seu medo congênito de que tirava força para enfrentar qualquer situação perigosa. ",
-          "note": null,
-          "path": "epubcfi(/6/60[CinzasNorte-29.html]!/4/2/2/6/1,:259,:270)",
-          "created_at": "2021-10-25 03:46:13 -0700",
-          "updated_at": "2021-10-25 03:46:13 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
-        }
+
       ],
       "new_words": [
         {
@@ -13128,7 +13264,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 752,
@@ -13143,7 +13279,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 750,
@@ -13158,7 +13294,22 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
+        },
+        {
+          "pk": 749,
+          "book_id": "E9B9B9C22A5F4F93614A9C2528D6DD94",
+          "chapter": null,
+          "text": " congênito ",
+          "sentence": "Já conhecia um pouco minha esposa, seu gênio impetuoso, seu medo congênito de que tirava força para enfrentar qualquer situação perigosa. ",
+          "note": null,
+          "path": "epubcfi(/6/60[CinzasNorte-29.html]!/4/2/2/6/1,:259,:270)",
+          "created_at": "2021-10-25 03:46:13 -0700",
+          "updated_at": "2021-10-25 03:46:13 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
         }
       ]
     },
@@ -13253,7 +13404,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 206,
@@ -13268,7 +13419,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 205,
@@ -13283,7 +13434,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 204,
@@ -13298,7 +13449,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 202,
@@ -13313,7 +13464,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 201,
@@ -13328,7 +13479,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 194,
@@ -13343,7 +13494,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 192,
@@ -13358,7 +13509,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 188,
@@ -13373,7 +13524,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 145,
@@ -13388,7 +13539,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 142,
@@ -13403,7 +13554,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 138,
@@ -13418,7 +13569,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 136,
@@ -13433,7 +13584,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 134,
@@ -13448,7 +13599,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 126,
@@ -13463,7 +13614,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 114,
@@ -13478,7 +13629,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 109,
@@ -13493,7 +13644,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 106,
@@ -13508,7 +13659,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         }
       ],
       "new_words": [
@@ -13525,7 +13676,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -13957,7 +14108,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         }
       ],
       "new_words": [
@@ -14139,7 +14290,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 36
         },
         {
           "pk": 209,
@@ -14154,7 +14305,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 198,
@@ -14169,7 +14320,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 197,
@@ -14184,7 +14335,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 196,
@@ -14199,7 +14350,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 195,
@@ -14214,7 +14365,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 191,
@@ -14229,7 +14380,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 65
         },
         {
           "pk": 187,
@@ -14244,7 +14395,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 184,
@@ -14259,7 +14410,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 182,
@@ -14274,7 +14425,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 174,
@@ -14289,7 +14440,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 56
         },
         {
           "pk": 170,
@@ -14304,7 +14455,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 166,
@@ -14319,7 +14470,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 163,
@@ -14334,7 +14485,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 162,
@@ -14349,7 +14500,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 156,
@@ -14364,7 +14515,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 153,
@@ -14379,7 +14530,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 151,
@@ -14394,7 +14545,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 150,
@@ -14409,7 +14560,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 147,
@@ -14424,7 +14575,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 144,
@@ -14439,7 +14590,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 140,
@@ -14454,7 +14605,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 137,
@@ -14469,7 +14620,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 132,
@@ -14484,7 +14635,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 122
         },
         {
           "pk": 131,
@@ -14499,7 +14650,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 123,
@@ -14514,7 +14665,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 38
         },
         {
           "pk": 120,
@@ -14529,7 +14680,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 117,
@@ -14544,7 +14695,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 113,
@@ -14559,7 +14710,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 111,
@@ -14574,7 +14725,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         }
       ],
       "new_words": [
@@ -14591,7 +14742,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -14770,7 +14921,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 269,
@@ -14785,7 +14936,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 268,
@@ -14800,7 +14951,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 267,
@@ -14815,7 +14966,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 263,
@@ -14830,7 +14981,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 262,
@@ -14845,7 +14996,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 259,
@@ -14860,7 +15011,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 258,
@@ -14875,7 +15026,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 256,
@@ -14890,7 +15041,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 255,
@@ -14905,7 +15056,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 253,
@@ -14920,7 +15071,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 251,
@@ -14935,7 +15086,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 245,
@@ -14950,7 +15101,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 243,
@@ -14965,7 +15116,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 241,
@@ -14980,7 +15131,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         }
       ],
       "new_words": [
@@ -15330,7 +15481,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         }
       ],
       "new_words": [
@@ -15428,7 +15579,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 461,
@@ -15443,7 +15594,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 459,
@@ -15458,7 +15609,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 458,
@@ -15473,7 +15624,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 457,
@@ -15488,7 +15639,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 456,
@@ -15503,7 +15654,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 455,
@@ -15518,7 +15669,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 454,
@@ -15533,7 +15684,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 50
         },
         {
           "pk": 453,
@@ -15548,7 +15699,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         }
       ],
       "new_words": [
@@ -15565,7 +15716,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -15828,7 +15979,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 806,
@@ -15843,7 +15994,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 805,
@@ -15858,7 +16009,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 804,
@@ -15873,7 +16024,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 56
         },
         {
           "pk": 803,
@@ -15888,7 +16039,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 802,
@@ -15903,7 +16054,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 801,
@@ -15918,22 +16069,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 799,
-          "book_id": "5DF4293CDB6E794A0AC78B52CAA9C6F3",
-          "chapter": null,
-          "text": " arroja ",
-          "sentence": "Mas o caixão estoura em nosso estado de puro encantamento plástico e nos arroja de repente às aparências mais dolorosas mais inaceitáveis da vida: é uma invenção genial.\n",
-          "note": null,
-          "path": "epubcfi(/6/14[baile_quatro_artes-6]!/4/2[baile_quatro_artes-6.html]/2/22/3,:859,:867)",
-          "created_at": "2021-12-11 17:20:44 -0800",
-          "updated_at": "2021-12-11 17:20:44 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 798,
@@ -15948,7 +16084,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 797,
@@ -15963,7 +16099,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 796,
@@ -15978,7 +16114,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 795,
@@ -15993,7 +16129,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 794,
@@ -16008,7 +16144,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 793,
@@ -16023,7 +16159,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 792,
@@ -16038,7 +16174,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 791,
@@ -16053,7 +16189,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         }
       ],
       "new_words": [
@@ -16070,7 +16206,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 800,
@@ -16085,7 +16221,22 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
+        },
+        {
+          "pk": 799,
+          "book_id": "5DF4293CDB6E794A0AC78B52CAA9C6F3",
+          "chapter": null,
+          "text": " arroja ",
+          "sentence": "Mas o caixão estoura em nosso estado de puro encantamento plástico e nos arroja de repente às aparências mais dolorosas mais inaceitáveis da vida: é uma invenção genial.\n",
+          "note": null,
+          "path": "epubcfi(/6/14[baile_quatro_artes-6]!/4/2[baile_quatro_artes-6.html]/2/22/3,:859,:867)",
+          "created_at": "2021-12-11 17:20:44 -0800",
+          "updated_at": "2021-12-11 17:20:44 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
         }
       ]
     },
@@ -16348,7 +16499,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 335,
@@ -16363,7 +16514,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 334,
@@ -16378,7 +16529,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 333,
@@ -16393,7 +16544,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 332,
@@ -16408,7 +16559,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         },
         {
           "pk": 331,
@@ -16423,7 +16574,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 330,
@@ -16438,7 +16589,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 328,
@@ -16453,7 +16604,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 326,
@@ -16468,7 +16619,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         }
       ],
       "new_words": [
@@ -16566,7 +16717,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 486,
@@ -16581,7 +16732,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 485,
@@ -16596,7 +16747,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 484,
@@ -16611,7 +16762,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 483,
@@ -16626,7 +16777,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 482,
@@ -16641,7 +16792,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 481,
@@ -16656,7 +16807,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 480,
@@ -16671,7 +16822,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 479,
@@ -16686,7 +16837,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 478,
@@ -16701,7 +16852,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 477,
@@ -16716,7 +16867,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 100
         },
         {
           "pk": 476,
@@ -16731,7 +16882,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 475,
@@ -16746,7 +16897,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 474,
@@ -16761,7 +16912,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 473,
@@ -16776,7 +16927,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 472,
@@ -16791,7 +16942,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 471,
@@ -16806,7 +16957,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 470,
@@ -16821,7 +16972,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 469,
@@ -16836,7 +16987,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 62
         },
         {
           "pk": 468,
@@ -16851,7 +17002,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 467,
@@ -16866,7 +17017,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 464,
@@ -16881,7 +17032,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         }
       ],
       "new_words": [
@@ -16979,7 +17130,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 694,
@@ -16994,7 +17145,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 690,
@@ -17009,7 +17160,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 676,
@@ -17024,7 +17175,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 673,
@@ -17039,7 +17190,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 667,
@@ -17054,7 +17205,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 649,
@@ -17069,7 +17220,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 631,
@@ -17084,7 +17235,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         },
         {
           "pk": 630,
@@ -17099,7 +17250,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 629,
@@ -17114,7 +17265,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 616,
@@ -17129,7 +17280,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 222
         },
         {
           "pk": 606,
@@ -17144,7 +17295,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 36
         },
         {
           "pk": 595,
@@ -17159,7 +17310,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 590,
@@ -17174,7 +17325,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 32
         },
         {
           "pk": 579,
@@ -17189,7 +17340,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 570,
@@ -17204,7 +17355,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 566,
@@ -17219,7 +17370,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 559,
@@ -17234,7 +17385,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 548,
@@ -17249,7 +17400,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 538,
@@ -17264,7 +17415,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 534,
@@ -17279,7 +17430,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 530,
@@ -17294,7 +17445,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 504,
@@ -17309,7 +17460,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 497,
@@ -17324,7 +17475,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         }
       ],
       "new_words": [
@@ -17341,7 +17492,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -17402,7 +17553,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 294,
@@ -17417,7 +17568,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         }
       ],
       "new_words": [
@@ -17456,7 +17607,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 51
         }
       ],
       "new_words": [
@@ -17520,7 +17671,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 158,
@@ -17535,7 +17686,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 141,
@@ -17550,7 +17701,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         }
       ],
       "new_words": [
@@ -17589,7 +17740,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 398,
@@ -17604,7 +17755,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 395,
@@ -17619,7 +17770,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 394,
@@ -17634,7 +17785,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 392,
@@ -17649,7 +17800,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 391,
@@ -17664,7 +17815,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 390,
@@ -17679,7 +17830,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 389,
@@ -17694,7 +17845,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 388,
@@ -17709,7 +17860,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 36
         },
         {
           "pk": 387,
@@ -17724,7 +17875,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 93
         },
         {
           "pk": 386,
@@ -17739,7 +17890,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 136
         },
         {
           "pk": 385,
@@ -17754,7 +17905,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 384,
@@ -17769,7 +17920,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 383,
@@ -17784,7 +17935,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 382,
@@ -17799,7 +17950,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 68
         },
         {
           "pk": 381,
@@ -17814,7 +17965,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 380,
@@ -17829,7 +17980,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 378,
@@ -17844,7 +17995,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 62
         },
         {
           "pk": 376,
@@ -17859,7 +18010,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 375,
@@ -17874,7 +18025,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 374,
@@ -17889,7 +18040,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 373,
@@ -17904,7 +18055,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 372,
@@ -17919,7 +18070,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 371,
@@ -17934,7 +18085,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 369,
@@ -17949,7 +18100,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 32
         },
         {
           "pk": 368,
@@ -17964,7 +18115,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 367,
@@ -17979,7 +18130,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 366,
@@ -17994,7 +18145,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 365,
@@ -18009,7 +18160,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 364,
@@ -18024,7 +18175,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 362,
@@ -18039,7 +18190,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 361,
@@ -18054,7 +18205,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 359,
@@ -18069,7 +18220,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 358,
@@ -18084,7 +18235,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 356,
@@ -18099,7 +18250,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 355,
@@ -18114,7 +18265,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 50
         },
         {
           "pk": 353,
@@ -18129,7 +18280,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 352,
@@ -18144,7 +18295,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 210
         },
         {
           "pk": 351,
@@ -18159,7 +18310,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 350,
@@ -18174,7 +18325,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 349,
@@ -18189,7 +18340,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 348,
@@ -18204,7 +18355,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 347,
@@ -18219,7 +18370,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 346,
@@ -18234,7 +18385,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 46
         },
         {
           "pk": 345,
@@ -18249,7 +18400,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 344,
@@ -18264,7 +18415,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 343,
@@ -18279,7 +18430,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 341,
@@ -18294,7 +18445,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 340,
@@ -18309,7 +18460,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 339,
@@ -18324,7 +18475,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         }
       ],
       "new_words": [
@@ -18341,7 +18492,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 393,
@@ -18356,7 +18507,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 379,
@@ -18371,7 +18522,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 377,
@@ -18386,7 +18537,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 370,
@@ -18401,7 +18552,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 363,
@@ -18416,7 +18567,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 360,
@@ -18431,7 +18582,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 357,
@@ -18446,7 +18597,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 342,
@@ -18461,7 +18612,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -18522,7 +18673,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         }
       ],
       "new_words": [
@@ -18636,7 +18787,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 776,
@@ -18651,7 +18802,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 41
         },
         {
           "pk": 775,
@@ -18666,7 +18817,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 773,
@@ -18681,7 +18832,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         }
       ],
       "new_words": [
@@ -18720,7 +18871,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 777,
@@ -18735,7 +18886,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 774,
@@ -18750,7 +18901,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 772,
@@ -18765,7 +18916,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 770,
@@ -18780,7 +18931,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 769,
@@ -18795,7 +18946,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 768,
@@ -18810,7 +18961,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 766,
@@ -18825,7 +18976,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 764,
@@ -18840,7 +18991,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         },
         {
           "pk": 762,
@@ -18855,7 +19006,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 761,
@@ -18870,7 +19021,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         }
       ],
       "new_words": [
@@ -18934,7 +19085,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         }
       ],
       "new_words": [
@@ -19023,7 +19174,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 449,
@@ -19038,7 +19189,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 447,
@@ -19053,7 +19204,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 446,
@@ -19068,7 +19219,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 444,
@@ -19083,7 +19234,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 441,
@@ -19098,7 +19249,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 440,
@@ -19113,7 +19264,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 439,
@@ -19128,7 +19279,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 437,
@@ -19143,7 +19294,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 435,
@@ -19158,7 +19309,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 432,
@@ -19173,7 +19324,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 430,
@@ -19188,7 +19339,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 429,
@@ -19203,7 +19354,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 425,
@@ -19218,7 +19369,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 424,
@@ -19233,7 +19384,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 422,
@@ -19248,7 +19399,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 420,
@@ -19263,7 +19414,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 416,
@@ -19278,7 +19429,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 40
         },
         {
           "pk": 414,
@@ -19293,7 +19444,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 413,
@@ -19308,7 +19459,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 412,
@@ -19323,7 +19474,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 409,
@@ -19338,7 +19489,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 405,
@@ -19353,7 +19504,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         }
       ],
       "new_words": [
@@ -19370,7 +19521,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 419,
@@ -19385,7 +19536,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 410,
@@ -19400,7 +19551,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -19436,7 +19587,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 278,
@@ -19451,7 +19602,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         }
       ],
       "new_words": [
@@ -19565,7 +19716,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 74
         },
         {
           "pk": 217,
@@ -19580,7 +19731,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 216,
@@ -19595,7 +19746,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 213,
@@ -19610,7 +19761,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 186,
@@ -19625,7 +19776,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 183,
@@ -19640,7 +19791,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 180,
@@ -19655,7 +19806,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 161,
@@ -19670,7 +19821,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 160,
@@ -19685,7 +19836,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 83
         },
         {
           "pk": 155,
@@ -19700,7 +19851,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 139,
@@ -19715,7 +19866,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 133,
@@ -19730,7 +19881,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 130,
@@ -19745,7 +19896,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 125,
@@ -19760,7 +19911,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 121,
@@ -19775,7 +19926,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 119,
@@ -19790,7 +19941,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 108,
@@ -19805,7 +19956,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         }
       ],
       "new_words": [
@@ -19844,7 +19995,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 15,
@@ -19859,7 +20010,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         },
         {
           "pk": 13,
@@ -19874,7 +20025,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 12,
@@ -19889,7 +20040,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         }
       ],
       "new_words": [
@@ -19928,7 +20079,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 52
         },
         {
           "pk": 266,
@@ -19943,7 +20094,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         }
       ],
       "new_words": [
@@ -20019,6 +20170,9 @@ var ibook_history = {
         "src": null
       },
       "notes": [
+
+      ],
+      "new_words": [
         {
           "pk": 754,
           "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
@@ -20032,7 +20186,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 751,
@@ -20047,11 +20201,8 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
-      ],
-      "new_words": [
-
       ]
     },
     {
@@ -20111,7 +20262,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 450,
@@ -20126,7 +20277,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 448,
@@ -20141,7 +20292,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 443,
@@ -20156,7 +20307,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 442,
@@ -20171,7 +20322,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 438,
@@ -20186,7 +20337,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 434,
@@ -20201,7 +20352,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 433,
@@ -20216,7 +20367,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 431,
@@ -20231,7 +20382,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 428,
@@ -20246,7 +20397,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 427,
@@ -20261,7 +20412,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 426,
@@ -20276,7 +20427,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 423,
@@ -20291,7 +20442,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 421,
@@ -20306,7 +20457,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 418,
@@ -20321,7 +20472,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 417,
@@ -20336,7 +20487,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 415,
@@ -20351,7 +20502,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 18
         },
         {
           "pk": 411,
@@ -20366,7 +20517,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 408,
@@ -20381,7 +20532,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 407,
@@ -20396,7 +20547,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 406,
@@ -20411,7 +20562,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         }
       ],
       "new_words": [
@@ -20500,7 +20651,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 745,
@@ -20515,7 +20666,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 744,
@@ -20530,7 +20681,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 742,
@@ -20545,7 +20696,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 57
         },
         {
           "pk": 741,
@@ -20560,7 +20711,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 740,
@@ -20575,7 +20726,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 739,
@@ -20590,7 +20741,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 738,
@@ -20605,7 +20756,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 737,
@@ -20620,7 +20771,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 736,
@@ -20635,7 +20786,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 735,
@@ -20650,7 +20801,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 733,
@@ -20665,7 +20816,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 732,
@@ -20680,7 +20831,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 729,
@@ -20695,7 +20846,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 727,
@@ -20710,7 +20861,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 77
         },
         {
           "pk": 726,
@@ -20725,7 +20876,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 725,
@@ -20740,7 +20891,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 724,
@@ -20755,7 +20906,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 59
         },
         {
           "pk": 723,
@@ -20770,7 +20921,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 722,
@@ -20785,7 +20936,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 721,
@@ -20800,7 +20951,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 720,
@@ -20815,7 +20966,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 718,
@@ -20830,7 +20981,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 717,
@@ -20845,7 +20996,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 86
         },
         {
           "pk": 716,
@@ -20860,7 +21011,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 715,
@@ -20875,7 +21026,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 714,
@@ -20890,7 +21041,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 293
         },
         {
           "pk": 713,
@@ -20905,7 +21056,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 144
         },
         {
           "pk": 711,
@@ -20920,7 +21071,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 710,
@@ -20935,7 +21086,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 709,
@@ -20950,7 +21101,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 708,
@@ -20965,7 +21116,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 705,
@@ -20980,7 +21131,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 34
         },
         {
           "pk": 704,
@@ -20995,7 +21146,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 703,
@@ -21010,7 +21161,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 702,
@@ -21025,7 +21176,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 700,
@@ -21040,7 +21191,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 699,
@@ -21055,7 +21206,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 698,
@@ -21070,7 +21221,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 697,
@@ -21085,7 +21236,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 696,
@@ -21100,7 +21251,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 81
         },
         {
           "pk": 695,
@@ -21115,7 +21266,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 693,
@@ -21130,7 +21281,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 61
         },
         {
           "pk": 691,
@@ -21145,7 +21296,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 689,
@@ -21160,7 +21311,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 688,
@@ -21175,7 +21326,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 687,
@@ -21190,7 +21341,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 686,
@@ -21205,7 +21356,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 685,
@@ -21220,7 +21371,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 173
         },
         {
           "pk": 683,
@@ -21235,7 +21386,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 682,
@@ -21250,7 +21401,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 182
         },
         {
           "pk": 681,
@@ -21265,7 +21416,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 88
         },
         {
           "pk": 680,
@@ -21280,22 +21431,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
-        },
-        {
-          "pk": 678,
-          "book_id": "FC0749237DE0740C62722F21EA90E69E",
-          "chapter": null,
-          "text": " indulgentes ",
-          "sentence": "No entanto, somos indulgentes com esses excessos, não porque sejam nulos ou pequenos, mas porque passam com a idade. ",
-          "note": null,
-          "path": "epubcfi(/6/14[id20]!/4[ConfissoesDeSantoAgostinho-6]/2/24/11,:1507,:1520)",
-          "created_at": "2021-09-19 04:55:28 -0700",
-          "updated_at": "2021-09-19 04:55:28 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 677,
@@ -21310,7 +21446,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 675,
@@ -21325,7 +21461,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 32
         },
         {
           "pk": 672,
@@ -21340,7 +21476,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 671,
@@ -21355,7 +21491,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 670,
@@ -21370,7 +21506,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 77
         },
         {
           "pk": 669,
@@ -21385,7 +21521,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 666,
@@ -21400,7 +21536,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 665,
@@ -21415,7 +21551,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 664,
@@ -21430,7 +21566,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 663,
@@ -21445,7 +21581,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 60
         },
         {
           "pk": 662,
@@ -21460,7 +21596,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 661,
@@ -21475,7 +21611,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 41
         },
         {
           "pk": 660,
@@ -21490,7 +21626,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 38
         },
         {
           "pk": 659,
@@ -21505,7 +21641,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 658,
@@ -21520,7 +21656,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 159
         },
         {
           "pk": 656,
@@ -21535,7 +21671,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 655,
@@ -21550,7 +21686,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 654,
@@ -21565,7 +21701,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 653,
@@ -21580,7 +21716,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 652,
@@ -21595,7 +21731,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 651,
@@ -21610,7 +21746,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 53
         },
         {
           "pk": 647,
@@ -21625,7 +21761,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 48
         },
         {
           "pk": 645,
@@ -21640,7 +21776,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 643,
@@ -21655,7 +21791,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 642,
@@ -21670,7 +21806,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         },
         {
           "pk": 641,
@@ -21685,7 +21821,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 42
         },
         {
           "pk": 640,
@@ -21700,7 +21836,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 639,
@@ -21715,7 +21851,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 638,
@@ -21730,7 +21866,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 637,
@@ -21745,7 +21881,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 636,
@@ -21760,7 +21896,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 635,
@@ -21775,7 +21911,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 633,
@@ -21790,7 +21926,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 632,
@@ -21805,7 +21941,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 627,
@@ -21820,7 +21956,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 50
         },
         {
           "pk": 625,
@@ -21835,7 +21971,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 624,
@@ -21850,7 +21986,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 622,
@@ -21865,7 +22001,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 621,
@@ -21880,7 +22016,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 45
         },
         {
           "pk": 620,
@@ -21895,7 +22031,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 45
         },
         {
           "pk": 619,
@@ -21910,7 +22046,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 618,
@@ -21925,7 +22061,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         },
         {
           "pk": 617,
@@ -21940,7 +22076,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 615,
@@ -21955,7 +22091,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 614,
@@ -21970,7 +22106,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 613,
@@ -21985,7 +22121,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 612,
@@ -22000,7 +22136,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 338
         },
         {
           "pk": 611,
@@ -22015,7 +22151,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 609,
@@ -22030,7 +22166,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 608,
@@ -22045,7 +22181,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 607,
@@ -22060,7 +22196,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 52
         },
         {
           "pk": 604,
@@ -22075,7 +22211,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 603,
@@ -22090,7 +22226,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 602,
@@ -22105,7 +22241,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 601,
@@ -22120,7 +22256,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 600,
@@ -22135,7 +22271,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 599,
@@ -22150,7 +22286,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 598,
@@ -22165,7 +22301,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 597,
@@ -22180,7 +22316,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 266
         },
         {
           "pk": 596,
@@ -22195,7 +22331,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 594,
@@ -22210,7 +22346,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 103
         },
         {
           "pk": 593,
@@ -22225,7 +22361,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 38
         },
         {
           "pk": 592,
@@ -22240,7 +22376,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 88
         },
         {
           "pk": 591,
@@ -22255,7 +22391,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 132
         },
         {
           "pk": 588,
@@ -22270,7 +22406,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 587,
@@ -22285,7 +22421,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 26
         },
         {
           "pk": 586,
@@ -22300,7 +22436,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 585,
@@ -22315,7 +22451,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 584,
@@ -22330,7 +22466,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         },
         {
           "pk": 583,
@@ -22345,7 +22481,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 582,
@@ -22360,7 +22496,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 581,
@@ -22375,7 +22511,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 149
         },
         {
           "pk": 578,
@@ -22390,7 +22526,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         },
         {
           "pk": 577,
@@ -22405,7 +22541,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 207
         },
         {
           "pk": 575,
@@ -22420,7 +22556,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 574,
@@ -22435,7 +22571,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 127
         },
         {
           "pk": 572,
@@ -22450,7 +22586,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 571,
@@ -22465,7 +22601,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 103
         },
         {
           "pk": 569,
@@ -22480,7 +22616,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 568,
@@ -22495,7 +22631,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 567,
@@ -22510,7 +22646,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 565,
@@ -22525,7 +22661,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 564,
@@ -22540,7 +22676,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 563,
@@ -22555,7 +22691,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 562,
@@ -22570,7 +22706,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         },
         {
           "pk": 561,
@@ -22585,7 +22721,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 259
         },
         {
           "pk": 560,
@@ -22600,7 +22736,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 558,
@@ -22615,7 +22751,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 557,
@@ -22630,7 +22766,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 556,
@@ -22645,7 +22781,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 555,
@@ -22660,7 +22796,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         },
         {
           "pk": 554,
@@ -22675,7 +22811,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 553,
@@ -22690,7 +22826,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 552,
@@ -22705,7 +22841,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 22
         },
         {
           "pk": 551,
@@ -22720,7 +22856,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 550,
@@ -22735,7 +22871,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 83
         },
         {
           "pk": 549,
@@ -22750,7 +22886,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 546,
@@ -22765,7 +22901,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 545,
@@ -22780,7 +22916,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 544,
@@ -22795,7 +22931,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 72
         },
         {
           "pk": 543,
@@ -22810,7 +22946,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 542,
@@ -22825,7 +22961,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 80
         },
         {
           "pk": 541,
@@ -22840,7 +22976,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 222
         },
         {
           "pk": 540,
@@ -22855,7 +22991,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 99
         },
         {
           "pk": 539,
@@ -22870,7 +23006,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 71
         },
         {
           "pk": 537,
@@ -22885,7 +23021,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 536,
@@ -22900,7 +23036,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 119
         },
         {
           "pk": 535,
@@ -22915,7 +23051,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         },
         {
           "pk": 532,
@@ -22930,7 +23066,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 531,
@@ -22945,7 +23081,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 529,
@@ -22960,7 +23096,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 103
         },
         {
           "pk": 528,
@@ -22975,7 +23111,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 527,
@@ -22990,7 +23126,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 69
         },
         {
           "pk": 524,
@@ -23005,7 +23141,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 523,
@@ -23020,7 +23156,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 522,
@@ -23035,7 +23171,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 521,
@@ -23050,7 +23186,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 51
         },
         {
           "pk": 519,
@@ -23065,7 +23201,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 31
         },
         {
           "pk": 518,
@@ -23080,7 +23216,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 516,
@@ -23095,7 +23231,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 35
         },
         {
           "pk": 515,
@@ -23110,7 +23246,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 73
         },
         {
           "pk": 514,
@@ -23125,7 +23261,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 173
         },
         {
           "pk": 512,
@@ -23140,7 +23276,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 47
         },
         {
           "pk": 511,
@@ -23155,7 +23291,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         },
         {
           "pk": 510,
@@ -23170,7 +23306,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 269
         },
         {
           "pk": 509,
@@ -23185,7 +23321,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 508,
@@ -23200,7 +23336,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 65
         },
         {
           "pk": 507,
@@ -23215,7 +23351,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 506,
@@ -23230,7 +23366,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 505,
@@ -23245,7 +23381,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 503,
@@ -23260,7 +23396,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 140
         },
         {
           "pk": 502,
@@ -23275,7 +23411,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         },
         {
           "pk": 501,
@@ -23290,7 +23426,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 500,
@@ -23305,7 +23441,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 499,
@@ -23320,7 +23456,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 54
         },
         {
           "pk": 498,
@@ -23335,7 +23471,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 90
         },
         {
           "pk": 496,
@@ -23350,7 +23486,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 495,
@@ -23365,7 +23501,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 149
         },
         {
           "pk": 494,
@@ -23380,7 +23516,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 39
         },
         {
           "pk": 493,
@@ -23395,7 +23531,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 61
         },
         {
           "pk": 491,
@@ -23410,7 +23546,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 13
         },
         {
           "pk": 490,
@@ -23425,7 +23561,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         }
       ],
       "new_words": [
@@ -23442,7 +23578,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 712,
@@ -23457,7 +23593,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 706,
@@ -23472,7 +23608,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 684,
@@ -23487,7 +23623,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 679,
@@ -23502,7 +23638,22 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
+        },
+        {
+          "pk": 678,
+          "book_id": "FC0749237DE0740C62722F21EA90E69E",
+          "chapter": null,
+          "text": " indulgentes ",
+          "sentence": "No entanto, somos indulgentes com esses excessos, não porque sejam nulos ou pequenos, mas porque passam com a idade. ",
+          "note": null,
+          "path": "epubcfi(/6/14[id20]!/4[ConfissoesDeSantoAgostinho-6]/2/24/11,:1507,:1520)",
+          "created_at": "2021-09-19 04:55:28 -0700",
+          "updated_at": "2021-09-19 04:55:28 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
         },
         {
           "pk": 674,
@@ -23517,7 +23668,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 644,
@@ -23532,7 +23683,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 628,
@@ -23547,7 +23698,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 610,
@@ -23562,7 +23713,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 576,
@@ -23577,7 +23728,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 547,
@@ -23592,7 +23743,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 533,
@@ -23607,7 +23758,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 525,
@@ -23622,7 +23773,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 513,
@@ -23637,7 +23788,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         },
         {
           "pk": 492,
@@ -23652,7 +23803,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -23713,7 +23864,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 33
         },
         {
           "pk": 215,
@@ -23728,7 +23879,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 211,
@@ -23743,7 +23894,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 199,
@@ -23758,7 +23909,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 190,
@@ -23773,7 +23924,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 29
         },
         {
           "pk": 189,
@@ -23788,7 +23939,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 185,
@@ -23803,7 +23954,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 12
         },
         {
           "pk": 181,
@@ -23818,7 +23969,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 177,
@@ -23833,7 +23984,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 176,
@@ -23848,7 +23999,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 175,
@@ -23863,7 +24014,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 173,
@@ -23878,7 +24029,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 167,
@@ -23893,7 +24044,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 164,
@@ -23908,7 +24059,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 135,
@@ -23923,7 +24074,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 2,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 129,
@@ -23938,7 +24089,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 128,
@@ -23953,7 +24104,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 8
         },
         {
           "pk": 127,
@@ -23968,7 +24119,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 10
         },
         {
           "pk": 116,
@@ -23983,7 +24134,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 3
         },
         {
           "pk": 112,
@@ -23998,7 +24149,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         }
       ],
       "new_words": [
@@ -24015,7 +24166,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 1
         }
       ]
     },
@@ -24051,7 +24202,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 20
         }
       ],
       "new_words": [
@@ -24190,7 +24341,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 4,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 4
         },
         {
           "pk": 157,
@@ -24205,7 +24356,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 44
         },
         {
           "pk": 124,
@@ -24220,7 +24371,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 9
         },
         {
           "pk": 115,
@@ -24235,7 +24386,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 107,
@@ -24250,7 +24401,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 27
         }
       ],
       "new_words": [
@@ -24289,7 +24440,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 30
         },
         {
           "pk": 781,
@@ -24304,7 +24455,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 37
         }
       ],
       "new_words": [
@@ -24343,7 +24494,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 16
         },
         {
           "pk": 274,
@@ -24358,7 +24509,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 52
         },
         {
           "pk": 272,
@@ -24373,7 +24524,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 270,
@@ -24388,7 +24539,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 265,
@@ -24403,7 +24554,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 264,
@@ -24418,7 +24569,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 261,
@@ -24433,7 +24584,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 21
         },
         {
           "pk": 260,
@@ -24448,7 +24599,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 2
         },
         {
           "pk": 254,
@@ -24463,7 +24614,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 78
         },
         {
           "pk": 252,
@@ -24478,7 +24629,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 19
         },
         {
           "pk": 248,
@@ -24493,7 +24644,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 57
         },
         {
           "pk": 247,
@@ -24508,7 +24659,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 43
         },
         {
           "pk": 246,
@@ -24523,7 +24674,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 244,
@@ -24538,7 +24689,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 242,
@@ -24553,7 +24704,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 5
         },
         {
           "pk": 240,
@@ -24568,7 +24719,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 17
         }
       ],
       "new_words": [
@@ -24607,7 +24758,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 25
         },
         {
           "pk": 28,
@@ -24622,7 +24773,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 23
         },
         {
           "pk": 27,
@@ -24637,7 +24788,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 15
         },
         {
           "pk": 26,
@@ -24652,7 +24803,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 1,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 24
         },
         {
           "pk": 25,
@@ -24667,7 +24818,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 7
         },
         {
           "pk": 24,
@@ -24682,7 +24833,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 5,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 28
         },
         {
           "pk": 23,
@@ -24697,7 +24848,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 32
         },
         {
           "pk": 22,
@@ -24712,7 +24863,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 14
         },
         {
           "pk": 20,
@@ -24727,7 +24878,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 11
         },
         {
           "pk": 19,
@@ -24742,7 +24893,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 6
         },
         {
           "pk": 18,
@@ -24757,7 +24908,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 32
         }
       ],
       "new_words": [
@@ -24821,7 +24972,7 @@ var ibook_history = {
           "is_inderline": 0,
           "color": 3,
           "type": 2,
-          "asset_details_modification_date": null
+          "words_count": 75
         }
       ],
       "new_words": [
