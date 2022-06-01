@@ -11,8 +11,20 @@ function title(book) {
   return (book.ztitle || book.title || '').toLowerCase();
 }
 
-function allBooks() {
-  return ibook_history.data
+function author(book) {
+  return (book.zauthor || book.author || '').toLowerCase();
+}
+
+function allBooks(query=null) {
+  let list = ibook_history.data;
+  if (query===null) return list
+
+  options = {keys: ["title", "ztitle", "author", "zauthor"]}
+  const fuse = new Fuse(list, options);
+  var finds = fuse.search(query)
+  return finds.map(function(fuse) { 
+    return fuse.item
+  })
 }
 
 function finishedBooks() {

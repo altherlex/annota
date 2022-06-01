@@ -2,6 +2,10 @@
 
 Make your iBook info public.
 
+## Tools
+
+- [Fuse.js](https://fusejs.io/demo.html) - Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies.
+
 
 ## Style based
 

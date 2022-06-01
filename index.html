@@ -21,11 +21,10 @@
 
     <!-- Header -->
     <div>
-      <header class="bd-header bg-gradient py-3 d-flex align-items-stretch" style='background-color: #FFAD06;'>
+      <header class="navbar bd-header bg-gradient py-3 d-flex align-items-stretch" style='background-color: #FFAD06;'>
         <div class="container-fluid d-flex align-items-center">
-          <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap" aria-label="Main navigation">
-
-            <h1 class="d-flex align-items-center text-dark fs-2 mt-2 mb-0 fw-bolder">
+          <nav class="navbar-brand container bd-gutter flex-wrap flex-lg-nowrap" aria-label="Main navigation">
+            <h1 class="align-items-center text-dark fs-2 mt-2 mb-0 fw-bolder">
               <i class="bi bi-book pe-3"></i>
               Annota
             </h1>
@@ -33,6 +32,10 @@
               What I've been reading
             </p>
           </nav>
+          <form class="d-flex" role="search" id="formSearch">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-sm btn-outline-success" type="submit">Search</button>
+          </form>          
         </div>
       </header>
     </div>
@@ -72,7 +75,7 @@
       <!-- Filters -->
       <ul class="nav justify-content-center nav-pills bg-light shadow-sm m-2 sticky-top">
         <li class="nav-item p-2" role="button">
-          <a id="all" class="nav-link active" aria-current="true" onclick="mountAll(this)">All</a>
+          <a id="all" class="nav-link" aria-current="true" onclick="mountAll(this)">All</a>
         </li>
         <li class="nav-item p-2" role="button">
           <a id="progress" class="nav-link" aria-current="true" onclick="mountInProgress(this)">In Progress</a>
@@ -95,13 +98,14 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
     <script type="text/javascript" src="data/ibook_history.js"></script>
     <script type="text/javascript" src="assets/js/helper.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
     <script>      
       $(function() {
-        mountAll();
-
         $("#all").append(` (${allBooks().length})`);
         $("#progress").append(` (${inProgressBooks().length})`);
         $("#finished").append(` (${finishedBooks().length})`);
+        
+        mountAll();
 
         var book = ibook_history.data[0]
         var notes = ibook_history.data[0].notes
@@ -112,7 +116,13 @@
 
       function mountAll(element=null) {
         $(element).tab('show');
-        mountLib(allBooks());
+        // DOC: It wasnt clicked by the user.
+        let q
+        if (!element) {
+          q = (new URL(document.location)).searchParams.get('q');
+          if (!q) $('#all').tab('show');
+        }
+        mountLib(allBooks(q));
       }
 
       function mountInProgress(element) {
@@ -175,7 +185,7 @@
                 <h5 class="card-title text-capitalize">${title(book)}</h5>
               </div>
               <div class="card-footer bg-transparent">
-                <p class="card-text text-capitalize">${book.zauthor || book.author}</p>
+                <p class="card-text text-capitalize">${author(book)}</p>
               </div>
             </div>
           </div>
@@ -218,14 +228,22 @@
         return `
           <div class="w-100 bg-success text-light text-wrap" alt="test" style="height: 300px;">
             <figure class="position-absolute top-50 start-50 translate-middle">
-              <blockquote class='lead'>${note.text || note.sentence}</blockquote>
-              <figcaption class='fs-6'>
-                ${book.author} <cite title="Source Title" class="text-capitalize">(${title(book)})</cite>
+              <blockquote class='lead fs-5'>${note.text || note.sentence}</blockquote>
+              <figcaption class='fs-6 text-capitalize'>
+                ${author(book)} <cite title="Source Title">(${title(book)})</cite>
               </figcaption>
             </figure>
           </div>        
         `
-      }      
+      }    
+
+      $("#formSearch").submit(function( event ) {
+        var location = document.location.href.replace(window.location.search, '');
+        console.log(location);
+        var redirectTo = location + '?q=' + $('#formSearch>input').val();
+        window.location.href = redirectTo;
+        event.preventDefault();
+      });
 
       //Back to top button
       buttonTop = document.getElementById("buttonTop");
