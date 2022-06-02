@@ -1,3 +1,12 @@
+const HIGHLIGHTS = {
+  3: 'highlight-yellow',
+  1: 'highlight-green',
+  2: 'highlight-blue',
+  4: 'highlight-pink',
+  5: 'highlight-purple',
+  6: 'highlight-underline'
+}
+
 function shortTitle(book) {
   var title = (book.ztitle || book.title);
   var shortTitle = jQuery.trim(title).substring(0, 28).trim(this) 
@@ -13,6 +22,12 @@ function title(book) {
 
 function author(book) {
   return (book.zauthor || book.author || '').toLowerCase();
+}
+
+function bookByID(id){
+  return ibook_history.data.find(function(book){ 
+    return book.book_id === id
+  })
 }
 
 function allBooks(query=null) {

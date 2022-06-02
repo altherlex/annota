@@ -35,13 +35,22 @@
           <form class="d-flex" role="search" id="formSearch">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-sm btn-outline-success" type="submit">Search</button>
-          </form>          
+          </form>
         </div>
       </header>
     </div>
 
-    <main class="container mt-3">
+    <!-- Offcanvas: Highlights & Notes -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasRightLabel">Highlights & Notes</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body" id="highlightBody">
+      </div>
+    </div>
 
+    <main class="container mt-3">
       <!-- Quotes -->
       <div class="row">
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
@@ -99,6 +108,7 @@
     <script type="text/javascript" src="data/ibook_history.js"></script>
     <script type="text/javascript" src="assets/js/helper.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.3/moment.min.js"></script>
     <script>      
       $(function() {
         $("#all").append(` (${allBooks().length})`);
@@ -192,7 +202,7 @@
         `
       }
 
-      function display_cover_and_title(book){
+      function displayCoverAndTitle(book){
         var src = book?.cover?.src
         if (!src) {
           return mountFakeCover(book);
@@ -204,12 +214,13 @@
         }
       }
 
+      // Main Component
       function mountCard(book) {
         return `
           <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
             <div class="card mb-3 mx-2 bg-light border-light">
-              <div class="card-body" onclick="setFocus(this)">
-                ${display_cover_and_title(book)}
+              <div class="card-body" onclick="showHighlights('${book.book_id}')" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
+                ${displayCoverAndTitle(book)}
                 ${progressBar(book.reading_progress, book.marked_as_finished, !!book.notes.length)}
                 ${pageCountTag(book.page_count)}
                 ${notesCountTag(book.notes.length)}
@@ -220,8 +231,41 @@
         `
       }
 
-      function setFocus(element){
-        console.log(element);
+      function mountHighlightItem(highlight) {
+        // TODO: cover highlight.is_inderline
+        let className = HIGHLIGHTS[highlight.color];
+
+        let chapter = ''
+        if (highlight.chapter) chapter = `<p><small><span class="badge rounded-pill text-bg-dark">${highlight.chapter}</span></small></p>`
+
+        let note = ''
+        if (highlight.note) note = '- '+highlight.note
+
+        return `
+          <div class="alert ${className}">
+            <div class="d-flex w-100 justify-content-between">
+              <h5 class="mb-1">${note}</h5>
+              <small class="text-end">${moment(highlight.updated_at, "YYYY-MM-DD h:mm:ss -0700").fromNow()}</small>
+            </div>
+            ${highlight.text || highlight.sentence}
+            ${chapter}
+          </div>
+        `
+      }
+
+      function mountHighlightList(book) {
+        let items = book.notes.map(function(note){
+          return mountHighlightItem(note)
+        });
+
+        if (!items.length) return `<p>Nothing was found.</p>`
+        return (items).join('');
+      }
+
+      function showHighlights(bookId){
+        let book = bookByID(bookId);
+        $("#highlightBody").empty();
+        $('#highlightBody').append(mountHighlightList(book));
       }
 
       function mountBigQuote(note, book){

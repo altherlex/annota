@@ -27,5 +27,52 @@
 }
 
 .nav-link:hover {
-    color: gray;
+  color: gray;
+}
+
+.offcanvas {
+  --bs-offcanvas-width: 800px;
+}
+
+.highlight-yellow {
+  border-left: #FBC02D 3px solid;
+  --bs-alert-color: #664d03;
+  --bs-alert-bg: #FFF9C4;
+  --bs-alert-border-color: #FFEE58;
+}
+
+.highlight-green {
+  border-left: #388E3C 3px solid;
+  --bs-alert-color: #262626;
+  --bs-alert-bg: #C8E6C9;
+  --bs-alert-border-color: #66BB6A;
+}
+
+.highlight-blue {
+  border-left: #1976D2 3px solid;
+  --bs-alert-color: #262626;
+  --bs-alert-bg: #BBDEFB;
+  --bs-alert-border-color: #42A5F5;
+}
+
+.highlight-pink {
+  border-left: #C2185B 3px solid;
+  --bs-alert-color: #262626;
+  --bs-alert-bg: #F8BBD0;
+  --bs-alert-border-color: #EC407A;
+}
+
+.highlight-purple {
+  border-left: #7B1FA2 3px solid;
+  --bs-alert-color: #262626;
+  --bs-alert-bg: #E1BEE7;
+  --bs-alert-border-color: #AB47BC;
+}
+
+/* To be determined */
+.highlight-underline {
+  border-left: #f0ad4e 3px solid;
+  --bs-alert-color: #262626;
+  --bs-alert-bg: #FFCDD2;
+  --bs-alert-border-color: #ffecb5;
 }
