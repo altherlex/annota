@@ -1,6 +1,5 @@
 #!/usr/bin/ruby
 require "json"
-require "open-uri"
 
 DATA_FILENAME = "data/ibook_history.js"
 JS_CODE = "var ibook_history = "

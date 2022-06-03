@@ -17512,13 +17512,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/417zLwDWHRL._SX335_BO1,204,203,200_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/417zLwDWHRL._SX335_BO1,204,203,200_.jpg",
+        "https://natalia.blog.br/wp-content/uploads/2014/09/DSC03205.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/314mvMdzIZL._SX248_BO1,204,203,200_.jpg",
+        "https://imagens.lelivros.love/2013/12/Download-Como-Eu-Vejo-o-Mundo-Albert-Einstein-em-e-PUB-mobi-e-PDF.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417zLwDWHRL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA108%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://megaleitores.com.br/images/livros/albert-einstein/nova-fronteira/como-vejo-o-mundo-18-edicao/8233/19812131421-albert-einstein-nova-fronteira-como-vejo-o-mundo-18-edicao-5c0af2bdd6aa8-540x728.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/314mvMdzIZL.jpg",
+        "https://img.skoob.com.br/sRfhRhTn-SOh1rDAntlUscxTWZY=/300x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/3714/COMO_VEJO_O_MUNDO_1232890412B.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41H28SIJObL._SX297_BO1,204,203,200_.jpg",
+        "https://prodimage.images-bn.com/pimages/9791220853422_p0_v1_s550x406.jpg"
       ]
     },
     {
@@ -17537,7 +17549,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560285/essencial-padre-antonio-vieira.jpg"
       },
       "notes": [
         {
@@ -17573,6 +17585,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560285/essencial-padre-antonio-vieira.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398884266l/22026667.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_784598-MLB46283470513_062021-O.jpg",
+        "https://static.fnac-static.com/multimedia/Images/PT/NR/cb/09/0b/723403/1540-1/tsp20160817193026/Eencial-de-Padre-Antonio-Vieira.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_920531-MLB46283426911_062021-O.jpg",
+        "https://m.media-amazon.com/images/I/517GQva0WUL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Rr9A49nVL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA53%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://i.pinimg.com/originals/dd/83/ea/dd83ea909ac5caec04aa088362606b57.jpg",
+        "https://kirion.com.br/image/cache/data/incoming/lerbem.com.br/image/data/incoming/capaslivros/EssencialPadreAntonioVieira-515x800.png",
+        "https://imagens.lelivros.love/2017/04/Baixar-Livro-Essencial-Padre-Ant%C3%B4nio-Vieira-Padre-Ant%C3%B4nio-Vieira-em-Pdf-ePub-e-Mobi-ou-ler-online-370x568.jpg"
       ]
     },
     {
@@ -17591,7 +17615,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51vYoHB2XlL.jpg"
       },
       "notes": [
         {
@@ -17612,6 +17636,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51vYoHB2XlL.jpg",
+        "https://kbimages1-a.akamaihd.net/d672e5fe-9bb2-42fb-ace5-4d07fa7a8bfd/353/569/90/False/o-goleiro-e-outros-textos-sobre-futebol-1.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vYoHB2XlL._SX342_SY445_QL70_ML2_.jpg",
+        "https://livrariacultura.vteximg.com.br/arquivos/ids/70531262-475-475/2012994124.jpg?v=637721458357530000",
+        "https://images-na.ssl-images-amazon.com/images/I/51vYoHB2XlL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREE%2CBottomLeft%2C360%2C-6_SR600%2C315_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://kbimages1-a.akamaihd.net/412acbae-b51b-4449-ad82-0b834629d796/353/569/90/False/modernismos-1922-2022.jpg",
+        "https://f.i.uol.com.br/fotografia/2022/05/07/16519635386276f692a5ba1_1651963538_3x2_md.jpg",
+        "https://kbimages1-a.akamaihd.net/a72662d6-9881-41b2-9e72-d4f07c9d0cfc/353/569/90/False/biblia-volume-iii-1.jpg",
+        "https://img.yumpu.com/14696522/1/500x640/uma-leitura-de-passe-de-letra-futebol-amp-literatura-de-flavio-carneiro.jpg",
+        "https://kbimages1-a.akamaihd.net/ad727d7b-35be-4dcc-ae08-95dd573c247f/353/569/90/False/dicionario-da-republica-1.jpg"
       ]
     },
     {
@@ -17630,13 +17666,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51ranPNod2L._SX317_BO1,204,203,200_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ranPNod2L._SX317_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51AGJeQsEaL.jpg",
+        "https://kbimages1-a.akamaihd.net/25dfb804-2a26-4a57-b2a7-551c44eaa15d/353/569/90/False/corruption-a-very-short-introduction-1.jpg",
+        "https://blackwells.co.uk/jacket/l/9780199689699.jpg",
+        "https://kbimages1-a.akamaihd.net/94f7ebce-1596-41fc-b204-fcdf3bad64b9/353/569/90/False/corruption-a-very-short-introduction.jpg",
+        "https://i5.walmartimages.com/asr/f9b09d10-b94f-4931-a99d-7dd6f2b3724d.c0eb1ebc43797965d6081511eb0e4e09.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438949028i/23462864.jpg",
+        "https://cdn.waterstones.com/bookjackets/large/9780/1996/9780199689699.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ranPNod2L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA54%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "http://ecx.images-amazon.com/images/I/51q28a2ni8L.jpg"
       ]
     },
     {
@@ -17655,7 +17703,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504991189l/30114044._SY475_.jpg"
       },
       "notes": [
         {
@@ -17724,7 +17772,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-25 09:32:06 -0700",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/81F+KfE54hL.jpg"
       },
       "notes": [
         {
@@ -18632,13 +18680,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51g-PplkYtL.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51g-PplkYtL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365989032l/16685439.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51g-PplkYtL._SX342_SY445_QL70_ML2_.jpg",
+        "https://cgt.columbia.edu/wp-content/uploads/2010/04/The-Price-of-Inequality-Stiglitz-shadow.png",
+        "https://images-na.ssl-images-amazon.com/images/I/41MC%2BVCZUwL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA1%252C106%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://m.media-amazon.com/images/I/41MC+VCZUwL._AC_SY780_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51E9e37YYgL.jpg",
+        "https://m.media-amazon.com/images/I/41IQoQF+TwL.jpg",
+        "https://www.amherst.edu/media/view/443359/original/152110220.jpg",
+        "https://m.media-amazon.com/images/I/314OX0m0MZL._AC_SY780_.jpg"
       ]
     },
     {
@@ -18657,7 +18717,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51LEQ8ICHxL.jpg"
       },
       "notes": [
         {
@@ -18678,6 +18738,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51LEQ8ICHxL.jpg",
+        "https://target.scene7.com/is/image/Target/GUEST_fbf58f5a-341c-487b-bada-28adcffe4758?wid=488&hei=488&fmt=pjpeg",
+        "https://m.media-amazon.com/images/I/51PkztIACeL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41OqMh9dFJL.jpg",
+        "http://prodimage.images-bn.com/pimages/9780062135131_p0_v3_s1200x630.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343975533l/13425638.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JUsFESnvL.jpg",
+        "https://media.npr.org/assets/img/2012/05/22/colinpowell-ab19939c2c2a344d26ee0b4d93578b7322b67279.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51LEQ8ICHxL._SX342_SY445_QL70_ML2_.jpg",
+        "https://media.npr.org/assets/bakertaylor/covers/i/it-worked-for-me/9780062135124_custom-898414b1ef061c9454e8f02aa8a5dc872dd8b818-s300-c85.jpg"
       ]
     },
     {
@@ -18696,13 +18768,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329070629l/9563508.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329070629l/9563508.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Oswald_de_andrade_1920.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329070629i/9563508._UY458_SS458_.jpg",
+        "https://images-eu.ssl-images-amazon.com/images/I/41riCg9tBUL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFIVE%2CBottomLeft%2C360%2C-6_SR600%2C315_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://www.tandfonline.com/doi/cover-img/10.1080/vroq20.v067.i01",
+        "https://www.traca.com.br/capas/1174/1174294.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51neRRbInLL._SX279_BO1,204,203,200_.jpg",
+        "https://www.traca.com.br/capas/967/967768.jpg",
+        "https://image.slidesharecdn.com/andrade-oswald-derevista-de-antropofagia-120525183300-phpapp01/85/andrade-oswaldde-revistadeantropofagia-77-320.jpg?cb=1337971187",
+        "https://d3swacfcujrr1g.cloudfront.net/img/uploads/2000/01/000181017019.jpg"
       ]
     },
     {
@@ -18721,7 +18805,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/71DiaQqZPsL.jpg"
       },
       "notes": [
 
@@ -18746,13 +18830,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51rjcjJ5WML._SX314_BO1,204,203,200_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51rjcjJ5WML._SX314_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51Qa4mRG-0L.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432236657l/25577201._SY475_.jpg",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/9165588-287-426/1006546136.jpg?v=637103455826170000",
+        "https://media.ubook.com/product/ebook-cover/400x600/1097812-2102032200-o-melhor-de-mario-de-andrade-contos-e-cronicas.jpg",
+        "https://ecclesiae.com.br/image/cache/data/OMelhorDeMarioDeAndrade-515x800.jpg",
+        "https://imgs.casasbahia.com.br/4841588/1g.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432236657i/25577201._UY539_SS539_.jpg",
+        "https://images-americanas.b2w.io/produtos/122870952/imagens/livro-o-melhor-de-mario-de-andrade/122870952_1_large.jpg",
+        "https://www.livrariasfamiliacrista.com.br/media/catalog/product/cache/1/image/56819907b1c49a4bc751319b3fccb0da/o/-/o-melhor-de-m_rio-de-andrade---nova-fronteira1.jpg"
       ]
     },
     {
@@ -18771,7 +18867,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://lojasaraiva.vteximg.com.br/arquivos/ids/1551873-287-426/1000717395.jpg?v=637004208376270000"
       },
       "notes": [
         {
@@ -18855,7 +18951,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-23 17:39:50 -0700",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/41mlmUuY8xL.jpg"
       },
       "notes": [
         {
@@ -19026,6 +19122,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/41mlmUuY8xL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41xMd-33DBL._SX331_BO1,204,203,200_.jpg",
+        "https://kbimages1-a.akamaihd.net/a1fd192f-8391-4574-a3eb-b46cff2ad243/353/569/90/False/o-infamiliar-das-unheimliche-edicao-comemorativa-bilingue-1919-2019.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41mlmUuY8xL._SX342_SY445_QL70_ML2_.jpg",
+        "https://grupoautentica.com.br/img/capas/x/o-infamiliar-das-unheimliche-edicao-comemorativa-bilingue-1919-2019-1714-20220214095206.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554241655l/44773025._SY475_.jpg",
+        "https://static.fnac-static.com/multimedia/Images/FR/NR/1e/bd/a7/10992926/1540-1/tsp20220215080516/O-infamiliar-Das-Unheimliche-Edicao-comemorativa-bilingue-1919-2019.jpg",
+        "https://livraria.seminariodefilosofia.org/image/cache/data/api/produtos/10014-515x800.jpg",
+        "https://a-static.mlcdn.com.br/800x560/livro-freud-o-infamiliar-das-unheimliche-edicao-comemorativa-bilingue-1919-2019/saraiva/10515809/98bccda9e138ff75768bfe36fea19508.jpg",
+        "https://www.buobooks.com/wp-content/uploads/2020/09/FRONTCOVER-174415566.jpeg"
       ]
     },
     {
@@ -19044,7 +19152,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/81VEOu0sFNS.jpg"
       },
       "notes": [
 
@@ -19069,7 +19177,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/417GbcEWF2L.jpg"
       },
       "notes": [
         {
@@ -19090,6 +19198,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/417GbcEWF2L.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417GbcEWF2L._SX342_SY445_QL70_ML2_.jpg",
+        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SY550_.jpg",
+        "https://comunidadeculturaearte.com/wp-content/uploads/2021/06/Byung-Chul-Hann-790x450.jpg",
+        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SY879_.jpg",
+        "https://boanova.fbitsstatic.net/img/p/sociedade-do-cansaco-83219/250076.jpg?w=420&h=420&v=no-change&qs=ignore",
+        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SS450_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/411MEkpTzwL._SX289_BO1,204,203,200_.jpg",
+        "http://aescotilha.com.br/wp-content/uploads/2020/04/sociedade-do-cansaco-byung-chul-han-editora-vozes.jpg",
+        "https://static.ndmais.com.br/2021/03/livro-599x800.jpg"
       ]
     },
     {
@@ -19108,13 +19228,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/519Nbj0x+hL.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/519Nbj0x+hL.jpg",
+        "https://i.ytimg.com/vi/FM1IJW9oeF0/hqdefault.jpg",
+        "https://boitempoeditorial.files.wordpress.com/2013/09/garibaldi_capa_envio.jpg?w=620",
+        "https://images-na.ssl-images-amazon.com/images/I/51u0tzI711L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOUR%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA13%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://images-americanas.b2w.io/produtos/7906177/imagens/garibaldi-na-america-do-sul-o-mito-do-gaucho/7906180_1_large.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/519Nbj0x%2BhL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOUR%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA12%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://imgs.casasbahia.com.br/1504886838/1xg.jpg?imwidth=500",
+        "https://i.zst.com.br/thumbs/12/5/35/1456324036.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51u0tzI711L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOUR%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA14%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://www.livrarialoyola.com.br/resizer/view/373/373/false/true/342738.jpg"
       ]
     },
     {
@@ -19133,13 +19265,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-04-26 23:37:50 -0700",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/41BhFGlw-5L._SX315_BO1,204,203,200_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/41BhFGlw-5L._SX315_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51t-VzlUhVL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51cHsUXrcBL._SX322_BO1,204,203,200_.jpg",
+        "https://images.penguinrandomhouse.com/cover/9781101911686",
+        "https://images-na.ssl-images-amazon.com/images/I/41BhFGlw-5L.jpg",
+        "https://target.scene7.com/is/image/Target/GUEST_3730ff2b-1ea0-4379-b5fb-a87586d89827?wid=488&hei=488&fmt=pjpeg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442129709l/273229._SX318_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41mz2kxVNbL._SX318_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348914137l/662448.jpg",
+        "https://pictures.abebooks.com/isbn/9780394711805-us.jpg"
       ]
     },
     {
@@ -19158,7 +19302,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-25 15:19:51 -0700",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51Ey1KMIclL.jpg"
       },
       "notes": [
         {
@@ -19553,6 +19697,18 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51Ey1KMIclL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Ey1KMIclL._SX342_SY445_QL70_ML2_.jpg",
+        "https://globaleditora.com.br/capas/400/4439.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31dREiLyJEL._SX318_BO1,204,203,200_.jpg",
+        "https://livrariataverna.com.br/4491-large_default/a-hora-e-a-vez-de-augusto-matraga-joao-guimaraes-rosa.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5112WLmIziL._SX331_BO1,204,203,200_.jpg",
+        "https://www.traca.com.br/capas/1023/1023704.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/d/d6/The_Hour_and_Turn_of_Augusto_Matraga.jpg",
+        "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/009a5ea6da833b2a11a3808b061630e74ca8b4b2.jpg",
+        "https://tocalivros.s3.amazonaws.com/images/audiolivros/350/h/o/hora-e-vez-de-augusto-matraga-guimaraes-rosa-rubens-caribe-e-priscila-scholz-103786.jpg"
       ]
     },
     {
@@ -19571,7 +19727,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjUzMTkxMDAw/500x"
       },
       "notes": [
         {
@@ -19607,6 +19763,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjUzMTkxMDAw/500x",
+        "https://static.fnac-static.com/multimedia/Images/PT/NR/eb/08/0d/854251/1540-1/tsp20160819012259/As-Cidades-Invisiveis.jpg",
+        "https://bparpd.azores.gov.pt/wp-content/uploads/2020/09/Italo.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/518v4Lb7AfL.jpg",
+        "http://1.bp.blogspot.com/_uFl93P8BLV0/SFVHCUOIH8I/AAAAAAAABts/oWgP-MNn708/w1200-h630-p-k-no-nu/ETEO_Cidades_Invisiveis.jpg",
+        "https://www.leyaonline.com/fotos/produtos/500_9789722057097_As_Cidades_Invisiveis.jpg",
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788571641495/as-cidades-invisiveis.jpg",
+        "https://pnl2027.gov.pt/np4/file/2603/Banner_2.jpg",
+        "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjAwMDAwMDAwfHdlYnA=/502x?ctx=0",
+        "https://images.adsttc.com/media/images/5f03/9daa/b357/6540/5400/04f5/newsletter/DESPINA.jpg?1594072458"
       ]
     },
     {
@@ -19625,13 +19793,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478145975l/3841.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://target.scene7.com/is/image/Target/GUEST_7e0fc08b-0764-4b53-9c61-ca2817996685?wid=488&hei=488&fmt=pjpeg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478145975l/3841.jpg",
+        "https://kbimages1-a.akamaihd.net/e136a130-c90d-45ce-a30a-7d43635584f3/353/569/90/False/lectures-on-don-quixote-1.jpg",
+        "https://m.media-amazon.com/images/I/51kMNmSWFxL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Or-FsZdzL._SX414_BO1,204,203,200_.jpg",
+        "https://i.ebayimg.com/images/g/HyQAAOSw1mViFKSU/s-l640.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51BnfCywJlL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOUR%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA30%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9788/4663/9788466353175.jpg",
+        "https://pictures.abebooks.com/isbn/9780156495400-uk-300.jpg",
+        "https://www.storytel.com/images/e/640x640/0002344973.jpg"
       ]
     },
     {
@@ -19650,13 +19830,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/414igDkicYL.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/414igDkicYL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442799203l/26780814._SY475_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446812758i/27504489.jpg",
+        "https://image.cdn0.buscalibre.com/3051325.__RS360x360__.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/414igDkicYL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA12%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://pictures.abebooks.com/isbn/9788483075937-us.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41TTOVFlfSL._SX304_BO1,204,203,200_.jpg",
+        "https://image.cdn0.buscalibre.com/3051325.RS500x500.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/319yk-YlBkL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA12%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_667141-MLB25644333568_062017-O.jpg"
       ]
     },
     {
@@ -19675,13 +19867,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51tMvvmZjkL._SX323_BO1,204,203,200_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51tMvvmZjkL._SX323_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367074176l/17855449.jpg",
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560018/essencial-joaquim-nabuco.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386423872l/19260995.jpg",
+        "https://images-americanas.b2w.io/produtos/7247691/imagens/livro-essencial-joaquim-nabuco/7247691_1_large.jpg",
+        "https://m.media-amazon.com/images/I/51UH6dqctqL.jpg",
+        "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/151/586/products/9788563560018_gg1-f68f48a9d58c2d95dd16293208231898-640-0.jpg",
+        "https://images-americanas.b2w.io/produtos/2914542244/imagens/essencial-joaquim-nabuco/2914542287_1_large.jpg",
+        "https://videeditorial.com.br/image/cache/data/incoming/lerbem.com.br/image/data/incoming/capaslivros/Essencial-515x800.JPG",
+        "https://livraria.seminariodefilosofia.org/image/cache/data/api/produtos/2067-515x800.jpg"
       ]
     },
     {
@@ -19700,7 +19904,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/41REuF0qN5L._SX324_BO1,204,203,200_.jpg"
       },
       "notes": [
         {
@@ -19961,6 +20165,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/41REuF0qN5L._SX324_BO1,204,203,200_.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_657146-MLB41543698838_042020-O.jpg",
+        "https://ler-livros.com/wp-content/uploads/capas/amar-se-aprende-amando-visite-a-pagina-de-carlos-drummond-pdf-B0792DYM3M.jpg",
+        "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/4560/1829310_1.jpg",
+        "https://cdn.pensador.com/img/frase/ca/rl/carlos_drummond_de_amor_1985_amar_se_aprende_amando_o_s_l3zdrv8.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41REuF0qN5L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA38%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://images-americanas.b2w.io/produtos/133049908/imagens/livro-amar-se-aprende-amando-poesia-de-convivio-e-de-humor/133049908_1_large.jpg",
+        "https://i.zst.com.br/thumbs/12/17/31/1458375186.jpg",
+        "https://megaleitores.com.br/images/livros/18/55156/amar-se-aprende-amando-poesia-de-convivio-e-de-humor/9788535930511-18-55156-amar-se-aprende-amando-poesia-de-convivio-e-de-humor-5cbaad5d9855d-540x728.jpg",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/7013900/792512.jpg?v=637075620442170000"
       ]
     },
     {
@@ -19979,7 +20195,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51f0TCmi1wL.jpg"
       },
       "notes": [
         {
@@ -20045,6 +20261,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51f0TCmi1wL.jpg",
+        "https://livrariapublica.com.br/wp-content/uploads/cover/B00HCSXXWU.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51f0TCmi1wL._SX359_BO1,204,203,200_.jpg",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/6991188/767960.jpg?v=637075476060930000",
+        "https://i.zst.com.br/thumbs/12/27/2f/1456351030.jpg",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/6991188-287-426/767960.jpg?v=637075476060930000",
+        "https://www12.senado.leg.br/noticias/materias/2014/05/27/o-futuro-do-brasil-chegou-diz-domenico-de-masi-no-senado/20140527_00010lp.JPG/@@images/image/imagem_materia",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391398400l/20700689.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_623739-MLB45596099911_042021-O.jpg",
+        "https://livrariaflorence.fbitsstatic.net/img/p/livro-o-futuro-chegou-masi-192242/378600.jpg?w=660&h=660&v=no-change&qs=ignore"
       ]
     },
     {
@@ -20063,7 +20291,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/41rJrsCb3gL.jpg"
       },
       "notes": [
         {
@@ -20099,6 +20327,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/41rJrsCb3gL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51KMuOqyc8L.jpg",
+        "https://d2xsuil29zvzbt.cloudfront.net/imagens/img_m/035/149513.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51KMuOqyc8L._SX498_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434308588l/25727147._SY475_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41rJrsCb3gL._SX342_SY445_QL70_ML2_.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_913000-MLB40570958961_012020-O.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dCPmXbbwL.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_20345-MLB20188637118_102014-O.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41s0LFWjd3L._SX331_BO1,204,203,200_.jpg"
       ]
     },
     {
@@ -20117,13 +20357,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL._SX349_BO1,204,203,200_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL._SX349_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924668l/26243.jpg",
+        "https://stevenclarkcunningham.net/wp-content/uploads/2018/07/Tolstoys-Gospels-in-Brief.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434666613l/20024228._SX318_.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/7/76/The_Gospel_in_Brief.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/519AeMPWkYL._SX351_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51MTH+xuuVL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL.jpg",
+        "https://target.scene7.com/is/image/Target/GUEST_c2fae78e-d0b3-4063-8600-e04196013b64?wid=488&hei=488&fmt=pjpeg",
+        "https://m.media-amazon.com/images/I/41bVebQxzNL.jpg"
       ]
     },
     {
@@ -20142,13 +20394,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620458433l/54750333.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620458433l/54750333.jpg",
+        "https://m.media-amazon.com/images/I/51qBaoXzLEL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610670690i/54750328._UY677_SS677_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51et87AOaCL._SX327_BO1,204,203,200_.jpg",
+        "https://images1.penguinrandomhouse.com/cover/9780593297384",
+        "https://m.media-amazon.com/images/I/51HXyI1h6fL.jpg",
+        "https://images1.penguinrandomhouse.com/cover/9780593413142",
+        "https://m.media-amazon.com/images/I/61ZAT4-PArS.jpg",
+        "https://images.penguinrandomhouse.com/cover/9780593297391",
+        "https://blackwells.co.uk/jacket/l/9780593299722.jpg"
       ]
     },
     {
@@ -20167,7 +20431,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622862449l/57615593.jpg"
       },
       "notes": [
 
@@ -20221,13 +20485,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328308379l/8149405.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328308379l/8149405.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51j+x721jKL.jpg",
+        "https://www.vincentvangogh.org/images/letter.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Letter_from_Vincent_Van_Gogh_to_Theo_Van_Gogh_9_April_1885.jpeg/400px-Letter_from_Vincent_Van_Gogh_to_Theo_Van_Gogh_9_April_1885.jpeg",
+        "https://images-na.ssl-images-amazon.com/images/I/51I1krxSaxL._SX279_BO1,204,203,200_.jpg",
+        "https://www.vangoghmuseumshop.com/l/en/library/download/urn:uuid:84bd5bdc-212f-4102-956c-69804643bfd0/7770-1.jpg?color=ffffff&scaleType=2&width=485&height=485",
+        "https://images-na.ssl-images-amazon.com/images/I/51I1krxSaxL.jpg",
+        "https://m.media-amazon.com/images/I/51Fasi+k1LL.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Letter_from_Vincent_Van_Gogh_to_Theo_Van_Gogh_9_April_1885.jpeg/640px-Letter_from_Vincent_Van_Gogh_to_Theo_Van_Gogh_9_April_1885.jpeg",
+        "https://www.vangoghmuseumshop.com/l/en/library/download/urn:uuid:6fcd99bc-fb8c-4349-9d41-bf9b99b6d292/329452-1.jpg?color=ffffff&scaleType=2&width=485&height=485"
       ]
     },
     {
@@ -20246,7 +20522,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/MoH%26H_title.jpg"
       },
       "notes": [
         {
@@ -20567,6 +20843,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/MoH%26H_title.jpg",
+        "https://www.themorgan.org/sites/default/files/styles/collection_image/public/images/collection/blake_pml63935_plate04_0.jpg?itok=-a_chCPn",
+        "https://m.media-amazon.com/images/S/aplus-media/vc/93a70f41-d7e7-4e90-bf7e-1f9f5b319360.__CR0,0,970,300_PT0_SX970_V1___.png",
+        "https://www.themorgan.org/sites/default/files/styles/collection_image/public/images/collection/blake_pml63935_plate14_0.jpg?itok=11R59_NT",
+        "http://www.levity.com/alchemy/images/blake_1.jpg",
+        "https://www.art-prints-on-demand.com/kunst/william_blake/Title-Page-from-Marriage-of-Heaven-and-Hell.jpg",
+        "https://www.themorgan.org/sites/default/files/styles/collection_image/public/images/collection/blake_pml63935_plate05_0.jpg?itok=yYP8zkcl",
+        "https://austinkleon.com/wp-content/uploads/2019/12/blake-william-marriage-B20143-80-1-571x800.jpg",
+        "http://harpers.org/wp-content/uploads/blakeheaven.jpg",
+        "https://www.william-blake.org/thumbnail/87000/87062/mini_large/The-Marriage-Of-Heaven--Hell-1790-93.jpg?ts=1459229076"
       ]
     },
     {
@@ -20585,7 +20873,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/413buNmpEwL.jpg"
       },
       "notes": [
 
@@ -20610,13 +20898,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/519JQo9CugL.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/519JQo9CugL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31IE4k9OzeS._SX327_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/31QTwczGfXS.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51wenzt2lFL._SX361_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/518EN2deC3L.jpg",
+        "https://i.zst.com.br/thumbs/12/29/12/1458541179.jpg",
+        "https://livrariaib.com/image/cache/data/api/produtos/7585-515x800.jpg",
+        "https://cdn.awsli.com.br/600x450/2285/2285614/produto/144450217/1550bb2b40.jpg",
+        "https://kirion.com.br/image/cache/data/api/produtos/7585-515x800.jpg",
+        "https://cf.shopee.com.br/file/452037fb19d2d3b1af65533913974461"
       ]
     },
     {
@@ -20635,7 +20935,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-23 17:40:32 -0700",
       "cover": {
-        "src": null
+        "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788582850473/confissoes-de-santo-agostinho.jpg"
       },
       "notes": [
         {
@@ -23823,13 +24123,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51NB0vCaGfL.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51NB0vCaGfL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61kh0KfZr1L.jpg",
+        "https://m.media-amazon.com/images/I/51bhog09MML.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365654635l/3679100.jpg",
+        "https://m.media-amazon.com/images/I/51Vonz75IjL.jpg",
+        "https://prodimage.images-bn.com/pimages/9781774761229_p0_v1_s550x406.jpg",
+        "https://m.media-amazon.com/images/I/514PfJAaHPL.jpg",
+        "https://images.penguinrandomhouse.com/cover/9780375756764",
+        "https://m.media-amazon.com/images/I/510xxbt95YL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JUpT2lDOL._SX346_BO1,204,203,200_.jpg"
       ]
     },
     {
@@ -23848,7 +24160,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://imagens.lelivros.love/2022/03/Baixar-Livro-Interpretes-do-Brasil-Thiago-Lima-Nicodemo-Em-Epub-Pdf-Mobi-Ou-Ler-Online_large.jpg"
       },
       "notes": [
         {
@@ -24168,6 +24480,18 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
+      ],
+      "extra_covers": [
+        "https://imagens.lelivros.love/2022/03/Baixar-Livro-Interpretes-do-Brasil-Thiago-Lima-Nicodemo-Em-Epub-Pdf-Mobi-Ou-Ler-Online_large.jpg",
+        "https://www.resenhacritica.com.br/wp-content/uploads/2021/01/NICODEMO-Thiago-Lima.jpg",
+        "https://centrodepesquisaeformacao.sescsp.org.br/uploads/AtividadeTable/d7d90e1ed68143db9b4c1193bbd6b6ac/2001/cheia.jpg",
+        "https://0.academia-photos.com/attachment_thumbnails/36774390/mini_magick20190307-15000-1u0psd0.png?1551971916",
+        "https://centrodepesquisaeformacao.sescsp.org.br/uploads/AtividadeTable/d7d90e1ed68143db9b4c1193bbd6b6ac/1391/cheia.jpg",
+        "https://0.academia-photos.com/attachment_thumbnails/36869799/mini_magick20190306-21793-vljv7.png?1551889384",
+        "https://imagens.elivros.love/Idelber-Avelar/Baixar-Livro-Eles-Em-Nos-Idelber-Avelar-Em-Epub-Pdf-Mobi-Ou-Ler-Online_large.jpg",
+        "https://0.academia-photos.com/attachment_thumbnails/38982377/mini_magick20190223-27880-1iu16rh.png?1550965876",
+        "https://i.em.com.br/aKNh_ragoffAUGcTvXT35WQhim8=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2022/01/18/1338459/ilustracao-de-maure-mostra-letrinhas-coloridas-saindo-de-livro-de-capa-verde_1_271573.jpg",
+        "https://0.academia-photos.com/attachment_thumbnails/38082558/mini_magick20190226-12397-i6gw4e.png?1551219285"
       ]
     },
     {
@@ -24186,7 +24510,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/41W0S4LmXcL.jpg"
       },
       "notes": [
         {
@@ -24207,6 +24531,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/41W0S4LmXcL.jpg",
+        "https://a-static.mlcdn.com.br/800x560/historia-eclesiastica-eusebio-de-cesareia-fonte-editorial/shoppingospel/2306190035/507678bc8945f301d86bb58a3ee1f36c.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51SDnyqRfGL._SX333_BO1,204,203,200_.jpg",
+        "https://cdn-cosmos.bluesoft.com.br/products/9788534916622/2018-07-20-11-10-50-0300",
+        "https://cloud10.todocoleccion.online/libros-segunda-mano-historia-antigua/tc/2019/03/27/19/157014042_tcimg_F29F339C.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41W0S4LmXcL._SX342_SY445_QL70_ML2_.jpg",
+        "https://m.media-amazon.com/images/I/51qEgzZb3jL.jpg",
+        "https://www.livrariasfamiliacrista.com.br/media/catalog/product/cache/1/image/56819907b1c49a4bc751319b3fccb0da/4/1/416---historia-eclesiastica.jpg",
+        "http://d3ugyf2ht6aenh.cloudfront.net/stores/807/754/products/historia-eclesiastica1-7b8e838a9be0f1b2e116302626643287-640-0.png",
+        "https://http2.mlstatic.com/D_NQ_NP_629036-MLB29651358729_032019-O.jpg"
       ]
     },
     {
@@ -24225,13 +24561,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/413pXz7ogsL._SX327_BO1,204,203,200_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/413pXz7ogsL._SX327_BO1,204,203,200_.jpg",
+        "http://prodimage.images-bn.com/pimages/9781640600195_p0_v2_s1200x630.jpg",
+        "https://m.media-amazon.com/images/I/41dVrM9chPL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388218806l/16072954.jpg",
+        "https://m.media-amazon.com/images/I/41mgwqiBPML.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/718ePKPOo3L._AC_UL600_SR600,600_.jpg",
+        "https://m.media-amazon.com/images/I/413pXz7ogsL._AC_SY1000_.jpg",
+        "https://cdn3.volusion.com/oybla.rzpsf/v/vspfiles/photos/9781612610696-2.jpg?v-cache=1450657568",
+        "https://g.christianbook.com/g/slideshow/0/0600195/main/0600195_1_ftc.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493508381l/34735228.jpg"
       ]
     },
     {
@@ -24250,13 +24598,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759l/49074973._SY475_.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/41PRNLvJu5L._SX320_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759l/49074973._SY475_.jpg",
+        "https://ler-livros.com/wp-content/uploads/capas/a-africa-ensinando-a-gente-paulo-freire-pdf-B00I3PUUZE.jpg",
+        "https://images-americanas.b2w.io/produtos/110211520/imagens/livro-a-africa-ensinando-a-gente-angola-guine-bissau-sao-tome-e-principe-angola-guine-bissau-sao-tome-e-principe/110211520_1_large.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759i/49074973._UY500_SS500_.jpg",
+        "https://kbimages1-a.akamaihd.net/61611958-2914-4916-b89d-6b08972e6cea/353/569/90/False/a-africa-ensinando-a-gente-3.jpg",
+        "https://a-static.mlcdn.com.br/1500x1500/livro-a-africa-ensinando-a-gente-angola-guine-bissau-sao-tome-e-principe/livrariaperuibe/9788577531882/4ea75599cf578b2d93b92e5ebccd2358.jpg",
+        "https://livrariacultura.vteximg.com.br/arquivos/ids/76831566-475-475/25001634.jpg?v=637780483136330000",
+        "https://a-static.mlcdn.com.br/450x450/africa-ensinando-a-gente-a-angola-guine-bissau-sao-tome-e-principe-paz-e-terra/livrariamartinsfontespaulista/154206/267591bc43bb028deb5d98225851c8cd.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_903601-MLB42467343993_072020-O.jpg"
       ]
     },
     {
@@ -24275,13 +24635,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51rTV4GLRCS.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51rTV4GLRCS.jpg",
+        "https://citylights.com/wp-content/uploads/2021/02/thumb-87865.gif",
+        "https://harvardpress.typepad.com/.a/6a00d8341d17e553ef0115703057ad970b-pi",
+        "https://wordery.com/jackets/a274546c/narrative-of-the-life-of-frederick-douglass-frederick-douglass-9780674034013.jpg?width=266",
+        "https://pictures.abebooks.com/isbn/9780674034013-us.jpg",
+        "https://wordery.com/jackets/a274546c/narrative-of-the-life-of-frederick-douglass-frederick-douglass-9780674034013.jpg",
+        "https://i.pinimg.com/originals/8a/de/e0/8adee020a1e85c7eda65487b20ea587d.jpg",
+        "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/6740/9780674034013.jpg",
+        "https://img1.od-cdn.com/ImageType-100/7847-1/%7B37F39748-4A69-4347-9569-66E320D1286A%7DImg100.jpg",
+        "https://www.booktopia.com.au/covers/600/9780674034013/2517/narrative-of-the-life-of-frederick-douglass.jpg"
       ]
     },
     {
@@ -24300,13 +24672,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51SNezey5LL.jpg"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51SNezey5LL.jpg",
+        "https://m.media-amazon.com/images/I/41Q3ufqQWLS.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=207173866065379",
+        "https://images-na.ssl-images-amazon.com/images/I/51SNezey5LL._SX331_BO1,204,203,200_.jpg",
+        "https://colunastortas.com.br/wp-content/uploads/2016/07/bauman.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/519YTr2A3-L.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_819017-MLB43570684291_092020-O.jpg",
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788571104952/globalizacao-as-consequencias-humanas.jpg",
+        "https://i.zst.com.br/thumbs/12/35/10/1456132706.jpg",
+        "https://livrariataverna.com.br/4945/globalizacao-as-consequencias-humanas-zygmunt-bauman.jpg"
       ]
     },
     {
@@ -24325,7 +24709,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51quSjhyqfL._SX329_BO1,204,203,200_.jpg"
       },
       "notes": [
         {
@@ -24406,6 +24790,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51quSjhyqfL._SX329_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51+Z6LNg1-L.jpg",
+        "https://mpd-biblio-covers.imgix.net/9780374524951.jpg?w=300",
+        "https://target.scene7.com/is/image/Target/GUEST_db5da326-aedd-4046-8e5d-dab1e5d0ee39?wid=488&hei=488&fmt=pjpeg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316636961l/137652.jpg",
+        "http://prodimage.images-bn.com/pimages/9780374524951_p0_v4_s1200x630.jpg",
+        "https://www.spiritualityandpractice.com/uploads/book_reviews/images/moral-granduer-and-spiritual-audacity-side.jpg",
+        "https://prodimage.images-bn.com/pimages/9780374524951_p0_v4_s550x406.jpg",
+        "https://kbimages1-a.akamaihd.net/fb373974-7187-414e-9f10-efbc5acfb25b/353/569/90/False/moral-grandeur-and-spiritual-audacity.jpg",
+        "https://www.azquotes.com/picture-quotes/quote-the-hour-calls-for-moral-grandeur-and-spiritual-audacity-abraham-joshua-heschel-71-42-89.jpg"
       ]
     },
     {
@@ -24424,7 +24820,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images-na.ssl-images-amazon.com/images/I/31XDscy1WmL._SX331_BO1,204,203,200_.jpg"
       },
       "notes": [
         {
@@ -24460,6 +24856,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/31XDscy1WmL._SX331_BO1,204,203,200_.jpg",
+        "https://livrariataverna.com.br/652-large_default/sentimental-eucanaa-ferraz.jpg",
+        "https://m.media-amazon.com/images/I/41Y-028-SgL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31XDscy1WmL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOUR%2CBottomLeft%2C360%2C-6_SR600%2C315_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://bazardotempo.com.br/wp-content/uploads/2020/10/eucanaa.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463803262l/30243720.jpg",
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788535921670/sentimental.jpg",
+        "https://piaui.folha.uol.com.br/wp-content/uploads/2018/03/eucanaaferraz.png",
+        "https://rascunho.com.br/wp-content/uploads/2013/07/1005424_485106404906322_1231783825_n.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453172251l/28600685._SY475_.jpg"
       ]
     },
     {
@@ -24478,7 +24886,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179904050l/971579.jpg"
       },
       "notes": [
         {
@@ -24724,6 +25132,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/41+NV8bepkL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179904050l/971579.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417J8qR1A3L.jpg",
+        "https://target.scene7.com/is/image/Target/GUEST_a7b3d611-ebc3-43ae-8628-c179f03f74a5?wid=488&hei=488&fmt=pjpeg",
+        "https://images-na.ssl-images-amazon.com/images/I/41rT0sAFlhL._SX332_BO1,204,203,200_.jpg",
+        "https://kbimages1-a.akamaihd.net/47bebcaa-0bb6-417c-9675-ec41cecd43fa/353/569/90/False/lectures-on-literature-7.jpg",
+        "https://jonathanrosenbaum.net/wp-content/uploads/2009/11/lectures-on-literature.jpg",
+        "https://pictures.abebooks.com/inventory/18915873875.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61ZlOMWoK6L._SX377_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/41XvYer7PpL.jpg"
       ]
     },
     {
@@ -24742,7 +25162,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/61iz3UgVyJL.jpg"
       },
       "notes": [
         {
@@ -24913,6 +25333,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/61iz3UgVyJL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445343279l/6332548._SY475_.jpg",
+        "https://i.pinimg.com/564x/da/d7/a6/dad7a65430cbcad2fcd7b96ae88fe388.jpg",
+        "http://www.agenciabalcells.com/fileadmin/_processed_/csm_A_descoberta_do_mundo._Clarice_Lispector._Rocco._2020_74d9e15517.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_701163-MLB29751934261_032019-O.jpg",
+        "https://megaleitores.com.br/images/livros/clarice-lispector/rocco/a-descoberta-do-mundo/82202/8532509517-clarice-lispector-rocco-a-descoberta-do-mundo-5ede841506866-540x728.jpg",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12053602/1007804316.jpg?v=637141922927430000",
+        "https://homoliteratus.com/wp-content/uploads/2018/05/clarice-lispector-homo-literatus.jpg",
+        "https://i.pinimg.com/originals/31/37/ab/3137ab09047bb94f2c5cf03b6921a77b.jpg",
+        "https://tocalivros.s3.amazonaws.com/images/audiolivros/350/a/-/a-descoberta-do-mundo-clarice-lispector-stella-tobar-adelia-nicolete-zeza-mota-e-priscila-scholz-103976.jpg"
       ]
     },
     {
@@ -24931,13 +25363,25 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://images.penguinrandomhouse.com/cover/9780735224407"
       },
       "notes": [
 
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://images.penguinrandomhouse.com/cover/9780735224407",
+        "https://m.media-amazon.com/images/I/41r8aMr7nGL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1578689254i/28753954._SX540_.png",
+        "https://images3.penguinrandomhouse.com/cover/9780593107300",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561313575l/52884091._SX0_SY0_.jpg",
+        "https://harris.uchicago.edu/files/the-narrow-corridor.jpeg",
+        "https://images-na.ssl-images-amazon.com/images/I/41LvP1m8hcL._SX327_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548012407l/43625540._SY475_.jpg",
+        "https://m.media-amazon.com/images/I/413I1fJAY5L.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81184BCB6zL._AC_UL600_SR600,600_.jpg"
       ]
     },
     {
@@ -24956,7 +25400,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": null
+        "src": "https://m.media-amazon.com/images/I/51vW3Dq5BNL.jpg"
       },
       "notes": [
         {
@@ -24977,6 +25421,18 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51vW3Dq5BNL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51S6KgVar0L.jpg",
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788571105539/em-busca-da-politica.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51S6KgVar0L._SX334_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51tDIH4sbTL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vW3Dq5BNL._SX342_SY445_QL70_ML2_.jpg",
+        "http://slidetodoc.com/presentation_image_h/ea3fcae9bd5782669ecf998497430bcc/image-1.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ViWG-prQL.jpg",
+        "https://i.pinimg.com/600x315/e4/92/47/e49247ed08ef3b29326cb25429beba0c.jpg",
+        "https://imagens.lelivros.love/2016/07/Baixar-Livro-Em-Busca-da-Pol%C3%ADtica-Zygmunt-Bauman-em-PDF-ePub-e-Mobi-ou-ler-online-370x532.jpg"
       ]
     },
     {
@@ -24994,6 +25450,9 @@ var ibook_history = {
       "created_at": "2022-05-29 17:45:01 -0700",
       "updated_at": "2022-05-29 17:45:06 -0700",
       "asset_details_modification_date": "2022-05-29 17:45:06 -0700",
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/71IkrwgP+HL.jpg"
+      },
       "notes": [
 
       ],
@@ -25021,7 +25480,22 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "extra_covers": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg",
+        "https://images-eu.bookshop.org/images/9781844132393.jpg?height=500&v=v4-091bc9343a0bab1a8fffa7e23e1947a7",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386573716l/19306508.jpg",
+        "https://m.media-amazon.com/images/I/41s4xJZlEYL.jpg",
+        "https://pictures.abebooks.com/isbn/9781844132393-uk.jpg",
+        "https://assets.website-files.com/5f867727452b7345e820659c/603337568177f07f710965dd_Man%27s%20Search%20for%20Meaning.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41zdZsS8kZL._SX300_BO1,204,203,200_.jpg",
+        "https://www.highereducationdigest.com/wp-content/uploads/2019/02/IMG_20190209_105045_800x480-550x330.jpg",
+        "https://uploads-ssl.webflow.com/5e8b192239b9b4843e9ae18f/5f5f0adc865ef5112771d5dc_mans-search-for-meaning-viktor-e-frankl.jpg",
+        "https://www.highereducationdigest.com/wp-content/uploads/2019/02/IMG_20190209_105045_800x480.jpg"
+      ],
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg"
+      }
     },
     {
       "book_id": "6C5BD52E078341810A302EFF4971429F",
@@ -25038,6 +25512,9 @@ var ibook_history = {
       "created_at": "2022-05-28 20:56:21 -0700",
       "updated_at": "2022-05-29 17:44:25 -0700",
       "asset_details_modification_date": "2022-05-29 17:44:25 -0700",
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365019645l/17729176.jpg"
+      },
       "notes": [
 
       ],
@@ -25065,7 +25542,22 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51apy0SS3TL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51tnMMTDDLL.jpg",
+        "https://m.media-amazon.com/images/I/51lZgok0UpL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51nDOvmPxyL._SX334_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/517eNoaZGJS.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51apy0SS3TL._SX342_SY445_QL70_ML2_.jpg",
+        "https://www.jurua.com.br/images/prod/b/22/22458.jpg?ts=20201218",
+        "https://images-eu.ssl-images-amazon.com/images/I/51lZgok0UpL._SX342_SY445_QL70_ML2_.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/1853_UncleTomsCabin_Jewett.jpg",
+        "https://prodimage.images-bn.com/pimages/9786587921105_p0_v1_s550x406.jpg"
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51apy0SS3TL.jpg"
+      }
     },
     {
       "book_id": "3E5A02BA208E5C4FB0C70ACD42DB9170",
@@ -25087,12 +25579,29 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51HMvWsUSPL._SX382_BO1,204,203,200_.jpg",
+        "http://prodimage.images-bn.com/pimages/9781645940074_p0_v2_s1200x630.jpg",
+        "https://target.scene7.com/is/image/Target/GUEST_4044c160-bae9-4a86-a1cd-3dc25bf787dc?wid=488&hei=488&fmt=pjpeg",
+        "https://connecticuthistory.org/wp-content/uploads/sites/6/2014/02/LOCHarrietBeecher.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51jII92bpiL._SX307_BO1,204,203,200_.jpg",
+        "https://images.penguinrandomhouse.com/cover/9780140390032",
+        "https://target.scene7.com/is/image/Target/GUEST_86f48bde-dab4-45cb-b493-9511b6bc608c?wid=488&hei=488&fmt=pjpeg",
+        "http://english.khamenei.ir/d/2016/06/14/4/3251.jpg?ts=1465900676000",
+        "https://m.media-amazon.com/images/I/51fd9ICgwZL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390010861l/46793.jpg"
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51HMvWsUSPL._SX382_BO1,204,203,200_.jpg"
+      }
     },
     {
       "book_id": "43A225B043FAB4E1F772251D35721420",
-      "author": "User",
-      "title": "a_reencarnacao-gabriel-Delanne",
+      "author": "Gabriel Delanne",
+      "zauthor": "Gabriel Delanne",
+      "title": "A Reencarnacao",
+      "ztitle": "A Reencarnação",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -25104,6 +25613,9 @@ var ibook_history = {
       "created_at": "2022-05-26 19:19:26 -0700",
       "updated_at": "2022-05-26 19:19:27 -0700",
       "asset_details_modification_date": "2022-05-26 19:19:27 -0700",
+      "cover": {
+        "src": "https://www.febeditora.com.br/lojas/00040427/prod/9788569452386.jpg"
+      },
       "notes": [
 
       ],
