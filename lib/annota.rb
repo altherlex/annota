@@ -80,7 +80,7 @@ SELECT_LIBRARY=<<-SQL
     ZMODIFICATIONDATE AS UPDATED_AT,
     ZASSETDETAILSMODIFICATIONDATE AS ASSET_DETAILS_MODIFICATION_DATE
   FROM ZBKLIBRARYASSET
-  ORDER BY ZMODIFICATIONDATE DESC, Z_PK DESC
+  ORDER BY ZASSETDETAILSMODIFICATIONDATE DESC, ZMODIFICATIONDATE DESC, Z_PK DESC
 SQL
 
 Library = Struct.new(
@@ -153,7 +153,7 @@ result_set = {
   author_count: books.group_by{|i| i[:author]}.length,
   notes_count: annotations.length,
   new_words_count: vocabularies.length,
-  data: books
+  data: books.sort_by{|i| i[:asset_details_modification_date]}.reverse
 }
 
 File.write(DATA_FILENAME, JS_CODE+JSON.pretty_generate(result_set))

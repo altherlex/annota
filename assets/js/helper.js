@@ -53,3 +53,15 @@ function inProgressBooks() {
     return !!book.notes.length && !(book.reading_progress === 1 || book.marked_as_finished === 1)
   })
 }
+
+function booksWithNotes() {
+  return ibook_history.data.filter(function(book){ 
+    return !!book.notes.length
+  })
+}
+
+function getRandomBookWithNote() {
+  let books = booksWithNotes();
+  let randomIndex = Math.floor(Math.random() * books.length);
+  return books[randomIndex]
+}

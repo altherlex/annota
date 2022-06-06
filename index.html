@@ -53,28 +53,14 @@
     <main class="container mt-3">
       <!-- Quotes -->
       <div class="row">
-        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
-          <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-          </div>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <div id="quoteOne"></div>
-            </div>
-            <div class="carousel-item">
-              <div id="quoteTwo"></div>
-            </div>
-            <div class="carousel-item">
-              <div id="quoteThree"></div>
-            </div>
-          </div>
-          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <div id="carouselQuotes" class="carousel slide" data-bs-ride="true">
+          <div class="carousel-indicators" id="carouselIndicators"></div>
+          <div class="carousel-inner" id="carouselInner"></div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselQuotes" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
           </button>
-          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselQuotes" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
           </button>
@@ -109,6 +95,7 @@
     <script type="text/javascript" src="assets/js/helper.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/moment@2.29.3/moment.min.js"></script>
+
     <script>      
       $(function() {
         $("#all").append(` (${allBooks().length})`);
@@ -117,11 +104,19 @@
         
         mountAll();
 
-        var book = ibook_history.data[0]
-        var notes = ibook_history.data[0].notes
-        $("#quoteOne").append(mountBigQuote(notes[0], book));
-        $("#quoteTwo").append(mountBigQuote(notes[1], book));
-        $("#quoteThree").append(mountBigQuote(notes[2], book));
+        // If there's any note at all
+        if (!!booksWithNotes()) {
+          for (let i = 0; i < 6; i++) {
+            let book = getRandomBookWithNote();
+            $("#carouselInner").append(mountBigQuote(book.notes[0], book));
+            var indicator = `<button type="button" data-bs-target="#carouselQuotes" data-bs-slide-to="${i}" aria-label="Slide ${i}"></button>`;
+            $("#carouselIndicators").append(indicator);
+          }
+          $('#carouselInner > .carousel-item:first').addClass('active');
+          $('#carouselIndicators>button:first').addClass('active').attr('aria-current', true);
+        } else {
+          $('#carouselQuotes').remove();
+        }
       });
 
       function mountAll(element=null) {
@@ -209,7 +204,6 @@
         } else {
           return `
           <img src="${src}" class="card-img-top shadow border">
-          <p class="fw-semibold text-capitalize">${shortTitle(book)}</p>
           `
         }
       }
@@ -219,8 +213,11 @@
         return `
           <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
             <div class="card mb-3 mx-2 bg-light border-light">
-              <div class="card-body" onclick="showHighlights('${book.book_id}')" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
-                ${displayCoverAndTitle(book)}
+              <div class="card-body">
+                <div onclick="showHighlights('${book.book_id}')" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
+                  ${displayCoverAndTitle(book)}
+                </div>
+                <p class="fw-semibold text-capitalize">${shortTitle(book)}</p>
                 ${progressBar(book.reading_progress, book.marked_as_finished, !!book.notes.length)}
                 ${pageCountTag(book.page_count)}
                 ${notesCountTag(book.notes.length)}
@@ -270,14 +267,16 @@
 
       function mountBigQuote(note, book){
         return `
-          <div class="w-100 bg-success text-light text-wrap" alt="test" style="height: 300px;">
-            <figure class="position-absolute top-50 start-50 translate-middle">
-              <blockquote class='lead fs-5'>${note.text || note.sentence}</blockquote>
-              <figcaption class='fs-6 text-capitalize'>
-                ${author(book)} <cite title="Source Title">(${title(book)})</cite>
-              </figcaption>
-            </figure>
-          </div>        
+          <div class="carousel-item">
+            <div class="w-100 bg-success text-light text-wrap" alt="test" style="height: 300px;">
+              <figure class="position-absolute top-50 start-50 translate-middle">
+                <blockquote class='lead fs-5'>${note.text || note.sentence}</blockquote>
+                <figcaption class='fs-6 text-capitalize'>
+                  ${author(book)} <cite title="Source Title">(${title(book)})</cite>
+                </figcaption>
+              </figure>
+            </div>        
+          </div>
         `
       }    
 
