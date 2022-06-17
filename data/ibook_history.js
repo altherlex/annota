@@ -27,7 +27,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41zgKCnCVIL.jpg"
+        "src": "assets/images/4D885561A6246CD4D7444702AE85BE85.jpg"
       }
     },
     {
@@ -52,7 +52,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://upload.wikimedia.org/wikipedia/en/1/12/Utopia_for_Realists.png"
+        "src": "assets/images/D8C481EC7330A22599E1A3CA52AC33B2.png"
       }
     },
     {
@@ -77,7 +77,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81HnlscpQeL.jpg"
+        "src": "assets/images/F1167B1F3CA27A789CFCC61822CA020C.jpg"
       }
     },
     {
@@ -102,7 +102,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/91D-RVGmN5L.jpg"
+        "src": "assets/images/21D3F4ECD6404E28958ABFB0E9032135.jpg"
       }
     },
     {
@@ -141,7 +141,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41jZxrWbqbL.jpg"
+        "src": "assets/images/CF20B9F6A183C0D6A0A6AD8BBABEF49C.jpg"
       }
     },
     {
@@ -908,7 +908,7 @@ var ibook_history = {
         }
       ],
       "cover": {
-        "src": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780684801223/old-man-and-the-sea-9780684801223_hr.jpg"
+        "src": "assets/images/3F7E6D80792686955E2A87AFBFB8D367.jpg"
       }
     },
     {
@@ -933,7 +933,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41ma9PzyfRS.jpg"
+        "src": "assets/images/87E02AACBCA94135C6703AE84714ED6C.jpg"
       }
     },
     {
@@ -2466,7 +2466,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_7899d550a8b1418945294bbad4423cf7ec647b88.jpg"
+        "src": "assets/images/8D9EDB5CD07C984FC2D54EB5F24DE7C1.jpg"
       }
     },
     {
@@ -2485,7 +2485,7 @@ var ibook_history = {
       "updated_at": "2022-06-02 02:59:24 -0700",
       "asset_details_modification_date": "2022-06-02 02:59:24 -0700",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504991189l/30114044._SY475_.jpg"
+        "src": "assets/images/D0D30A93CB312305E6FE22BFC0F80C32.jpg"
       },
       "notes": [
         {
@@ -2581,7 +2581,7 @@ var ibook_history = {
       "updated_at": "2022-05-29 17:45:13 -0700",
       "asset_details_modification_date": "2022-05-29 17:45:13 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/71kb+edzN5L.jpg"
+        "src": "assets/images/DA2121424F75E0219EB1DCB46CAAA3D2.jpg"
       },
       "notes": [
 
@@ -2606,7 +2606,7 @@ var ibook_history = {
       "updated_at": "2022-05-29 17:45:06 -0700",
       "asset_details_modification_date": "2022-05-29 17:45:06 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/71IkrwgP+HL.jpg"
+        "src": "assets/images/C7A0D41B3FC57095C5F66BA5F0489BD6.jpg"
       },
       "notes": [
 
@@ -2637,7 +2637,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg"
+        "src": "assets/images/83CFA7416B8D84B421A67596F767655D.jpg"
       }
     },
     {
@@ -2656,7 +2656,7 @@ var ibook_history = {
       "updated_at": "2022-05-29 17:44:25 -0700",
       "asset_details_modification_date": "2022-05-29 17:44:25 -0700",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365019645l/17729176.jpg"
+        "src": "assets/images/6C5BD52E078341810A302EFF4971429F.jpg"
       },
       "notes": [
 
@@ -2687,7 +2687,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51apy0SS3TL.jpg"
+        "src": "assets/images/9CA188ED68C1DE337B702FE4BEE8DE76.jpg"
       }
     },
     {
@@ -2712,7 +2712,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51HMvWsUSPL._SX382_BO1,204,203,200_.jpg"
+        "src": "assets/images/3E5A02BA208E5C4FB0C70ACD42DB9170.jpg"
       }
     },
     {
@@ -2733,7 +2733,7 @@ var ibook_history = {
       "updated_at": "2022-05-26 19:19:27 -0700",
       "asset_details_modification_date": "2022-05-26 19:19:27 -0700",
       "cover": {
-        "src": "https://www.febeditora.com.br/lojas/00040427/prod/9788569452386.jpg"
+        "src": "assets/images/43A225B043FAB4E1F772251D35721420.jpg"
       },
       "notes": [
 
@@ -2758,7 +2758,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-25 15:19:51 -0700",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51Ey1KMIclL.jpg"
+        "src": "assets/images/EF2198D842CC713124ED31B76FB7D204.jpg"
       },
       "notes": [
         {
@@ -4739,7 +4739,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-25 09:32:06 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81F+KfE54hL.jpg"
+        "src": "assets/images/C217FE0E9AAA099A2E0990CFA0D40C2B.jpg"
       },
       "notes": [
         {
@@ -5647,7 +5647,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-23 17:40:32 -0700",
       "cover": {
-        "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788582850473/confissoes-de-santo-agostinho.jpg"
+        "src": "assets/images/FC0749237DE0740C62722F21EA90E69E.jpg"
       },
       "notes": [
         {
@@ -9018,7 +9018,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-05-23 17:39:50 -0700",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41mlmUuY8xL.jpg"
+        "src": "assets/images/C8282DC0A8E77294E4FC8F0C9BF9E471.jpg"
       },
       "notes": [
         {
@@ -10845,7 +10845,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-04-26 23:37:50 -0700",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41BhFGlw-5L._SX315_BO1,204,203,200_.jpg"
+        "src": "assets/images/421B7671C7F803C653E3270B514ECAA2.jpg"
       },
       "notes": [
 
@@ -14639,7 +14639,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81eNXSgtJ8L.jpg"
+        "src": "assets/images/21B4AD37EA0B4BD8B57AC11728AEC438.jpg"
       },
       "notes": [
 
@@ -15983,7 +15983,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:20 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": "https://livrandante.com.br/wp-content/uploads/2018/05/gandhi-a-magia-dos-gestos-po%C3%A9ticos.jpg"
+        "src": "assets/images/76287EAF4902986C599FD98FBC5BC160.jpg"
       },
       "notes": [
         {
@@ -17292,7 +17292,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478145975l/3841.jpg"
+        "src": "assets/images/986B1351CBFA4C911462E08FE2E9B101.jpg"
       },
       "notes": [
 
@@ -17317,7 +17317,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/519Nbj0x+hL.jpg"
+        "src": "assets/images/B2F4383CA34AE01550436F666946CE1A.jpg"
       },
       "notes": [
 
@@ -17342,7 +17342,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759l/49074973._SY475_.jpg"
+        "src": "assets/images/B1D5F1B40ABBFACB66C429ABB9A76E80.jpg"
       },
       "notes": [
 
@@ -17367,7 +17367,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51vYoHB2XlL.jpg"
+        "src": "assets/images/E5D89DDF2CE42E380AC9BB95DBFCE665.jpg"
       },
       "notes": [
         {
@@ -17406,7 +17406,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620458433l/54750333.jpg"
+        "src": "assets/images/C4580BBE7FD5A5B0DBB15D957F4C8063.jpg"
       },
       "notes": [
 
@@ -17456,7 +17456,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179904050l/971579.jpg"
+        "src": "assets/images/8A82C1696267E589CAC9B6E1E26D3AC1.jpg"
       },
       "notes": [
         {
@@ -17720,7 +17720,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/413pXz7ogsL._SX327_BO1,204,203,200_.jpg"
+        "src": "assets/images/27FA50A53C7076EC036DC377D366741D.jpg"
       },
       "notes": [
 
@@ -17745,7 +17745,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51rTV4GLRCS.jpg"
+        "src": "assets/images/8780689C3CAC2950549EF57D5B16CB97.jpg"
       },
       "notes": [
 
@@ -17770,7 +17770,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41W0S4LmXcL.jpg"
+        "src": "assets/images/4D037D343CFD70C119516D89C1FC60FC.jpg"
       },
       "notes": [
         {
@@ -17809,7 +17809,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51LEQ8ICHxL.jpg"
+        "src": "assets/images/19F79A4779155A830BD9BB5F1398323E.jpg"
       },
       "notes": [
         {
@@ -17848,7 +17848,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51vW3Dq5BNL.jpg"
+        "src": "assets/images/AAC395D1EC2C4487B356C2DBF18F75DF.jpg"
       },
       "notes": [
         {
@@ -17887,7 +17887,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/41REuF0qN5L._SX324_BO1,204,203,200_.jpg"
+        "src": "assets/images/DEFDA29F7297F78947F7772EC00379CF.jpg"
       },
       "notes": [
         {
@@ -18166,7 +18166,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/31XDscy1WmL._SX331_BO1,204,203,200_.jpg"
+        "src": "assets/images/27FFB33127DAF3F8BDC9B3653E9AD849.jpg"
       },
       "notes": [
         {
@@ -18220,7 +18220,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images.penguinrandomhouse.com/cover/9780735224407"
+        "src": "assets/images/27277727F9B0684E09DACC8440AC0A71"
       },
       "notes": [
 
@@ -18245,7 +18245,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51rjcjJ5WML._SX314_BO1,204,203,200_.jpg"
+        "src": "assets/images/DFA39535131D2CC3AE961479BF05723E.jpg"
       },
       "notes": [
 
@@ -18270,7 +18270,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://lojasaraiva.vteximg.com.br/arquivos/ids/1551873-287-426/1000717395.jpg?v=637004208376270000"
+        "src": "assets/images/7D2D7945EE21039A0E11B634782658F5.jpg"
       },
       "notes": [
         {
@@ -18379,7 +18379,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41rJrsCb3gL.jpg"
+        "src": "assets/images/E5BA515FB48649DE846DCB6CCEF84E59.jpg"
       },
       "notes": [
         {
@@ -18433,7 +18433,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/519JQo9CugL.jpg"
+        "src": "assets/images/3A1C951AFBA73A2868CBB8E1400E9D37.jpg"
       },
       "notes": [
 
@@ -18458,7 +18458,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/414igDkicYL.jpg"
+        "src": "assets/images/FB5C09659D63AF0C018F65707D213403.jpg"
       },
       "notes": [
 
@@ -18996,7 +18996,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51SNezey5LL.jpg"
+        "src": "assets/images/5CC626F99663C085027BE6A55C0CEDA4.jpg"
       },
       "notes": [
 
@@ -19021,7 +19021,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/417GbcEWF2L.jpg"
+        "src": "assets/images/5833E5DB6AED336CE0F3F6F0C5A97FD6.jpg"
       },
       "notes": [
         {
@@ -19060,7 +19060,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51f0TCmi1wL.jpg"
+        "src": "assets/images/076FA582D9293714117D948BD6BE2987.jpg"
       },
       "notes": [
         {
@@ -19144,7 +19144,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329070629l/9563508.jpg"
+        "src": "assets/images/BA8BCB876E769EFA8CECF0840816C023.jpg"
       },
       "notes": [
 
@@ -19169,7 +19169,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://imagens.lelivros.love/2022/03/Baixar-Livro-Interpretes-do-Brasil-Thiago-Lima-Nicodemo-Em-Epub-Pdf-Mobi-Ou-Ler-Online_large.jpg"
+        "src": "assets/images/4C7DB68B91245D931AA20F6E986DC2D7.jpg"
       },
       "notes": [
         {
@@ -19507,7 +19507,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622862449l/57615593.jpg"
+        "src": "assets/images/36BC6FB6EE746CA4D78F2B97F80E397F.jpg"
       },
       "notes": [
 
@@ -19810,7 +19810,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjUzMTkxMDAw/500x"
+        "src": "assets/images/3CBAD8DF121D647D0747C86D9424F029"
       },
       "notes": [
         {
@@ -19889,7 +19889,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/413buNmpEwL.jpg"
+        "src": "assets/images/9CE992BBC6F94919C3B7456A122467CF.jpg"
       },
       "notes": [
 
@@ -19914,7 +19914,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51tMvvmZjkL._SX323_BO1,204,203,200_.jpg"
+        "src": "assets/images/19DEF4EEC79783D1D0B630DF05D08C50.jpg"
       },
       "notes": [
 
@@ -19939,7 +19939,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL._SX349_BO1,204,203,200_.jpg"
+        "src": "assets/images/1E2D3DDCAD15755FB86989CFCBCCCA3C.jpg"
       },
       "notes": [
 
@@ -20282,7 +20282,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51g-PplkYtL.jpg"
+        "src": "assets/images/FD9D8A8E9D2F90DAD658B3F3BD70BD4E.jpg"
       },
       "notes": [
 
@@ -20307,7 +20307,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/MoH%26H_title.jpg"
+        "src": "assets/images/BA7D4BB073224AEAC195E939DED61C0F.jpg"
       },
       "notes": [
         {
@@ -20646,7 +20646,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51NB0vCaGfL.jpg"
+        "src": "assets/images/16AB8939D0C09FC8E92E69B5A228FC80.jpg"
       },
       "notes": [
 
@@ -20735,7 +20735,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51ranPNod2L._SX317_BO1,204,203,200_.jpg"
+        "src": "assets/images/4DB94D3141C3EA3C405468A697DD56DA.jpg"
       },
       "notes": [
 
@@ -20760,7 +20760,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/61iz3UgVyJL.jpg"
+        "src": "assets/images/C645A5E0503D183C1A6427B72D125348.jpg"
       },
       "notes": [
         {
@@ -21303,7 +21303,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81VEOu0sFNS.jpg"
+        "src": "assets/images/B75BDFADF0E1719C9DB50D4D74E3C0E6.jpg"
       },
       "notes": [
 
@@ -21328,7 +21328,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560285/essencial-padre-antonio-vieira.jpg"
+        "src": "assets/images/EA024B2CA30617707CDB4EE80AF73F60.jpg"
       },
       "notes": [
         {
@@ -21382,7 +21382,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51quSjhyqfL._SX329_BO1,204,203,200_.jpg"
+        "src": "assets/images/481062C70A4A172675DF8EEF57274B76.jpg"
       },
       "notes": [
         {
@@ -21640,7 +21640,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/417zLwDWHRL._SX335_BO1,204,203,200_.jpg"
+        "src": "assets/images/5D50B70059A780E717D391519AF25645.jpg"
       },
       "notes": [
 
@@ -21715,7 +21715,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328308379l/8149405.jpg"
+        "src": "assets/images/51F1EBBDC87A05DFF8B72718500327B8.jpg"
       },
       "notes": [
 
@@ -21913,7 +21913,7 @@ var ibook_history = {
       "updated_at": "2022-05-15 08:26:19 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/71DiaQqZPsL.jpg"
+        "src": "assets/images/BA40F0D2704E512D65A22CAEDE03EE0D.jpg"
       },
       "notes": [
 
