@@ -32,8 +32,8 @@ db = JSON.parse(content.empty? ? '{"data":[]}' : content)
 db["data"].each do |book|
   next if !(book["cover"]||{})["src"].nil?
 
-  book["extra_covers"] = fetch_cover("#{book['title']} #{book['author']}")
-  book["cover"] = { "src": book["extra_covers"][0] }
+  covers = fetch_cover("#{book['title']} #{book['author']}")
+  book["cover"] = { "src": covers[0] }
 end
 
 File.write(DATA_FILENAME, JS_CODE+JSON.pretty_generate(db))
