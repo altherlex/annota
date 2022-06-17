@@ -1,17 +1,141 @@
 var ibook_history = {
-  "updated_at": "2022-06-10 23:37:42 -0700",
-  "book_count": 152,
-  "author_count": 116,
-  "notes_count": 1071,
-  "new_words_count": 91,
+  "updated_at": "2022-06-16 22:01:14 -0700",
+  "book_count": 157,
+  "author_count": 118,
+  "notes_count": 1103,
+  "new_words_count": 100,
   "data": [
+    {
+      "book_id": "4D885561A6246CD4D7444702AE85BE85",
+      "author": "Diogo Bogéa",
+      "title": "Psicologia do Bolsonarismo: Por que tantas pessoas se curvam ao mito?",
+      "last_engaged_date": "2022-06-16 18:38:51 -0700",
+      "reading_progress": 0.4372093081474304,
+      "marked_as_finished": null,
+      "purchase_date": "2022-06-16 14:23:43 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 394547,
+      "page_count": 0,
+      "created_at": "2022-06-16 14:23:43 -0700",
+      "updated_at": "2022-06-16 14:23:47 -0700",
+      "asset_details_modification_date": "2022-06-16 14:23:47 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "D8C481EC7330A22599E1A3CA52AC33B2",
+      "author": "Rutger Bregman",
+      "title": "Utopia for Realists",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-06-13 00:11:20 -0700",
+      "genre": "",
+      "lang": "en",
+      "file_size": 3210493,
+      "page_count": 0,
+      "created_at": "2022-06-13 00:11:20 -0700",
+      "updated_at": "2022-06-16 14:23:43 -0700",
+      "asset_details_modification_date": "2022-06-16 14:23:43 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "F1167B1F3CA27A789CFCC61822CA020C",
+      "author": "Hermann Hesse",
+      "title": "Poems",
+      "last_engaged_date": "2022-06-11 00:37:54 -0700",
+      "reading_progress": 0.6813187003135681,
+      "marked_as_finished": null,
+      "purchase_date": "2022-06-11 00:35:43 -0700",
+      "genre": "",
+      "lang": "en-US",
+      "file_size": 6299384,
+      "page_count": 0,
+      "created_at": "2022-06-11 00:35:43 -0700",
+      "updated_at": "2022-06-11 00:39:41 -0700",
+      "asset_details_modification_date": "2022-06-11 00:39:41 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "21D3F4ECD6404E28958ABFB0E9032135",
+      "author": "Hermann Hesse",
+      "title": "If the War Goes On . . .",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-06-11 00:34:49 -0700",
+      "genre": "",
+      "lang": "en-US",
+      "file_size": 571399,
+      "page_count": 0,
+      "created_at": "2022-06-11 00:34:49 -0700",
+      "updated_at": "2022-06-11 00:35:43 -0700",
+      "asset_details_modification_date": "2022-06-11 00:35:43 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "CF20B9F6A183C0D6A0A6AD8BBABEF49C",
+      "author": "Hermann Hesse",
+      "title": "Peter Camenzind",
+      "last_engaged_date": "2022-06-11 00:50:21 -0700",
+      "reading_progress": 0.019999999552965164,
+      "marked_as_finished": null,
+      "purchase_date": "2022-06-11 00:32:52 -0700",
+      "genre": "",
+      "lang": "en-US",
+      "file_size": 528393,
+      "page_count": 0,
+      "created_at": "2022-06-11 00:32:52 -0700",
+      "updated_at": "2022-06-11 00:34:49 -0700",
+      "asset_details_modification_date": "2022-06-11 00:34:49 -0700",
+      "notes": [
+        {
+          "pk": 1382,
+          "book_id": "CF20B9F6A183C0D6A0A6AD8BBABEF49C",
+          "chapter": "Chapter One",
+          "text": "IN THE BEGINNING was the myth. God, in his search for self-expression, invested the souls of Hindus, Greeks, and Germans with poetic shapes and continues to invest each child’s soul with poetry every day.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[chapter1]!/4/4,/1:0,/3:188)",
+          "created_at": "2022-06-11 00:48:48 -0700",
+          "updated_at": "2022-06-11 00:48:48 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 34
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
     {
       "book_id": "D9C4125358DEEAF98D982277537D6251",
       "author": "Unknown",
       "zauthor": "Hermann Hesse",
       "title": "Peter camenzind",
-      "last_engaged_date": "2022-06-10 23:35:56 -0700",
-      "reading_progress": 0.0,
+      "last_engaged_date": "2022-06-16 21:07:54 -0700",
+      "reading_progress": 0.6140940189361572,
       "marked_as_finished": null,
       "purchase_date": "2022-05-15 08:26:20 -0700",
       "genre": "",
@@ -84,10 +208,608 @@ var ibook_history = {
         }
       ],
       "notes": [
-
+        {
+          "pk": 1426,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "No entanto, quando o primeiro passo está dado, o prémio surge sempre por si mesmo.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/256/1,:0,:82)",
+          "created_at": "2022-06-16 21:59:32 -0700",
+          "updated_at": "2022-06-16 21:59:33 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 1425,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": " Assim, parecia-me, a arte esforçara-se em todos os tempos por nos ofertar na sua linguagem, a silente necessidade do divino.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/218/1,:587,:712)",
+          "created_at": "2022-06-16 21:52:06 -0700",
+          "updated_at": "2022-06-16 21:52:06 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 20
+        },
+        {
+          "pk": 1424,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "só na Bíblia se encontra a maravilhosa palavra do «inexprimível gemido» da criatura. E eu intuía que em todos os tempos, tal como eu, homens houvera que tinham sido tomados por esta impenetrabilidade, tinham deixado o seu trabalho do dia-a-dia e buscado a solidão para escutar o canto da criação, observar o correr das nuvens e, em incansável ansiedade, estender os braços em oração para o eterno, anacoretas, penitentes e santos.\n\n",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2,/208/1:393,/209:0)",
+          "created_at": "2022-06-16 21:48:19 -0700",
+          "updated_at": "2022-06-16 21:48:19 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 71
+        },
+        {
+          "pk": 1423,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "forças inaproveitadas que assim permaneciam.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/68/1,:34,:78)",
+          "created_at": "2022-06-16 21:27:46 -0700",
+          "updated_at": "2022-06-16 21:27:46 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 5
+        },
+        {
+          "pk": 1422,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "e de arrancar à vida árida pelo menos uma mão cheia de felicidade.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/60/1,:302,:368)",
+          "created_at": "2022-06-16 21:26:47 -0700",
+          "updated_at": "2022-06-16 21:26:47 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 13
+        },
+        {
+          "pk": 1421,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "inaptidão para a vida",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/60/1,:76,:97)",
+          "created_at": "2022-06-16 21:25:37 -0700",
+          "updated_at": "2022-06-16 21:25:38 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 1420,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Porquê? Para quê? Oh, Deus, seria então tudo isto apenas uma brincadeira, um acaso, um quadro pintado? Não havia eu lutado e sofrido os tormentos da ânsia pelo espírito, pela amizade, pela beleza, verdade e amor? Não continuava a avolumar-se em mim a enorme onda da ansiedade e do amor? E tudo isto para nada, para meu tormento e sem o prazer de ninguém",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/44/1,:611,:964)",
+          "created_at": "2022-06-16 21:18:12 -0700",
+          "updated_at": "2022-06-16 21:18:16 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 64
+        },
+        {
+          "pk": 1419,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Estava inconsolável por a vida passar por mim assim, de não ser arrastado por nenhuma torrente forte, de nenhum forte entusiasmo ou interesse me animar e arrancar ao sonho sombrio.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/34/1,:95,:275)",
+          "created_at": "2022-06-16 21:14:52 -0700",
+          "updated_at": "2022-06-16 21:14:52 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 30
+        },
+        {
+          "pk": 1418,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "O seu estado ainda não é de doença, nem me parece de inspirar cuidados; mas se não deixar de vaguear de forma tão passiva, poderá acabar por perder o equilíbrio.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id11]!/4/2/2/4/1,:137,:298)",
+          "created_at": "2022-06-16 21:09:02 -0700",
+          "updated_at": "2022-06-16 21:09:02 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 30
+        },
+        {
+          "pk": 1417,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": " Eu saía, vagueava por florestas, montes e estradas e, em meu redor, os prados, as árvores, os campos calavam, numa tristeza sem queixume, olhavam-me silenciosos e suplicantes, e tinham desejo de dizer-me algo, de vir ao meu encontro, de saudar-me. Mas jaziam ali e nada podiam dizer, e eu compreendia o seu sofrimento e sofria com eles, pois não podia libertá-los.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1222/1,:213,:578)",
+          "created_at": "2022-06-16 21:06:45 -0700",
+          "updated_at": "2022-06-16 21:06:46 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 61
+        },
+        {
+          "pk": 1416,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Quem nunca tenha sentido em si o que é a tristeza, não pode compreender isto. Como hei-de descrevê-lo? Tinha a sensação de uma solidão terrível. Entre mim e as pessoas, e a vida na cidade, nas praças, nas casas e ruas, havia continuamente um vasto fosso.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1214/1,:0,:254)",
+          "created_at": "2022-06-16 21:04:49 -0700",
+          "updated_at": "2022-06-16 21:04:49 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 46
+        },
+        {
+          "pk": 1415,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "De súbito, eu sabia outra vez que a morte era a nossa irmã inteligente e boa que conhece a hora adequada, e que podemos aguardá-la confiadamente. E comecei também a compreender que o sofrimento, as desilusões e a melancolia não existem para nos deixar contrariados e fazer-nos perder o valor e a dignidade, mas para nos amadurecer e transformar.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1204/1,:0,:345)",
+          "created_at": "2022-06-16 21:02:38 -0700",
+          "updated_at": "2022-06-16 21:02:39 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 59
+        },
+        {
+          "pk": 1414,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Vi de novo a minha mãe morrer. Vi de novo no seu rosto o silencioso e grave trabalho da morte que o enobrecia. A morte tinha um aspecto rude, mas era tão magnificente e também tão bondosa como um pai cauteloso que traz o filho perdido de regresso a casa.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1202/1,:168,:422)",
+          "created_at": "2022-06-16 21:02:09 -0700",
+          "updated_at": "2022-06-16 21:02:09 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 50
+        },
+        {
+          "pk": 1413,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "A sapiente e sóbria vida, porém, mantinha-se silenciosa, e deixava-me errar.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1162/1,:0,:76)",
+          "created_at": "2022-06-16 20:57:38 -0700",
+          "updated_at": "2022-06-16 20:57:38 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 11
+        },
+        {
+          "pk": 1412,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Seria meu dever superar esta dura prova, orientar-me pelas estrelas e, numa nova viagem, lutar pela coroa da vida e buscá-la. Eu crera na amizade, no amor feminino, na juventude.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1160/1,:0,:178)",
+          "created_at": "2022-06-16 20:56:43 -0700",
+          "updated_at": "2022-06-16 20:56:44 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 30
+        },
+        {
+          "pk": 1411,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "ser dignos da nossa felicidade",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1138/1,:566,:596)",
+          "created_at": "2022-06-16 20:51:01 -0700",
+          "updated_at": "2022-06-16 20:51:01 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 5
+        },
+        {
+          "pk": 1410,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "E uma vez mais me subjugou o sentimento de que não havia nascido\n\n \n\n69\n\n \n\npara uma vida regular e aconchegada entre os homens, em cidades e casas, mas para vaguear por terras estranhas e errar por sobre os mares. Com um impulso obscuro, ergueu-se em mim a antiga e angustiante necessidade de me lançar nos braços de Deus e irmanar a minha vida com o infinito e o intemporal.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2,/1110/1:135,/1118/1:300)",
+          "created_at": "2022-06-16 20:40:57 -0700",
+          "updated_at": "2022-06-16 20:40:57 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 71
+        },
+        {
+          "pk": 1409,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "todavia, sentia não raro, como um estranho calafrio, quanta ansiedade autêntica e verdadeira força espiritual flamejava ali e em vão se consumia.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1018/1,:1152,:1297)",
+          "created_at": "2022-06-16 20:20:04 -0700",
+          "updated_at": "2022-06-16 20:20:05 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 22
+        },
+        {
+          "pk": 1408,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Crer em Deus era considerado estúpido e quase indecoroso, mas à parte isso, criam em inúmeras doutrinas e nomes, em Schopenhauer, Buda, Zaratustra e muitos outros.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1018/1,:146,:309)",
+          "created_at": "2022-06-16 20:16:35 -0700",
+          "updated_at": "2022-06-16 20:16:36 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 26
+        },
+        {
+          "pk": 1407,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Eu cria encontrar-me no início de um caminho que conduzia ao alto. Não sabia que tudo quanto até agora experimentara eram apenas acasos, e que ao meu ser e à minha vida faltavam ainda o tom profundo e próprio. Não sabia ainda que sofria de um anseio para o qual nem o amor nem a fama são fim ou realização.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/1014/1,:0,:306)",
+          "created_at": "2022-06-16 20:14:39 -0700",
+          "updated_at": "2022-06-16 20:14:40 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 60
+        },
+        {
+          "pk": 1406,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Desde a infância que, em geral, as pessoas não me eram nem especialmente queridas nem necessárias; agora, começava a olhá-las de forma crítica e irónica. ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/996/1,:702,:855)",
+          "created_at": "2022-06-16 20:09:34 -0700",
+          "updated_at": "2022-06-16 20:09:34 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 25
+        },
+        {
+          "pk": 1405,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "De onde me vinha este tom depreciativo, nem eu próprio o sabia; ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/996/1,:1051,:1114)",
+          "created_at": "2022-06-16 20:09:16 -0700",
+          "updated_at": "2022-06-16 20:09:16 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 12
+        },
+        {
+          "pk": 1404,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Quando fala com os seus dilectos, então, com um marulhar, uma embriaguês arrepiantes, inunda-os no mar tumultuoso dos mistérios, da recordação, da poesia, do pressentimento. O mundo conhecido torna-se pequeno e perde-se e, com temerosa alegria, a alma lança-se na vastidão sem trilhos do desconhecido, onde tudo é estranho, tudo é familiar, e onde se fala a linguagem da música, dos poetas e do sonho.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/984/1,:0,:401)",
+          "created_at": "2022-06-16 20:03:24 -0700",
+          "updated_at": "2022-06-16 20:03:24 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 65
+        },
+        {
+          "pk": 1403,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Deus, poderoso e amoroso, foi para mim um amigo fiel e é-o ainda hoje. Quem haverá tão poderoso como ele? Quem haverá tão belo, fantástico, entusiasta, tão alegre e melancólico? Ele é um sedutor, um irmão de Eros. Ele consegue o impossível; enche pobres corações humanos de belos e maravilhosos poemas. De mim, solitário e camponês, fez um rei, um poeta, um sábio. Às barcas vazias da vida, ele carrega-as de novos destinos e, às encalhadas, lança-as de novo para rápidas torrentes da vida.\n\n",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2,/968/1:213,/969:0)",
+          "created_at": "2022-06-16 19:52:41 -0700",
+          "updated_at": "2022-06-16 19:52:41 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 84
+        },
+        {
+          "pk": 1401,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "- Ah, o amor não existe para nos fazer felizes. Acho que ele existe para nos mostrar quão fortes podemos ser no sofrimento e na paciência.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/930/1,:0,:138)",
+          "created_at": "2022-06-13 22:55:31 -0700",
+          "updated_at": "2022-06-13 22:55:32 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 26
+        },
+        {
+          "pk": 1400,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": " Como se as estrelas, as montanhas e os lagos ansiassem por alguém que compreendesse e expressasse a sua beleza e a dor da sua existência silenciosa, como se fosse eu esse alguém, como se a minha verdadeira missão fosse a de, pela escrita, dar expressão à natureza silenciosa.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/812/1,:303,:579)",
+          "created_at": "2022-06-13 22:37:36 -0700",
+          "updated_at": "2022-06-13 22:37:37 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 48
+        },
+        {
+          "pk": 1396,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "mas poucos me pareciam conhecer a necessidade de, sem fim visível, trabalhar em si mesmos e esclarecer a sua própria posição frente ao tempo e à eternidade. E também em mim próprio este impulso permanecia ainda, usualmente, meio adormecido.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/684/1,:1035,:1275)",
+          "created_at": "2022-06-13 22:18:31 -0700",
+          "updated_at": "2022-06-13 22:18:31 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 39
+        },
+        {
+          "pk": 1389,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "Elas são a imagem eterna de todo o caminhar, da busca, da ânsia e da saudade do lar. E assim como elas pendem entre a terra e o céu, apreensivas, ansiosas e obstinadas, assim pendem apreensivas, ansiosas e obstinadas as almas dos homens, entre o tempo e a eternidade.\n\nOh, as nuvens, belas, pairando, sem repouso!",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2,/214/1:309,/216/1:44)",
+          "created_at": "2022-06-13 17:59:50 -0700",
+          "updated_at": "2022-06-13 17:59:50 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 56
+        },
+        {
+          "pk": 1386,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "filho do padeiro, Fuessli",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/142/1,:282,:307)",
+          "created_at": "2022-06-12 12:16:50 -0700",
+          "updated_at": "2022-06-12 12:16:50 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 1385,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "ter uma percepção notavelmente viva do tragicómico",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/130/1,:454,:504)",
+          "created_at": "2022-06-12 12:13:38 -0700",
+          "updated_at": "2022-06-12 12:13:38 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 1380,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "No princípio, era o mito. E assim como o grande Deus fazia poesia na alma dos hindus, gregos e germanos, procurando expressar-se, assim de novo ele faz poesia, dia após dia, na alma de cada criança.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/84/1,:0,:198)",
+          "created_at": "2022-06-10 23:42:37 -0700",
+          "updated_at": "2022-06-10 23:42:37 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 36
+        }
       ],
       "new_words": [
-
+        {
+          "pk": 1397,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "filologia",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/710/1,:450,:459)",
+          "created_at": "2022-06-13 22:22:23 -0700",
+          "updated_at": "2022-06-13 22:22:23 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1395,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "estetas",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/684/1,:340,:347)",
+          "created_at": "2022-06-13 22:16:52 -0700",
+          "updated_at": "2022-06-13 22:16:53 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1394,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "liceu",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/634/1,:49,:54)",
+          "created_at": "2022-06-13 22:12:40 -0700",
+          "updated_at": "2022-06-13 22:12:40 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1393,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "abaulado",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/620/1,:222,:230)",
+          "created_at": "2022-06-13 22:11:59 -0700",
+          "updated_at": "2022-06-13 22:11:59 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1392,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "inveterado",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/510/1,:166,:176)",
+          "created_at": "2022-06-13 21:57:06 -0700",
+          "updated_at": "2022-06-13 21:57:07 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1391,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "argêntea",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/492/1,:270,:278)",
+          "created_at": "2022-06-13 21:54:45 -0700",
+          "updated_at": "2022-06-13 21:54:45 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1390,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "acutilância",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/390/1,:501,:512)",
+          "created_at": "2022-06-13 21:29:06 -0700",
+          "updated_at": "2022-06-13 21:29:06 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1387,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "flanco ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/142/1,:678,:685)",
+          "created_at": "2022-06-12 12:18:36 -0700",
+          "updated_at": "2022-06-12 12:18:36 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1384,
+          "book_id": "D9C4125358DEEAF98D982277537D6251",
+          "chapter": "",
+          "text": "rotunda ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id12]!/4/2/2/128/1,:1836,:1843)",
+          "created_at": "2022-06-12 12:12:12 -0700",
+          "updated_at": "2022-06-12 12:12:13 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
       ]
     },
     {
@@ -12932,91 +13654,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "50B18E0C882AA563EEA3B6F01D326A86",
-      "author": "Unknown",
-      "zauthor": "Stuart Hall",
-      "title": "The Fateful Triangle: Race, Ethnicity, Nation",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 985613,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/50B18E0C882AA563EEA3B6F01D326A86.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631942352i/34688911._UY680_SS680_.jpg"
-        },
-        {
-          "src_3": "https://images-na.ssl-images-amazon.com/images/I/513JkLEdLlL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA31%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
-        },
-        {
-          "src_4": "https://www.timeshighereducation.com/sites/default/files/asian-women.jpg"
-        },
-        {
-          "src_5": "https://image.bokus.com/images2/9781478011668_200x_selected-writings-on-race-and-difference"
-        },
-        {
-          "src_6": "https://images.routledge.com/common/jackets/crclarge/978036772/9780367727789.jpg"
-        },
-        {
-          "src_7": "https://www.tandfonline.com/doi/cover-img/10.1080/hmca20.v028.i01"
-        },
-        {
-          "src_8": "https://traficantes.net/sites/default/files/styles/Portada200alto/public/portadas/his14_rituales_portada.png?itok=FtVKJ3N5"
-        },
-        {
-          "src_9": "https://brill.com/coverimage?doc=%2Fjournals%2Fmelg%2F11%2F3%2Fmelg.11.issue-3.xml&width=300"
-        },
-        {
-          "src_10": null
-        },
-        {
-          "src_11": "https://www.ibidem.eu/media/catalog/product/cache/5/small_image/275x/17f82f742ffe127f42dca9de82fb58b1/9/7/9783838211435.jpg"
-        },
-        {
-          "src_12": null
-        },
-        {
-          "src_13": "https://traficantes.net/sites/default/files/styles/Portada200alto/public/book_covers//9780822369066.gif?itok=xsCqSiaj"
-        },
-        {
-          "src_14": "https://larb-main-img-cdn.azureedge.net/unsafe/1280x0/filters:format(jpeg)/https%3A%2F%2Fdev.lareviewofbooks.org%2Fwp-content%2Fuploads%2F2018%2F07%2Fbrideandgroom.jpg"
-        },
-        {
-          "src_15": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg"
-        },
-        {
-          "src_16": "https://imgv2-1-f.scribdassets.com/img/word_document/446836444/original/216x287/5ebb8f6ffd/1636784117?v=1"
-        },
-        {
-          "src_17": "https://onlinelibrary.wiley.com/cms/asset/53910f24-bbda-4d76-a93f-bd5ba7a0f79f/ahis12576-fig-0006-m.jpg"
-        },
-        {
-          "src_18": "https://artforum.com/uploads/upload.002/id21918/article05_1064x.jpg"
-        },
-        {
-          "src_19": "https://www.tandfonline.com/doi/cover-img/10.1080/cbjm20.v048.i04"
-        },
-        {
-          "src_20": null
-        }
-      ],
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "0B471B873D662EA52CEB58BCA7F794C6",
       "author": "João Guimarães Rosa",
       "title": "Campo Geral",
@@ -13175,6 +13812,91 @@ var ibook_history = {
         },
         {
           "src_20": "https://images-na.ssl-images-amazon.com/images/I/41J8uYlRZuL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA30%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+        }
+      ],
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "50B18E0C882AA563EEA3B6F01D326A86",
+      "author": "Unknown",
+      "zauthor": "Stuart Hall",
+      "title": "The Fateful Triangle: Race, Ethnicity, Nation",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 985613,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/50B18E0C882AA563EEA3B6F01D326A86.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631942352i/34688911._UY680_SS680_.jpg"
+        },
+        {
+          "src_3": "https://images-na.ssl-images-amazon.com/images/I/513JkLEdLlL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA31%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+        },
+        {
+          "src_4": "https://www.timeshighereducation.com/sites/default/files/asian-women.jpg"
+        },
+        {
+          "src_5": "https://image.bokus.com/images2/9781478011668_200x_selected-writings-on-race-and-difference"
+        },
+        {
+          "src_6": "https://images.routledge.com/common/jackets/crclarge/978036772/9780367727789.jpg"
+        },
+        {
+          "src_7": "https://www.tandfonline.com/doi/cover-img/10.1080/hmca20.v028.i01"
+        },
+        {
+          "src_8": "https://traficantes.net/sites/default/files/styles/Portada200alto/public/portadas/his14_rituales_portada.png?itok=FtVKJ3N5"
+        },
+        {
+          "src_9": "https://brill.com/coverimage?doc=%2Fjournals%2Fmelg%2F11%2F3%2Fmelg.11.issue-3.xml&width=300"
+        },
+        {
+          "src_10": null
+        },
+        {
+          "src_11": "https://www.ibidem.eu/media/catalog/product/cache/5/small_image/275x/17f82f742ffe127f42dca9de82fb58b1/9/7/9783838211435.jpg"
+        },
+        {
+          "src_12": null
+        },
+        {
+          "src_13": "https://traficantes.net/sites/default/files/styles/Portada200alto/public/book_covers//9780822369066.gif?itok=xsCqSiaj"
+        },
+        {
+          "src_14": "https://larb-main-img-cdn.azureedge.net/unsafe/1280x0/filters:format(jpeg)/https%3A%2F%2Fdev.lareviewofbooks.org%2Fwp-content%2Fuploads%2F2018%2F07%2Fbrideandgroom.jpg"
+        },
+        {
+          "src_15": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg"
+        },
+        {
+          "src_16": "https://imgv2-1-f.scribdassets.com/img/word_document/446836444/original/216x287/5ebb8f6ffd/1636784117?v=1"
+        },
+        {
+          "src_17": "https://onlinelibrary.wiley.com/cms/asset/53910f24-bbda-4d76-a93f-bd5ba7a0f79f/ahis12576-fig-0006-m.jpg"
+        },
+        {
+          "src_18": "https://artforum.com/uploads/upload.002/id21918/article05_1064x.jpg"
+        },
+        {
+          "src_19": "https://www.tandfonline.com/doi/cover-img/10.1080/cbjm20.v048.i04"
+        },
+        {
+          "src_20": null
         }
       ],
       "notes": [
@@ -13568,6 +14290,75 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "0281F08ED95771CEE3C1180C77A51348",
+      "author": "Antonio  Callado",
+      "title": "Quarup",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2098826,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/0281F08ED95771CEE3C1180C77A51348.jpg"
+      },
+      "notes": [
+        {
+          "pk": 179,
+          "book_id": "0281F08ED95771CEE3C1180C77A51348",
+          "chapter": null,
+          "text": " O quarup é uma festa por meio da qual, ritualmente, os índios revivem o tempo sagrado da criação.",
+          "sentence": "Essa ambivalência acha-se no próprio título do romance de 1967. O quarup é uma festa por meio da qual, ritualmente, os índios revivem o tempo sagrado da criação. ",
+          "note": null,
+          "path": "epubcfi(/6/24[x08]!/4/2[x08]/30/1,:63,:161)",
+          "created_at": "2021-02-25 21:17:01 -0800",
+          "updated_at": "2021-02-25 21:17:01 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 18
+        },
+        {
+          "pk": 152,
+          "book_id": "0281F08ED95771CEE3C1180C77A51348",
+          "chapter": null,
+          "text": "Em meio a danças, lutas e um grande banquete, os mortos regressam à vida, encarnados em troncos de madeira (kuarup ou quarup) que, ao final, são lançados na água. O ritual fortalece e renova a tribo, que tira dele novo alento, transformando a morte em vida.",
+          "sentence": "Em meio a danças, lutas e um grande banquete, os mortos regressam à vida, encarnados em troncos de madeira (kuarup ou quarup) que, ao final, são lançados na água. O ritual fortalece e renova a tribo, que tira dele novo alento, transformando a morte em vida.\n",
+          "note": null,
+          "path": "epubcfi(/6/24[x08]!/4/2[x08]/30/1,:162,:419)",
+          "created_at": "2021-02-25 21:17:54 -0800",
+          "updated_at": "2021-02-25 21:17:54 -0800",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 46
+        },
+        {
+          "pk": 122,
+          "book_id": "0281F08ED95771CEE3C1180C77A51348",
+          "chapter": null,
+          "text": "“os grandes problemas da vida e da morte, da pureza e da corrupção, da incredulidade e da fé”",
+          "sentence": "O localismo ostensivo, que ainda amarra esse escritor às origens do romance brasileiro, de uma literatura e de um país em busca da própria identidade (e até mesmo a certo regionalismo, nos primeiros romances), tem sua contrapartida universalizante, desde Assunção de Salviano, transcendendo fronteiras e alcançando “os grandes problemas da vida e da morte, da pureza e da corrupção, da incredulidade e da fé”, como já assinalava Tristão de Athayde, seu primeiro crítico. ",
+          "note": null,
+          "path": "epubcfi(/6/24[x08]!/4/2[x08]/18/7,:40,:133)",
+          "created_at": "2021-02-25 20:56:10 -0800",
+          "updated_at": "2021-02-25 20:56:10 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 18
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "053D32C8131865EB34681D2E89131FD1",
       "author": "Francisco Cândido Xavier",
       "title": "Paulo E Estêvão",
@@ -13646,75 +14437,6 @@ var ibook_history = {
       ],
       "notes": [
 
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "0281F08ED95771CEE3C1180C77A51348",
-      "author": "Antonio  Callado",
-      "title": "Quarup",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2098826,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/0281F08ED95771CEE3C1180C77A51348.jpg"
-      },
-      "notes": [
-        {
-          "pk": 179,
-          "book_id": "0281F08ED95771CEE3C1180C77A51348",
-          "chapter": null,
-          "text": " O quarup é uma festa por meio da qual, ritualmente, os índios revivem o tempo sagrado da criação.",
-          "sentence": "Essa ambivalência acha-se no próprio título do romance de 1967. O quarup é uma festa por meio da qual, ritualmente, os índios revivem o tempo sagrado da criação. ",
-          "note": null,
-          "path": "epubcfi(/6/24[x08]!/4/2[x08]/30/1,:63,:161)",
-          "created_at": "2021-02-25 21:17:01 -0800",
-          "updated_at": "2021-02-25 21:17:01 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 18
-        },
-        {
-          "pk": 152,
-          "book_id": "0281F08ED95771CEE3C1180C77A51348",
-          "chapter": null,
-          "text": "Em meio a danças, lutas e um grande banquete, os mortos regressam à vida, encarnados em troncos de madeira (kuarup ou quarup) que, ao final, são lançados na água. O ritual fortalece e renova a tribo, que tira dele novo alento, transformando a morte em vida.",
-          "sentence": "Em meio a danças, lutas e um grande banquete, os mortos regressam à vida, encarnados em troncos de madeira (kuarup ou quarup) que, ao final, são lançados na água. O ritual fortalece e renova a tribo, que tira dele novo alento, transformando a morte em vida.\n",
-          "note": null,
-          "path": "epubcfi(/6/24[x08]!/4/2[x08]/30/1,:162,:419)",
-          "created_at": "2021-02-25 21:17:54 -0800",
-          "updated_at": "2021-02-25 21:17:54 -0800",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 46
-        },
-        {
-          "pk": 122,
-          "book_id": "0281F08ED95771CEE3C1180C77A51348",
-          "chapter": null,
-          "text": "“os grandes problemas da vida e da morte, da pureza e da corrupção, da incredulidade e da fé”",
-          "sentence": "O localismo ostensivo, que ainda amarra esse escritor às origens do romance brasileiro, de uma literatura e de um país em busca da própria identidade (e até mesmo a certo regionalismo, nos primeiros romances), tem sua contrapartida universalizante, desde Assunção de Salviano, transcendendo fronteiras e alcançando “os grandes problemas da vida e da morte, da pureza e da corrupção, da incredulidade e da fé”, como já assinalava Tristão de Athayde, seu primeiro crítico. ",
-          "note": null,
-          "path": "epubcfi(/6/24[x08]!/4/2[x08]/18/7,:40,:133)",
-          "created_at": "2021-02-25 20:56:10 -0800",
-          "updated_at": "2021-02-25 20:56:10 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 18
-        }
       ],
       "new_words": [
 
@@ -14400,209 +15122,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-      "author": "Isaac Newton",
-      "title": "As profecias do Apocalipse e o livro de Daniel : as raízes do Código da Bíblia",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": "1. Bíblia. A.T. Daniel – Profecias 2. Bíblia. N.T. Apocalipse – Profecias 3. Profecias",
-      "lang": null,
-      "file_size": 1861434,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/34A7B1B18F5BFC8A25A7A72D9C7EF387.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://lojasaraiva.vteximg.com.br/arquivos/ids/3263040/1274997.jpg?v=637034536693930000"
-        },
-        {
-          "src_3": "https://tocalivros.s3.amazonaws.com/images/audiolivros/facebook/p/r/profecias-do-apocalipse-e-o-livro-de-daniel-as-sir-isaac-newton-1002736.jpg"
-        },
-        {
-          "src_4": "https://is2-ssl.mzstatic.com/image/thumb/Publication5/v4/ee/b8/55/eeb85525-d1eb-742b-8838-75c400231825/1011026398.jpg/1200x630wz.png"
-        },
-        {
-          "src_5": "https://super.abril.com.br/wp-content/uploads/2016/09/super_imgisaac.jpg"
-        },
-        {
-          "src_6": "https://img.travessa.com.br/livro/BA/ff/ffaaa08d-736a-4d91-b039-1d53375b7f6f.jpg"
-        },
-        {
-          "src_7": "https://lojasaraiva.vteximg.com.br/arquivos/ids/1902283-400-400/1007515322.jpg?v=637005887527530000"
-        },
-        {
-          "src_8": "https://livrariadavila.vteximg.com.br/arquivos/ids/1978474-178-258/9788542216882.jpg?v=637880449126170000"
-        },
-        {
-          "src_9": "https://g1.globo.com/Noticias/Ciencia/foto/0,,15245856,00.jpg"
-        },
-        {
-          "src_10": "https://livrariadavila.vteximg.com.br/arquivos/ids/1815901-178-258/9788547000509.jpg?v=637844539674430000"
-        },
-        {
-          "src_11": null
-        },
-        {
-          "src_12": "https://m.media-amazon.com/images/I/71uWRqmoaXL._CR0,160,960,960_UX175.jpg"
-        },
-        {
-          "src_13": "https://img.travessa.com.br/livro/BA/32/323f3fa5-78de-4300-9856-37ad4f2e8f06.jpg"
-        },
-        {
-          "src_14": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=843188092466252"
-        },
-        {
-          "src_15": "https://0.academia-photos.com/attachment_thumbnails/60872315/mini_magick20191011-21180-7k1q5n.png?1570816226"
-        },
-        {
-          "src_16": null
-        },
-        {
-          "src_17": "https://pbs.twimg.com/media/EIZkNcvWsAE8q0s.jpg"
-        },
-        {
-          "src_18": "https://http2.mlstatic.com/D_NQ_NP_646169-MLB49657978506_042022-W.jpg"
-        },
-        {
-          "src_19": null
-        },
-        {
-          "src_20": "https://img2.docero.com.br/image/m/nsc05s0.png"
-        }
-      ],
-      "notes": [
-        {
-          "pk": 310,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": "depois medita no velho conceito grego da similitude entre o macrocosmo e o microcosmo",
-          "sentence": "Sir Isaac Newton, entretanto, nos dá esta lição magnífica: revela ao homem a esplêndida harmonia dos mundos siderais; arranca a esses mundos o segredo das leis que os regem e que revelam, no seu nascimento, na sua vida e na sua morte, uma inteligência, uma sabedoria e uma providência infinitas; depois medita no velho conceito grego da similitude entre o macrocosmo e o microcosmo; vem à sua mente o célebre dístico da fachada do templo de Delfos – “Conhece-te a ti mesmo”. ",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/82/1,:296,:381)",
-          "created_at": "2021-08-19 22:42:46 -0700",
-          "updated_at": "2021-08-19 22:42:46 -0700",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 14
-        },
-        {
-          "pk": 309,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": "A Copérnico, na verdade, devemos uma completa revolução nos conceitos astronômicos: passamos do sistema geocêntrico de Ptolomeu ao atual sistema heliocêntrico, que estabelece: I – que o Sol é o centro de um sistema de planetas, cada um dos quais tem um movimento de rotação em torno do seu eixo e outro de translação ou de revolução, ao redor do Sol, do Ocidente para o Oriente; II – que os planetas são dotados de velocidades diversas e se movem numa órbita elíptica e inclinada; III – que em torno dos planetas giram outros corpos, os satélites, também dotados de movimento de translação ou, em outras palavras, girando em torno do Sol conjuntamente com os planetas a que estão subordinados.",
-          "sentence": "A Copérnico, na verdade, devemos uma completa revolução nos conceitos astronômicos: passamos do sistema geocêntrico de Ptolomeu ao atual sistema heliocêntrico, que estabelece: I – que o Sol é o centro de um sistema de planetas, cada um dos quais tem um movimento de rotação em torno do seu eixo e outro de translação ou de revolução, ao redor do Sol, do Ocidente para o Oriente; II – que os planetas são dotados de velocidades diversas e se movem numa órbita elíptica e inclinada; III – que em torno dos planetas giram outros corpos, os satélites, também dotados de movimento de translação ou, em outras palavras, girando em torno do Sol conjuntamente com os planetas a que estão subordinados.\n",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/32/1,:0,:693)",
-          "created_at": "2021-08-19 22:28:47 -0700",
-          "updated_at": "2021-08-19 22:28:47 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 119
-        },
-        {
-          "pk": 305,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": "Não sei que impressão darei ao mundo … Para mim, entretanto, penso que fui apenas uma criança a brincar numa praia, distraindo-me com encontrar, vez por outra, uma pedrinha mais polida ou uma concha mais bonita, quando à minha frente o grande oceano da verdade se espraiava desconhecido … Se vi mais que Descartes, é que subi nos ombros de gigantes.",
-          "sentence": "“Não sei que impressão darei ao mundo … Para mim, entretanto, penso que fui apenas uma criança a brincar numa praia, distraindo-me com encontrar, vez por outra, uma pedrinha mais polida ou uma concha mais bonita, quando à minha frente o grande oceano da verdade se espraiava desconhecido … Se vi mais que Descartes, é que subi nos ombros de gigantes.”\n",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/18/1,:1,:350)",
-          "created_at": "2021-08-19 22:22:44 -0700",
-          "updated_at": "2021-08-19 22:22:44 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 61
-        },
-        {
-          "pk": 295,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": "Estendendo os seus estudos ao campo filosófico, admitiam os pitagóricos a pluralidade das existências, reputada como via única para explicar as diversificações morais, intelectuais e espirituais e para atingir a perfeição, que é a suprema finalidade do nosso Ser eterno.",
-          "sentence": "Estendendo os seus estudos ao campo filosófico, admitiam os pitagóricos a pluralidade das existências, reputada como via única para explicar as diversificações morais, intelectuais e espirituais e para atingir a perfeição, que é a suprema finalidade do nosso Ser eterno.\n",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/26/1,:487,:757)",
-          "created_at": "2021-08-19 22:25:02 -0700",
-          "updated_at": "2021-08-19 22:25:02 -0700",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 40
-        },
-        {
-          "pk": 291,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": "descobrira o segredo do Universo e, no dizer de Grove Wilson, formava com Kepler e Galileu “o trio que havia forçado o Sol e as estrelas a contar aos homens a sua verdadeira história”",
-          "sentence": "Agitado, refez os cálculos e verificou a exatidão da sua hipótese; descobrira o segredo do Universo e, no dizer de Grove Wilson, formava com Kepler e Galileu “o trio que havia forçado o Sol e as estrelas a contar aos homens a sua verdadeira história”.\n",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/60/1,:686,:869)",
-          "created_at": "2021-08-19 22:37:22 -0700",
-          "updated_at": "2021-08-19 22:37:22 -0700",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 34
-        },
-        {
-          "pk": 286,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": " i – os corpos se atraem na razão direta das massas e inversa do quadrado das distâncias; ii – a toda ação corresponde uma reação igual e contrária.",
-          "sentence": "Coube a Newton fazer a aplicação das leis de Galileu e de Kepler na demonstração daquilo que lhe brotara como simples hipótese: i – os corpos se atraem na razão direta das massas e inversa do quadrado das distâncias; ii – a toda ação corresponde uma reação igual e contrária.\n",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/64/1,:127,:275)",
-          "created_at": "2021-08-19 22:38:08 -0700",
-          "updated_at": "2021-08-19 22:38:08 -0700",
-          "is_inderline": 0,
-          "color": 2,
-          "type": 2,
-          "words_count": 28
-        },
-        {
-          "pk": 280,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": " I – a decomposição da “branca luz do infinito”, assinalando o grau de refrangibilidade de cada um dos raios em que ela se decompõe; II – possibilitou o emprego dos raios ultravioleta, por meio de um jogo adequado de prismas; III – concebeu, alguns anos antes de Huyghens, as leis da força centrífuga; IV – considerando que a imperfeição do telescópio inventado por Galileu não se devia à imperfeição das lentes, pois estas não alteravam a natureza da luz, mas ao fenômeno de refração, inventou o telescópio de reflexão; V – descobriu o movimento de precessão dos equinócios; VI – inventou o Cálculo Diferencial ao mesmo tempo que Leibnitz, embora não se conhecessem; VII – concebeu a gravitação universal, embora não tivesse tido ainda a possibilidade prática de apresentar a sua expressão matemática.",
-          "sentence": "Antes dos 25 anos de idade, já havia feito coisas notáveis: I – a decomposição da “branca luz do infinito”, assinalando o grau de refrangibilidade de cada um dos raios em que ela se decompõe; II – possibilitou o emprego dos raios ultravioleta, por meio de um jogo adequado de prismas; III – concebeu, alguns anos antes de Huyghens, as leis da força centrífuga; IV – considerando que a imperfeição do telescópio inventado por Galileu não se devia à imperfeição das lentes, pois estas não alteravam a natureza da luz, mas ao fenômeno de refração, inventou o telescópio de reflexão; V – descobriu o movimento de precessão dos equinócios; VI – inventou o Cálculo Diferencial ao mesmo tempo que Leibnitz, embora não se conhecessem; VII – concebeu a gravitação universal, embora não tivesse tido ainda a possibilidade prática de apresentar a sua expressão matemática.\n",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/56/1,:213,:1015)",
-          "created_at": "2021-08-19 22:35:00 -0700",
-          "updated_at": "2021-08-19 22:35:00 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 133
-        },
-        {
-          "pk": 279,
-          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
-          "chapter": null,
-          "text": "três leis fundamentais, chamadas as leis de Kepler: 1ª – os planetas descrevem órbitas elípticas em torno do Sol, que ocupa um dos focos da elipse descrita; 2ª – o segmento imaginário que une o centro do sol e o centro do planeta varre áreas proporcionais aos intervalos de tempo dos percursos; 3ª – o quadrado do período de revolução de cada planeta é proporcional ao cubo do raio médio da respectiva órbita.",
-          "sentence": "E, de indagação em indagação, lançou as bases da astronomia moderna, enunciando três leis fundamentais, chamadas as leis de Kepler: 1ª – os planetas descrevem órbitas elípticas em torno do Sol, que ocupa um dos focos da elipse descrita; 2ª – o segmento imaginário que une o centro do sol e o centro do planeta varre áreas proporcionais aos intervalos de tempo dos percursos; 3ª – o quadrado do período de revolução de cada planeta é proporcional ao cubo do raio médio da respectiva órbita.\n",
-          "note": null,
-          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/48,/3:194,/9:112)",
-          "created_at": "2021-08-19 22:33:13 -0700",
-          "updated_at": "2021-08-19 22:33:13 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 73
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "18AF85BE1D89949679E81D1B95E85F7E",
       "author": "Stuart Hall",
       "title": "Familiar Stranger",
@@ -15072,6 +15591,209 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
+      ]
+    },
+    {
+      "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+      "author": "Isaac Newton",
+      "title": "As profecias do Apocalipse e o livro de Daniel : as raízes do Código da Bíblia",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": "1. Bíblia. A.T. Daniel – Profecias 2. Bíblia. N.T. Apocalipse – Profecias 3. Profecias",
+      "lang": null,
+      "file_size": 1861434,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/34A7B1B18F5BFC8A25A7A72D9C7EF387.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://lojasaraiva.vteximg.com.br/arquivos/ids/3263040/1274997.jpg?v=637034536693930000"
+        },
+        {
+          "src_3": "https://tocalivros.s3.amazonaws.com/images/audiolivros/facebook/p/r/profecias-do-apocalipse-e-o-livro-de-daniel-as-sir-isaac-newton-1002736.jpg"
+        },
+        {
+          "src_4": "https://is2-ssl.mzstatic.com/image/thumb/Publication5/v4/ee/b8/55/eeb85525-d1eb-742b-8838-75c400231825/1011026398.jpg/1200x630wz.png"
+        },
+        {
+          "src_5": "https://super.abril.com.br/wp-content/uploads/2016/09/super_imgisaac.jpg"
+        },
+        {
+          "src_6": "https://img.travessa.com.br/livro/BA/ff/ffaaa08d-736a-4d91-b039-1d53375b7f6f.jpg"
+        },
+        {
+          "src_7": "https://lojasaraiva.vteximg.com.br/arquivos/ids/1902283-400-400/1007515322.jpg?v=637005887527530000"
+        },
+        {
+          "src_8": "https://livrariadavila.vteximg.com.br/arquivos/ids/1978474-178-258/9788542216882.jpg?v=637880449126170000"
+        },
+        {
+          "src_9": "https://g1.globo.com/Noticias/Ciencia/foto/0,,15245856,00.jpg"
+        },
+        {
+          "src_10": "https://livrariadavila.vteximg.com.br/arquivos/ids/1815901-178-258/9788547000509.jpg?v=637844539674430000"
+        },
+        {
+          "src_11": null
+        },
+        {
+          "src_12": "https://m.media-amazon.com/images/I/71uWRqmoaXL._CR0,160,960,960_UX175.jpg"
+        },
+        {
+          "src_13": "https://img.travessa.com.br/livro/BA/32/323f3fa5-78de-4300-9856-37ad4f2e8f06.jpg"
+        },
+        {
+          "src_14": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=843188092466252"
+        },
+        {
+          "src_15": "https://0.academia-photos.com/attachment_thumbnails/60872315/mini_magick20191011-21180-7k1q5n.png?1570816226"
+        },
+        {
+          "src_16": null
+        },
+        {
+          "src_17": "https://pbs.twimg.com/media/EIZkNcvWsAE8q0s.jpg"
+        },
+        {
+          "src_18": "https://http2.mlstatic.com/D_NQ_NP_646169-MLB49657978506_042022-W.jpg"
+        },
+        {
+          "src_19": null
+        },
+        {
+          "src_20": "https://img2.docero.com.br/image/m/nsc05s0.png"
+        }
+      ],
+      "notes": [
+        {
+          "pk": 310,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": "depois medita no velho conceito grego da similitude entre o macrocosmo e o microcosmo",
+          "sentence": "Sir Isaac Newton, entretanto, nos dá esta lição magnífica: revela ao homem a esplêndida harmonia dos mundos siderais; arranca a esses mundos o segredo das leis que os regem e que revelam, no seu nascimento, na sua vida e na sua morte, uma inteligência, uma sabedoria e uma providência infinitas; depois medita no velho conceito grego da similitude entre o macrocosmo e o microcosmo; vem à sua mente o célebre dístico da fachada do templo de Delfos – “Conhece-te a ti mesmo”. ",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/82/1,:296,:381)",
+          "created_at": "2021-08-19 22:42:46 -0700",
+          "updated_at": "2021-08-19 22:42:46 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 309,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": "A Copérnico, na verdade, devemos uma completa revolução nos conceitos astronômicos: passamos do sistema geocêntrico de Ptolomeu ao atual sistema heliocêntrico, que estabelece: I – que o Sol é o centro de um sistema de planetas, cada um dos quais tem um movimento de rotação em torno do seu eixo e outro de translação ou de revolução, ao redor do Sol, do Ocidente para o Oriente; II – que os planetas são dotados de velocidades diversas e se movem numa órbita elíptica e inclinada; III – que em torno dos planetas giram outros corpos, os satélites, também dotados de movimento de translação ou, em outras palavras, girando em torno do Sol conjuntamente com os planetas a que estão subordinados.",
+          "sentence": "A Copérnico, na verdade, devemos uma completa revolução nos conceitos astronômicos: passamos do sistema geocêntrico de Ptolomeu ao atual sistema heliocêntrico, que estabelece: I – que o Sol é o centro de um sistema de planetas, cada um dos quais tem um movimento de rotação em torno do seu eixo e outro de translação ou de revolução, ao redor do Sol, do Ocidente para o Oriente; II – que os planetas são dotados de velocidades diversas e se movem numa órbita elíptica e inclinada; III – que em torno dos planetas giram outros corpos, os satélites, também dotados de movimento de translação ou, em outras palavras, girando em torno do Sol conjuntamente com os planetas a que estão subordinados.\n",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/32/1,:0,:693)",
+          "created_at": "2021-08-19 22:28:47 -0700",
+          "updated_at": "2021-08-19 22:28:47 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 119
+        },
+        {
+          "pk": 305,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": "Não sei que impressão darei ao mundo … Para mim, entretanto, penso que fui apenas uma criança a brincar numa praia, distraindo-me com encontrar, vez por outra, uma pedrinha mais polida ou uma concha mais bonita, quando à minha frente o grande oceano da verdade se espraiava desconhecido … Se vi mais que Descartes, é que subi nos ombros de gigantes.",
+          "sentence": "“Não sei que impressão darei ao mundo … Para mim, entretanto, penso que fui apenas uma criança a brincar numa praia, distraindo-me com encontrar, vez por outra, uma pedrinha mais polida ou uma concha mais bonita, quando à minha frente o grande oceano da verdade se espraiava desconhecido … Se vi mais que Descartes, é que subi nos ombros de gigantes.”\n",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/18/1,:1,:350)",
+          "created_at": "2021-08-19 22:22:44 -0700",
+          "updated_at": "2021-08-19 22:22:44 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 61
+        },
+        {
+          "pk": 295,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": "Estendendo os seus estudos ao campo filosófico, admitiam os pitagóricos a pluralidade das existências, reputada como via única para explicar as diversificações morais, intelectuais e espirituais e para atingir a perfeição, que é a suprema finalidade do nosso Ser eterno.",
+          "sentence": "Estendendo os seus estudos ao campo filosófico, admitiam os pitagóricos a pluralidade das existências, reputada como via única para explicar as diversificações morais, intelectuais e espirituais e para atingir a perfeição, que é a suprema finalidade do nosso Ser eterno.\n",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/26/1,:487,:757)",
+          "created_at": "2021-08-19 22:25:02 -0700",
+          "updated_at": "2021-08-19 22:25:02 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 40
+        },
+        {
+          "pk": 291,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": "descobrira o segredo do Universo e, no dizer de Grove Wilson, formava com Kepler e Galileu “o trio que havia forçado o Sol e as estrelas a contar aos homens a sua verdadeira história”",
+          "sentence": "Agitado, refez os cálculos e verificou a exatidão da sua hipótese; descobrira o segredo do Universo e, no dizer de Grove Wilson, formava com Kepler e Galileu “o trio que havia forçado o Sol e as estrelas a contar aos homens a sua verdadeira história”.\n",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/60/1,:686,:869)",
+          "created_at": "2021-08-19 22:37:22 -0700",
+          "updated_at": "2021-08-19 22:37:22 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 34
+        },
+        {
+          "pk": 286,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": " i – os corpos se atraem na razão direta das massas e inversa do quadrado das distâncias; ii – a toda ação corresponde uma reação igual e contrária.",
+          "sentence": "Coube a Newton fazer a aplicação das leis de Galileu e de Kepler na demonstração daquilo que lhe brotara como simples hipótese: i – os corpos se atraem na razão direta das massas e inversa do quadrado das distâncias; ii – a toda ação corresponde uma reação igual e contrária.\n",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/64/1,:127,:275)",
+          "created_at": "2021-08-19 22:38:08 -0700",
+          "updated_at": "2021-08-19 22:38:08 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 28
+        },
+        {
+          "pk": 280,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": " I – a decomposição da “branca luz do infinito”, assinalando o grau de refrangibilidade de cada um dos raios em que ela se decompõe; II – possibilitou o emprego dos raios ultravioleta, por meio de um jogo adequado de prismas; III – concebeu, alguns anos antes de Huyghens, as leis da força centrífuga; IV – considerando que a imperfeição do telescópio inventado por Galileu não se devia à imperfeição das lentes, pois estas não alteravam a natureza da luz, mas ao fenômeno de refração, inventou o telescópio de reflexão; V – descobriu o movimento de precessão dos equinócios; VI – inventou o Cálculo Diferencial ao mesmo tempo que Leibnitz, embora não se conhecessem; VII – concebeu a gravitação universal, embora não tivesse tido ainda a possibilidade prática de apresentar a sua expressão matemática.",
+          "sentence": "Antes dos 25 anos de idade, já havia feito coisas notáveis: I – a decomposição da “branca luz do infinito”, assinalando o grau de refrangibilidade de cada um dos raios em que ela se decompõe; II – possibilitou o emprego dos raios ultravioleta, por meio de um jogo adequado de prismas; III – concebeu, alguns anos antes de Huyghens, as leis da força centrífuga; IV – considerando que a imperfeição do telescópio inventado por Galileu não se devia à imperfeição das lentes, pois estas não alteravam a natureza da luz, mas ao fenômeno de refração, inventou o telescópio de reflexão; V – descobriu o movimento de precessão dos equinócios; VI – inventou o Cálculo Diferencial ao mesmo tempo que Leibnitz, embora não se conhecessem; VII – concebeu a gravitação universal, embora não tivesse tido ainda a possibilidade prática de apresentar a sua expressão matemática.\n",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/56/1,:213,:1015)",
+          "created_at": "2021-08-19 22:35:00 -0700",
+          "updated_at": "2021-08-19 22:35:00 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 133
+        },
+        {
+          "pk": 279,
+          "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
+          "chapter": null,
+          "text": "três leis fundamentais, chamadas as leis de Kepler: 1ª – os planetas descrevem órbitas elípticas em torno do Sol, que ocupa um dos focos da elipse descrita; 2ª – o segmento imaginário que une o centro do sol e o centro do planeta varre áreas proporcionais aos intervalos de tempo dos percursos; 3ª – o quadrado do período de revolução de cada planeta é proporcional ao cubo do raio médio da respectiva órbita.",
+          "sentence": "E, de indagação em indagação, lançou as bases da astronomia moderna, enunciando três leis fundamentais, chamadas as leis de Kepler: 1ª – os planetas descrevem órbitas elípticas em torno do Sol, que ocupa um dos focos da elipse descrita; 2ª – o segmento imaginário que une o centro do sol e o centro do planeta varre áreas proporcionais aos intervalos de tempo dos percursos; 3ª – o quadrado do período de revolução de cada planeta é proporcional ao cubo do raio médio da respectiva órbita.\n",
+          "note": null,
+          "path": "epubcfi(/6/10[id25]!/4[2RHM0-11641c478bed4872af2372085c2a1768]/48,/3:194,/9:112)",
+          "created_at": "2021-08-19 22:33:13 -0700",
+          "updated_at": "2021-08-19 22:33:13 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 73
+        }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -16369,6 +17091,188 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "21B4AD37EA0B4BD8B57AC11728AEC438",
+      "author": "Paulo Evaristo Arns",
+      "title": "Brasil Nunca Mais",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1646492,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/81eNXSgtJ8L.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://images-na.ssl-images-amazon.com/images/I/41ZvGfMnxZL._SX306_BO1,204,203,200_.jpg"
+        },
+        {
+          "src_3": "https://images-na.ssl-images-amazon.com/images/I/41UGl4Ks7QL._SY279_BO1,204,203,200_.jpg"
+        },
+        {
+          "src_4": "https://www.livrariadoadvogado.com.br/fotos/zoom/24165fz1/brasil-nunca-mais.jpg"
+        },
+        {
+          "src_5": "https://images-na.ssl-images-amazon.com/images/I/51iqcLPpKYL._SX355_BO1,204,203,200_.jpg"
+        },
+        {
+          "src_6": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_e3765ca2c090694d28fd4dff738fc9e3940ee89f.jpg"
+        },
+        {
+          "src_7": "https://d2e93ry8xjqpji.cloudfront.net/imagens/img_g/333/159199.jpg"
+        },
+        {
+          "src_8": "https://i.ytimg.com/vi/4A1jQUniFjE/hqdefault.jpg"
+        },
+        {
+          "src_9": "https://davidarioch.com/wp-content/uploads/2018/10/Brasil-Nunca-Mais.jpg"
+        },
+        {
+          "src_10": "http://memorialdademocracia.com.br/publico/thumb/8468/740/440"
+        },
+        {
+          "src_11": "https://www4.pucsp.br/cedic/brasil-nunca-mais/projeto-brasil-nunca-mais/jpeg/Cartaz_29_Produtos_diretos.jpg"
+        },
+        {
+          "src_12": "https://www.crl.edu/sites/default/files/highlight_images/nuca_mais.jpg"
+        },
+        {
+          "src_13": "https://ogimg.infoglobo.com.br/in/20646569-347-c7a/FT1086A/2015-821801752-2015060211503.jpg_20150602.jpg"
+        },
+        {
+          "src_14": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343746806i/15779308._UY630_SR1200,630_.jpg"
+        },
+        {
+          "src_15": "https://cf.shopee.com.br/file/0828fc07d290789558fd9cce1227f063"
+        },
+        {
+          "src_16": "https://i.zst.com.br/thumbs/12/2b/32/14277052.jpg"
+        },
+        {
+          "src_17": "https://www.oikoumene.org/sites/default/files/styles/max_992x992/public/newsItem/nuncamais.jpg?itok=4veCVv66"
+        },
+        {
+          "src_18": "https://img2.docero.com.br/image/m/885x00.png"
+        },
+        {
+          "src_19": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paulo_Evaristo_Arns_%281982%29.jpg/640px-Paulo_Evaristo_Arns_%281982%29.jpg"
+        },
+        {
+          "src_20": "https://artebrasileiros.com.br/wp-content/uploads/2018/12/arte-fala-mais-alto3.jpg"
+        }
+      ],
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "7B33C51710C13E5677CC788A0887E7ED",
+      "author": "Rachel Carson",
+      "title": "Silent Spring",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": "Science",
+      "lang": null,
+      "file_size": 1984605,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/7B33C51710C13E5677CC788A0887E7ED.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://upload.wikimedia.org/wikipedia/en/a/ac/SilentSpring.jpg"
+        },
+        {
+          "src_3": "https://images-na.ssl-images-amazon.com/images/I/81WXx5LW9CL.jpg"
+        },
+        {
+          "src_4": "https://images-na.ssl-images-amazon.com/images/I/71aOwJL+P+L.jpg"
+        },
+        {
+          "src_5": "http://unknews.unk.edu/wp-content/uploads/2017/03/Rachel-Carson.jpg"
+        },
+        {
+          "src_6": "https://geneticliteracyproject.org/wp-content/uploads/2018/04/carson.jpg"
+        },
+        {
+          "src_7": "https://www.birdnote.org/sites/default/files/styles/show_banner/public/storage/rachel-carson-and-silent-spring-radiogreenearth-488.jpg?h=f1fa596c&itok=cT3MFafv"
+        },
+        {
+          "src_8": "https://assets.nrdc.org/sites/default/files/styles/one_third_content/public/media-uploads/SilentSpring_book.png?itok=w6cDHqHD"
+        },
+        {
+          "src_9": "https://www.environmentandsociety.org/sites/default/files/styles/esp_image_large_16_9/public/nyt-headline_0.jpg?itok=RBtFEcx-"
+        },
+        {
+          "src_10": "https://www.charlesagvent.com/pictures/019818.jpg?v=1585059086"
+        },
+        {
+          "src_11": "https://ids.si.edu/ids/deliveryService?max_w=800&id=NMAH-AHB2014q005035"
+        },
+        {
+          "src_12": "https://m.media-amazon.com/images/I/51HQUJEfPkL._SL500_.jpg"
+        },
+        {
+          "src_13": "https://www.raptisrarebooks.com/images/139988/silent-spring-first-edition-signed-rare-books.jpg"
+        },
+        {
+          "src_14": "https://www.ecodisciple.com/content/images/2022/04/A_447_SILENT-1.jpg"
+        },
+        {
+          "src_15": "https://www.harropianbooks.com/pictures/medium/966.jpg"
+        },
+        {
+          "src_16": "https://images-na.ssl-images-amazon.com/images/I/81haUwQWT1L.jpg"
+        },
+        {
+          "src_17": "https://ecdn.teacherspayteachers.com/thumbitem/Silent-Spring-Rachel-Carson-Rhetorical-Devices-Persuasion-3979206-1595670182/original-3979206-1.jpg"
+        },
+        {
+          "src_18": "https://www.vintagebooksmd.com/pictures/13375_2.jpeg?v=1637954995"
+        },
+        {
+          "src_19": "https://www.whitmorerarebooks.com/pictures/medium/4688.jpg"
+        },
+        {
+          "src_20": "https://www.sciencehistory.org/sites/default/files/styles/rte_full_width/public/silent_spring_book_cover.jpeg?itok=4-AZb784"
+        }
+      ],
+      "notes": [
+        {
+          "pk": 816,
+          "book_id": "7B33C51710C13E5677CC788A0887E7ED",
+          "chapter": null,
+          "text": "grass-roots movement",
+          "sentence": "When Carson died barely eighteen months later in the spring of 1964, at the age of fifty-six, she had set in motion a course of events that would result in a ban on the domestic production of DDT and the creation of a grass-roots movement demanding protection of the environment through state and federal regulation. ",
+          "note": null,
+          "path": "epubcfi(/6/16[front06]!/4/6/11,:436,:456)",
+          "created_at": "2021-12-21 17:18:52 -0800",
+          "updated_at": "2021-12-21 17:18:52 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 2
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "449DA0D6FB692D029D52C6412375D656",
       "author": "Paulo  Freire",
       "zauthor": "Paulo Freire",
@@ -16859,188 +17763,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "7B33C51710C13E5677CC788A0887E7ED",
-      "author": "Rachel Carson",
-      "title": "Silent Spring",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": "Science",
-      "lang": null,
-      "file_size": 1984605,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/7B33C51710C13E5677CC788A0887E7ED.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://upload.wikimedia.org/wikipedia/en/a/ac/SilentSpring.jpg"
-        },
-        {
-          "src_3": "https://images-na.ssl-images-amazon.com/images/I/81WXx5LW9CL.jpg"
-        },
-        {
-          "src_4": "https://images-na.ssl-images-amazon.com/images/I/71aOwJL+P+L.jpg"
-        },
-        {
-          "src_5": "http://unknews.unk.edu/wp-content/uploads/2017/03/Rachel-Carson.jpg"
-        },
-        {
-          "src_6": "https://geneticliteracyproject.org/wp-content/uploads/2018/04/carson.jpg"
-        },
-        {
-          "src_7": "https://www.birdnote.org/sites/default/files/styles/show_banner/public/storage/rachel-carson-and-silent-spring-radiogreenearth-488.jpg?h=f1fa596c&itok=cT3MFafv"
-        },
-        {
-          "src_8": "https://assets.nrdc.org/sites/default/files/styles/one_third_content/public/media-uploads/SilentSpring_book.png?itok=w6cDHqHD"
-        },
-        {
-          "src_9": "https://www.environmentandsociety.org/sites/default/files/styles/esp_image_large_16_9/public/nyt-headline_0.jpg?itok=RBtFEcx-"
-        },
-        {
-          "src_10": "https://www.charlesagvent.com/pictures/019818.jpg?v=1585059086"
-        },
-        {
-          "src_11": "https://ids.si.edu/ids/deliveryService?max_w=800&id=NMAH-AHB2014q005035"
-        },
-        {
-          "src_12": "https://m.media-amazon.com/images/I/51HQUJEfPkL._SL500_.jpg"
-        },
-        {
-          "src_13": "https://www.raptisrarebooks.com/images/139988/silent-spring-first-edition-signed-rare-books.jpg"
-        },
-        {
-          "src_14": "https://www.ecodisciple.com/content/images/2022/04/A_447_SILENT-1.jpg"
-        },
-        {
-          "src_15": "https://www.harropianbooks.com/pictures/medium/966.jpg"
-        },
-        {
-          "src_16": "https://images-na.ssl-images-amazon.com/images/I/81haUwQWT1L.jpg"
-        },
-        {
-          "src_17": "https://ecdn.teacherspayteachers.com/thumbitem/Silent-Spring-Rachel-Carson-Rhetorical-Devices-Persuasion-3979206-1595670182/original-3979206-1.jpg"
-        },
-        {
-          "src_18": "https://www.vintagebooksmd.com/pictures/13375_2.jpeg?v=1637954995"
-        },
-        {
-          "src_19": "https://www.whitmorerarebooks.com/pictures/medium/4688.jpg"
-        },
-        {
-          "src_20": "https://www.sciencehistory.org/sites/default/files/styles/rte_full_width/public/silent_spring_book_cover.jpeg?itok=4-AZb784"
-        }
-      ],
-      "notes": [
-        {
-          "pk": 816,
-          "book_id": "7B33C51710C13E5677CC788A0887E7ED",
-          "chapter": null,
-          "text": "grass-roots movement",
-          "sentence": "When Carson died barely eighteen months later in the spring of 1964, at the age of fifty-six, she had set in motion a course of events that would result in a ban on the domestic production of DDT and the creation of a grass-roots movement demanding protection of the environment through state and federal regulation. ",
-          "note": null,
-          "path": "epubcfi(/6/16[front06]!/4/6/11,:436,:456)",
-          "created_at": "2021-12-21 17:18:52 -0800",
-          "updated_at": "2021-12-21 17:18:52 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 2
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "21B4AD37EA0B4BD8B57AC11728AEC438",
-      "author": "Paulo Evaristo Arns",
-      "title": "Brasil Nunca Mais",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1646492,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/81eNXSgtJ8L.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://images-na.ssl-images-amazon.com/images/I/41ZvGfMnxZL._SX306_BO1,204,203,200_.jpg"
-        },
-        {
-          "src_3": "https://images-na.ssl-images-amazon.com/images/I/41UGl4Ks7QL._SY279_BO1,204,203,200_.jpg"
-        },
-        {
-          "src_4": "https://www.livrariadoadvogado.com.br/fotos/zoom/24165fz1/brasil-nunca-mais.jpg"
-        },
-        {
-          "src_5": "https://images-na.ssl-images-amazon.com/images/I/51iqcLPpKYL._SX355_BO1,204,203,200_.jpg"
-        },
-        {
-          "src_6": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_e3765ca2c090694d28fd4dff738fc9e3940ee89f.jpg"
-        },
-        {
-          "src_7": "https://d2e93ry8xjqpji.cloudfront.net/imagens/img_g/333/159199.jpg"
-        },
-        {
-          "src_8": "https://i.ytimg.com/vi/4A1jQUniFjE/hqdefault.jpg"
-        },
-        {
-          "src_9": "https://davidarioch.com/wp-content/uploads/2018/10/Brasil-Nunca-Mais.jpg"
-        },
-        {
-          "src_10": "http://memorialdademocracia.com.br/publico/thumb/8468/740/440"
-        },
-        {
-          "src_11": "https://www4.pucsp.br/cedic/brasil-nunca-mais/projeto-brasil-nunca-mais/jpeg/Cartaz_29_Produtos_diretos.jpg"
-        },
-        {
-          "src_12": "https://www.crl.edu/sites/default/files/highlight_images/nuca_mais.jpg"
-        },
-        {
-          "src_13": "https://ogimg.infoglobo.com.br/in/20646569-347-c7a/FT1086A/2015-821801752-2015060211503.jpg_20150602.jpg"
-        },
-        {
-          "src_14": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343746806i/15779308._UY630_SR1200,630_.jpg"
-        },
-        {
-          "src_15": "https://cf.shopee.com.br/file/0828fc07d290789558fd9cce1227f063"
-        },
-        {
-          "src_16": "https://i.zst.com.br/thumbs/12/2b/32/14277052.jpg"
-        },
-        {
-          "src_17": "https://www.oikoumene.org/sites/default/files/styles/max_992x992/public/newsItem/nuncamais.jpg?itok=4veCVv66"
-        },
-        {
-          "src_18": "https://img2.docero.com.br/image/m/885x00.png"
-        },
-        {
-          "src_19": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paulo_Evaristo_Arns_%281982%29.jpg/640px-Paulo_Evaristo_Arns_%281982%29.jpg"
-        },
-        {
-          "src_20": "https://artebrasileiros.com.br/wp-content/uploads/2018/12/arte-fala-mais-alto3.jpg"
-        }
-      ],
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "A9021CED858C6D7DF088068B4EFE2561",
       "author": "Elias Canetti",
       "title": "Massa e poder",
@@ -17163,90 +17885,6 @@ var ibook_history = {
           "type": 2,
           "words_count": 2
         }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "0ED776FCF583C943B3E5173DDAA1259D",
-      "author": "Ariano Suassuna",
-      "title": "Seleta em prosa e verso",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2066984,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/0ED776FCF583C943B3E5173DDAA1259D.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398734131i/17447048._UY630_SR1200,630_.jpg"
-        },
-        {
-          "src_3": "https://http2.mlstatic.com/D_NQ_NP_909499-MLB32946395508_112019-O.webp"
-        },
-        {
-          "src_4": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_g/20153/9437183.jpg"
-        },
-        {
-          "src_5": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_65e9c1a2488acf698f6f112a2eb5f1185235e439.jpg"
-        },
-        {
-          "src_6": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_11ca3e8fecd8688388f5762f539df17858619c60.jpg"
-        },
-        {
-          "src_7": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/20153/9437183_1.jpg"
-        },
-        {
-          "src_8": "https://http2.mlstatic.com/D_NQ_NP_985497-MLB27305819523_052018-O.jpg"
-        },
-        {
-          "src_9": "https://0.academia-photos.com/attachment_thumbnails/34301032/mini_magick20180817-21035-qvbzoz.png?1534572696"
-        },
-        {
-          "src_10": "https://i.zst.com.br/thumbs/12/a/29/1456191967.jpg"
-        },
-        {
-          "src_11": "https://books.google.co.ao/books/content?id=O50tAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE720KLwMjxVqrjdHk81GYOZHrdpXKKG-cGEmRD6N8lhKaQU0R1FEF4u_PueoeqUUTmP6Yel9zgWiF9cjJ0B3J1xiOXuJfeLWc0GIA21y8p82dgacvgG6rb6JC1SDAifaT4kKR0ep"
-        },
-        {
-          "src_12": "https://www.cartacapital.com.br/wp-content/uploads/2019/06/ariano-suassuna-1200x800.jpg"
-        },
-        {
-          "src_13": "https://www.llibreriapublics.com/es/images/logo-white.png"
-        },
-        {
-          "src_14": "https://images.gr-assets.com/authors/1381209664p5/109025.jpg"
-        },
-        {
-          "src_15": "https://img.yumpu.com/12917971/1/500x640/ariano-suassuna-o-palhaco-professor-e-sua-pedra-do-reino.jpg"
-        },
-        {
-          "src_16": "https://imgs.pontofrio.com.br/168933/1xg.jpg?imwidth=292"
-        },
-        {
-          "src_17": "https://images-na.ssl-images-amazon.com/images/I/61rx5DWyJwL.jpg"
-        },
-        {
-          "src_18": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ariano_Suassuna_%281964%29.tif/lossy-page1-220px-Ariano_Suassuna_%281964%29.tif.jpg"
-        },
-        {
-          "src_19": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/20153/9437183_2.jpg"
-        },
-        {
-          "src_20": "http://hotsites.diariodepernambuco.com.br/viver/2014/arianosuassuna/homensdebarro.jpg"
-        }
-      ],
-      "notes": [
-
       ],
       "new_words": [
 
@@ -17467,6 +18105,90 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
+      ]
+    },
+    {
+      "book_id": "0ED776FCF583C943B3E5173DDAA1259D",
+      "author": "Ariano Suassuna",
+      "title": "Seleta em prosa e verso",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2066984,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/0ED776FCF583C943B3E5173DDAA1259D.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398734131i/17447048._UY630_SR1200,630_.jpg"
+        },
+        {
+          "src_3": "https://http2.mlstatic.com/D_NQ_NP_909499-MLB32946395508_112019-O.webp"
+        },
+        {
+          "src_4": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_g/20153/9437183.jpg"
+        },
+        {
+          "src_5": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_65e9c1a2488acf698f6f112a2eb5f1185235e439.jpg"
+        },
+        {
+          "src_6": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_11ca3e8fecd8688388f5762f539df17858619c60.jpg"
+        },
+        {
+          "src_7": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/20153/9437183_1.jpg"
+        },
+        {
+          "src_8": "https://http2.mlstatic.com/D_NQ_NP_985497-MLB27305819523_052018-O.jpg"
+        },
+        {
+          "src_9": "https://0.academia-photos.com/attachment_thumbnails/34301032/mini_magick20180817-21035-qvbzoz.png?1534572696"
+        },
+        {
+          "src_10": "https://i.zst.com.br/thumbs/12/a/29/1456191967.jpg"
+        },
+        {
+          "src_11": "https://books.google.co.ao/books/content?id=O50tAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE720KLwMjxVqrjdHk81GYOZHrdpXKKG-cGEmRD6N8lhKaQU0R1FEF4u_PueoeqUUTmP6Yel9zgWiF9cjJ0B3J1xiOXuJfeLWc0GIA21y8p82dgacvgG6rb6JC1SDAifaT4kKR0ep"
+        },
+        {
+          "src_12": "https://www.cartacapital.com.br/wp-content/uploads/2019/06/ariano-suassuna-1200x800.jpg"
+        },
+        {
+          "src_13": "https://www.llibreriapublics.com/es/images/logo-white.png"
+        },
+        {
+          "src_14": "https://images.gr-assets.com/authors/1381209664p5/109025.jpg"
+        },
+        {
+          "src_15": "https://img.yumpu.com/12917971/1/500x640/ariano-suassuna-o-palhaco-professor-e-sua-pedra-do-reino.jpg"
+        },
+        {
+          "src_16": "https://imgs.pontofrio.com.br/168933/1xg.jpg?imwidth=292"
+        },
+        {
+          "src_17": "https://images-na.ssl-images-amazon.com/images/I/61rx5DWyJwL.jpg"
+        },
+        {
+          "src_18": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ariano_Suassuna_%281964%29.tif/lossy-page1-220px-Ariano_Suassuna_%281964%29.tif.jpg"
+        },
+        {
+          "src_19": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/20153/9437183_2.jpg"
+        },
+        {
+          "src_20": "http://hotsites.diariodepernambuco.com.br/viver/2014/arianosuassuna/homensdebarro.jpg"
+        }
+      ],
+      "notes": [
+
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -18118,90 +18840,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "57C8368BDC812DF3D62121AF6F9E3C6D",
-      "author": "Albert Einstein",
-      "title": "Como Vejo o Mundo - Col. Saraiva de Bolso",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1102531,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/57C8368BDC812DF3D62121AF6F9E3C6D.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12107907/1003395248.jpg?v=637142243957870000"
-        },
-        {
-          "src_3": "https://lojasaraiva.vteximg.com.br/arquivos/ids/7027435/709714.jpg?v=637075724143530000"
-        },
-        {
-          "src_4": "https://images-na.ssl-images-amazon.com/images/I/51cBLCWV3eL._SX336_BO1,204,203,200_.jpg"
-        },
-        {
-          "src_5": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8763b3c0e950e4ab96c5ca70c28c3e87f3b77e2f.jpg"
-        },
-        {
-          "src_6": "https://www.traca.com.br/capas/953/953458.jpg"
-        },
-        {
-          "src_7": "https://5934488p.ha.azioncdn.net/capas-livros/9788533202917-albert-einstein-como-vejo-o-mundo-13260663.jpg"
-        },
-        {
-          "src_8": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_51f3b18200f0349a3feed3456635c14ac8a57573.jpg"
-        },
-        {
-          "src_9": "https://http2.mlstatic.com/D_NQ_NP_749974-MLB27806878814_072018-O.webp"
-        },
-        {
-          "src_10": "https://www.traca.com.br/capas/151/151469.jpg"
-        },
-        {
-          "src_11": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_3c7774d4c24ccc60c485c318c3914a13e80f191b.jpg"
-        },
-        {
-          "src_12": "https://img.clasf.com.br/2020/05/04/como-vejo-o-mundo-albert-einstein-livro-20200504084911.2003980015.jpg"
-        },
-        {
-          "src_13": "https://abclivro.com.br/wp-content/uploads/2021/09/9788520935415.jpg"
-        },
-        {
-          "src_14": "https://m.media-amazon.com/images/I/B1ifsMrL2vS._CR0,504,3024,3024_UX175.jpg"
-        },
-        {
-          "src_15": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Citizen-Einstein.jpg/440px-Citizen-Einstein.jpg"
-        },
-        {
-          "src_16": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/3328/1282967.jpg"
-        },
-        {
-          "src_17": "https://image.isu.pub/190530111103-5e472fa4652b3fbd7b5e2219815da422/jpg/page_1_thumb_large.jpg"
-        },
-        {
-          "src_18": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Albert_Einstein_ETH-Bib_Portr_05937.jpg/340px-Albert_Einstein_ETH-Bib_Portr_05937.jpg"
-        },
-        {
-          "src_19": "https://www.achetudoeregiao.com.br/atr/gifs/albert_einsten.jpg"
-        },
-        {
-          "src_20": "https://i1.rgstatic.net/publication/354339546_RESEARCH_SUMMIT_2021_Book_of_abstracts/links/61323c412b40ec7d8be3644a/largepreview.png"
-        }
-      ],
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "717D20BA21BED335064BFB50976ADD5B",
       "author": "Carl R. Rogers",
       "title": "Tornar-se pessoa",
@@ -18276,6 +18914,90 @@ var ibook_history = {
         },
         {
           "src_20": "https://http2.mlstatic.com/D_NQ_NP_911825-MLB28076801816_092018-O.jpg"
+        }
+      ],
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "57C8368BDC812DF3D62121AF6F9E3C6D",
+      "author": "Albert Einstein",
+      "title": "Como Vejo o Mundo - Col. Saraiva de Bolso",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1102531,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/57C8368BDC812DF3D62121AF6F9E3C6D.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12107907/1003395248.jpg?v=637142243957870000"
+        },
+        {
+          "src_3": "https://lojasaraiva.vteximg.com.br/arquivos/ids/7027435/709714.jpg?v=637075724143530000"
+        },
+        {
+          "src_4": "https://images-na.ssl-images-amazon.com/images/I/51cBLCWV3eL._SX336_BO1,204,203,200_.jpg"
+        },
+        {
+          "src_5": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8763b3c0e950e4ab96c5ca70c28c3e87f3b77e2f.jpg"
+        },
+        {
+          "src_6": "https://www.traca.com.br/capas/953/953458.jpg"
+        },
+        {
+          "src_7": "https://5934488p.ha.azioncdn.net/capas-livros/9788533202917-albert-einstein-como-vejo-o-mundo-13260663.jpg"
+        },
+        {
+          "src_8": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_51f3b18200f0349a3feed3456635c14ac8a57573.jpg"
+        },
+        {
+          "src_9": "https://http2.mlstatic.com/D_NQ_NP_749974-MLB27806878814_072018-O.webp"
+        },
+        {
+          "src_10": "https://www.traca.com.br/capas/151/151469.jpg"
+        },
+        {
+          "src_11": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_3c7774d4c24ccc60c485c318c3914a13e80f191b.jpg"
+        },
+        {
+          "src_12": "https://img.clasf.com.br/2020/05/04/como-vejo-o-mundo-albert-einstein-livro-20200504084911.2003980015.jpg"
+        },
+        {
+          "src_13": "https://abclivro.com.br/wp-content/uploads/2021/09/9788520935415.jpg"
+        },
+        {
+          "src_14": "https://m.media-amazon.com/images/I/B1ifsMrL2vS._CR0,504,3024,3024_UX175.jpg"
+        },
+        {
+          "src_15": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Citizen-Einstein.jpg/440px-Citizen-Einstein.jpg"
+        },
+        {
+          "src_16": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/3328/1282967.jpg"
+        },
+        {
+          "src_17": "https://image.isu.pub/190530111103-5e472fa4652b3fbd7b5e2219815da422/jpg/page_1_thumb_large.jpg"
+        },
+        {
+          "src_18": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Albert_Einstein_ETH-Bib_Portr_05937.jpg/340px-Albert_Einstein_ETH-Bib_Portr_05937.jpg"
+        },
+        {
+          "src_19": "https://www.achetudoeregiao.com.br/atr/gifs/albert_einsten.jpg"
+        },
+        {
+          "src_20": "https://i1.rgstatic.net/publication/354339546_RESEARCH_SUMMIT_2021_Book_of_abstracts/links/61323c412b40ec7d8be3644a/largepreview.png"
         }
       ],
       "notes": [
@@ -18370,90 +19092,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "46BDD5E5FA3482255F1D8BC91D97BB7D",
-      "author": "Unknown",
-      "title": "Rousseau - Emilio ou da Educação",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:20 -0700",
-      "genre": "Rousseau - Emilio ou da Educação",
-      "lang": null,
-      "file_size": 1631560,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:20 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/46BDD5E5FA3482255F1D8BC91D97BB7D.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://images-na.ssl-images-amazon.com/images/I/91nE4qDgAEL.jpg"
-        },
-        {
-          "src_3": "http://images.nypl.org/index.php?id=ps_rbk_558&t=r"
-        },
-        {
-          "src_4": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/a0a3ec1b98524de1bcc4404d4de867e4a481c29d.jpg"
-        },
-        {
-          "src_5": "https://i.pinimg.com/originals/39/43/b3/3943b3ea51e95df82b35280517954c7c.png"
-        },
-        {
-          "src_6": "https://martinsfontespaulista.vteximg.com.br/arquivos/ids/561715-800-800/731775_detalhes.jpg?v=637260005671300000"
-        },
-        {
-          "src_7": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8ae62829e9c98ab19af65bbd7919db1283be43de.jpg"
-        },
-        {
-          "src_8": "https://cdn.slidesharecdn.com/ss_thumbnails/emliooudaeducao-130815084513-phpapp02-thumbnail.jpg?cb=1376556354"
-        },
-        {
-          "src_9": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/7aab8c8ea8efebfdf3d4298c7bcb64928966c415.jpg"
-        },
-        {
-          "src_10": "https://img2.docero.com.br/image/m/nvc0nec.png"
-        },
-        {
-          "src_11": "https://images-na.ssl-images-amazon.com/images/I/61HmkYARPDL.jpg"
-        },
-        {
-          "src_12": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_199cea29872c219e39c1fce2ab8690286ad86ae1.jpg"
-        },
-        {
-          "src_13": "https://img.wook.pt/images/emilio-ou-da-educacao-jean-jacques-rousseau/MXwxNjg3NDR8MjE2MDgyfDEzODM1NzY2MTMwMDA=/500x"
-        },
-        {
-          "src_14": "https://img.travessa.com.br/livro/BA/e7/e7031142-a3f1-440b-b916-ff513a69ca11.jpg"
-        },
-        {
-          "src_15": "http://4.bp.blogspot.com/-NEQkv2BOiWI/VbUK4smHRHI/AAAAAAAAEkw/o6xgCFVknMg/s1600/Rousseau_2263371b.jpg"
-        },
-        {
-          "src_16": "https://image.slidesharecdn.com/emliooudaeducao-130815084513-phpapp02/85/emlio-ou-da-educao-2-320.jpg?cb=1376556354"
-        },
-        {
-          "src_17": "http://2.bp.blogspot.com/-Cl4t4gP_yNc/XMiRcKYvzWI/AAAAAAADGSE/ZFrDDPG3_H802DFPfnW_KglG6boDMRg3gCK4BGAYYCw/s1600/LOGO%2BPARQUE%2B-%2BBLOGGER.png"
-        },
-        {
-          "src_18": "https://transatlantic-cultures.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4558d0d48b8348658746898f05c9dbdf4689da97/image2.jpeg?locale=en"
-        },
-        {
-          "src_19": "https://img2.docero.com.br/image/l/xcx11ce.png"
-        },
-        {
-          "src_20": "https://www.redalyc.org/journal/4783/478359431014/fg3.png"
-        }
-      ],
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "D0464A79B12D1479E44055260C0E6310",
       "author": "Vladimir Nabokov",
       "title": "Selected Poems",
@@ -18528,6 +19166,90 @@ var ibook_history = {
         },
         {
           "src_20": "https://images-na.ssl-images-amazon.com/images/I/4120iLXz8bL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA19%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+        }
+      ],
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "46BDD5E5FA3482255F1D8BC91D97BB7D",
+      "author": "Unknown",
+      "title": "Rousseau - Emilio ou da Educação",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:20 -0700",
+      "genre": "Rousseau - Emilio ou da Educação",
+      "lang": null,
+      "file_size": 1631560,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:20 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/46BDD5E5FA3482255F1D8BC91D97BB7D.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://images-na.ssl-images-amazon.com/images/I/91nE4qDgAEL.jpg"
+        },
+        {
+          "src_3": "http://images.nypl.org/index.php?id=ps_rbk_558&t=r"
+        },
+        {
+          "src_4": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/a0a3ec1b98524de1bcc4404d4de867e4a481c29d.jpg"
+        },
+        {
+          "src_5": "https://i.pinimg.com/originals/39/43/b3/3943b3ea51e95df82b35280517954c7c.png"
+        },
+        {
+          "src_6": "https://martinsfontespaulista.vteximg.com.br/arquivos/ids/561715-800-800/731775_detalhes.jpg?v=637260005671300000"
+        },
+        {
+          "src_7": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8ae62829e9c98ab19af65bbd7919db1283be43de.jpg"
+        },
+        {
+          "src_8": "https://cdn.slidesharecdn.com/ss_thumbnails/emliooudaeducao-130815084513-phpapp02-thumbnail.jpg?cb=1376556354"
+        },
+        {
+          "src_9": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/7aab8c8ea8efebfdf3d4298c7bcb64928966c415.jpg"
+        },
+        {
+          "src_10": "https://img2.docero.com.br/image/m/nvc0nec.png"
+        },
+        {
+          "src_11": "https://images-na.ssl-images-amazon.com/images/I/61HmkYARPDL.jpg"
+        },
+        {
+          "src_12": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_199cea29872c219e39c1fce2ab8690286ad86ae1.jpg"
+        },
+        {
+          "src_13": "https://img.wook.pt/images/emilio-ou-da-educacao-jean-jacques-rousseau/MXwxNjg3NDR8MjE2MDgyfDEzODM1NzY2MTMwMDA=/500x"
+        },
+        {
+          "src_14": "https://img.travessa.com.br/livro/BA/e7/e7031142-a3f1-440b-b916-ff513a69ca11.jpg"
+        },
+        {
+          "src_15": "http://4.bp.blogspot.com/-NEQkv2BOiWI/VbUK4smHRHI/AAAAAAAAEkw/o6xgCFVknMg/s1600/Rousseau_2263371b.jpg"
+        },
+        {
+          "src_16": "https://image.slidesharecdn.com/emliooudaeducao-130815084513-phpapp02/85/emlio-ou-da-educao-2-320.jpg?cb=1376556354"
+        },
+        {
+          "src_17": "http://2.bp.blogspot.com/-Cl4t4gP_yNc/XMiRcKYvzWI/AAAAAAADGSE/ZFrDDPG3_H802DFPfnW_KglG6boDMRg3gCK4BGAYYCw/s1600/LOGO%2BPARQUE%2B-%2BBLOGGER.png"
+        },
+        {
+          "src_18": "https://transatlantic-cultures.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4558d0d48b8348658746898f05c9dbdf4689da97/image2.jpeg?locale=en"
+        },
+        {
+          "src_19": "https://img2.docero.com.br/image/l/xcx11ce.png"
+        },
+        {
+          "src_20": "https://www.redalyc.org/journal/4783/478359431014/fg3.png"
         }
       ],
       "notes": [
@@ -19745,43 +20467,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "B1D5F1B40ABBFACB66C429ABB9A76E80",
-      "author": "Paulo Freire",
-      "title": "A África ensinando a gente: Angola, Guiné-Bissau, São Tomé e Príncipe",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1688447,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759l/49074973._SY475_.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://images-na.ssl-images-amazon.com/images/I/41PRNLvJu5L._SX320_BO1,204,203,200_.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759l/49074973._SY475_.jpg",
-        "https://ler-livros.com/wp-content/uploads/capas/a-africa-ensinando-a-gente-paulo-freire-pdf-B00I3PUUZE.jpg",
-        "https://images-americanas.b2w.io/produtos/110211520/imagens/livro-a-africa-ensinando-a-gente-angola-guine-bissau-sao-tome-e-principe-angola-guine-bissau-sao-tome-e-principe/110211520_1_large.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759i/49074973._UY500_SS500_.jpg",
-        "https://kbimages1-a.akamaihd.net/61611958-2914-4916-b89d-6b08972e6cea/353/569/90/False/a-africa-ensinando-a-gente-3.jpg",
-        "https://a-static.mlcdn.com.br/1500x1500/livro-a-africa-ensinando-a-gente-angola-guine-bissau-sao-tome-e-principe/livrariaperuibe/9788577531882/4ea75599cf578b2d93b92e5ebccd2358.jpg",
-        "https://livrariacultura.vteximg.com.br/arquivos/ids/76831566-475-475/25001634.jpg?v=637780483136330000",
-        "https://a-static.mlcdn.com.br/450x450/africa-ensinando-a-gente-a-angola-guine-bissau-sao-tome-e-principe-paz-e-terra/livrariamartinsfontespaulista/154206/267591bc43bb028deb5d98225851c8cd.jpg",
-        "https://http2.mlstatic.com/D_NQ_NP_903601-MLB42467343993_072020-O.jpg"
-      ]
-    },
-    {
       "book_id": "AA8ACFB2FB08894F72783728401CA71F",
       "author": "Michel Montaigne",
       "title": "Os ensaios",
@@ -20313,6 +20998,215 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "B1D5F1B40ABBFACB66C429ABB9A76E80",
+      "author": "Paulo Freire",
+      "title": "A África ensinando a gente: Angola, Guiné-Bissau, São Tomé e Príncipe",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1688447,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759l/49074973._SY475_.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/41PRNLvJu5L._SX320_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759l/49074973._SY475_.jpg",
+        "https://ler-livros.com/wp-content/uploads/capas/a-africa-ensinando-a-gente-paulo-freire-pdf-B00I3PUUZE.jpg",
+        "https://images-americanas.b2w.io/produtos/110211520/imagens/livro-a-africa-ensinando-a-gente-angola-guine-bissau-sao-tome-e-principe-angola-guine-bissau-sao-tome-e-principe/110211520_1_large.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575302759i/49074973._UY500_SS500_.jpg",
+        "https://kbimages1-a.akamaihd.net/61611958-2914-4916-b89d-6b08972e6cea/353/569/90/False/a-africa-ensinando-a-gente-3.jpg",
+        "https://a-static.mlcdn.com.br/1500x1500/livro-a-africa-ensinando-a-gente-angola-guine-bissau-sao-tome-e-principe/livrariaperuibe/9788577531882/4ea75599cf578b2d93b92e5ebccd2358.jpg",
+        "https://livrariacultura.vteximg.com.br/arquivos/ids/76831566-475-475/25001634.jpg?v=637780483136330000",
+        "https://a-static.mlcdn.com.br/450x450/africa-ensinando-a-gente-a-angola-guine-bissau-sao-tome-e-principe-paz-e-terra/livrariamartinsfontespaulista/154206/267591bc43bb028deb5d98225851c8cd.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_903601-MLB42467343993_072020-O.jpg"
+      ]
+    },
+    {
+      "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
+      "author": "Vários autores",
+      "title": "O goleiro e outros textos sobre futebol",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2551398,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51vYoHB2XlL.jpg"
+      },
+      "notes": [
+        {
+          "pk": 4,
+          "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
+          "chapter": null,
+          "text": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.",
+          "sentence": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.\n",
+          "note": null,
+          "path": "epubcfi(/6/14[GoleiroEOutrosTextos-4.xhtml]!/4/2/16/1,:0,:266)",
+          "created_at": "2020-12-18 21:46:43 -0800",
+          "updated_at": "2020-12-18 21:46:43 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 51
+        }
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51vYoHB2XlL.jpg",
+        "https://kbimages1-a.akamaihd.net/d672e5fe-9bb2-42fb-ace5-4d07fa7a8bfd/353/569/90/False/o-goleiro-e-outros-textos-sobre-futebol-1.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vYoHB2XlL._SX342_SY445_QL70_ML2_.jpg",
+        "https://livrariacultura.vteximg.com.br/arquivos/ids/70531262-475-475/2012994124.jpg?v=637721458357530000",
+        "https://images-na.ssl-images-amazon.com/images/I/51vYoHB2XlL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREE%2CBottomLeft%2C360%2C-6_SR600%2C315_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://kbimages1-a.akamaihd.net/412acbae-b51b-4449-ad82-0b834629d796/353/569/90/False/modernismos-1922-2022.jpg",
+        "https://f.i.uol.com.br/fotografia/2022/05/07/16519635386276f692a5ba1_1651963538_3x2_md.jpg",
+        "https://kbimages1-a.akamaihd.net/a72662d6-9881-41b2-9e72-d4f07c9d0cfc/353/569/90/False/biblia-volume-iii-1.jpg",
+        "https://img.yumpu.com/14696522/1/500x640/uma-leitura-de-passe-de-letra-futebol-amp-literatura-de-flavio-carneiro.jpg",
+        "https://kbimages1-a.akamaihd.net/ad727d7b-35be-4dcc-ae08-95dd573c247f/353/569/90/False/dicionario-da-republica-1.jpg"
+      ]
+    },
+    {
+      "book_id": "C4580BBE7FD5A5B0DBB15D957F4C8063",
+      "author": "Niall Ferguson",
+      "title": "Doom",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 14952148,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620458433l/54750333.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620458433l/54750333.jpg",
+        "https://m.media-amazon.com/images/I/51qBaoXzLEL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610670690i/54750328._UY677_SS677_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51et87AOaCL._SX327_BO1,204,203,200_.jpg",
+        "https://images1.penguinrandomhouse.com/cover/9780593297384",
+        "https://m.media-amazon.com/images/I/51HXyI1h6fL.jpg",
+        "https://images1.penguinrandomhouse.com/cover/9780593413142",
+        "https://m.media-amazon.com/images/I/61ZAT4-PArS.jpg",
+        "https://images.penguinrandomhouse.com/cover/9780593297391",
+        "https://blackwells.co.uk/jacket/l/9780593299722.jpg"
+      ]
+    },
+    {
+      "book_id": "645A409CF346962815F11798424A930A",
+      "author": "Álvares de Azevedo",
+      "title": "Macário",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 229468,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/645A409CF346962815F11798424A930A.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1200915639l/788134.jpg"
+        },
+        {
+          "src_3": "https://imgs.extra.com.br/174185/1xg.jpg"
+        },
+        {
+          "src_4": "https://editoraufv.cdn.plataformaneo.com.br/produto/20210329140031_5144994856_D.jpg"
+        },
+        {
+          "src_5": "https://www.coladaweb.com/wp-content/uploads/macario.jpg"
+        },
+        {
+          "src_6": "https://images-na.ssl-images-amazon.com/images/I/41PNmNxgMGL._SX342_SY445_QL70_ML2_.jpg"
+        },
+        {
+          "src_7": "https://livrofacil.vteximg.com.br/arquivos/ids/204362-1000-1000/9788525410498.jpg?v=636836973486630000"
+        },
+        {
+          "src_8": "https://image.isu.pub/121219225402-1113c4dcb66c49b0b5d41e2cb093789e/jpg/page_1.jpg"
+        },
+        {
+          "src_9": "https://www.traca.com.br/capas/1019/1019279.jpg"
+        },
+        {
+          "src_10": "https://http2.mlstatic.com/D_NQ_NP_646715-MLB27458896563_052018-O.jpg"
+        },
+        {
+          "src_11": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1200915639i/788134._UY340_SS340_.jpg"
+        },
+        {
+          "src_12": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418506252l/23819803.jpg"
+        },
+        {
+          "src_13": "https://pictures.abebooks.com/isbn/9788572325974-us-300.jpg"
+        },
+        {
+          "src_14": "https://livrandante.com.br/wp-content/uploads/2017/01/macario.jpg"
+        },
+        {
+          "src_15": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1200915639i/788134._UY630_SR1200,630_.jpg"
+        },
+        {
+          "src_16": "https://img1.od-cdn.com/ImageType-100/6251-1/%7BDB909E1C-BA83-4E32-A75A-D117BE129E72%7DImg100.jpg"
+        },
+        {
+          "src_17": "https://images-na.ssl-images-amazon.com/images/I/413CTPwKrSL._SX347_BO1,204,203,200_.jpg"
+        },
+        {
+          "src_18": "https://cdn.mensagenscomamor.com/content/images/m000104469.jpg?v=0&w=300&h=300"
+        },
+        {
+          "src_19": "https://d38h3sy5jr28pf.cloudfront.net/capas-livros/9788572631228-alvares-de-azevedo-celia-a-n-passoni-macario-2436993337.jpg"
+        },
+        {
+          "src_20": "https://i0.wp.com/meupdf.com/wp-content/uploads/2021/07/imglivro00865.png?resize=171%2C267&ssl=1"
+        }
+      ],
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "8A82C1696267E589CAC9B6E1E26D3AC1",
       "author": "Vladimir Nabokov",
       "title": "Lectures on Literature",
@@ -20589,178 +21483,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
-      "author": "Vários autores",
-      "title": "O goleiro e outros textos sobre futebol",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2551398,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://m.media-amazon.com/images/I/51vYoHB2XlL.jpg"
-      },
-      "notes": [
-        {
-          "pk": 4,
-          "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
-          "chapter": null,
-          "text": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.",
-          "sentence": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.\n",
-          "note": null,
-          "path": "epubcfi(/6/14[GoleiroEOutrosTextos-4.xhtml]!/4/2/16/1,:0,:266)",
-          "created_at": "2020-12-18 21:46:43 -0800",
-          "updated_at": "2020-12-18 21:46:43 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 51
-        }
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://m.media-amazon.com/images/I/51vYoHB2XlL.jpg",
-        "https://kbimages1-a.akamaihd.net/d672e5fe-9bb2-42fb-ace5-4d07fa7a8bfd/353/569/90/False/o-goleiro-e-outros-textos-sobre-futebol-1.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51vYoHB2XlL._SX342_SY445_QL70_ML2_.jpg",
-        "https://livrariacultura.vteximg.com.br/arquivos/ids/70531262-475-475/2012994124.jpg?v=637721458357530000",
-        "https://images-na.ssl-images-amazon.com/images/I/51vYoHB2XlL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREE%2CBottomLeft%2C360%2C-6_SR600%2C315_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
-        "https://kbimages1-a.akamaihd.net/412acbae-b51b-4449-ad82-0b834629d796/353/569/90/False/modernismos-1922-2022.jpg",
-        "https://f.i.uol.com.br/fotografia/2022/05/07/16519635386276f692a5ba1_1651963538_3x2_md.jpg",
-        "https://kbimages1-a.akamaihd.net/a72662d6-9881-41b2-9e72-d4f07c9d0cfc/353/569/90/False/biblia-volume-iii-1.jpg",
-        "https://img.yumpu.com/14696522/1/500x640/uma-leitura-de-passe-de-letra-futebol-amp-literatura-de-flavio-carneiro.jpg",
-        "https://kbimages1-a.akamaihd.net/ad727d7b-35be-4dcc-ae08-95dd573c247f/353/569/90/False/dicionario-da-republica-1.jpg"
-      ]
-    },
-    {
-      "book_id": "C4580BBE7FD5A5B0DBB15D957F4C8063",
-      "author": "Niall Ferguson",
-      "title": "Doom",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 14952148,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620458433l/54750333.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620458433l/54750333.jpg",
-        "https://m.media-amazon.com/images/I/51qBaoXzLEL.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610670690i/54750328._UY677_SS677_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51et87AOaCL._SX327_BO1,204,203,200_.jpg",
-        "https://images1.penguinrandomhouse.com/cover/9780593297384",
-        "https://m.media-amazon.com/images/I/51HXyI1h6fL.jpg",
-        "https://images1.penguinrandomhouse.com/cover/9780593413142",
-        "https://m.media-amazon.com/images/I/61ZAT4-PArS.jpg",
-        "https://images.penguinrandomhouse.com/cover/9780593297391",
-        "https://blackwells.co.uk/jacket/l/9780593299722.jpg"
-      ]
-    },
-    {
-      "book_id": "645A409CF346962815F11798424A930A",
-      "author": "Álvares de Azevedo",
-      "title": "Macário",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 229468,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/645A409CF346962815F11798424A930A.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1200915639l/788134.jpg"
-        },
-        {
-          "src_3": "https://imgs.extra.com.br/174185/1xg.jpg"
-        },
-        {
-          "src_4": "https://editoraufv.cdn.plataformaneo.com.br/produto/20210329140031_5144994856_D.jpg"
-        },
-        {
-          "src_5": "https://www.coladaweb.com/wp-content/uploads/macario.jpg"
-        },
-        {
-          "src_6": "https://images-na.ssl-images-amazon.com/images/I/41PNmNxgMGL._SX342_SY445_QL70_ML2_.jpg"
-        },
-        {
-          "src_7": "https://livrofacil.vteximg.com.br/arquivos/ids/204362-1000-1000/9788525410498.jpg?v=636836973486630000"
-        },
-        {
-          "src_8": "https://image.isu.pub/121219225402-1113c4dcb66c49b0b5d41e2cb093789e/jpg/page_1.jpg"
-        },
-        {
-          "src_9": "https://www.traca.com.br/capas/1019/1019279.jpg"
-        },
-        {
-          "src_10": "https://http2.mlstatic.com/D_NQ_NP_646715-MLB27458896563_052018-O.jpg"
-        },
-        {
-          "src_11": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1200915639i/788134._UY340_SS340_.jpg"
-        },
-        {
-          "src_12": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418506252l/23819803.jpg"
-        },
-        {
-          "src_13": "https://pictures.abebooks.com/isbn/9788572325974-us-300.jpg"
-        },
-        {
-          "src_14": "https://livrandante.com.br/wp-content/uploads/2017/01/macario.jpg"
-        },
-        {
-          "src_15": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1200915639i/788134._UY630_SR1200,630_.jpg"
-        },
-        {
-          "src_16": "https://img1.od-cdn.com/ImageType-100/6251-1/%7BDB909E1C-BA83-4E32-A75A-D117BE129E72%7DImg100.jpg"
-        },
-        {
-          "src_17": "https://images-na.ssl-images-amazon.com/images/I/413CTPwKrSL._SX347_BO1,204,203,200_.jpg"
-        },
-        {
-          "src_18": "https://cdn.mensagenscomamor.com/content/images/m000104469.jpg?v=0&w=300&h=300"
-        },
-        {
-          "src_19": "https://d38h3sy5jr28pf.cloudfront.net/capas-livros/9788572631228-alvares-de-azevedo-celia-a-n-passoni-macario-2436993337.jpg"
-        },
-        {
-          "src_20": "https://i0.wp.com/meupdf.com/wp-content/uploads/2021/07/imglivro00865.png?resize=171%2C267&ssl=1"
-        }
-      ],
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "27FA50A53C7076EC036DC377D366741D",
       "author": "Jon M. Sweeney",
       "title": "St. Francis of Assisi in His Own Words",
@@ -20795,57 +21517,6 @@ var ibook_history = {
         "https://cdn3.volusion.com/oybla.rzpsf/v/vspfiles/photos/9781612610696-2.jpg?v-cache=1450657568",
         "https://g.christianbook.com/g/slideshow/0/0600195/main/0600195_1_ftc.jpg",
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493508381l/34735228.jpg"
-      ]
-    },
-    {
-      "book_id": "19F79A4779155A830BD9BB5F1398323E",
-      "author": "Colin Powell",
-      "title": "It Worked For Me",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1207347,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://m.media-amazon.com/images/I/51LEQ8ICHxL.jpg"
-      },
-      "notes": [
-        {
-          "pk": 753,
-          "book_id": "19F79A4779155A830BD9BB5F1398323E",
-          "chapter": null,
-          "text": "Loyalty is disagreeing strongly, and loyalty is executing faithfully.",
-          "sentence": "Loyalty is disagreeing strongly, and loyalty is executing faithfully. ",
-          "note": null,
-          "path": "epubcfi(/6/14[ch01]!/4/2[ch01]/74/1,:700,:769)",
-          "created_at": "2021-10-22 21:25:31 -0700",
-          "updated_at": "2021-10-22 21:25:31 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 9
-        }
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://m.media-amazon.com/images/I/51LEQ8ICHxL.jpg",
-        "https://target.scene7.com/is/image/Target/GUEST_fbf58f5a-341c-487b-bada-28adcffe4758?wid=488&hei=488&fmt=pjpeg",
-        "https://m.media-amazon.com/images/I/51PkztIACeL.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/41OqMh9dFJL.jpg",
-        "http://prodimage.images-bn.com/pimages/9780062135131_p0_v3_s1200x630.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343975533l/13425638.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51JUsFESnvL.jpg",
-        "https://media.npr.org/assets/img/2012/05/22/colinpowell-ab19939c2c2a344d26ee0b4d93578b7322b67279.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51LEQ8ICHxL._SX342_SY445_QL70_ML2_.jpg",
-        "https://media.npr.org/assets/bakertaylor/covers/i/it-worked-for-me/9780062135124_custom-898414b1ef061c9454e8f02aa8a5dc872dd8b818-s300-c85.jpg"
       ]
     },
     {
@@ -20934,6 +21605,57 @@ var ibook_history = {
         "https://www.livrariasfamiliacrista.com.br/media/catalog/product/cache/1/image/56819907b1c49a4bc751319b3fccb0da/4/1/416---historia-eclesiastica.jpg",
         "http://d3ugyf2ht6aenh.cloudfront.net/stores/807/754/products/historia-eclesiastica1-7b8e838a9be0f1b2e116302626643287-640-0.png",
         "https://http2.mlstatic.com/D_NQ_NP_629036-MLB29651358729_032019-O.jpg"
+      ]
+    },
+    {
+      "book_id": "19F79A4779155A830BD9BB5F1398323E",
+      "author": "Colin Powell",
+      "title": "It Worked For Me",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1207347,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51LEQ8ICHxL.jpg"
+      },
+      "notes": [
+        {
+          "pk": 753,
+          "book_id": "19F79A4779155A830BD9BB5F1398323E",
+          "chapter": null,
+          "text": "Loyalty is disagreeing strongly, and loyalty is executing faithfully.",
+          "sentence": "Loyalty is disagreeing strongly, and loyalty is executing faithfully. ",
+          "note": null,
+          "path": "epubcfi(/6/14[ch01]!/4/2[ch01]/74/1,:700,:769)",
+          "created_at": "2021-10-22 21:25:31 -0700",
+          "updated_at": "2021-10-22 21:25:31 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 9
+        }
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51LEQ8ICHxL.jpg",
+        "https://target.scene7.com/is/image/Target/GUEST_fbf58f5a-341c-487b-bada-28adcffe4758?wid=488&hei=488&fmt=pjpeg",
+        "https://m.media-amazon.com/images/I/51PkztIACeL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41OqMh9dFJL.jpg",
+        "http://prodimage.images-bn.com/pimages/9780062135131_p0_v3_s1200x630.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343975533l/13425638.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JUsFESnvL.jpg",
+        "https://media.npr.org/assets/img/2012/05/22/colinpowell-ab19939c2c2a344d26ee0b4d93578b7322b67279.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51LEQ8ICHxL._SX342_SY445_QL70_ML2_.jpg",
+        "https://media.npr.org/assets/bakertaylor/covers/i/it-worked-for-me/9780062135124_custom-898414b1ef061c9454e8f02aa8a5dc872dd8b818-s300-c85.jpg"
       ]
     },
     {
@@ -21382,6 +22104,43 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "DFA39535131D2CC3AE961479BF05723E",
+      "author": "Mário de Andrade",
+      "title": "O melhor de Mário de Andrade: Contos e Crônicas",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 595595,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51rjcjJ5WML._SX314_BO1,204,203,200_.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51rjcjJ5WML._SX314_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51Qa4mRG-0L.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432236657l/25577201._SY475_.jpg",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/9165588-287-426/1006546136.jpg?v=637103455826170000",
+        "https://media.ubook.com/product/ebook-cover/400x600/1097812-2102032200-o-melhor-de-mario-de-andrade-contos-e-cronicas.jpg",
+        "https://ecclesiae.com.br/image/cache/data/OMelhorDeMarioDeAndrade-515x800.jpg",
+        "https://imgs.casasbahia.com.br/4841588/1g.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432236657i/25577201._UY539_SS539_.jpg",
+        "https://images-americanas.b2w.io/produtos/122870952/imagens/livro-o-melhor-de-mario-de-andrade/122870952_1_large.jpg",
+        "https://www.livrariasfamiliacrista.com.br/media/catalog/product/cache/1/image/56819907b1c49a4bc751319b3fccb0da/o/-/o-melhor-de-m_rio-de-andrade---nova-fronteira1.jpg"
+      ]
+    },
+    {
       "book_id": "7D2D7945EE21039A0E11B634782658F5",
       "author": "João Antônio",
       "title": "Contos Reunidos",
@@ -21463,43 +22222,6 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
-    },
-    {
-      "book_id": "DFA39535131D2CC3AE961479BF05723E",
-      "author": "Mário de Andrade",
-      "title": "O melhor de Mário de Andrade: Contos e Crônicas",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 595595,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51rjcjJ5WML._SX314_BO1,204,203,200_.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://images-na.ssl-images-amazon.com/images/I/51rjcjJ5WML._SX314_BO1,204,203,200_.jpg",
-        "https://m.media-amazon.com/images/I/51Qa4mRG-0L.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432236657l/25577201._SY475_.jpg",
-        "https://lojasaraiva.vteximg.com.br/arquivos/ids/9165588-287-426/1006546136.jpg?v=637103455826170000",
-        "https://media.ubook.com/product/ebook-cover/400x600/1097812-2102032200-o-melhor-de-mario-de-andrade-contos-e-cronicas.jpg",
-        "https://ecclesiae.com.br/image/cache/data/OMelhorDeMarioDeAndrade-515x800.jpg",
-        "https://imgs.casasbahia.com.br/4841588/1g.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432236657i/25577201._UY539_SS539_.jpg",
-        "https://images-americanas.b2w.io/produtos/122870952/imagens/livro-o-melhor-de-mario-de-andrade/122870952_1_large.jpg",
-        "https://www.livrariasfamiliacrista.com.br/media/catalog/product/cache/1/image/56819907b1c49a4bc751319b3fccb0da/o/-/o-melhor-de-m_rio-de-andrade---nova-fronteira1.jpg"
       ]
     },
     {
@@ -21653,43 +22375,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "FB5C09659D63AF0C018F65707D213403",
-      "author": "Thomas Mann",
-      "title": "Discursos contra Hitler",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 550266,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://m.media-amazon.com/images/I/414igDkicYL.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://m.media-amazon.com/images/I/414igDkicYL.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442799203l/26780814._SY475_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446812758i/27504489.jpg",
-        "https://image.cdn0.buscalibre.com/3051325.__RS360x360__.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/414igDkicYL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA12%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
-        "https://pictures.abebooks.com/isbn/9788483075937-us.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/41TTOVFlfSL._SX304_BO1,204,203,200_.jpg",
-        "https://image.cdn0.buscalibre.com/3051325.RS500x500.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/319yk-YlBkL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA12%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
-        "https://http2.mlstatic.com/D_NQ_NP_667141-MLB25644333568_062017-O.jpg"
-      ]
-    },
-    {
       "book_id": "3A1C951AFBA73A2868CBB8E1400E9D37",
       "author": "A.-D. Sertillanges",
       "title": "A Vida Intelectual: Seu espírito, suas condições, seus métodos",
@@ -21724,6 +22409,43 @@ var ibook_history = {
         "https://cdn.awsli.com.br/600x450/2285/2285614/produto/144450217/1550bb2b40.jpg",
         "https://kirion.com.br/image/cache/data/api/produtos/7585-515x800.jpg",
         "https://cf.shopee.com.br/file/452037fb19d2d3b1af65533913974461"
+      ]
+    },
+    {
+      "book_id": "FB5C09659D63AF0C018F65707D213403",
+      "author": "Thomas Mann",
+      "title": "Discursos contra Hitler",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 550266,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/414igDkicYL.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/414igDkicYL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442799203l/26780814._SY475_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446812758i/27504489.jpg",
+        "https://image.cdn0.buscalibre.com/3051325.__RS360x360__.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/414igDkicYL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA12%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://pictures.abebooks.com/isbn/9788483075937-us.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41TTOVFlfSL._SX304_BO1,204,203,200_.jpg",
+        "https://image.cdn0.buscalibre.com/3051325.RS500x500.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/319yk-YlBkL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA12%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_667141-MLB25644333568_062017-O.jpg"
       ]
     },
     {
@@ -21808,57 +22530,6 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
-    },
-    {
-      "book_id": "5833E5DB6AED336CE0F3F6F0C5A97FD6",
-      "author": "Byung-Chul Han",
-      "title": "Sociedade do cansaço",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1981376,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://m.media-amazon.com/images/I/417GbcEWF2L.jpg"
-      },
-      "notes": [
-        {
-          "pk": 21,
-          "book_id": "5833E5DB6AED336CE0F3F6F0C5A97FD6",
-          "chapter": null,
-          "text": "depressão, transtorno de déficit de atenção com síndrome de hiperatividade (Tdah), Transtorno de personalidade limítrofe (TPL) ou a Síndrome de Burnout (SB) ",
-          "sentence": "Doenças neuronais como a depressão, transtorno de déficit de atenção com síndrome de hiperatividade (Tdah), Transtorno de personalidade limítrofe (TPL) ou a Síndrome de Burnout (SB) determinam a paisagem patológica do começo do século XXI. ",
-          "note": null,
-          "path": "epubcfi(/6/12[cap1.xhtml]!/4/2/4/1,:457,:613)",
-          "created_at": "2021-01-27 07:24:50 -0800",
-          "updated_at": "2021-01-27 07:24:50 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 22
-        }
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://m.media-amazon.com/images/I/417GbcEWF2L.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/417GbcEWF2L._SX342_SY445_QL70_ML2_.jpg",
-        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SY550_.jpg",
-        "https://comunidadeculturaearte.com/wp-content/uploads/2021/06/Byung-Chul-Hann-790x450.jpg",
-        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SY879_.jpg",
-        "https://boanova.fbitsstatic.net/img/p/sociedade-do-cansaco-83219/250076.jpg?w=420&h=420&v=no-change&qs=ignore",
-        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SS450_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/411MEkpTzwL._SX289_BO1,204,203,200_.jpg",
-        "http://aescotilha.com.br/wp-content/uploads/2020/04/sociedade-do-cansaco-byung-chul-han-editora-vozes.jpg",
-        "https://static.ndmais.com.br/2021/03/livro-599x800.jpg"
       ]
     },
     {
@@ -22446,6 +23117,57 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "5833E5DB6AED336CE0F3F6F0C5A97FD6",
+      "author": "Byung-Chul Han",
+      "title": "Sociedade do cansaço",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1981376,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/417GbcEWF2L.jpg"
+      },
+      "notes": [
+        {
+          "pk": 21,
+          "book_id": "5833E5DB6AED336CE0F3F6F0C5A97FD6",
+          "chapter": null,
+          "text": "depressão, transtorno de déficit de atenção com síndrome de hiperatividade (Tdah), Transtorno de personalidade limítrofe (TPL) ou a Síndrome de Burnout (SB) ",
+          "sentence": "Doenças neuronais como a depressão, transtorno de déficit de atenção com síndrome de hiperatividade (Tdah), Transtorno de personalidade limítrofe (TPL) ou a Síndrome de Burnout (SB) determinam a paisagem patológica do começo do século XXI. ",
+          "note": null,
+          "path": "epubcfi(/6/12[cap1.xhtml]!/4/2/4/1,:457,:613)",
+          "created_at": "2021-01-27 07:24:50 -0800",
+          "updated_at": "2021-01-27 07:24:50 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 22
+        }
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/417GbcEWF2L.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417GbcEWF2L._SX342_SY445_QL70_ML2_.jpg",
+        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SY550_.jpg",
+        "https://comunidadeculturaearte.com/wp-content/uploads/2021/06/Byung-Chul-Hann-790x450.jpg",
+        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SY879_.jpg",
+        "https://boanova.fbitsstatic.net/img/p/sociedade-do-cansaco-83219/250076.jpg?w=420&h=420&v=no-change&qs=ignore",
+        "https://m.media-amazon.com/images/I/615xknuR6CL._AC_SS450_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/411MEkpTzwL._SX289_BO1,204,203,200_.jpg",
+        "http://aescotilha.com.br/wp-content/uploads/2020/04/sociedade-do-cansaco-byung-chul-han-editora-vozes.jpg",
+        "https://static.ndmais.com.br/2021/03/livro-599x800.jpg"
+      ]
+    },
+    {
       "book_id": "076FA582D9293714117D948BD6BE2987",
       "author": "Masi, Domenico de",
       "title": "O Futuro Chegou",
@@ -22539,60 +23261,6 @@ var ibook_history = {
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391398400l/20700689.jpg",
         "https://http2.mlstatic.com/D_NQ_NP_623739-MLB45596099911_042021-O.jpg",
         "https://livrariaflorence.fbitsstatic.net/img/p/livro-o-futuro-chegou-masi-192242/378600.jpg?w=660&h=660&v=no-change&qs=ignore"
-      ]
-    },
-    {
-      "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
-      "author": "Bernard-Henri Levy",
-      "title": "The Will to See",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1253793,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622862449l/57615593.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-        {
-          "pk": 754,
-          "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
-          "chapter": null,
-          "text": "forerunners ",
-          "sentence": "Of course, a text could be like the “devices” that the early anarchists, forerunners of the far left, had begun to explode, devices that Mallarmé felt lit up the world with a pale but persistent glow.\n",
-          "note": null,
-          "path": "epubcfi(/6/14[intro]!/4/14/1,:73,:85)",
-          "created_at": "2021-10-25 22:33:50 -0700",
-          "updated_at": "2021-10-25 22:33:50 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 751,
-          "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
-          "chapter": null,
-          "text": " proclivity ",
-          "sentence": "I was twenty years old when the author of Vers et Prose joined the band of “theoretical anti-humanists” who, with their proclivity for grand thought, their fetish for science and pure criticism, their love of a language already too heavy with mysteries to weigh itself down with those of the world, seemed to reject “taking the side of things,” the worship of “native soil,” and, to speak like another poet, Victor Hugo (whom Mallarmé called “Mr. ",
-          "note": null,
-          "path": "epubcfi(/6/14[intro]!/4/10/3,:64,:76)",
-          "created_at": "2021-10-25 22:26:50 -0700",
-          "updated_at": "2021-10-25 22:26:50 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        }
       ]
     },
     {
@@ -22983,6 +23651,60 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
+      "author": "Bernard-Henri Levy",
+      "title": "The Will to See",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1253793,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622862449l/57615593.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+        {
+          "pk": 754,
+          "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
+          "chapter": null,
+          "text": "forerunners ",
+          "sentence": "Of course, a text could be like the “devices” that the early anarchists, forerunners of the far left, had begun to explode, devices that Mallarmé felt lit up the world with a pale but persistent glow.\n",
+          "note": null,
+          "path": "epubcfi(/6/14[intro]!/4/14/1,:73,:85)",
+          "created_at": "2021-10-25 22:33:50 -0700",
+          "updated_at": "2021-10-25 22:33:50 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 751,
+          "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
+          "chapter": null,
+          "text": " proclivity ",
+          "sentence": "I was twenty years old when the author of Vers et Prose joined the band of “theoretical anti-humanists” who, with their proclivity for grand thought, their fetish for science and pure criticism, their love of a language already too heavy with mysteries to weigh itself down with those of the world, seemed to reject “taking the side of things,” the worship of “native soil,” and, to speak like another poet, Victor Hugo (whom Mallarmé called “Mr. ",
+          "note": null,
+          "path": "epubcfi(/6/14[intro]!/4/10/3,:64,:76)",
+          "created_at": "2021-10-25 22:26:50 -0700",
+          "updated_at": "2021-10-25 22:26:50 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
+    {
       "book_id": "C2A8D49F42F2652F20CC19BA6594E066",
       "author": "Han, Byung-Chul; Steuer, Daniel;",
       "title": "Saving Beauty",
@@ -23291,6 +24013,72 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "3CBAD8DF121D647D0747C86D9424F029",
+      "author": "Calvino, Italo",
+      "title": "As cidades invisíveis",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 376993,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjUzMTkxMDAw/500x"
+      },
+      "notes": [
+        {
+          "pk": 290,
+          "book_id": "3CBAD8DF121D647D0747C86D9424F029",
+          "chapter": null,
+          "text": "S CIDADES\nE O CÉU",
+          "sentence": "AS CIDADES\nE O CÉU\n",
+          "note": null,
+          "path": "epubcfi(/6/100[id172]!/4/2[heading_id_6],/3:1,/5:10)",
+          "created_at": "2021-08-02 21:28:29 -0700",
+          "updated_at": "2021-08-02 21:28:29 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 5
+        },
+        {
+          "pk": 278,
+          "book_id": "3CBAD8DF121D647D0747C86D9424F029",
+          "chapter": null,
+          "text": " Talvez do mundo só reste um terreno baldio coberto de imundícies e o jardim suspenso do paço imperial do Grande Khan. São as nossas pálpebras que os separam, mas não se sabe qual está dentro e qual está fora.",
+          "sentence": "POLO: Talvez do mundo só reste um terreno baldio coberto de imundícies e o jardim suspenso do paço imperial do Grande Khan. São as nossas pálpebras que os separam, mas não se sabe qual está dentro e qual está fora.",
+          "note": null,
+          "path": "epubcfi(/6/104[id187]!/4/16/2/3,:1,:210)",
+          "created_at": "2021-08-02 21:35:57 -0700",
+          "updated_at": "2021-08-02 21:35:57 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 39
+        }
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjUzMTkxMDAw/500x",
+        "https://static.fnac-static.com/multimedia/Images/PT/NR/eb/08/0d/854251/1540-1/tsp20160819012259/As-Cidades-Invisiveis.jpg",
+        "https://bparpd.azores.gov.pt/wp-content/uploads/2020/09/Italo.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/518v4Lb7AfL.jpg",
+        "http://1.bp.blogspot.com/_uFl93P8BLV0/SFVHCUOIH8I/AAAAAAAABts/oWgP-MNn708/w1200-h630-p-k-no-nu/ETEO_Cidades_Invisiveis.jpg",
+        "https://www.leyaonline.com/fotos/produtos/500_9789722057097_As_Cidades_Invisiveis.jpg",
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788571641495/as-cidades-invisiveis.jpg",
+        "https://pnl2027.gov.pt/np4/file/2603/Banner_2.jpg",
+        "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjAwMDAwMDAwfHdlYnA=/502x?ctx=0",
+        "https://images.adsttc.com/media/images/5f03/9daa/b357/6540/5400/04f5/newsletter/DESPINA.jpg?1594072458"
+      ]
+    },
+    {
       "book_id": "7B7725E896ADCB5980DC62B5AF494E9C",
       "author": "Hannah Arendt",
       "title": "Homens em tempos sombrios",
@@ -23375,72 +24163,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "3CBAD8DF121D647D0747C86D9424F029",
-      "author": "Calvino, Italo",
-      "title": "As cidades invisíveis",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 376993,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjUzMTkxMDAw/500x"
-      },
-      "notes": [
-        {
-          "pk": 290,
-          "book_id": "3CBAD8DF121D647D0747C86D9424F029",
-          "chapter": null,
-          "text": "S CIDADES\nE O CÉU",
-          "sentence": "AS CIDADES\nE O CÉU\n",
-          "note": null,
-          "path": "epubcfi(/6/100[id172]!/4/2[heading_id_6],/3:1,/5:10)",
-          "created_at": "2021-08-02 21:28:29 -0700",
-          "updated_at": "2021-08-02 21:28:29 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 5
-        },
-        {
-          "pk": 278,
-          "book_id": "3CBAD8DF121D647D0747C86D9424F029",
-          "chapter": null,
-          "text": " Talvez do mundo só reste um terreno baldio coberto de imundícies e o jardim suspenso do paço imperial do Grande Khan. São as nossas pálpebras que os separam, mas não se sabe qual está dentro e qual está fora.",
-          "sentence": "POLO: Talvez do mundo só reste um terreno baldio coberto de imundícies e o jardim suspenso do paço imperial do Grande Khan. São as nossas pálpebras que os separam, mas não se sabe qual está dentro e qual está fora.",
-          "note": null,
-          "path": "epubcfi(/6/104[id187]!/4/16/2/3,:1,:210)",
-          "created_at": "2021-08-02 21:35:57 -0700",
-          "updated_at": "2021-08-02 21:35:57 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 39
-        }
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjUzMTkxMDAw/500x",
-        "https://static.fnac-static.com/multimedia/Images/PT/NR/eb/08/0d/854251/1540-1/tsp20160819012259/As-Cidades-Invisiveis.jpg",
-        "https://bparpd.azores.gov.pt/wp-content/uploads/2020/09/Italo.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/518v4Lb7AfL.jpg",
-        "http://1.bp.blogspot.com/_uFl93P8BLV0/SFVHCUOIH8I/AAAAAAAABts/oWgP-MNn708/w1200-h630-p-k-no-nu/ETEO_Cidades_Invisiveis.jpg",
-        "https://www.leyaonline.com/fotos/produtos/500_9789722057097_As_Cidades_Invisiveis.jpg",
-        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788571641495/as-cidades-invisiveis.jpg",
-        "https://pnl2027.gov.pt/np4/file/2603/Banner_2.jpg",
-        "https://img.wook.pt/images/as-cidades-invisiveis-italo-calvino/MXwxNjIxOTc5NnwxMTc5OTQ2M3wxNDI1NjAwMDAwMDAwfHdlYnA=/502x?ctx=0",
-        "https://images.adsttc.com/media/images/5f03/9daa/b357/6540/5400/04f5/newsletter/DESPINA.jpg?1594072458"
-      ]
-    },
-    {
       "book_id": "9CE992BBC6F94919C3B7456A122467CF",
       "author": "Máximo Górki",
       "title": "A mãe",
@@ -23463,43 +24185,6 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
-    },
-    {
-      "book_id": "1E2D3DDCAD15755FB86989CFCBCCCA3C",
-      "author": "Leo Tolstoy",
-      "title": "The Gospel in Brief",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1053654,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL._SX349_BO1,204,203,200_.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL._SX349_BO1,204,203,200_.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924668l/26243.jpg",
-        "https://stevenclarkcunningham.net/wp-content/uploads/2018/07/Tolstoys-Gospels-in-Brief.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434666613l/20024228._SX318_.jpg",
-        "https://upload.wikimedia.org/wikipedia/en/7/76/The_Gospel_in_Brief.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/519AeMPWkYL._SX351_BO1,204,203,200_.jpg",
-        "https://m.media-amazon.com/images/I/51MTH+xuuVL.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL.jpg",
-        "https://target.scene7.com/is/image/Target/GUEST_c2fae78e-d0b3-4063-8600-e04196013b64?wid=488&hei=488&fmt=pjpeg",
-        "https://m.media-amazon.com/images/I/41bVebQxzNL.jpg"
       ]
     },
     {
@@ -23537,6 +24222,43 @@ var ibook_history = {
         "https://images-americanas.b2w.io/produtos/2914542244/imagens/essencial-joaquim-nabuco/2914542287_1_large.jpg",
         "https://videeditorial.com.br/image/cache/data/incoming/lerbem.com.br/image/data/incoming/capaslivros/Essencial-515x800.JPG",
         "https://livraria.seminariodefilosofia.org/image/cache/data/api/produtos/2067-515x800.jpg"
+      ]
+    },
+    {
+      "book_id": "1E2D3DDCAD15755FB86989CFCBCCCA3C",
+      "author": "Leo Tolstoy",
+      "title": "The Gospel in Brief",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1053654,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL._SX349_BO1,204,203,200_.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL._SX349_BO1,204,203,200_.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924668l/26243.jpg",
+        "https://stevenclarkcunningham.net/wp-content/uploads/2018/07/Tolstoys-Gospels-in-Brief.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434666613l/20024228._SX318_.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/7/76/The_Gospel_in_Brief.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/519AeMPWkYL._SX351_BO1,204,203,200_.jpg",
+        "https://m.media-amazon.com/images/I/51MTH+xuuVL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51er-7ORlsL.jpg",
+        "https://target.scene7.com/is/image/Target/GUEST_c2fae78e-d0b3-4063-8600-e04196013b64?wid=488&hei=488&fmt=pjpeg",
+        "https://m.media-amazon.com/images/I/41bVebQxzNL.jpg"
       ]
     },
     {
@@ -23621,43 +24343,6 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
-    },
-    {
-      "book_id": "FD9D8A8E9D2F90DAD658B3F3BD70BD4E",
-      "author": "Joseph E. Stiglitz",
-      "title": "The Price of Inequality: How Today's Divided Society Endangers Our Future",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": "Business & Economics",
-      "lang": null,
-      "file_size": 1526606,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://m.media-amazon.com/images/I/51g-PplkYtL.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://m.media-amazon.com/images/I/51g-PplkYtL.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365989032l/16685439.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51g-PplkYtL._SX342_SY445_QL70_ML2_.jpg",
-        "https://cgt.columbia.edu/wp-content/uploads/2010/04/The-Price-of-Inequality-Stiglitz-shadow.png",
-        "https://images-na.ssl-images-amazon.com/images/I/41MC%2BVCZUwL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA1%252C106%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
-        "https://m.media-amazon.com/images/I/41MC+VCZUwL._AC_SY780_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51E9e37YYgL.jpg",
-        "https://m.media-amazon.com/images/I/41IQoQF+TwL.jpg",
-        "https://www.amherst.edu/media/view/443359/original/152110220.jpg",
-        "https://m.media-amazon.com/images/I/314OX0m0MZL._AC_SY780_.jpg"
       ]
     },
     {
@@ -24013,6 +24698,43 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "FD9D8A8E9D2F90DAD658B3F3BD70BD4E",
+      "author": "Joseph E. Stiglitz",
+      "title": "The Price of Inequality: How Today's Divided Society Endangers Our Future",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": "Business & Economics",
+      "lang": null,
+      "file_size": 1526606,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51g-PplkYtL.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/51g-PplkYtL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365989032l/16685439.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51g-PplkYtL._SX342_SY445_QL70_ML2_.jpg",
+        "https://cgt.columbia.edu/wp-content/uploads/2010/04/The-Price-of-Inequality-Stiglitz-shadow.png",
+        "https://images-na.ssl-images-amazon.com/images/I/41MC%2BVCZUwL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA1%252C106%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://m.media-amazon.com/images/I/41MC+VCZUwL._AC_SY780_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51E9e37YYgL.jpg",
+        "https://m.media-amazon.com/images/I/41IQoQF+TwL.jpg",
+        "https://www.amherst.edu/media/view/443359/original/152110220.jpg",
+        "https://m.media-amazon.com/images/I/314OX0m0MZL._AC_SY780_.jpg"
+      ]
+    },
+    {
       "book_id": "BA7D4BB073224AEAC195E939DED61C0F",
       "author": "William Blake",
       "title": "The Marriage of Heaven and Hell",
@@ -24364,104 +25086,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "C5F330781A0703B61355618656A88192",
-      "author": "José Saramago",
-      "title": "Folhas políticas",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 632175,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/C5F330781A0703B61355618656A88192.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://img.wook.pt/images/folhas-politicas-jose-saramago/MXwxNjA5MzkxN3wxMTYzOTIyMHwxNjE3MDE2MDE1MDAw/500x"
-        },
-        {
-          "src_3": "https://img.skoob.com.br/GEYhGRrtcvI3OCFDutwaaQ7O_yU=/300x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/382280/FOLHAS_POLITICAS_1396152495B.jpg"
-        },
-        {
-          "src_4": null
-        },
-        {
-          "src_5": "https://esconderijodoslivros.pt/wp-content/uploads/2017/10/Folhas-Pol%C3%ADticas-Jos%C3%A9-Saramago-rotated.jpg"
-        },
-        {
-          "src_6": "https://img2.docero.com.br/image/l/e1nn.png"
-        },
-        {
-          "src_7": "https://imagessl8.casadellibro.com/a/l/t1/38/9789722113038.jpg"
-        },
-        {
-          "src_8": "https://pictures.abebooks.com/inventory/md/md30969257016.jpg"
-        },
-        {
-          "src_9": "https://ireland.apollo.olxcdn.com/v1/files/deca3stpjhdd-PT/image;s=756x1008"
-        },
-        {
-          "src_10": "https://livrosusadosantigosraros.files.wordpress.com/2015/06/img_5051-e1434969075678.jpg"
-        },
-        {
-          "src_11": "https://esconderijodoslivros.pt/wp-content/uploads/2017/10/Folhas-Pol%C3%ADticas-contracapa-150x200.jpg"
-        },
-        {
-          "src_12": "https://ireland.apollo.olxcdn.com/v1/files/5n3jc19rv7v12-PT/image;s=756x1008"
-        },
-        {
-          "src_13": "https://www.josesaramago.org/wp-content/uploads/2021/05/O-homem-duplicado-1_1.png"
-        },
-        {
-          "src_14": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3959297764113547"
-        },
-        {
-          "src_15": "https://cdn.cmjornal.pt/images/2020-11/img_432x243$2020_11_17_16_55_17_991564.jpg"
-        },
-        {
-          "src_16": "https://blx.cm-lisboa.pt/wp-content/uploads/2022/05/saramago-qtrack.jpg"
-        },
-        {
-          "src_17": "https://img.bertrand.pt/images/jose-saramago-nas-suas-palavras-fernando-gomez-aguilera/NDV8MjM1ODA1MTZ8MTk1NTQzNTB8MTYwOTc3MzIxNzAwMA==/175x&ctx=0"
-        },
-        {
-          "src_18": "https://static.docsity.com/documents_first_pages/2019/08/29/586a239ecf7721152eb1dbc2bf1ae1c9.png"
-        },
-        {
-          "src_19": "https://p.calameoassets.com/201111170707-25925a38ed6b107653d6da67b5b94b76/p1.jpg"
-        },
-        {
-          "src_20": "https://www.abrilabril.pt/sites/default/files/styles/superjumbo/public/assets/img/8293.jpg?itok=zJv_mXus"
-        }
-      ],
-      "notes": [
-        {
-          "pk": 16,
-          "book_id": "C5F330781A0703B61355618656A88192",
-          "chapter": null,
-          "text": "Ninguém precisa de (se) interrogar sobre o que seja a Direita, ninguém acha oportuno averiguar se o Centro o é de facto, mas todos nos inquietamos com a Esquerda, com o passado, o presente e o futuro da Esquerda.",
-          "sentence": "Ninguém precisa de (se) interrogar sobre o que seja a Direita, ninguém acha oportuno averiguar se o Centro o é de facto, mas todos nos inquietamos com a Esquerda, com o passado, o presente e o futuro da Esquerda. ",
-          "note": null,
-          "path": "epubcfi(/6/12[id005]!/4/8/1,:211,:423)",
-          "created_at": "2021-01-02 23:08:36 -0800",
-          "updated_at": "2021-01-02 23:08:36 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 39
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "16AB8939D0C09FC8E92E69B5A228FC80",
       "author": "Plutarch",
       "title": "Parallel Lives--Complete",
@@ -24583,6 +25207,104 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "C5F330781A0703B61355618656A88192",
+      "author": "José Saramago",
+      "title": "Folhas políticas",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 632175,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/C5F330781A0703B61355618656A88192.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://img.wook.pt/images/folhas-politicas-jose-saramago/MXwxNjA5MzkxN3wxMTYzOTIyMHwxNjE3MDE2MDE1MDAw/500x"
+        },
+        {
+          "src_3": "https://img.skoob.com.br/GEYhGRrtcvI3OCFDutwaaQ7O_yU=/300x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/382280/FOLHAS_POLITICAS_1396152495B.jpg"
+        },
+        {
+          "src_4": null
+        },
+        {
+          "src_5": "https://esconderijodoslivros.pt/wp-content/uploads/2017/10/Folhas-Pol%C3%ADticas-Jos%C3%A9-Saramago-rotated.jpg"
+        },
+        {
+          "src_6": "https://img2.docero.com.br/image/l/e1nn.png"
+        },
+        {
+          "src_7": "https://imagessl8.casadellibro.com/a/l/t1/38/9789722113038.jpg"
+        },
+        {
+          "src_8": "https://pictures.abebooks.com/inventory/md/md30969257016.jpg"
+        },
+        {
+          "src_9": "https://ireland.apollo.olxcdn.com/v1/files/deca3stpjhdd-PT/image;s=756x1008"
+        },
+        {
+          "src_10": "https://livrosusadosantigosraros.files.wordpress.com/2015/06/img_5051-e1434969075678.jpg"
+        },
+        {
+          "src_11": "https://esconderijodoslivros.pt/wp-content/uploads/2017/10/Folhas-Pol%C3%ADticas-contracapa-150x200.jpg"
+        },
+        {
+          "src_12": "https://ireland.apollo.olxcdn.com/v1/files/5n3jc19rv7v12-PT/image;s=756x1008"
+        },
+        {
+          "src_13": "https://www.josesaramago.org/wp-content/uploads/2021/05/O-homem-duplicado-1_1.png"
+        },
+        {
+          "src_14": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3959297764113547"
+        },
+        {
+          "src_15": "https://cdn.cmjornal.pt/images/2020-11/img_432x243$2020_11_17_16_55_17_991564.jpg"
+        },
+        {
+          "src_16": "https://blx.cm-lisboa.pt/wp-content/uploads/2022/05/saramago-qtrack.jpg"
+        },
+        {
+          "src_17": "https://img.bertrand.pt/images/jose-saramago-nas-suas-palavras-fernando-gomez-aguilera/NDV8MjM1ODA1MTZ8MTk1NTQzNTB8MTYwOTc3MzIxNzAwMA==/175x&ctx=0"
+        },
+        {
+          "src_18": "https://static.docsity.com/documents_first_pages/2019/08/29/586a239ecf7721152eb1dbc2bf1ae1c9.png"
+        },
+        {
+          "src_19": "https://p.calameoassets.com/201111170707-25925a38ed6b107653d6da67b5b94b76/p1.jpg"
+        },
+        {
+          "src_20": "https://www.abrilabril.pt/sites/default/files/styles/superjumbo/public/assets/img/8293.jpg?itok=zJv_mXus"
+        }
+      ],
+      "notes": [
+        {
+          "pk": 16,
+          "book_id": "C5F330781A0703B61355618656A88192",
+          "chapter": null,
+          "text": "Ninguém precisa de (se) interrogar sobre o que seja a Direita, ninguém acha oportuno averiguar se o Centro o é de facto, mas todos nos inquietamos com a Esquerda, com o passado, o presente e o futuro da Esquerda.",
+          "sentence": "Ninguém precisa de (se) interrogar sobre o que seja a Direita, ninguém acha oportuno averiguar se o Centro o é de facto, mas todos nos inquietamos com a Esquerda, com o passado, o presente e o futuro da Esquerda. ",
+          "note": null,
+          "path": "epubcfi(/6/12[id005]!/4/8/1,:211,:423)",
+          "created_at": "2021-01-02 23:08:36 -0800",
+          "updated_at": "2021-01-02 23:08:36 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 39
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "4DB94D3141C3EA3C405468A697DD56DA",
       "author": "Leslie Holmes",
       "title": "Corruption: A Very Short Introduction (Very Short Introductions)",
@@ -24617,6 +25339,207 @@ var ibook_history = {
         "https://cdn.waterstones.com/bookjackets/large/9780/1996/9780199689699.jpg",
         "https://images-na.ssl-images-amazon.com/images/I/51ranPNod2L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA54%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
         "http://ecx.images-amazon.com/images/I/51q28a2ni8L.jpg"
+      ]
+    },
+    {
+      "book_id": "C645A5E0503D183C1A6427B72D125348",
+      "author": "Clarice Lispector",
+      "title": "A descoberta do mundo",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1967152,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/61iz3UgVyJL.jpg"
+      },
+      "notes": [
+        {
+          "pk": 29,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe.",
+          "sentence": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe. ",
+          "note": null,
+          "path": "epubcfi(/6/78[id49]!/4/8/1,:0,:122)",
+          "created_at": "2021-01-06 01:13:24 -0800",
+          "updated_at": "2021-01-06 01:13:24 -0800",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 25
+        },
+        {
+          "pk": 28,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": " Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão",
+          "sentence": "Na hora marcada, entra-me pela porta adentro uma moça linda e adorável, Cristina. Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão. ",
+          "note": null,
+          "path": "epubcfi(/6/48[id34]!/4/8/1,:115,:263)",
+          "created_at": "2021-01-05 23:50:28 -0800",
+          "updated_at": "2021-01-05 23:50:28 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 23
+        },
+        {
+          "pk": 27,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
+          "sentence": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
+          "note": null,
+          "path": "epubcfi(/6/44[id32]!/4/12/1,:78,:158)",
+          "created_at": "2021-01-05 23:43:37 -0800",
+          "updated_at": "2021-01-05 23:43:37 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 26,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "orque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande",
+          "sentence": "Porque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande a ponto de não haver constrangimento em usar, se necessário, a palavra outrem. ",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/18,/3:29,/5:28)",
+          "created_at": "2021-01-05 22:39:45 -0800",
+          "updated_at": "2021-01-05 22:39:45 -0800",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 24
+        },
+        {
+          "pk": 25,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "O susto de ter nascido do nada",
+          "sentence": "O susto de ter nascido do nada. ",
+          "note": null,
+          "path": "epubcfi(/6/62[id41]!/4/22/1,:94,:124)",
+          "created_at": "2021-01-06 00:19:28 -0800",
+          "updated_at": "2021-01-06 00:19:28 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 24,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.",
+          "sentence": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.\n",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/28/1,:0,:157)",
+          "created_at": "2021-01-05 22:50:42 -0800",
+          "updated_at": "2021-01-05 22:50:42 -0800",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 28
+        },
+        {
+          "pk": 23,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
+          "sentence": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
+          "note": null,
+          "path": "epubcfi(/6/24[id22]!/4/26/1,:0,:214)",
+          "created_at": "2021-01-05 23:20:32 -0800",
+          "updated_at": "2021-01-05 23:20:32 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 32
+        },
+        {
+          "pk": 22,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe.",
+          "sentence": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe. ",
+          "note": null,
+          "path": "epubcfi(/6/78[id49]!/4/8/1,:276,:354)",
+          "created_at": "2021-01-06 01:14:08 -0800",
+          "updated_at": "2021-01-06 01:14:08 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 20,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": " Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
+          "sentence": "E lá se foi Aninha, suave, mansa, mineira, com seus novos dentes branquíssimos, brandamente desperta. Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
+          "note": null,
+          "path": "epubcfi(/6/44[id32]!/4/24/1,:101,:158)",
+          "created_at": "2021-01-05 23:46:48 -0800",
+          "updated_at": "2021-01-05 23:46:48 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 11
+        },
+        {
+          "pk": 19,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "pensa-se junto, no disfarçado das palavras.",
+          "sentence": "O melhor modo é convidar apenas para uma visita, e, como quem não quer nada, pensa-se junto, no disfarçado das palavras.\n",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/16/1,:310,:353)",
+          "created_at": "2021-01-05 22:38:23 -0800",
+          "updated_at": "2021-01-05 22:38:23 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 18,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.",
+          "sentence": "O que eu queria dizer com isto tive que deixar para ver depois – outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.\n",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/24/5,:106,:265)",
+          "created_at": "2021-01-05 22:49:08 -0800",
+          "updated_at": "2021-01-05 22:49:08 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 32
+        }
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://m.media-amazon.com/images/I/61iz3UgVyJL.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445343279l/6332548._SY475_.jpg",
+        "https://i.pinimg.com/564x/da/d7/a6/dad7a65430cbcad2fcd7b96ae88fe388.jpg",
+        "http://www.agenciabalcells.com/fileadmin/_processed_/csm_A_descoberta_do_mundo._Clarice_Lispector._Rocco._2020_74d9e15517.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_701163-MLB29751934261_032019-O.jpg",
+        "https://megaleitores.com.br/images/livros/clarice-lispector/rocco/a-descoberta-do-mundo/82202/8532509517-clarice-lispector-rocco-a-descoberta-do-mundo-5ede841506866-540x728.jpg",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12053602/1007804316.jpg?v=637141922927430000",
+        "https://homoliteratus.com/wp-content/uploads/2018/05/clarice-lispector-homo-literatus.jpg",
+        "https://i.pinimg.com/originals/31/37/ab/3137ab09047bb94f2c5cf03b6921a77b.jpg",
+        "https://tocalivros.s3.amazonaws.com/images/audiolivros/350/a/-/a-descoberta-do-mundo-clarice-lispector-stella-tobar-adelia-nicolete-zeza-mota-e-priscila-scholz-103976.jpg"
       ]
     },
     {
@@ -25033,207 +25956,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "C645A5E0503D183C1A6427B72D125348",
-      "author": "Clarice Lispector",
-      "title": "A descoberta do mundo",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1967152,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://m.media-amazon.com/images/I/61iz3UgVyJL.jpg"
-      },
-      "notes": [
-        {
-          "pk": 29,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe.",
-          "sentence": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe. ",
-          "note": null,
-          "path": "epubcfi(/6/78[id49]!/4/8/1,:0,:122)",
-          "created_at": "2021-01-06 01:13:24 -0800",
-          "updated_at": "2021-01-06 01:13:24 -0800",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 25
-        },
-        {
-          "pk": 28,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": " Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão",
-          "sentence": "Na hora marcada, entra-me pela porta adentro uma moça linda e adorável, Cristina. Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão. ",
-          "note": null,
-          "path": "epubcfi(/6/48[id34]!/4/8/1,:115,:263)",
-          "created_at": "2021-01-05 23:50:28 -0800",
-          "updated_at": "2021-01-05 23:50:28 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 23
-        },
-        {
-          "pk": 27,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
-          "sentence": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
-          "note": null,
-          "path": "epubcfi(/6/44[id32]!/4/12/1,:78,:158)",
-          "created_at": "2021-01-05 23:43:37 -0800",
-          "updated_at": "2021-01-05 23:43:37 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 15
-        },
-        {
-          "pk": 26,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "orque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande",
-          "sentence": "Porque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande a ponto de não haver constrangimento em usar, se necessário, a palavra outrem. ",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/18,/3:29,/5:28)",
-          "created_at": "2021-01-05 22:39:45 -0800",
-          "updated_at": "2021-01-05 22:39:45 -0800",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 24
-        },
-        {
-          "pk": 25,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "O susto de ter nascido do nada",
-          "sentence": "O susto de ter nascido do nada. ",
-          "note": null,
-          "path": "epubcfi(/6/62[id41]!/4/22/1,:94,:124)",
-          "created_at": "2021-01-06 00:19:28 -0800",
-          "updated_at": "2021-01-06 00:19:28 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 7
-        },
-        {
-          "pk": 24,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.",
-          "sentence": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.\n",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/28/1,:0,:157)",
-          "created_at": "2021-01-05 22:50:42 -0800",
-          "updated_at": "2021-01-05 22:50:42 -0800",
-          "is_inderline": 0,
-          "color": 5,
-          "type": 2,
-          "words_count": 28
-        },
-        {
-          "pk": 23,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
-          "sentence": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
-          "note": null,
-          "path": "epubcfi(/6/24[id22]!/4/26/1,:0,:214)",
-          "created_at": "2021-01-05 23:20:32 -0800",
-          "updated_at": "2021-01-05 23:20:32 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 32
-        },
-        {
-          "pk": 22,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe.",
-          "sentence": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe. ",
-          "note": null,
-          "path": "epubcfi(/6/78[id49]!/4/8/1,:276,:354)",
-          "created_at": "2021-01-06 01:14:08 -0800",
-          "updated_at": "2021-01-06 01:14:08 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 14
-        },
-        {
-          "pk": 20,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": " Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
-          "sentence": "E lá se foi Aninha, suave, mansa, mineira, com seus novos dentes branquíssimos, brandamente desperta. Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
-          "note": null,
-          "path": "epubcfi(/6/44[id32]!/4/24/1,:101,:158)",
-          "created_at": "2021-01-05 23:46:48 -0800",
-          "updated_at": "2021-01-05 23:46:48 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 11
-        },
-        {
-          "pk": 19,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "pensa-se junto, no disfarçado das palavras.",
-          "sentence": "O melhor modo é convidar apenas para uma visita, e, como quem não quer nada, pensa-se junto, no disfarçado das palavras.\n",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/16/1,:310,:353)",
-          "created_at": "2021-01-05 22:38:23 -0800",
-          "updated_at": "2021-01-05 22:38:23 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 6
-        },
-        {
-          "pk": 18,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.",
-          "sentence": "O que eu queria dizer com isto tive que deixar para ver depois – outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.\n",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/24/5,:106,:265)",
-          "created_at": "2021-01-05 22:49:08 -0800",
-          "updated_at": "2021-01-05 22:49:08 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 32
-        }
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://m.media-amazon.com/images/I/61iz3UgVyJL.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445343279l/6332548._SY475_.jpg",
-        "https://i.pinimg.com/564x/da/d7/a6/dad7a65430cbcad2fcd7b96ae88fe388.jpg",
-        "http://www.agenciabalcells.com/fileadmin/_processed_/csm_A_descoberta_do_mundo._Clarice_Lispector._Rocco._2020_74d9e15517.jpg",
-        "https://http2.mlstatic.com/D_NQ_NP_701163-MLB29751934261_032019-O.jpg",
-        "https://megaleitores.com.br/images/livros/clarice-lispector/rocco/a-descoberta-do-mundo/82202/8532509517-clarice-lispector-rocco-a-descoberta-do-mundo-5ede841506866-540x728.jpg",
-        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12053602/1007804316.jpg?v=637141922927430000",
-        "https://homoliteratus.com/wp-content/uploads/2018/05/clarice-lispector-homo-literatus.jpg",
-        "https://i.pinimg.com/originals/31/37/ab/3137ab09047bb94f2c5cf03b6921a77b.jpg",
-        "https://tocalivros.s3.amazonaws.com/images/audiolivros/350/a/-/a-descoberta-do-mundo-clarice-lispector-stella-tobar-adelia-nicolete-zeza-mota-e-priscila-scholz-103976.jpg"
-      ]
-    },
-    {
       "book_id": "B75BDFADF0E1719C9DB50D4D74E3C0E6",
       "author": "António Damásio",
       "title": "Em busca de Espinosa",
@@ -25256,6 +25978,72 @@ var ibook_history = {
       ],
       "new_words": [
 
+      ]
+    },
+    {
+      "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
+      "author": "Padre Antônio Vieira",
+      "title": "Essencial Padre Antônio Vieira",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2169636,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560285/essencial-padre-antonio-vieira.jpg"
+      },
+      "notes": [
+        {
+          "pk": 308,
+          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
+          "chapter": null,
+          "text": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos ",
+          "sentence": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
+          "note": "",
+          "path": "epubcfi(/6/20[id140]!/4/42/9,:212,:467)",
+          "created_at": "2021-08-11 22:36:59 -0700",
+          "updated_at": "2021-08-11 22:36:59 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 46
+        },
+        {
+          "pk": 294,
+          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
+          "chapter": null,
+          "text": "demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento",
+          "sentence": "Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
+          "note": null,
+          "path": "epubcfi(/6/20[id140]!/4/42/9,:468,:578)",
+          "created_at": "2021-08-11 22:37:12 -0700",
+          "updated_at": "2021-08-11 22:37:12 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 14
+        }
+      ],
+      "new_words": [
+
+      ],
+      "extra_covers": [
+        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560285/essencial-padre-antonio-vieira.jpg",
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398884266l/22026667.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_784598-MLB46283470513_062021-O.jpg",
+        "https://static.fnac-static.com/multimedia/Images/PT/NR/cb/09/0b/723403/1540-1/tsp20160817193026/Eencial-de-Padre-Antonio-Vieira.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_920531-MLB46283426911_062021-O.jpg",
+        "https://m.media-amazon.com/images/I/517GQva0WUL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Rr9A49nVL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA53%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "https://i.pinimg.com/originals/dd/83/ea/dd83ea909ac5caec04aa088362606b57.jpg",
+        "https://kirion.com.br/image/cache/data/incoming/lerbem.com.br/image/data/incoming/capaslivros/EssencialPadreAntonioVieira-515x800.png",
+        "https://imagens.lelivros.love/2017/04/Baixar-Livro-Essencial-Padre-Ant%C3%B4nio-Vieira-Padre-Ant%C3%B4nio-Vieira-em-Pdf-ePub-e-Mobi-ou-ler-online-370x568.jpg"
       ]
     },
     {
@@ -25367,156 +26155,6 @@ var ibook_history = {
         "https://prodimage.images-bn.com/pimages/9780374524951_p0_v4_s550x406.jpg",
         "https://kbimages1-a.akamaihd.net/fb373974-7187-414e-9f10-efbc5acfb25b/353/569/90/False/moral-grandeur-and-spiritual-audacity.jpg",
         "https://www.azquotes.com/picture-quotes/quote-the-hour-calls-for-moral-grandeur-and-spiritual-audacity-abraham-joshua-heschel-71-42-89.jpg"
-      ]
-    },
-    {
-      "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
-      "author": "Padre Antônio Vieira",
-      "title": "Essencial Padre Antônio Vieira",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2169636,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560285/essencial-padre-antonio-vieira.jpg"
-      },
-      "notes": [
-        {
-          "pk": 308,
-          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
-          "chapter": null,
-          "text": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos ",
-          "sentence": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
-          "note": "",
-          "path": "epubcfi(/6/20[id140]!/4/42/9,:212,:467)",
-          "created_at": "2021-08-11 22:36:59 -0700",
-          "updated_at": "2021-08-11 22:36:59 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 46
-        },
-        {
-          "pk": 294,
-          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
-          "chapter": null,
-          "text": "demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento",
-          "sentence": "Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
-          "note": null,
-          "path": "epubcfi(/6/20[id140]!/4/42/9,:468,:578)",
-          "created_at": "2021-08-11 22:37:12 -0700",
-          "updated_at": "2021-08-11 22:37:12 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 14
-        }
-      ],
-      "new_words": [
-
-      ],
-      "extra_covers": [
-        "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788563560285/essencial-padre-antonio-vieira.jpg",
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398884266l/22026667.jpg",
-        "https://http2.mlstatic.com/D_NQ_NP_784598-MLB46283470513_062021-O.jpg",
-        "https://static.fnac-static.com/multimedia/Images/PT/NR/cb/09/0b/723403/1540-1/tsp20160817193026/Eencial-de-Padre-Antonio-Vieira.jpg",
-        "https://http2.mlstatic.com/D_NQ_NP_920531-MLB46283426911_062021-O.jpg",
-        "https://m.media-amazon.com/images/I/517GQva0WUL.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/51Rr9A49nVL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA53%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
-        "https://i.pinimg.com/originals/dd/83/ea/dd83ea909ac5caec04aa088362606b57.jpg",
-        "https://kirion.com.br/image/cache/data/incoming/lerbem.com.br/image/data/incoming/capaslivros/EssencialPadreAntonioVieira-515x800.png",
-        "https://imagens.lelivros.love/2017/04/Baixar-Livro-Essencial-Padre-Ant%C3%B4nio-Vieira-Padre-Ant%C3%B4nio-Vieira-em-Pdf-ePub-e-Mobi-ou-ler-online-370x568.jpg"
-      ]
-    },
-    {
-      "book_id": "0FA5BBF3BFB363228927DA5510652EFF",
-      "author": "Aldous Huxley",
-      "title": "Brave New World",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-05-15 08:26:19 -0700",
-      "genre": "classics",
-      "lang": null,
-      "file_size": 565158,
-      "page_count": 0,
-      "created_at": "2022-05-15 08:26:21 -0700",
-      "updated_at": "2022-05-15 08:26:19 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/0FA5BBF3BFB363228927DA5510652EFF.jpg"
-      },
-      "extra_covers": [
-        {
-          "src_2": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/5/28/32732234/32732234_5921a734-34c8-4498-9e7e-52e927d2a96c_1080_1080"
-        },
-        {
-          "src_3": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg"
-        },
-        {
-          "src_4": "https://inc.mizanstore.com/aassets/img/com_cart/produk/covBT-011.jpg"
-        },
-        {
-          "src_5": "https://kbimages1-a.akamaihd.net/bf3700d5-2005-4dfa-90b2-6f6539407e63/1200/1200/False/brave-new-world-81.jpg"
-        },
-        {
-          "src_6": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/10/9/aa64154f-4a09-4f80-8309-d4f64c32a9c0.jpg"
-        },
-        {
-          "src_7": "https://images-na.ssl-images-amazon.com/images/I/51K6hPJ0buL._SX328_BO1,204,203,200_.jpg"
-        },
-        {
-          "src_8": "https://cf.shopee.co.id/file/cfdfaf6056c4361bf9492355b59688f3"
-        },
-        {
-          "src_9": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3496/34963054_sa.jpg"
-        },
-        {
-          "src_10": "https://www.lwcurrey.com/pictures/111267.jpg?v=1458419576"
-        },
-        {
-          "src_11": "https://target.scene7.com/is/image/Target/GUEST_58346656-c9c7-4b1f-b594-9316af76e588?wid=488&hei=488&fmt=pjpeg"
-        },
-        {
-          "src_12": "https://m.media-amazon.com/images/I/51lCHTNkG7L._SL500_.jpg"
-        },
-        {
-          "src_13": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129._UY500_SS500_.jpg"
-        },
-        {
-          "src_14": "https://www.irishtimes.com/polopoly_fs/1.2436771.1447949028!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg"
-        },
-        {
-          "src_15": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410136964l/5481.jpg"
-        },
-        {
-          "src_16": "https://anylang.net/sites/default/files/bfffaf13630039.562761884989f.jpg"
-        },
-        {
-          "src_17": "https://m.media-amazon.com/images/I/51gbhwoYYFL.jpg"
-        },
-        {
-          "src_18": "https://ih1.redbubble.net/image.349104734.5875/farp,small,wall_texture,product,750x1000.u5.jpg"
-        },
-        {
-          "src_19": "https://www.punkt.ch/repoimg/x2858-prod_main-Huxley.jpg.jpg.pagespeed.ic.oor3NxCBXT.jpg"
-        },
-        {
-          "src_20": "http://www.openculture.com/wp-content/uploads/2010/05/huxley8-e1305785219288.jpg"
-        }
-      ],
-      "notes": [
-
-      ],
-      "new_words": [
-
       ]
     },
     {
@@ -25772,6 +26410,90 @@ var ibook_history = {
         "https://img.skoob.com.br/sRfhRhTn-SOh1rDAntlUscxTWZY=/300x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/3714/COMO_VEJO_O_MUNDO_1232890412B.jpg",
         "https://images-na.ssl-images-amazon.com/images/I/41H28SIJObL._SX297_BO1,204,203,200_.jpg",
         "https://prodimage.images-bn.com/pimages/9791220853422_p0_v1_s550x406.jpg"
+      ]
+    },
+    {
+      "book_id": "0FA5BBF3BFB363228927DA5510652EFF",
+      "author": "Aldous Huxley",
+      "title": "Brave New World",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-05-15 08:26:19 -0700",
+      "genre": "classics",
+      "lang": null,
+      "file_size": 565158,
+      "page_count": 0,
+      "created_at": "2022-05-15 08:26:21 -0700",
+      "updated_at": "2022-05-15 08:26:19 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/0FA5BBF3BFB363228927DA5510652EFF.jpg"
+      },
+      "extra_covers": [
+        {
+          "src_2": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/5/28/32732234/32732234_5921a734-34c8-4498-9e7e-52e927d2a96c_1080_1080"
+        },
+        {
+          "src_3": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg"
+        },
+        {
+          "src_4": "https://inc.mizanstore.com/aassets/img/com_cart/produk/covBT-011.jpg"
+        },
+        {
+          "src_5": "https://kbimages1-a.akamaihd.net/bf3700d5-2005-4dfa-90b2-6f6539407e63/1200/1200/False/brave-new-world-81.jpg"
+        },
+        {
+          "src_6": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/10/9/aa64154f-4a09-4f80-8309-d4f64c32a9c0.jpg"
+        },
+        {
+          "src_7": "https://images-na.ssl-images-amazon.com/images/I/51K6hPJ0buL._SX328_BO1,204,203,200_.jpg"
+        },
+        {
+          "src_8": "https://cf.shopee.co.id/file/cfdfaf6056c4361bf9492355b59688f3"
+        },
+        {
+          "src_9": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3496/34963054_sa.jpg"
+        },
+        {
+          "src_10": "https://www.lwcurrey.com/pictures/111267.jpg?v=1458419576"
+        },
+        {
+          "src_11": "https://target.scene7.com/is/image/Target/GUEST_58346656-c9c7-4b1f-b594-9316af76e588?wid=488&hei=488&fmt=pjpeg"
+        },
+        {
+          "src_12": "https://m.media-amazon.com/images/I/51lCHTNkG7L._SL500_.jpg"
+        },
+        {
+          "src_13": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129._UY500_SS500_.jpg"
+        },
+        {
+          "src_14": "https://www.irishtimes.com/polopoly_fs/1.2436771.1447949028!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg"
+        },
+        {
+          "src_15": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410136964l/5481.jpg"
+        },
+        {
+          "src_16": "https://anylang.net/sites/default/files/bfffaf13630039.562761884989f.jpg"
+        },
+        {
+          "src_17": "https://m.media-amazon.com/images/I/51gbhwoYYFL.jpg"
+        },
+        {
+          "src_18": "https://ih1.redbubble.net/image.349104734.5875/farp,small,wall_texture,product,750x1000.u5.jpg"
+        },
+        {
+          "src_19": "https://www.punkt.ch/repoimg/x2858-prod_main-Huxley.jpg.jpg.pagespeed.ic.oor3NxCBXT.jpg"
+        },
+        {
+          "src_20": "http://www.openculture.com/wp-content/uploads/2010/05/huxley8-e1305785219288.jpg"
+        }
+      ],
+      "notes": [
+
+      ],
+      "new_words": [
+
       ]
     },
     {
