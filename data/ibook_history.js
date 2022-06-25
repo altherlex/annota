@@ -398,7 +398,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/74B9464C296E3888B87A276A35D7F9C5.jpg"
+      }
     },
     {
       "book_id": "4D885561A6246CD4D7444702AE85BE85",
@@ -445,7 +448,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E17DE68523B73BB4F74060E7BC3B2025.png"
+      }
     },
     {
       "book_id": "D9C4125358DEEAF98D982277537D6251",
@@ -1436,7 +1442,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/94F0FA3C555560E4AF92A64621814E8D.jpg"
+      }
     },
     {
       "book_id": "D8C481EC7330A22599E1A3CA52AC33B2",
