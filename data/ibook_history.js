@@ -1025,7 +1025,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51efgedw-DL.jpg"
+        "src": "assets/images/AA3FF9070E05B2DF0BB8CB56FD5132BA.jpg"
       }
     },
     {
@@ -1134,7 +1134,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41kUh6F0XsL.jpg"
+        "src": "assets/images/54DA0FED6D63754F9E80237F29579336.jpg"
       }
     },
     {
@@ -1159,7 +1159,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41+VCOkDoOL.jpg"
+        "src": "assets/images/A82C018BEED3192CE83A078C8FF45D6C.jpg"
       }
     },
     {
@@ -1184,7 +1184,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362422441l/17507450.jpg"
+        "src": "assets/images/75D04AE68FBD9D8BC09295FDFE8D4849.jpg"
       }
     },
     {
@@ -1209,7 +1209,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41BVGKxmgHL.jpg"
+        "src": "assets/images/9203A9372ADE227A2093D76E525F0994.jpg"
       }
     },
     {
@@ -1259,7 +1259,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41efdEvnS4L.jpg"
+        "src": "assets/images/AC8B607D5B8DC582F82B4643DFC29E60.jpg"
       }
     },
     {
@@ -1313,7 +1313,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/31SAgTqeNPL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        "src": "assets/images/4FE37DDEAF340CFF14850F337B714651.jpg"
       }
     },
     {
