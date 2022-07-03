@@ -1023,7 +1023,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51efgedw-DL.jpg"
+      }
     },
     {
       "book_id": "7D2D7945EE21039A0E11B634782658F5",
@@ -1129,7 +1132,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/41kUh6F0XsL.jpg"
+      }
     },
     {
       "book_id": "A82C018BEED3192CE83A078C8FF45D6C",
@@ -1151,7 +1157,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/41+VCOkDoOL.jpg"
+      }
     },
     {
       "book_id": "75D04AE68FBD9D8BC09295FDFE8D4849",
@@ -1173,7 +1182,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362422441l/17507450.jpg"
+      }
     },
     {
       "book_id": "9203A9372ADE227A2093D76E525F0994",
@@ -1195,7 +1207,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/41BVGKxmgHL.jpg"
+      }
     },
     {
       "book_id": "F1167B1F3CA27A789CFCC61822CA020C",
@@ -1242,7 +1257,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/41efdEvnS4L.jpg"
+      }
     },
     {
       "book_id": "43A225B043FAB4E1F772251D35721420",
@@ -1274,7 +1292,9 @@ var ibook_history = {
     {
       "book_id": "4FE37DDEAF340CFF14850F337B714651",
       "author": "dePaula",
+      "zauthor": "Victor Hugo",
       "title": "Do-Grotesco-e-do-Sublime_Victor-Hugo-1",
+      "ztitle": "Do Grotesco e do Sublime",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -1291,7 +1311,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/31SAgTqeNPL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+      }
     },
     {
       "book_id": "74B9464C296E3888B87A276A35D7F9C5",
