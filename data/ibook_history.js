@@ -181,6 +181,7 @@ var ibook_history = {
     {
       "book_id": "337FEAB6C5C199D55E64952EA9DBD360",
       "author": "Lucian; Costa, C. D. N.;",
+      "zauthor": "Lucian of Samosata",
       "title": "Selected Dialogues",
       "last_engaged_date": "2022-07-24 16:17:41 -0700",
       "reading_progress": 0.04052780941128731,
@@ -257,7 +258,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/337FEAB6C5C199D55E64952EA9DBD360.jpg"
+      }
     },
     {
       "book_id": "9CA188ED68C1DE337B702FE4BEE8DE76",
@@ -2792,12 +2796,17 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/09D180825670E8CBDDE4C9B301FABED9.jpg"
+      }
     },
     {
       "book_id": "4C66988501C06B2B166F2D72FC607964",
       "author": "UnknownAuthor",
+      "zauthor": "Alain Badiou",
       "title": "São Paulo A Fundação do Universalismo (Alain Badiou) (z-lib.org)",
+      "ztitle": "São Paulo A Fundação do Universalismo",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -2814,7 +2823,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/4C66988501C06B2B166F2D72FC607964.jpg"
+      }
     },
     {
       "book_id": "87E1906725265C1D818AA7C75500675C",
@@ -2836,7 +2848,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/87E1906725265C1D818AA7C75500675C.jpg"
+      }
     },
     {
       "book_id": "CD94321BB8F4FA67B3B1C532A48E91F5",
@@ -2858,7 +2873,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/CD94321BB8F4FA67B3B1C532A48E91F5.jpg"
+      }
     },
     {
       "book_id": "1784C55E9361272CB698DFC3676CD445",
@@ -2880,7 +2898,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/1784C55E9361272CB698DFC3676CD445.jpg"
+      }
     },
     {
       "book_id": "A958D606041AAD74A896670E692E7E54",
