@@ -798,7 +798,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/519fOItcwnL._SX331_BO1,204,203,200_.jpg"
+      }
     },
     {
       "book_id": "583931919242DA3BB533DD9C4214F51B",
@@ -820,12 +823,17 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633469723i/59180516.jpg"
+      }
     },
     {
       "book_id": "FD74A666B1BC5DAB426B126DEB42BADB",
       "author": "UnknownAuthor",
+      "zauthor": "Sigmund Freud",
       "title": "Um disturbio de memoria na acropole - Freud",
+      "ztitle": "Um disturbio de memoria na acropole",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -842,7 +850,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": null
+      }
     },
     {
       "book_id": "23DC1733E0182BB87013BBCEC7432D5D",
@@ -864,11 +875,16 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51NVMcelTmL.jpg"
+      }
     },
     {
       "book_id": "68EFCC9A3819B8E20E46491C9945C80B",
       "author": "UnknownAuthor",
+      "zauthor": "Walter Benjamin",
+      "ztitle": "Ensaios reunidos escritos sobre Goethe",
       "title": "Ensaios reunidos escritos sobre Goethe (Walter Benjamin) (z-lib.org)",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -886,12 +902,17 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/41kn4DZpoUL._SX334_BO1,204,203,200_.jpg"
+      }
     },
     {
       "book_id": "AC211898E6158EF823E2C6A35366D7F1",
       "author": "UnknownAuthor",
       "title": "escritos sobre Goethe (Walter BENJAMIN) (z-lib.org)",
+      "zauthor": "Walter Benjamin",
+      "ztitle": "Ensaios reunidos escritos sobre Goethe",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -908,12 +929,17 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/41kn4DZpoUL._SX334_BO1,204,203,200_.jpg"
+      }
     },
     {
       "book_id": "8764F9E83161FB7F964DDBBF0526E504",
       "author": "UnknownAuthor",
+      "zauthor": "Mariana Pereira Dos Reis",
       "title": "Chaplin educador cinema, escola e psicanálise (Mariana Pereira Dos Reis) (z-lib.org)",
+      "ztitle": "Chaplin educador cinema, escola e psicanálise",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -930,12 +956,16 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51QuAEDhycL._SX353_BO1,204,203,200_.jpg"
+      }
     },
     {
       "book_id": "FCE2F592FC04FC95EEBC55BE752C1F87",
       "author": "Tania Rivera",
       "title": "Cinema, imagem e psicanálise (Tania Rivera [Rivera, Tania]) (z-lib.org)",
+      "ztitle": "Cinema, imagem e psicanálise (Tania Rivera",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -952,12 +982,16 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508544719l/36448902._SY475_.jpg"
+      }
     },
     {
       "book_id": "CAD00B8E76B5A6854F33F01A5B27044D",
       "author": "Julio Cabrera",
       "title": "O Cinema Pensa. Uma Introdução a Filosofia Através dos Filmes (Júlio Cabrera) (z-lib.org)",
+      "ztitle": "O Cinema Pensa. Uma Introdução a Filosofia Através dos Filmes",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -974,7 +1008,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/71rTO7VwTVL.jpg"
+      }
     },
     {
       "book_id": "41EE13F381720B82E68C0197D6BE250B",
@@ -996,7 +1033,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/51QZzuiO-8L._SX388_BO1,204,203,200_.jpg"
+      }
     },
     {
       "book_id": "436294101E3D9BE70E5D63E3F20533F1",
@@ -1018,7 +1058,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462920825l/25716546._SY475_.jpg"
+      }
     },
     {
       "book_id": "EEDB6797E7C8F9D657958899BF5DCAE4",
@@ -1040,7 +1083,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/61W2WiRphYL._SX341_BO1,204,203,200_.jpg"
+      }
     },
     {
       "book_id": "B209458A4AB362EC546B3118D546702C",
@@ -1424,7 +1470,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/I/41r3fiC1eML.jpg"
+      }
     },
     {
       "book_id": "EF365E7DFF5642181A40B7ED40CF4D82",
@@ -1460,7 +1509,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://i.ebayimg.com/images/g/4AMAAOSwb-tf~3Hj/s-l500.jpg"
+      }
     },
     {
       "book_id": "686FBAF8F332A7C1DF9E85540721F2A5",
@@ -4646,7 +4698,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447066983l/961181._SY475_.jpg"
+      }
     },
     {
       "book_id": "3E5A02BA208E5C4FB0C70ACD42DB9170",
@@ -22991,6 +23046,7 @@ var ibook_history = {
     {
       "book_id": "247C5473CDA5E1F4705F787ED3407AC7",
       "author": "FREUD, SIGMUND / SOUZA, PAULO CESAR DE",
+      "zauthor": "Sigmund Freud",
       "title": "Obras Completas Vol 18 - O Mal-Estar na civilização, novas conferências introdutórias e outros textos (1930-1936)",
       "last_engaged_date": null,
       "reading_progress": 0.0,
