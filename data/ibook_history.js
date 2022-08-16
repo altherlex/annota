@@ -174,7 +174,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/18B0B4B5BBCADC27A53C1DC5519BAA14.jpg"
+      }
     },
     {
       "book_id": "60A41E8053C055B5162A89B03C4C36A1",
