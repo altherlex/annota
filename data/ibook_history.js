@@ -29,7 +29,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/I/51NR0nCwz4L.jpg"
+        "src": "assets/images/8C3CD1205D2E67370EA1C03D2299526E.jpg"
       }
     },
     {
