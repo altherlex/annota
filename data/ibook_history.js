@@ -25,7 +25,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/8548645CA1909E5981C6F0BBF9E58ED8.jpg"
+      }
     },
     {
       "book_id": "17F732281143A673585376D73A2F99FD",
@@ -76,7 +79,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/17F732281143A673585376D73A2F99FD.jpg"
+      }
     },
     {
       "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
@@ -142,7 +148,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E0ACFB917BE8187DEA4CFE0630D59257.jpg"
+      }
     },
     {
       "book_id": "56666126E6A88D2A14BD95B37F89B1AE",
@@ -164,7 +173,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/56666126E6A88D2A14BD95B37F89B1AE.jpg"
+      }
     },
     {
       "book_id": "E381FB8B4C75782AD82E87493863D2F3",
@@ -186,7 +198,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E381FB8B4C75782AD82E87493863D2F3.jpg"
+      }
     },
     {
       "book_id": "E26E056B24AA45AD2C1D600711DE15A8",
@@ -208,7 +223,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E26E056B24AA45AD2C1D600711DE15A8.jpg"
+      }
     },
     {
       "book_id": "79F5F207B569DE3CAF27E9CAEEF3B047",
@@ -230,7 +248,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/79F5F207B569DE3CAF27E9CAEEF3B047.jpg"
+      }
     },
     {
       "book_id": "9F7267FA872AC24AF7DDF91C1962B2DB",
@@ -252,7 +273,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/9F7267FA872AC24AF7DDF91C1962B2DB.jpg"
+      }
     },
     {
       "book_id": "233C7314633D8784637E4376590A2984",
@@ -274,7 +298,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/233C7314633D8784637E4376590A2984.jpg"
+      }
     },
     {
       "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
@@ -1689,7 +1716,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/CFFAAA3959BEC2736F7E969F4A553666.png"
+      }
     },
     {
       "book_id": "0C452206BF1FF9A1B8EE1E4B8C02E275",
@@ -7249,7 +7279,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/CF6D73B88517C7A85B2A1EC3F259A88D.jpg"
+      }
     },
     {
       "book_id": "94F0FA3C555560E4AF92A64621814E8D",
@@ -18573,12 +18606,17 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/03B304C4622752251BAC68B9816297AE.jpg"
+      }
     },
     {
       "book_id": "89BFAB36082C7B92AE3B2A8D02AB3B72",
       "author": "Frye, Northrop, 1912-1991",
+      "zauthor": "Northrop Frye",
       "title": "A world in a grain of sand  twenty-two interviews with Northrop Frye (Northrop Frye) (z-lib.org)",
+      "ztitle": "A world in a grain of sand  twenty-two interviews with Northrop Frye",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -18595,12 +18633,17 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/89BFAB36082C7B92AE3B2A8D02AB3B72.jpg"
+      }
     },
     {
       "book_id": "5B48E6B810989B2E2011B9A5849FBFB1",
       "author": "UnknownAuthor",
+      "zauthor": "Boris Schnaiderman",
       "title": "A poética de Maiakóvski (SCHNAIDERMAN, Boris) (z-lib.org)",
+      "ztitle": "A poética de Maiakóvski",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -18617,12 +18660,17 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": null
+      }
     },
     {
       "book_id": "E2181C8F19004321448B3A7FBFAE46AA",
       "author": "UnknownAuthor",
-      "title": "Poemas (SCHNAIDERMAN, Boris Augusto, CAMPOS etc.) (z-lib.org)",
+      "zauthor": "Boris Schnaiderman",
+      "title": "Poemas (SCHNAIDERMAN, Boris Augusto, CAMPOS etc.)",
+      "ztitle": "Maiakóvski Poemas",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -18639,7 +18687,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E2181C8F19004321448B3A7FBFAE46AA.jpg"
+      }
     },
     {
       "book_id": "087B9CC024921464BB58E65F7B49DA6B",
@@ -18849,7 +18900,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/249F178375AA9E5D0D7E8D53407553C6.jpg"
+      }
     },
     {
       "book_id": "4A00D362D39E2FFF74EFB08F48185C50",
@@ -18871,7 +18925,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/4A00D362D39E2FFF74EFB08F48185C50.jpg"
+      }
     },
     {
       "book_id": "C5094E74B5670FDB7D7D0F4AB154F69A",
@@ -18893,7 +18950,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/C5094E74B5670FDB7D7D0F4AB154F69A.jpg"
+      }
     },
     {
       "book_id": "CDB2A9CE5DE7C5FC15D0D35AB6DF5192",
@@ -18915,7 +18975,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/CDB2A9CE5DE7C5FC15D0D35AB6DF5192.jpg"
+      }
     },
     {
       "book_id": "767876551ED4FEDD7CACE0EF6CD6DC14",
@@ -19305,7 +19368,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E91F3AD820BCCB9D016B600064493F8A.jpg"
+      }
     },
     {
       "book_id": "07728FDD6B8862E01460064CE84D485B",
