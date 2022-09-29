@@ -1,324 +1,881 @@
 var ibook_history = {
-  "updated_at": "2022-09-22 09:34:39 -0700",
-  "book_count": 246,
-  "author_count": 184,
-  "notes_count": 1625,
-  "new_words_count": 168,
+  "updated_at": "2022-09-28 17:24:01 -0700",
+  "book_count": 248,
+  "author_count": 186,
+  "notes_count": 1683,
+  "new_words_count": 189,
   "data": [
-    {
-      "book_id": "8548645CA1909E5981C6F0BBF9E58ED8",
-      "author": "Edgar Allan Poe",
-      "title": "Contos de terror, de mistério e de morte (Coleção Clássicos de Ouro)",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-21 14:20:23 -0700",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 761447,
-      "page_count": 0,
-      "created_at": "2022-09-21 14:20:23 -0700",
-      "updated_at": "2022-09-21 14:21:25 -0700",
-      "asset_details_modification_date": "2022-09-21 14:21:25 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/8548645CA1909E5981C6F0BBF9E58ED8.jpg"
-      }
-    },
-    {
-      "book_id": "17F732281143A673585376D73A2F99FD",
-      "author": "Edgar Allan Poe",
-      "title": "Histórias extraordinárias",
-      "last_engaged_date": "2022-09-21 14:06:58 -0700",
-      "reading_progress": 0.9129834175109863,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-21 14:04:48 -0700",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 2269947,
-      "page_count": 0,
-      "created_at": "2022-09-21 14:04:48 -0700",
-      "updated_at": "2022-09-21 14:20:23 -0700",
-      "asset_details_modification_date": "2022-09-21 14:20:23 -0700",
-      "notes": [
-        {
-          "pk": 2085,
-          "book_id": "17F732281143A673585376D73A2F99FD",
-          "chapter": "Edgar Allan Poe – Jorge Luis Borges",
-          "text": "Em alguns (“Os fatos no caso do sr. Valdemar”, “Uma descida no Maelström”), brilha a invenção circunstancial;",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/120[id90]!/4[1NA0K0-b32faf89413b4b5cb3a74ad3ff7f9a83]/8/7,:555,:664)",
-          "created_at": "2022-09-21 14:18:31 -0700",
-          "updated_at": "2022-09-21 14:18:31 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 17
-        },
-        {
-          "pk": 2084,
-          "book_id": "17F732281143A673585376D73A2F99FD",
-          "chapter": "Edgar Allan Poe – Jorge Luis Borges",
-          "text": "e por muitas páginas incomparáveis. Dessas, eu destacaria as últimas de A narrativa de Arthur Gordon Pym de Nantucket, que é um pesadelo sistemático cujo tema secreto é a cor branca.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/120[id90]!/4[1NA0K0-b32faf89413b4b5cb3a74ad3ff7f9a83]/8,/7:1415,/9:65)",
-          "created_at": "2022-09-21 14:16:33 -0700",
-          "updated_at": "2022-09-21 14:16:33 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 31
-        }
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/17F732281143A673585376D73A2F99FD.jpg"
-      }
-    },
-    {
-      "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
-      "author": "Marshall McLuhan",
-      "title": "Os Meios de Comunicação Como Extensões do Homem",
-      "last_engaged_date": "2022-09-21 15:41:39 -0700",
-      "reading_progress": 0.02158273011445999,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-20 01:54:41 -0700",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 943357,
-      "page_count": 0,
-      "created_at": "2022-09-20 01:54:41 -0700",
-      "updated_at": "2022-09-21 14:04:47 -0700",
-      "asset_details_modification_date": "2022-09-21 14:04:47 -0700",
-      "notes": [
-        {
-          "pk": 2086,
-          "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
-          "chapter": "INTRODUÇÃO À TERCEIRA EDIÇÃO EM INGLÊS",
-          "text": "o marinheiro do Maesltrom, de Edgar Allan Poe.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/14[id18]!/4/10/1,:382,:428)",
-          "created_at": "2022-09-21 14:21:48 -0700",
-          "updated_at": "2022-09-21 14:21:48 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 8
-        },
-        {
-          "pk": 2081,
-          "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
-          "chapter": "ORELHAS DO LIVRO",
-          "text": "VIDAS – Plutarco\nDIÁLOGOS – Platão\nPITÁGORAS – Uma Vida – Peter Gorman\nOS DEUSES GREGOS – Karl Kerényi",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/10[id110]!/4,/28/1:0,/34/1:31)",
-          "created_at": "2022-09-20 02:09:10 -0700",
-          "updated_at": "2022-09-20 02:09:10 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 19
-        },
-        {
-          "pk": 2080,
-          "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
-          "chapter": "CONTRACAPA",
-          "text": "os meios de comunicação de massa afetam profundamente a vida física e mental do Homem",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/8[id111]!/4/8/1,:253,:338)",
-          "created_at": "2022-09-20 01:56:04 -0700",
-          "updated_at": "2022-09-20 01:56:05 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 15
-        }
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/E0ACFB917BE8187DEA4CFE0630D59257.jpg"
-      }
-    },
-    {
-      "book_id": "56666126E6A88D2A14BD95B37F89B1AE",
-      "author": "Paes, Jose Paulo",
-      "title": "Armazém Literário - Ensaios",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-20 01:55:15 -0700",
-      "genre": "",
-      "lang": "",
-      "file_size": 1952118,
-      "page_count": 0,
-      "created_at": "2022-09-20 01:55:15 -0700",
-      "updated_at": "2022-09-20 01:55:19 -0700",
-      "asset_details_modification_date": "2022-09-20 01:55:19 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/56666126E6A88D2A14BD95B37F89B1AE.jpg"
-      }
-    },
-    {
-      "book_id": "E381FB8B4C75782AD82E87493863D2F3",
-      "author": "Aluísio Azevedo",
-      "title": "O Japão",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-20 01:55:10 -0700",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 310747,
-      "page_count": 0,
-      "created_at": "2022-09-20 01:55:10 -0700",
-      "updated_at": "2022-09-20 01:55:12 -0700",
-      "asset_details_modification_date": "2022-09-20 01:55:12 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/E381FB8B4C75782AD82E87493863D2F3.jpg"
-      }
-    },
-    {
-      "book_id": "E26E056B24AA45AD2C1D600711DE15A8",
-      "author": "Aluísio Azevedo",
-      "title": "O Coruja",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-20 01:55:04 -0700",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 984803,
-      "page_count": 0,
-      "created_at": "2022-09-20 01:55:04 -0700",
-      "updated_at": "2022-09-20 01:55:07 -0700",
-      "asset_details_modification_date": "2022-09-20 01:55:07 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/E26E056B24AA45AD2C1D600711DE15A8.jpg"
-      }
-    },
-    {
-      "book_id": "79F5F207B569DE3CAF27E9CAEEF3B047",
-      "author": "Aluísio Azevedo",
-      "title": "Aos Vinte Anos",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-20 01:54:58 -0700",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 187119,
-      "page_count": 0,
-      "created_at": "2022-09-20 01:54:58 -0700",
-      "updated_at": "2022-09-20 01:55:01 -0700",
-      "asset_details_modification_date": "2022-09-20 01:55:01 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/79F5F207B569DE3CAF27E9CAEEF3B047.jpg"
-      }
-    },
-    {
-      "book_id": "9F7267FA872AC24AF7DDF91C1962B2DB",
-      "author": "Guy Debord",
-      "title": "A Sociedade do Espetáculo",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-20 01:54:48 -0700",
-      "genre": "filosofia",
-      "lang": "pt",
-      "file_size": 738534,
-      "page_count": 0,
-      "created_at": "2022-09-20 01:54:48 -0700",
-      "updated_at": "2022-09-20 01:54:51 -0700",
-      "asset_details_modification_date": "2022-09-20 01:54:51 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/9F7267FA872AC24AF7DDF91C1962B2DB.jpg"
-      }
-    },
-    {
-      "book_id": "233C7314633D8784637E4376590A2984",
-      "author": "Editora Clipper",
-      "title": "50 Frases Essenciais de Pitágoras",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-20 01:54:36 -0700",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 2046353,
-      "page_count": 0,
-      "created_at": "2022-09-20 01:54:36 -0700",
-      "updated_at": "2022-09-20 01:54:38 -0700",
-      "asset_details_modification_date": "2022-09-20 01:54:38 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/233C7314633D8784637E4376590A2984.jpg"
-      }
-    },
     {
       "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
       "author": "Mário Ferreira dos Santos",
       "title": "Versos Áureos de Pitágoras",
-      "last_engaged_date": "2022-09-21 23:43:01 -0700",
-      "reading_progress": 0.43887779116630554,
-      "marked_as_finished": null,
+      "last_engaged_date": "2022-09-28 01:21:31 -0700",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
       "purchase_date": "2022-09-17 01:04:30 -0700",
       "genre": "",
       "lang": "en",
       "file_size": 452708,
       "page_count": 0,
       "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-19 20:42:17 -0700",
-      "asset_details_modification_date": "2022-09-19 20:42:17 -0700",
+      "updated_at": "2022-09-28 01:31:25 -0700",
+      "asset_details_modification_date": "2022-09-28 01:31:25 -0700",
       "notes": [
+        {
+          "pk": 2176,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "ainda tens experiências a realizar e expiações a sofrer, o renascimento realizar-se-á de novo sobre o plano material. Se não, o espírito chegou a plena concepção da ordem divina, a completa união de vontade e a prática virtuosa invariável pois já viveu uma existência bem aventurada e paradisíaca, sem entraves nem pesos materiais no arroubo do corpo espiritualizado fluídico em estado de esplendor, numa consciência de glória imperecível e de alegria inefável, participará, assim da vida divina, revestindo, como disse Pitágoras, a forma de glória de um deus imortal! Promessa não desmentida pelo Cristianismo. \"O que Deus pretende\", escreve São João da Cruz, \"é nos transformar em deuses e nos dar por antecipação o que Ele é, Ele mesmo por natureza. Ele se assemelha ao fogo que converte tudo em fogo.\"",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/168/1,:1866,:2671)",
+          "created_at": "2022-09-28 01:30:14 -0700",
+          "updated_at": "2022-09-28 01:30:14 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 131
+        },
+        {
+          "pk": 2175,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Tudo o que durante a existência tinha sido extraído da terra, o corpo e os bens materiais é abandonado e entregue porque esses bens nunca nos pertenceram propriamente. Só faz parte do próprio ser o que adquirimos no pensamento de bom ou de mau, os méritos ou os deméritos. Se",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/168/1,:1590,:1865)",
+          "created_at": "2022-09-28 01:29:01 -0700",
+          "updated_at": "2022-09-28 01:29:03 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 50
+        },
+        {
+          "pk": 2174,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "É preciso que ela se eleve ao conhecimento das verdades universais e que tenha encontrado, tanto quanto é possível, o princípio e o fim de todas as coisas – a Matese Megiste.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/154/3,:1126,:1300)",
+          "created_at": "2022-09-28 01:22:18 -0700",
+          "updated_at": "2022-09-28 01:22:20 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 32
+        },
+        {
+          "pk": 2173,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "De todos os instruídos no santuário de Tebas ou de Mênfis, quem levou mais longe esta arte maravilhosa foi, sem dúvida, Moisés. A primeira parte do Gênesis é uma das obras mais admiráveis e que exige uma nova tradução, a qual foi feita por Fabre D’Olivet. Neste livro ela procura unir essas três linguagens e ao uni-las modifica completamente o sentido comum e vulgar dado pela Bíblia, dando-lhe um sentido mais profundo e de melhor compreensão.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/150/1,:92,:537)",
+          "created_at": "2022-09-28 01:21:34 -0700",
+          "updated_at": "2022-09-28 01:21:36 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 76
+        },
+        {
+          "pk": 2172,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "A atribuição constante de muitos comentaristas quanto à transmigração, à reencarnação, etc. no pitagorismo é bastante controversa, pois, se entre eles, alguns a aceitaram, outros não. Não há de Pitágoras qualquer passagem que possa permitir afirmar, com segurança, que essa fosse a sua doutrina. Seguindo a posição de muitos pitagóricos modernos concluímos que ele jamais defendeu esta tese e nem a expõe, mas seus discípulos a aceitaram ante certas dificuldades teóricas, julgando que poderiam, assim, explicar e solucionar certos problemas.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/138/1,:0,:542)",
+          "created_at": "2022-09-28 01:14:51 -0700",
+          "updated_at": "2022-09-28 01:14:52 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 80
+        },
+        {
+          "pk": 2170,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Se desconhece as leis que lhe dá a inteligência e, presunçosa queira, em lugar de agir segundo os princípios dados, cai no excesso e torna os homens supersticiosos ou cépticos ou fanáticos ou ateus.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/130/1,:486,:684)",
+          "created_at": "2022-09-28 01:09:50 -0700",
+          "updated_at": "2022-09-28 01:09:51 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 34
+        },
+        {
+          "pk": 2167,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": " É apenas pela prática no sentido literal que se alcança o sentido místico que é mais importante.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/40/1,:371,:468)",
+          "created_at": "2022-09-28 00:46:37 -0700",
+          "updated_at": "2022-09-28 00:46:39 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 17
+        },
+        {
+          "pk": 2166,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "aqueles que, pela filosofia, purgaram toda loucura das paixões e que se retiraram desses lugares terrestres, como de uma prisão estreita, onde eles mofavam.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/424/1,:514,:670)",
+          "created_at": "2022-09-28 00:28:40 -0700",
+          "updated_at": "2022-09-28 00:28:41 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 24
+        },
+        {
+          "pk": 2165,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Esse verso supõe, portanto, que se todos os homens conhecessem o que eles são, e qual é o demônio do qual se servem, eles seriam todos libertados de seus males, mas isso é impossível, pois é possível que se apliquem todos à filosofia, e recebam todos corretamente todos os bens que Deus oferece incessantemente, para ter perfeição da felicidade.\n",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4,/418/3:645,/420)",
+          "created_at": "2022-09-28 00:25:46 -0700",
+          "updated_at": "2022-09-28 00:25:47 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 59
+        },
+        {
+          "pk": 2164,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "“ em verdade sem ficção, em verdade, em verdade eu vos digo, as coisas inferiores são tais como as superiores, umas e outras unem suas forças invencíveis para produzir uma só coisa, a mais maravilhosa de todas, e como todas as coisas emanam da vontade do Deus único, todas elas quaisquer que sejam devem gerar-se desta única coisa, por uma disposição da natureza universal” (Tabula da Esmeralda, atribuído à Hermes Trismegisto26).",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/382,/1:162,/3:2)",
+          "created_at": "2022-09-28 00:13:18 -0700",
+          "updated_at": "2022-09-28 00:13:19 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 71
+        },
+        {
+          "pk": 2163,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "dizem os pitagóricos: “instruído pelos deuses que não nos enganarão poderemos conhecer de tudo o princípio e o fim e saber, se o céu o quiser, que a natureza é igual em tudo e a mesma em toda a parte”.\n",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4,/380/1:943,/382)",
+          "created_at": "2022-09-28 00:12:13 -0700",
+          "updated_at": "2022-09-28 00:12:14 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 40
+        },
+        {
+          "pk": 2162,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "frase de Platão: “Eis porque é necessário fugir daqui debaixo o mais rápido possível. Ora, fugir é trabalhar para assemelhar-se à Deus, tanto quanto possível ao homem, e assemelhar-se a Deus é tornar-se justo e santo com prudência.”",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/378/1,:37,:269)",
+          "created_at": "2022-09-28 00:10:18 -0700",
+          "updated_at": "2022-09-28 00:10:19 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 38
+        },
+        {
+          "pk": 2161,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "aquiescência à vontade de Deus, retorno à sua lei divina,",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/356/1,:888,:945)",
+          "created_at": "2022-09-28 00:02:40 -0700",
+          "updated_at": "2022-09-28 00:02:40 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 10
+        },
+        {
+          "pk": 2160,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Como deter a fúria?\nCertamente não há outro dique para opor a essa faculdade que nos precipita para baixo, que meditar, praticar e amar todos os preceitos que pomos sobre os caminhos da virtude divina.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4,/352/1:0,/354/1:181)",
+          "created_at": "2022-09-27 23:58:44 -0700",
+          "updated_at": "2022-09-27 23:58:45 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 35
+        },
+        {
+          "pk": 2158,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Parte encontrando e gerindo-se por si mesma, parte esclarecida do alto e como iluminada, ela faz o que ela pede por suas preces, e ela pede por suas preces o que ela faz.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/192/1,:0,:170)",
+          "created_at": "2022-09-26 19:17:29 -0700",
+          "updated_at": "2022-09-26 19:17:31 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 33
+        },
+        {
+          "pk": 2157,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Portanto se queremos adquirir a virtude ativa, é mister orar; e orando, é mister agir; o que faz que olhemos sempre a divindade e a luz que a cerca, e que nos excita à Filosofia, é que agimos sempre, unindo nossas preces à primeira causa de todos os bens.",
+          "sentence": null,
+          "note": "O  que nos move adiante é a junção de nossas preces com nossas ações: virtude contemplativa com a virtude politica",
+          "path": "epubcfi(/6/36[id14]!/4/184/1,:0,:255)",
+          "created_at": "2022-09-26 19:11:50 -0700",
+          "updated_at": "2022-09-26 19:12:44 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 49
+        },
+        {
+          "pk": 2156,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "e a prece é um meio entre nossa procura e o dom de Deus",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/178/1,:672,:727)",
+          "created_at": "2022-09-26 19:03:37 -0700",
+          "updated_at": "2022-09-26 19:14:03 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 2155,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Esta parte do poema é muito importante e chama a atenção da necessidade que tem a alma para as duas virtudes: a política ou prática e a contemplativa que é a virtude divina. É preciso praticar bem as duas, saber como combiná-las porque nos colocarão no verdadeiro caminho para Deus e, para que depois de passarmos pela vida, quando tivermo-nos despojado do corpo, seremos recebidos no ar puro e livre tornando-nos um deus imortal, incorruptível que a morte não mais dominará, como nos foi prometido nos Versos Áureos.",
+          "sentence": null,
+          "note": "Virtude politica X virtude contemplativa",
+          "path": "epubcfi(/6/36[id14]!/4/164/1,:0,:517)",
+          "created_at": "2022-09-26 18:51:03 -0700",
+          "updated_at": "2022-09-26 19:14:08 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 88
+        },
+        {
+          "pk": 2154,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Uma tal alma tem, pois, necessidade de duas espécies de virtude: da virtude política ou prática, que regula e modera o furor, levando-a para as coisas daqui de baixo; e a virtude contemplativa, que a leva e a empolga para as coisas do alto, e a une com os seres superiores. Entre estas duas virtudes o Poeta pôs dois versos que são como dois limites que a separam:",
+          "sentence": null,
+          "note": "Entendimento pitagorico de alma",
+          "path": "epubcfi(/6/36[id14]!/4/118/1,:0,:364)",
+          "created_at": "2022-09-26 18:11:20 -0700",
+          "updated_at": "2022-09-26 18:11:36 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 68
+        },
+        {
+          "pk": 2153,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": " Ao analisar tudo o que fizemos num dia e, também, às vezes, a nossa própria vida, não só desenvolvemos a memória, mas revela-se em nós o sentimento da nossa própria imortalidade porque vamos ter, cada vez mais, consciência do nosso papel e da nossa significação.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/100/1,:319,:582)",
+          "created_at": "2022-09-26 07:25:51 -0700",
+          "updated_at": "2022-09-26 07:25:52 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 45
+        },
+        {
+          "pk": 2148,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "A superioridade do espírito exige que o homem seja preparado para entender as grandes idéias, daí que o sábio deve proceder com calma para evitar os propagadores demagogos –\nos “moedeiros falsos”- que se aproveitam delas para benefício próprio.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4,/44/1:0,/46/1:70)",
+          "created_at": "2022-09-24 10:07:57 -0700",
+          "updated_at": "2022-09-24 10:07:58 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 39
+        },
+        {
+          "pk": 2145,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Não se deve discutir com indivíduos mal intencionados, porque só se atiça o mal fogo, e \"não adianta atiçar o fogo com a espada\", dizia Pitágoras.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/472/1,:229,:375)",
+          "created_at": "2022-09-24 09:27:54 -0700",
+          "updated_at": "2022-09-24 09:27:55 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 26
+        },
+        {
+          "pk": 2144,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "máxima pitagórica: \"se o erro triunfa momentaneamente, o sábio afasta-se e aguarda com paciência.\"",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/470/1,:1004,:1102)",
+          "created_at": "2022-09-24 09:24:02 -0700",
+          "updated_at": "2022-09-24 09:24:03 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 2143,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "não se deve confiar a ciência à uma alma corrompida\" ou, como dizia Cristo: “atirar pérolas aos porcos e nem dar aos cães as coisas santas”,",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/452/1,:765,:905)",
+          "created_at": "2022-09-24 09:12:22 -0700",
+          "updated_at": "2022-09-24 09:12:23 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 26
+        },
+        {
+          "pk": 2141,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "O que merece ainda ser aprendido é o que nos torne capazes de fazer a diferença dos raciocínios que se entende, o que nos faz suportar a divina fortuna e nos dá um meio de corrigi-la, o que nos ensina a não temer nem a pobreza nem a morte, e a praticar a justiça, o que nos torna temperantes, sobretudo o que se chama os prazeres, o que nos instrui sobre as leis da amizade e do respeito que devemos àqueles que nos deram a vida, o que nos mostra a honra e o culto que devemos aos seres superiores.\n",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4,/420/1:0,/422)",
+          "created_at": "2022-09-24 08:51:45 -0700",
+          "updated_at": "2022-09-24 08:51:46 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 100
+        },
+        {
+          "pk": 2140,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Aprende tudo o que é mister saber, e por este meio levarás uma vida deliciosa.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/412/1,:0,:78)",
+          "created_at": "2022-09-24 08:44:29 -0700",
+          "updated_at": "2022-09-24 08:44:30 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 2139,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Ora, obedecer a reta razão e obedecer a Deus é a mesma coisa, pois a parte racional esclarecida da irradição que lhe é própria e natural, não quer senão aquilo que quer a vontade de Deus. A alma bem disposta, segundo Deus, está sempre de acordo com Deus, e tudo o que ela faz, ela o faz olhando sempre a divindade e a luz brilhante que a cerca.",
+          "sentence": null,
+          "note": "Oração",
+          "path": "epubcfi(/6/34[id15]!/4/388/1,:0,:344)",
+          "created_at": "2022-09-23 23:26:43 -0700",
+          "updated_at": "2022-09-23 23:26:43 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 68
+        },
+        {
+          "pk": 2138,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Ele é impelido e manejado pelas paixões contrárias; insuportável em suas alegrias, miserável em suas tristezas, fogoso e altivo quando espera, covarde e mesquinho quando teme;",
+          "sentence": null,
+          "note": "O pobre-diabo",
+          "path": "epubcfi(/6/34[id15]!/4/382/3,:32,:207)",
+          "created_at": "2022-09-23 23:23:52 -0700",
+          "updated_at": "2022-09-23 23:23:59 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 26
+        },
+        {
+          "pk": 2136,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Mas a fim que conheças quanto é miserável falar e agir sem razão, vê Medeia clamar seus furores nos teatros.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/368/1,:0,:108)",
+          "created_at": "2022-09-23 23:20:23 -0700",
+          "updated_at": "2022-09-23 23:20:24 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 20
+        },
+        {
+          "pk": 2135,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Que os raios do céu venham romper minha cabeça!",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/370/1,:0,:47)",
+          "created_at": "2022-09-23 23:20:08 -0700",
+          "updated_at": "2022-09-23 23:20:10 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 9
+        },
+        {
+          "pk": 2134,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "O arrependimento é o começo da Filosofia",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/366/1,:0,:40)",
+          "created_at": "2022-09-23 23:15:58 -0700",
+          "updated_at": "2022-09-23 23:15:59 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 2133,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": " falar ou agir, sem razão e sem reflexão, é próprio do miserável, quer dizer, é próprio do infeliz.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/352/1,:802,:901)",
+          "created_at": "2022-09-23 23:08:22 -0700",
+          "updated_at": "2022-09-23 23:08:23 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 18
+        },
+        {
+          "pk": 2131,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "As pessoas coléricas vivem, em geral, em discórdia; em angústia perpétua com seus semelhantes e provocam a falta de respeito e de confiança. Não tem amigos porque lhes falta afabilidade e são levados a precipitação no seu julgamento. Suas conclusões são irrefletidas e imponderáveis e daí cometerem injustiças criando um ambiente desagradável.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/314/1,:459,:802)",
+          "created_at": "2022-09-23 22:55:39 -0700",
+          "updated_at": "2022-09-23 22:55:40 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 52
+        },
+        {
+          "pk": 2130,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Os prazeres carnais devem ser evitados tanto quanto possível, admitindo-se somente aqueles que são legítimos, que estão envoltos no pensamento de uma unidade espiritual o que os faz humanos; senão seriam meramente animais. Para o pitagorismo a castidade é a prática dos prazeres carnais, mas envoltos no pensamento da unidade espiritual, isto é, como atos humanos e não como atos animais.\n",
+          "sentence": null,
+          "note": "Visa do sexo no pitagorismo",
+          "path": "epubcfi(/6/34[id15]!/4,/308/1:393,/310)",
+          "created_at": "2022-09-23 22:52:39 -0700",
+          "updated_at": "2022-09-23 22:52:57 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 61
+        },
+        {
+          "pk": 2127,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "\"  Phanes\" deriva da palavra fenícia \"  ânesh\", o \"Homem\", precedida do artigo  ph.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/298,/3:31,/9:1)",
+          "created_at": "2022-09-23 22:44:30 -0700",
+          "updated_at": "2022-09-23 22:44:31 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 2120,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "O mal é, assim, alguma coisa que acontece e, como todo acontecimento, é frustável, é vencível, é reduzível cada vez mais e passível de ser modificado. Daí que o homem pode reduzi-lo cada vez mais, seja na sua vida individual como na social",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/280/9,:340,:579)",
+          "created_at": "2022-09-23 22:30:24 -0700",
+          "updated_at": "2022-09-23 22:30:25 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 43
+        },
+        {
+          "pk": 2119,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "decorre das relações das coisas entre si e da observação da própria coisa, olhada segundo os seus graus perfectivos.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/280/9,:73,:189)",
+          "created_at": "2022-09-23 17:51:38 -0700",
+          "updated_at": "2022-09-23 17:51:39 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 19
+        },
+        {
+          "pk": 2118,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "o mal era um acidente, não existindo de  per se, não é algo que se dê  per se e sim  per accidens.",
+          "sentence": null,
+          "note": "Per se X Per accidens",
+          "path": "epubcfi(/6/34[id15]!/4/280,/1:100,/9:1)",
+          "created_at": "2022-09-23 17:49:00 -0700",
+          "updated_at": "2022-09-23 17:49:20 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 22
+        },
+        {
+          "pk": 2117,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "O homem é um ser movido pela necessidade, mas que pelo seu entendimento e pela sua vontade domina, vence, suplanta suas paixões sem precisar destruí-las. Este pensamento é o de todas as grandes religiões: Krishna, Zoroastro, Lao Tseu, Orfeu e é encontrado em todos os livros religiosos. Portanto é uma doutrina universal, sempre presente em todas as grandes religiões.",
+          "sentence": null,
+          "note": "Luta contra o instinto irracional",
+          "path": "epubcfi(/6/34[id15]!/4/276/3,:432,:800)",
+          "created_at": "2022-09-23 17:45:01 -0700",
+          "updated_at": "2022-09-23 17:45:19 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 59
+        },
+        {
+          "pk": 2116,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Estuda Moschus19, filósofo fenício, praticamente o fundador da física e criador da primeira teoria atômica, secundado por Leucipo, Demócrito, Epicuro",
+          "sentence": null,
+          "note": "Teoria Atomica",
+          "path": "epubcfi(/6/34[id15]!/4/276,/1:0,/3:133)",
+          "created_at": "2022-09-23 17:41:46 -0700",
+          "updated_at": "2022-09-23 17:42:09 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 20
+        },
+        {
+          "pk": 2115,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Platão havia sentido esta verdade e a havia indicado em diversas passagens de suas obras, sobretudo no segundo diálogo do Hipias, em que mostra se parecer pelo designo que o homem bom ou mal, virtuoso ou criminoso, verídico ou mentiroso só o é pelo poder da sua vontade, e que a paixão que o leva à virtude ou ao vício, à verdade ou à mentira é nula para ele.",
+          "sentence": null,
+          "note": "Platão sobre a característica da vontade",
+          "path": "epubcfi(/6/34[id15]!/4/272/1,:57,:416)",
+          "created_at": "2022-09-23 17:39:17 -0700",
+          "updated_at": "2022-09-23 17:39:44 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 69
+        },
+        {
+          "pk": 2114,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Entre os que afirmam não sermos um ser volvido pelas nossas paixões e como os estóicos, que para vencê-las, para reprimir os seus excessos, temos de destrui-las, a posição pitagórica é bem clara: somos um misto de necessidade e liberdade.\n",
+          "sentence": null,
+          "note": "“As vezes faço o que quero, as vezes faço o que tenho que fazer”. Charlie Brown é pitagórico",
+          "path": "epubcfi(/6/34[id15]!/4,/266/1:190,/268)",
+          "created_at": "2022-09-23 15:57:04 -0700",
+          "updated_at": "2022-09-23 15:57:32 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 40
+        },
+        {
+          "pk": 2113,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "é imortal e vai estar, em nossas mãos, o seu bem ou a sua desgraça.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/264/1,:172,:239)",
+          "created_at": "2022-09-23 15:54:43 -0700",
+          "updated_at": "2022-09-23 15:54:44 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 2112,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Mais adiante ele faz ver que devemos lutar pela virtude, pela nossa elevação, já que possuímos uma alma que subsiste à vida do corpo e merece, exige, que a cuidemos porque",
+          "sentence": null,
+          "note": "Espiritualismo pitagórico: a pratica da virtude é devido à eternidade da alma.",
+          "path": "epubcfi(/6/34[id15]!/4/264/1,:0,:171)",
+          "created_at": "2022-09-23 15:54:49 -0700",
+          "updated_at": "2022-09-23 15:55:21 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 31
+        },
+        {
+          "pk": 2110,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": " lei férrea que rege todas as coisas – lei que vem do Um - a lei da Unidade.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/256/1,:136,:212)",
+          "created_at": "2022-09-23 15:48:51 -0700",
+          "updated_at": "2022-09-23 15:48:52 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 18
+        },
+        {
+          "pk": 2109,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Hiérocles comenta o proceder sempre com regra e com razão, refletir sobre o destino a que todos estamos ordenados: que é o de morrer.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/252/3,:0,:133)",
+          "created_at": "2022-09-23 15:27:45 -0700",
+          "updated_at": "2022-09-23 15:27:46 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 24
+        },
+        {
+          "pk": 2107,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "ponto eqüidistante",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/240/1,:464,:482)",
+          "created_at": "2022-09-23 15:18:45 -0700",
+          "updated_at": "2022-09-23 15:18:46 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 2105,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Sendo assim como se faria que abandonássemos o corpo por amor da virtude, quando estamos persuadidos que iremos perder a alma com o corpo, de modo que esta virtude, pela qual sofreremos a morte, não se encontrará em nenhuma parte e não existirá.\nMas esta matéria foi amplamente tratada por homens divinos que demonstraram, invencivelmente, que a alma é imortal e que a virtude é todo o seu ornamento.\n",
+          "sentence": null,
+          "note": "Espiritualismo pitagorico",
+          "path": "epubcfi(/6/34[id15]!/4,/218/3:0,/222)",
+          "created_at": "2022-09-22 21:55:26 -0700",
+          "updated_at": "2022-09-22 21:55:38 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 69
+        },
+        {
+          "pk": 2104,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": " Jamais aquele que não tem nem regra nem razão em tudo que faz, seguirá os seres melhores que nós, porque melhores que nós, mas os olhará como tiranos que o forçam e o oprimem.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/190/1,:606,:782)",
+          "created_at": "2022-09-22 21:18:40 -0700",
+          "updated_at": "2022-09-22 21:18:41 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 34
+        },
+        {
+          "pk": 2103,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "Ela sabe que quando o último momento é vindo, não devemos acovardarmo-nos, mas recebê-lo e submetermo-nos voluntariamente como à lei divina;",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/182/1,:0,:140)",
+          "created_at": "2022-09-22 21:13:58 -0700",
+          "updated_at": "2022-09-22 21:13:59 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 21
+        },
+        {
+          "pk": 2101,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos X – XI",
+          "text": "todos os males são causados pelas paixões, quando a razão não tem força para fazê-los entrar na ordem.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/116/1,:371,:473)",
+          "created_at": "2022-09-22 20:48:04 -0700",
+          "updated_at": "2022-09-22 20:48:05 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 18
+        },
+        {
+          "pk": 2098,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos X – XI",
+          "text": "Possuímos um poder análogo ao poder divino, somos guiados por uma corrente de inspiração e forças superiores, que fazem crescer em nós a personalidade.\n",
+          "sentence": null,
+          "note": "Poder da oração",
+          "path": "epubcfi(/6/34[id15]!/4,/106/1:285,/108)",
+          "created_at": "2022-09-22 20:39:06 -0700",
+          "updated_at": "2022-09-22 20:39:16 -0700",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 24
+        },
+        {
+          "pk": 2097,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos X – XI",
+          "text": "portanto ele é guiado dentro de si por poderes que 51\nultrapassam a animalidade, que recebeu de Deus e que tem a possibilidade de aumentar a liberdade e o poder criador.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4,/102/1:733,/104/3:115)",
+          "created_at": "2022-09-22 20:37:26 -0700",
+          "updated_at": "2022-09-22 20:37:27 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 31
+        },
+        {
+          "pk": 2096,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Honra também teu pai, e tua mãe e teus mais próximos parentes.",
+          "text": "há uma lei fatal da evolução, que quer tudo que provém de Deus, volte, depois de um ciclo de evolução para Ele; uma atração invencível que é a potência do amor divino por todas as criaturas, traduz-se em cada ser pela força interior  que o impele, malgrado seu, a nascer, crescer, viver, multiplicar-se e morrer. É o que constitui a corrente da vida! É ela que apesar das suas rebeliões e dos seus erros incita cada indivíduo a lutar para viver, vencer a ignorância, descobrir a verdade para melhorar a sorte, e resignar-se a morrer para se transformar.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/98/5,:138,:691)",
+          "created_at": "2022-09-22 20:27:14 -0700",
+          "updated_at": "2022-09-22 20:27:15 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 98
+        },
+        {
+          "pk": 2095,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Honra também teu pai, e tua mãe e teus mais próximos parentes.",
+          "text": "essas duas potências que regulam e dirigem a evolução humana, a  anankê dos gregos e o  factum dos latinos",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/98,/1:92,/5:12)",
+          "created_at": "2022-09-22 20:23:57 -0700",
+          "updated_at": "2022-09-22 20:23:58 -0700",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 19
+        },
+        {
+          "pk": 2094,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Honra também teu pai, e tua mãe e teus mais próximos parentes.",
+          "text": "O esforço individual deve, pois, tender a criar para transmitir, a produzir para dar, a trabalhar para amar e é, somente, no culto da família, no amor da pátria e na religião de ordem divina que as aspirações de progresso e de felicidade podem encontrar o pleno desenvolvimento.",
+          "sentence": null,
+          "note": "Saída ao Consumismo",
+          "path": "epubcfi(/6/34[id15]!/4/96/1,:0,:278)",
+          "created_at": "2022-09-22 20:13:29 -0700",
+          "updated_at": "2022-09-22 20:13:49 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 48
+        },
+        {
+          "pk": 2093,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Honra também teu pai, e tua mãe e teus mais próximos parentes.",
+          "text": "O amigo, dizia Pitágoras, é um outro eu. É preciso honrá-lo como a um deus.",
+          "sentence": null,
+          "note": "Pitágoras sobre a amizade",
+          "path": "epubcfi(/6/34[id15]!/4/82/1,:68,:143)",
+          "created_at": "2022-09-22 20:02:14 -0700",
+          "updated_at": "2022-09-22 20:02:30 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 15
+        },
         {
           "pk": 2092,
           "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
@@ -1507,6 +2064,306 @@ var ibook_history = {
       ],
       "new_words": [
         {
+          "pk": 2171,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "teósofos",
+          "sentence": null,
+          "note": "Teosofismo - Forma sincrética de religião, ciência e filosofia, com bases no budismo, hinduísmo e espiritualismo. ",
+          "path": "epubcfi(/6/38[id13]!/4/136/3,:118,:126)",
+          "created_at": "2022-09-28 01:12:40 -0700",
+          "updated_at": "2022-09-28 01:13:05 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2169,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "voragem",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/126/1,:223,:230)",
+          "created_at": "2022-09-28 01:07:32 -0700",
+          "updated_at": "2022-09-28 01:07:34 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2168,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "breviário",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id13]!/4/110/1,:728,:737)",
+          "created_at": "2022-09-28 01:04:42 -0700",
+          "updated_at": "2022-09-28 01:04:43 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2159,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "apostasia",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id14]!/4/332/1,:122,:131)",
+          "created_at": "2022-09-27 23:42:58 -0700",
+          "updated_at": "2022-09-27 23:42:59 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2147,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "catarse",
+          "sentence": null,
+          "note": "corresponde a purificação humana",
+          "path": "epubcfi(/6/36[id14]!/4/22/2/1,:0,:7)",
+          "created_at": "2022-09-24 09:58:06 -0700",
+          "updated_at": "2022-09-24 09:58:20 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2146,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "sórdido",
+          "sentence": null,
+          "note": "Que é ou está sujo",
+          "path": "epubcfi(/6/34[id15]!/4/546/1,:446,:453)",
+          "created_at": "2022-09-24 09:48:36 -0700",
+          "updated_at": "2022-09-24 09:48:47 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2137,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "insensato",
+          "sentence": null,
+          "note": "Que não é conforme ao bom senso, à razão.",
+          "path": "epubcfi(/6/34[id15]!/4/382/3,:21,:30)",
+          "created_at": "2022-09-23 23:22:22 -0700",
+          "updated_at": "2022-09-23 23:22:35 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2132,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "funestas",
+          "sentence": null,
+          "note": "nocivo",
+          "path": "epubcfi(/6/34[id15]!/4/326/1,:127,:135)",
+          "created_at": "2022-09-23 22:59:02 -0700",
+          "updated_at": "2022-09-23 22:59:11 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2129,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "afanar",
+          "sentence": null,
+          "note": "“o homem deve afanar-se”",
+          "path": "epubcfi(/6/34[id15]!/4/306/1,:245,:251)",
+          "created_at": "2022-09-23 22:48:51 -0700",
+          "updated_at": "2022-09-23 22:48:57 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2126,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "sobriedade",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/294/1,:105,:115)",
+          "created_at": "2022-09-23 22:39:31 -0700",
+          "updated_at": "2022-09-23 22:39:32 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2125,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "justiça",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/288/1,:631,:638)",
+          "created_at": "2022-09-23 22:37:51 -0700",
+          "updated_at": "2022-09-23 22:37:52 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2124,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "prudência",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/288/1,:570,:579)",
+          "created_at": "2022-09-23 22:37:45 -0700",
+          "updated_at": "2022-09-23 22:37:46 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2123,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "coragem",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/288/1,:532,:539)",
+          "created_at": "2022-09-23 22:37:41 -0700",
+          "updated_at": "2022-09-23 22:37:42 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2122,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "temperança",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/288/1,:491,:501)",
+          "created_at": "2022-09-23 22:37:36 -0700",
+          "updated_at": "2022-09-23 22:37:37 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2121,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "irascível",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/288/1,:161,:170)",
+          "created_at": "2022-09-23 22:34:21 -0700",
+          "updated_at": "2022-09-23 22:34:22 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2108,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "cardeais",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id15]!/4/246/1,:264,:272)",
+          "created_at": "2022-09-23 15:20:45 -0700",
+          "updated_at": "2022-09-23 15:20:46 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2106,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos XII – XIII",
+          "text": "circunspecção",
+          "sentence": null,
+          "note": "Característica de circunspecto; qualidade de quem observa com cuidado todos os âmbitos de uma questão, de uma situação, de um fato.",
+          "path": "epubcfi(/6/34[id15]!/4/240/1,:409,:422)",
+          "created_at": "2022-09-23 15:11:50 -0700",
+          "updated_at": "2022-09-23 15:11:55 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2102,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos X – XI",
+          "text": "cupidez",
+          "sentence": null,
+          "note": "Desejo, cobiça",
+          "path": "epubcfi(/6/34[id15]!/4/124/1,:33,:40)",
+          "created_at": "2022-09-22 20:50:43 -0700",
+          "updated_at": "2022-09-22 20:50:53 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2100,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos X – XI",
+          "text": "perjúrio",
+          "sentence": null,
+          "note": "Falso juramento",
+          "path": "epubcfi(/6/34[id15]!/4/116/1,:346,:354)",
+          "created_at": "2022-09-22 20:47:32 -0700",
+          "updated_at": "2022-09-22 20:47:40 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2099,
+          "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
+          "chapter": "Versos X – XI",
+          "text": "concupiscência",
+          "sentence": null,
+          "note": "Cobiça de bens materias",
+          "path": "epubcfi(/6/34[id15]!/4/116/1,:216,:230)",
+          "created_at": "2022-09-22 20:47:03 -0700",
+          "updated_at": "2022-09-22 20:47:13 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
           "pk": 2088,
           "book_id": "CFFAAA3959BEC2736F7E969F4A553666",
           "chapter": "Honra também teu pai, e tua mãe e teus mais próximos parentes.",
@@ -1719,6 +2576,591 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/CFFAAA3959BEC2736F7E969F4A553666.png"
+      }
+    },
+    {
+      "book_id": "B23A5D7E4F8C9FB33B1F96B19C0EBC91",
+      "author": "João Maurício Galindo",
+      "title": "Beethoven: as muitas faces de um gênio",
+      "last_engaged_date": "2022-09-25 23:52:05 -0700",
+      "reading_progress": 0.23348020017147064,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-25 10:54:06 -0700",
+      "genre": "1. Ludwig van Beethoven",
+      "lang": "pt",
+      "file_size": 2916304,
+      "page_count": 0,
+      "created_at": "2022-09-25 10:54:06 -0700",
+      "updated_at": "2022-09-28 01:30:40 -0700",
+      "asset_details_modification_date": "2022-09-28 01:30:40 -0700",
+      "notes": [
+        {
+          "pk": 2150,
+          "book_id": "B23A5D7E4F8C9FB33B1F96B19C0EBC91",
+          "chapter": "UM GÊNIO DE 250 ANOS • Jaime Pinsky",
+          "text": "Até então, discípulo de Haydn e influenciado pela obra de Mozart, Beethoven havia produzido música de boa qualidade, mas nada genial. A partir de 1802, até próximo de sua morte, em 1827, revoluciona o mundo da música.",
+          "sentence": null,
+          "note": "32 anos de idade",
+          "path": "epubcfi(/6/14[id611]!/4/12/3,:25,:242)",
+          "created_at": "2022-09-25 14:14:47 -0700",
+          "updated_at": "2022-09-25 14:15:02 -0700",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 37
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 2151,
+          "book_id": "B23A5D7E4F8C9FB33B1F96B19C0EBC91",
+          "chapter": "Frustração e superação",
+          "text": "misantropo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/20[id64]!/4/42/1,:75,:85)",
+          "created_at": "2022-09-25 23:11:02 -0700",
+          "updated_at": "2022-09-25 23:11:02 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
+    {
+      "book_id": "3C17E56A9B1055226BD110F7C7D13AE7",
+      "author": "Romain Rolland",
+      "title": "Michelangelo",
+      "last_engaged_date": "2022-09-25 10:48:01 -0700",
+      "reading_progress": 0.1902438998222351,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-25 06:20:47 -0700",
+      "genre": "Michelangelo Buonarroti, 1475-1564",
+      "lang": "en",
+      "file_size": 5793473,
+      "page_count": 0,
+      "created_at": "2022-09-25 06:20:47 -0700",
+      "updated_at": "2022-09-25 10:52:56 -0700",
+      "asset_details_modification_date": "2022-09-25 10:52:56 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "FD74A666B1BC5DAB426B126DEB42BADB",
+      "author": "UnknownAuthor",
+      "zauthor": "Sigmund Freud",
+      "title": "Um disturbio de memoria na acropole - Freud",
+      "ztitle": "Um disturbio de memoria na acropole",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 642809,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-09-24 17:26:09 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": null
+      }
+    },
+    {
+      "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+      "author": "Thomas Paine",
+      "title": "Common Sense, the Rights of Man and Other Essential Writings of Thomas Paine",
+      "last_engaged_date": "2022-09-24 17:12:31 -0700",
+      "reading_progress": 0.12694300711154938,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "History",
+      "lang": "und",
+      "file_size": 2118872,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-24 17:12:23 -0700",
+      "asset_details_modification_date": "2022-09-24 17:12:23 -0700",
+      "notes": [
+        {
+          "pk": 1986,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "in which he might rather be said to perish than to die.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/24[c02]!/4/52/1,:1122,:1177)",
+          "created_at": "2022-09-13 15:02:57 -0700",
+          "updated_at": "2022-09-13 15:02:58 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 12
+        },
+        {
+          "pk": 1981,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "the impulses of conscience clear, uniform and irresistibly obeyed",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/24[c02]!/4/50/5,:226,:291)",
+          "created_at": "2022-09-13 14:27:08 -0700",
+          "updated_at": "2022-09-13 14:27:09 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 9
+        },
+        {
+          "pk": 1980,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "Society is produced by our wants, and government by our wickedness",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/24[c02]!/4/48/1,:173,:239)",
+          "created_at": "2022-09-13 14:07:01 -0700",
+          "updated_at": "2022-09-13 14:07:01 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 11
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 1988,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "surmount",
+          "sentence": null,
+          "note": "\novercome (a difficulty or obstacle).\nall manner of cultural differences were surmounted",
+          "path": "epubcfi(/6/24[c02]!/4/54/1,:366,:374)",
+          "created_at": "2022-09-13 15:06:55 -0700",
+          "updated_at": "2022-09-13 15:07:00 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1987,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "impregnable",
+          "sentence": null,
+          "note": "\n(of a fortified position) unable to be captured or broken into.\nan impregnable wall of solid sandstone",
+          "path": "epubcfi(/6/24[c02]!/4/54/1,:291,:302)",
+          "created_at": "2022-09-13 15:06:08 -0700",
+          "updated_at": "2022-09-13 15:06:14 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1985,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "nay",
+          "sentence": null,
+          "note": "\nor rather; and more than that (used to emphasize a more appropriate word than one just used).\n“it will take months, nay years”",
+          "path": "epubcfi(/6/24[c02]!/4/52/1,:981,:984)",
+          "created_at": "2022-09-13 14:59:56 -0700",
+          "updated_at": "2022-09-13 15:00:07 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1984,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "thereto",
+          "sentence": null,
+          "note": "Para isso",
+          "path": "epubcfi(/6/24[c02]!/4/52/1,:376,:383)",
+          "created_at": "2022-09-13 14:48:14 -0700",
+          "updated_at": "2022-09-13 14:48:20 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1983,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "thereof",
+          "sentence": null,
+          "note": "\nof the thing just mentioned; of that.\n“the member state or a part thereof”",
+          "path": "epubcfi(/6/24[c02]!/4/50/5,:702,:709)",
+          "created_at": "2022-09-13 15:00:26 -0700",
+          "updated_at": "2022-09-13 15:00:32 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1982,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "Wherefore",
+          "sentence": null,
+          "note": "\nfor what reason.\nshe took an ill turn, but wherefore I cannot say\n2\nas a result of which.\ntruly he cared for me, wherefore I title him with all respect",
+          "path": "epubcfi(/6/24[c02]!/4/50/5,:594,:603)",
+          "created_at": "2022-09-13 15:00:49 -0700",
+          "updated_at": "2022-09-13 15:00:56 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1979,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "COMMON SENSE.",
+          "text": "confounded",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/24[c02]!/4/48/1,:21,:31)",
+          "created_at": "2022-09-13 14:05:37 -0700",
+          "updated_at": "2022-09-13 14:05:38 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 1975,
+          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
+          "chapter": "THOMAS PAINE",
+          "text": "tenable",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[ata]!/4/16/3,:109,:116)",
+          "created_at": "2022-09-12 20:35:48 -0700",
+          "updated_at": "2022-09-12 20:35:49 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ],
+      "cover": {
+        "src": "assets/images/087B9CC024921464BB58E65F7B49DA6B.jpg"
+      }
+    },
+    {
+      "book_id": "8548645CA1909E5981C6F0BBF9E58ED8",
+      "author": "Edgar Allan Poe",
+      "title": "Contos de terror, de mistério e de morte (Coleção Clássicos de Ouro)",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-21 14:20:23 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 761447,
+      "page_count": 0,
+      "created_at": "2022-09-21 14:20:23 -0700",
+      "updated_at": "2022-09-21 14:21:25 -0700",
+      "asset_details_modification_date": "2022-09-21 14:21:25 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/8548645CA1909E5981C6F0BBF9E58ED8.jpg"
+      }
+    },
+    {
+      "book_id": "17F732281143A673585376D73A2F99FD",
+      "author": "Edgar Allan Poe",
+      "title": "Histórias extraordinárias",
+      "last_engaged_date": "2022-09-21 14:06:58 -0700",
+      "reading_progress": 0.9129834175109863,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-21 14:04:48 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 2269947,
+      "page_count": 0,
+      "created_at": "2022-09-21 14:04:48 -0700",
+      "updated_at": "2022-09-21 14:20:23 -0700",
+      "asset_details_modification_date": "2022-09-21 14:20:23 -0700",
+      "notes": [
+        {
+          "pk": 2085,
+          "book_id": "17F732281143A673585376D73A2F99FD",
+          "chapter": "Edgar Allan Poe – Jorge Luis Borges",
+          "text": "Em alguns (“Os fatos no caso do sr. Valdemar”, “Uma descida no Maelström”), brilha a invenção circunstancial;",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/120[id90]!/4[1NA0K0-b32faf89413b4b5cb3a74ad3ff7f9a83]/8/7,:555,:664)",
+          "created_at": "2022-09-21 14:18:31 -0700",
+          "updated_at": "2022-09-21 14:18:31 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 17
+        },
+        {
+          "pk": 2084,
+          "book_id": "17F732281143A673585376D73A2F99FD",
+          "chapter": "Edgar Allan Poe – Jorge Luis Borges",
+          "text": "e por muitas páginas incomparáveis. Dessas, eu destacaria as últimas de A narrativa de Arthur Gordon Pym de Nantucket, que é um pesadelo sistemático cujo tema secreto é a cor branca.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/120[id90]!/4[1NA0K0-b32faf89413b4b5cb3a74ad3ff7f9a83]/8,/7:1415,/9:65)",
+          "created_at": "2022-09-21 14:16:33 -0700",
+          "updated_at": "2022-09-21 14:16:33 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 31
+        }
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/17F732281143A673585376D73A2F99FD.jpg"
+      }
+    },
+    {
+      "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
+      "author": "Marshall McLuhan",
+      "title": "Os Meios de Comunicação Como Extensões do Homem",
+      "last_engaged_date": "2022-09-22 20:11:46 -0700",
+      "reading_progress": 0.030368760228157043,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-20 01:54:41 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 943357,
+      "page_count": 0,
+      "created_at": "2022-09-20 01:54:41 -0700",
+      "updated_at": "2022-09-21 14:04:47 -0700",
+      "asset_details_modification_date": "2022-09-21 14:04:47 -0700",
+      "notes": [
+        {
+          "pk": 2086,
+          "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
+          "chapter": "INTRODUÇÃO À TERCEIRA EDIÇÃO EM INGLÊS",
+          "text": "o marinheiro do Maesltrom, de Edgar Allan Poe.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[id18]!/4/10/1,:382,:428)",
+          "created_at": "2022-09-21 14:21:48 -0700",
+          "updated_at": "2022-09-21 14:21:48 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 2081,
+          "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
+          "chapter": "ORELHAS DO LIVRO",
+          "text": "VIDAS – Plutarco\nDIÁLOGOS – Platão\nPITÁGORAS – Uma Vida – Peter Gorman\nOS DEUSES GREGOS – Karl Kerényi",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[id110]!/4,/28/1:0,/34/1:31)",
+          "created_at": "2022-09-20 02:09:10 -0700",
+          "updated_at": "2022-09-20 02:09:10 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 19
+        },
+        {
+          "pk": 2080,
+          "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
+          "chapter": "CONTRACAPA",
+          "text": "os meios de comunicação de massa afetam profundamente a vida física e mental do Homem",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/8[id111]!/4/8/1,:253,:338)",
+          "created_at": "2022-09-20 01:56:04 -0700",
+          "updated_at": "2022-09-20 01:56:05 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 15
+        }
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/E0ACFB917BE8187DEA4CFE0630D59257.jpg"
+      }
+    },
+    {
+      "book_id": "56666126E6A88D2A14BD95B37F89B1AE",
+      "author": "Paes, Jose Paulo",
+      "title": "Armazém Literário - Ensaios",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-20 01:55:15 -0700",
+      "genre": "",
+      "lang": "",
+      "file_size": 1952118,
+      "page_count": 0,
+      "created_at": "2022-09-20 01:55:15 -0700",
+      "updated_at": "2022-09-20 01:55:19 -0700",
+      "asset_details_modification_date": "2022-09-20 01:55:19 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/56666126E6A88D2A14BD95B37F89B1AE.jpg"
+      }
+    },
+    {
+      "book_id": "E381FB8B4C75782AD82E87493863D2F3",
+      "author": "Aluísio Azevedo",
+      "title": "O Japão",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-20 01:55:10 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 310747,
+      "page_count": 0,
+      "created_at": "2022-09-20 01:55:10 -0700",
+      "updated_at": "2022-09-20 01:55:12 -0700",
+      "asset_details_modification_date": "2022-09-20 01:55:12 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/E381FB8B4C75782AD82E87493863D2F3.jpg"
+      }
+    },
+    {
+      "book_id": "E26E056B24AA45AD2C1D600711DE15A8",
+      "author": "Aluísio Azevedo",
+      "title": "O Coruja",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-20 01:55:04 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 984803,
+      "page_count": 0,
+      "created_at": "2022-09-20 01:55:04 -0700",
+      "updated_at": "2022-09-20 01:55:07 -0700",
+      "asset_details_modification_date": "2022-09-20 01:55:07 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/E26E056B24AA45AD2C1D600711DE15A8.jpg"
+      }
+    },
+    {
+      "book_id": "79F5F207B569DE3CAF27E9CAEEF3B047",
+      "author": "Aluísio Azevedo",
+      "title": "Aos Vinte Anos",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-20 01:54:58 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 187119,
+      "page_count": 0,
+      "created_at": "2022-09-20 01:54:58 -0700",
+      "updated_at": "2022-09-20 01:55:01 -0700",
+      "asset_details_modification_date": "2022-09-20 01:55:01 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/79F5F207B569DE3CAF27E9CAEEF3B047.jpg"
+      }
+    },
+    {
+      "book_id": "9F7267FA872AC24AF7DDF91C1962B2DB",
+      "author": "Guy Debord",
+      "title": "A Sociedade do Espetáculo",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-20 01:54:48 -0700",
+      "genre": "filosofia",
+      "lang": "pt",
+      "file_size": 738534,
+      "page_count": 0,
+      "created_at": "2022-09-20 01:54:48 -0700",
+      "updated_at": "2022-09-20 01:54:51 -0700",
+      "asset_details_modification_date": "2022-09-20 01:54:51 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/9F7267FA872AC24AF7DDF91C1962B2DB.jpg"
+      }
+    },
+    {
+      "book_id": "233C7314633D8784637E4376590A2984",
+      "author": "Editora Clipper",
+      "title": "50 Frases Essenciais de Pitágoras",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-20 01:54:36 -0700",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 2046353,
+      "page_count": 0,
+      "created_at": "2022-09-20 01:54:36 -0700",
+      "updated_at": "2022-09-20 01:54:38 -0700",
+      "asset_details_modification_date": "2022-09-20 01:54:38 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/233C7314633D8784637E4376590A2984.jpg"
       }
     },
     {
@@ -18612,33 +20054,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "89BFAB36082C7B92AE3B2A8D02AB3B72",
-      "author": "Frye, Northrop, 1912-1991",
-      "zauthor": "Northrop Frye",
-      "title": "A world in a grain of sand  twenty-two interviews with Northrop Frye (Northrop Frye) (z-lib.org)",
-      "ztitle": "A world in a grain of sand  twenty-two interviews with Northrop Frye",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 13901937,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-09-16 16:01:04 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/89BFAB36082C7B92AE3B2A8D02AB3B72.jpg"
-      }
-    },
-    {
       "book_id": "5B48E6B810989B2E2011B9A5849FBFB1",
       "author": "UnknownAuthor",
       "zauthor": "Boris Schnaiderman",
@@ -18666,10 +20081,37 @@ var ibook_history = {
       }
     },
     {
+      "book_id": "89BFAB36082C7B92AE3B2A8D02AB3B72",
+      "author": "Frye, Northrop, 1912-1991",
+      "zauthor": "Northrop Frye",
+      "title": "A world in a grain of sand  twenty-two interviews with Northrop Frye (Northrop Frye) (z-lib.org)",
+      "ztitle": "A world in a grain of sand  twenty-two interviews with Northrop Frye",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 13901937,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-09-16 16:01:04 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/89BFAB36082C7B92AE3B2A8D02AB3B72.jpg"
+      }
+    },
+    {
       "book_id": "E2181C8F19004321448B3A7FBFAE46AA",
       "author": "UnknownAuthor",
       "zauthor": "Boris Schnaiderman",
-      "title": "Poemas (SCHNAIDERMAN, Boris Augusto, CAMPOS etc.)",
+      "title": "Poemas (SCHNAIDERMAN, Boris Augusto, CAMPOS etc.) (z-lib.org)",
       "ztitle": "Maiakóvski Poemas",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -18690,194 +20132,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/E2181C8F19004321448B3A7FBFAE46AA.jpg"
-      }
-    },
-    {
-      "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-      "author": "Thomas Paine",
-      "title": "Common Sense, the Rights of Man and Other Essential Writings of Thomas Paine",
-      "last_engaged_date": "2022-09-13 15:11:53 -0700",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "History",
-      "lang": null,
-      "file_size": 2118872,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-09-14 06:26:04 -0700",
-      "notes": [
-        {
-          "pk": 1986,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "in which he might rather be said to perish than to die.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/24[c02]!/4/52/1,:1122,:1177)",
-          "created_at": "2022-09-13 15:02:57 -0700",
-          "updated_at": "2022-09-13 15:02:58 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 12
-        },
-        {
-          "pk": 1981,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "the impulses of conscience clear, uniform and irresistibly obeyed",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/24[c02]!/4/50/5,:226,:291)",
-          "created_at": "2022-09-13 14:27:08 -0700",
-          "updated_at": "2022-09-13 14:27:09 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 9
-        },
-        {
-          "pk": 1980,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "Society is produced by our wants, and government by our wickedness",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/24[c02]!/4/48/1,:173,:239)",
-          "created_at": "2022-09-13 14:07:01 -0700",
-          "updated_at": "2022-09-13 14:07:01 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 11
-        }
-      ],
-      "new_words": [
-        {
-          "pk": 1988,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "surmount",
-          "sentence": null,
-          "note": "\novercome (a difficulty or obstacle).\nall manner of cultural differences were surmounted",
-          "path": "epubcfi(/6/24[c02]!/4/54/1,:366,:374)",
-          "created_at": "2022-09-13 15:06:55 -0700",
-          "updated_at": "2022-09-13 15:07:00 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 1987,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "impregnable",
-          "sentence": null,
-          "note": "\n(of a fortified position) unable to be captured or broken into.\nan impregnable wall of solid sandstone",
-          "path": "epubcfi(/6/24[c02]!/4/54/1,:291,:302)",
-          "created_at": "2022-09-13 15:06:08 -0700",
-          "updated_at": "2022-09-13 15:06:14 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 1985,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "nay",
-          "sentence": null,
-          "note": "\nor rather; and more than that (used to emphasize a more appropriate word than one just used).\n“it will take months, nay years”",
-          "path": "epubcfi(/6/24[c02]!/4/52/1,:981,:984)",
-          "created_at": "2022-09-13 14:59:56 -0700",
-          "updated_at": "2022-09-13 15:00:07 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 1984,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "thereto",
-          "sentence": null,
-          "note": "Para isso",
-          "path": "epubcfi(/6/24[c02]!/4/52/1,:376,:383)",
-          "created_at": "2022-09-13 14:48:14 -0700",
-          "updated_at": "2022-09-13 14:48:20 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 1983,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "thereof",
-          "sentence": null,
-          "note": "\nof the thing just mentioned; of that.\n“the member state or a part thereof”",
-          "path": "epubcfi(/6/24[c02]!/4/50/5,:702,:709)",
-          "created_at": "2022-09-13 15:00:26 -0700",
-          "updated_at": "2022-09-13 15:00:32 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 1982,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "Wherefore",
-          "sentence": null,
-          "note": "\nfor what reason.\nshe took an ill turn, but wherefore I cannot say\n2\nas a result of which.\ntruly he cared for me, wherefore I title him with all respect",
-          "path": "epubcfi(/6/24[c02]!/4/50/5,:594,:603)",
-          "created_at": "2022-09-13 15:00:49 -0700",
-          "updated_at": "2022-09-13 15:00:56 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 1979,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "COMMON SENSE.",
-          "text": "confounded",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/24[c02]!/4/48/1,:21,:31)",
-          "created_at": "2022-09-13 14:05:37 -0700",
-          "updated_at": "2022-09-13 14:05:38 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 1975,
-          "book_id": "087B9CC024921464BB58E65F7B49DA6B",
-          "chapter": "THOMAS PAINE",
-          "text": "tenable",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/14[ata]!/4/16/3,:109,:116)",
-          "created_at": "2022-09-12 20:35:48 -0700",
-          "updated_at": "2022-09-12 20:35:49 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        }
-      ],
-      "cover": {
-        "src": "assets/images/087B9CC024921464BB58E65F7B49DA6B.jpg"
       }
     },
     {
@@ -19555,31 +20809,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "64DA1A1FC1EFCE822A180BD587A820C0",
-      "author": "Toni Morrison",
-      "title": "Beloved",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 633600,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-08-23 18:09:52 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/64DA1A1FC1EFCE822A180BD587A820C0"
-      }
-    },
-    {
       "book_id": "6375222CCE64E96FBF651212B3F7B188",
       "author": "Itamar Vieira Junior",
       "title": "Torto arado",
@@ -19602,6 +20831,31 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/6375222CCE64E96FBF651212B3F7B188.jpg"
+      }
+    },
+    {
+      "book_id": "64DA1A1FC1EFCE822A180BD587A820C0",
+      "author": "Toni Morrison",
+      "title": "Beloved",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 633600,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-08-23 18:09:52 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/64DA1A1FC1EFCE822A180BD587A820C0"
       }
     },
     {
@@ -19628,6 +20882,105 @@ var ibook_history = {
       "new_words": [
 
       ]
+    },
+    {
+      "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
+      "author": "Ralph Waldo Emerson",
+      "title": "Self-Reliance and Other Essays",
+      "last_engaged_date": "2022-08-21 10:22:01 -0700",
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 812139,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-08-22 12:54:30 -0700",
+      "notes": [
+        {
+          "pk": 1923,
+          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
+          "chapter": "History",
+          "text": "We as we read must become Greeks, Romans, Turks, priest and king, martyr and executioner, must fasten these images to some reality in our secret experience, or we shall learn nothing rightly. ",
+          "sentence": null,
+          "note": "Libertarian - The power of reading without prejudice",
+          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:1179,:1371)",
+          "created_at": "2022-08-21 10:20:42 -0700",
+          "updated_at": "2022-08-21 10:22:18 -0700",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 32
+        },
+        {
+          "pk": 1922,
+          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
+          "chapter": "History",
+          "text": " The fact narrated must correspond to something in me to be credible or intelligible.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:1093,:1178)",
+          "created_at": "2022-08-21 10:16:26 -0700",
+          "updated_at": "2022-08-21 10:16:27 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 1920,
+          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
+          "chapter": "History",
+          "text": "hours of our life and the centuries of time. As the air I breathe is drawn from the great repositories of nature, as the light on my book is yielded by a star a hundred millions of miles distant, as the poise of my body depends on the equilibrium of centrifugal and centripetal forces, so the hours should be instructed by the ages, and the ages explained by the hours.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:217,:586)",
+          "created_at": "2022-08-21 10:03:39 -0700",
+          "updated_at": "2022-08-21 10:03:40 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 70
+        },
+        {
+          "pk": 1919,
+          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
+          "chapter": "History",
+          "text": "There is a relation between the ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:185,:216)",
+          "created_at": "2022-08-21 10:03:33 -0700",
+          "updated_at": "2022-08-21 10:03:33 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 1918,
+          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
+          "chapter": "History",
+          "text": "Man is explicable by nothing less than all his history. Without hurry, without rest, the human spirit goes forth from the beginning to embody every faculty, every thought, every emotion, which belongs to it in appropriate events.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[c01]!/4/2/10/1,:105,:334)",
+          "created_at": "2022-08-21 09:58:11 -0700",
+          "updated_at": "2022-08-21 09:58:11 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 37
+        }
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/438209AF5BA95DC3BDBFF34BFA01EA94.jpg"
+      }
     },
     {
       "book_id": "74B2880BF9B64DAF5EE53F68D72562CF",
@@ -19860,105 +21213,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/74B2880BF9B64DAF5EE53F68D72562CF.jpg"
-      }
-    },
-    {
-      "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
-      "author": "Ralph Waldo Emerson",
-      "title": "Self-Reliance and Other Essays",
-      "last_engaged_date": "2022-08-21 10:22:01 -0700",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 812139,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-08-22 12:54:30 -0700",
-      "notes": [
-        {
-          "pk": 1923,
-          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
-          "chapter": "History",
-          "text": "We as we read must become Greeks, Romans, Turks, priest and king, martyr and executioner, must fasten these images to some reality in our secret experience, or we shall learn nothing rightly. ",
-          "sentence": null,
-          "note": "Libertarian - The power of reading without prejudice",
-          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:1179,:1371)",
-          "created_at": "2022-08-21 10:20:42 -0700",
-          "updated_at": "2022-08-21 10:22:18 -0700",
-          "is_inderline": 0,
-          "color": 5,
-          "type": 2,
-          "words_count": 32
-        },
-        {
-          "pk": 1922,
-          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
-          "chapter": "History",
-          "text": " The fact narrated must correspond to something in me to be credible or intelligible.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:1093,:1178)",
-          "created_at": "2022-08-21 10:16:26 -0700",
-          "updated_at": "2022-08-21 10:16:27 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 14
-        },
-        {
-          "pk": 1920,
-          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
-          "chapter": "History",
-          "text": "hours of our life and the centuries of time. As the air I breathe is drawn from the great repositories of nature, as the light on my book is yielded by a star a hundred millions of miles distant, as the poise of my body depends on the equilibrium of centrifugal and centripetal forces, so the hours should be instructed by the ages, and the ages explained by the hours.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:217,:586)",
-          "created_at": "2022-08-21 10:03:39 -0700",
-          "updated_at": "2022-08-21 10:03:40 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 70
-        },
-        {
-          "pk": 1919,
-          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
-          "chapter": "History",
-          "text": "There is a relation between the ",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/14[c01]!/4/2/12/1,:185,:216)",
-          "created_at": "2022-08-21 10:03:33 -0700",
-          "updated_at": "2022-08-21 10:03:33 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 6
-        },
-        {
-          "pk": 1918,
-          "book_id": "438209AF5BA95DC3BDBFF34BFA01EA94",
-          "chapter": "History",
-          "text": "Man is explicable by nothing less than all his history. Without hurry, without rest, the human spirit goes forth from the beginning to embody every faculty, every thought, every emotion, which belongs to it in appropriate events.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/14[c01]!/4/2/10/1,:105,:334)",
-          "created_at": "2022-08-21 09:58:11 -0700",
-          "updated_at": "2022-08-21 09:58:11 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 37
-        }
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/438209AF5BA95DC3BDBFF34BFA01EA94.jpg"
       }
     },
     {
@@ -20777,33 +22031,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "FD74A666B1BC5DAB426B126DEB42BADB",
-      "author": "UnknownAuthor",
-      "zauthor": "Sigmund Freud",
-      "title": "Um disturbio de memoria na acropole - Freud",
-      "ztitle": "Um disturbio de memoria na acropole",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 642809,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-08-07 22:31:56 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": null
-      }
-    },
-    {
       "book_id": "23DC1733E0182BB87013BBCEC7432D5D",
       "author": "Lucian of Samosata",
       "title": "The Works of Lucian of Samosata — Volume 01",
@@ -20826,32 +22053,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/23DC1733E0182BB87013BBCEC7432D5D.jpg"
-      }
-    },
-    {
-      "book_id": "FCE2F592FC04FC95EEBC55BE752C1F87",
-      "author": "Tania Rivera",
-      "title": "Cinema, imagem e psicanálise (Tania Rivera [Rivera, Tania]) (z-lib.org)",
-      "ztitle": "Cinema, imagem e psicanálise (Tania Rivera",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 630232,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-08-07 18:24:54 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/FCE2F592FC04FC95EEBC55BE752C1F87.jpg"
       }
     },
     {
@@ -20879,6 +22080,32 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/8764F9E83161FB7F964DDBBF0526E504.jpg"
+      }
+    },
+    {
+      "book_id": "FCE2F592FC04FC95EEBC55BE752C1F87",
+      "author": "Tania Rivera",
+      "title": "Cinema, imagem e psicanálise (Tania Rivera [Rivera, Tania]) (z-lib.org)",
+      "ztitle": "Cinema, imagem e psicanálise (Tania Rivera",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 630232,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-08-07 18:24:54 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/FCE2F592FC04FC95EEBC55BE752C1F87.jpg"
       }
     },
     {
@@ -21266,31 +22493,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "87E1906725265C1D818AA7C75500675C",
-      "author": "Alain Serres",
-      "title": "Mandela",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 375195,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-07-28 23:34:32 -0700",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/87E1906725265C1D818AA7C75500675C.jpg"
-      }
-    },
-    {
       "book_id": "4C66988501C06B2B166F2D72FC607964",
       "author": "UnknownAuthor",
       "zauthor": "Alain Badiou",
@@ -21315,6 +22517,31 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/4C66988501C06B2B166F2D72FC607964.jpg"
+      }
+    },
+    {
+      "book_id": "87E1906725265C1D818AA7C75500675C",
+      "author": "Alain Serres",
+      "title": "Mandela",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 375195,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-07-28 23:34:32 -0700",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/87E1906725265C1D818AA7C75500675C.jpg"
       }
     },
     {
@@ -22598,33 +23825,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "16D42D2A82CEC35BCF31B9073EE25A06",
-      "author": "UnknownAuthor",
-      "zauthor": "C. G. Jung",
-      "title": "Sincronicidade by C. G. Jung (z-lib.org)",
-      "ztitle": "Sincronicidade",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 72784914,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-05-19 22:07:16 -0700",
-      "cover": {
-        "src": "assets/images/16D42D2A82CEC35BCF31B9073EE25A06.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "84CCAF04FD3E8BBAF6767DE30ACFAA2E",
       "author": "CamScanner",
       "zauthor": "JD Nasio",
@@ -22644,6 +23844,33 @@ var ibook_history = {
       "asset_details_modification_date": "2022-05-19 22:07:16 -0700",
       "cover": {
         "src": "assets/images/84CCAF04FD3E8BBAF6767DE30ACFAA2E.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "16D42D2A82CEC35BCF31B9073EE25A06",
+      "author": "UnknownAuthor",
+      "zauthor": "C. G. Jung",
+      "title": "Sincronicidade by C. G. Jung (z-lib.org)",
+      "ztitle": "Sincronicidade",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 72784914,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-05-19 22:07:16 -0700",
+      "cover": {
+        "src": "assets/images/16D42D2A82CEC35BCF31B9073EE25A06.jpg"
       },
       "notes": [
 
@@ -23227,56 +24454,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "333A363A1F298E52FA862DEA02736F58",
-      "author": "Alice Munro",
-      "title": "Selected Stories",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 7616177,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/333A363A1F298E52FA862DEA02736F58.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "24F7E42592DE798CC7F32B67060D20C3",
-      "author": "Jean-Jacques Rosseau",
-      "title": "As confissões",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2550606,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/24F7E42592DE798CC7F32B67060D20C3.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "A84512BBA18EB3FC6B4F9F77F7714034",
       "author": "Richard E. Byrd",
       "title": "Alone",
@@ -23338,6 +24515,56 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
+      ]
+    },
+    {
+      "book_id": "24F7E42592DE798CC7F32B67060D20C3",
+      "author": "Jean-Jacques Rosseau",
+      "title": "As confissões",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2550606,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/24F7E42592DE798CC7F32B67060D20C3.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "333A363A1F298E52FA862DEA02736F58",
+      "author": "Alice Munro",
+      "title": "Selected Stories",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 7616177,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/333A363A1F298E52FA862DEA02736F58.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -23441,31 +24668,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "0B471B873D662EA52CEB58BCA7F794C6",
-      "author": "João Guimarães Rosa",
-      "title": "Campo Geral",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Ficção brasileira",
-      "lang": null,
-      "file_size": 3046422,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/0B471B873D662EA52CEB58BCA7F794C6.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "50B18E0C882AA563EEA3B6F01D326A86",
       "author": "Unknown",
       "zauthor": "Stuart Hall",
@@ -23508,6 +24710,31 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
         "src": "assets/images/49D9842694B017D819DC8568CBC029AF.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "0B471B873D662EA52CEB58BCA7F794C6",
+      "author": "João Guimarães Rosa",
+      "title": "Campo Geral",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Ficção brasileira",
+      "lang": null,
+      "file_size": 3046422,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/0B471B873D662EA52CEB58BCA7F794C6.jpg"
       },
       "notes": [
 
@@ -23580,31 +24807,6 @@ var ibook_history = {
           "type": 2,
           "words_count": 18
         }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "053D32C8131865EB34681D2E89131FD1",
-      "author": "Francisco Cândido Xavier",
-      "title": "Paulo E Estêvão",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Religião",
-      "lang": null,
-      "file_size": 1327302,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/053D32C8131865EB34681D2E89131FD1.jpg"
-      },
-      "notes": [
-
       ],
       "new_words": [
 
@@ -23935,6 +25137,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "053D32C8131865EB34681D2E89131FD1",
+      "author": "Francisco Cândido Xavier",
+      "title": "Paulo E Estêvão",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Religião",
+      "lang": null,
+      "file_size": 1327302,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/053D32C8131865EB34681D2E89131FD1.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "0E4F055C8B0B703DA2B26ED85FCBBCE2",
       "author": "Nelson Rodrigues",
       "title": "O reacionário",
@@ -23954,6 +25181,45 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "740E1EC5C977DCDD5EFDD5997B03112B",
+      "author": "Carl R. Rogers",
+      "title": "Tornar-se pessoa",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Psicologia - Psicoterapia - Aconselhamento",
+      "lang": null,
+      "file_size": 1600312,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/740E1EC5C977DCDD5EFDD5997B03112B.jpg"
+      },
+      "notes": [
+        {
+          "pk": 1018,
+          "book_id": "740E1EC5C977DCDD5EFDD5997B03112B",
+          "chapter": null,
+          "text": ". Por outro lado “desejar ser aquele eu que realmente se é, constitui na verdade o oposto do desespero”, e esta escolha constitui a mais profunda responsabilidade do homem. ",
+          "sentence": "Ele destaca que o desespero mais comum é estar desesperado por não escolher, ou não estar disposto a ser ele mesmo; porém, a forma mais profunda de desespero é escolher “ser outra pessoa que não ele mesmo”. Por outro lado “desejar ser aquele eu que realmente se é, constitui na verdade o oposto do desespero”, e esta escolha constitui a mais profunda responsabilidade do homem. À medida que leio alguns de seus escritos, quase que sinto que ele esteve escutando algumas das afirmações feitas por nossos clientes ao buscarem e explorarem a realidade do eu – freqüentemente uma busca dolorosa e inquietante.\n",
+          "note": null,
+          "path": "epubcfi(/6/28[id51]!/4/28/3,:228,:401)",
+          "created_at": "2022-02-16 13:07:51 -0800",
+          "updated_at": "2022-02-16 13:07:51 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 29
+        }
       ],
       "new_words": [
 
@@ -24314,45 +25580,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "740E1EC5C977DCDD5EFDD5997B03112B",
-      "author": "Carl R. Rogers",
-      "title": "Tornar-se pessoa",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Psicologia - Psicoterapia - Aconselhamento",
-      "lang": null,
-      "file_size": 1600312,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/740E1EC5C977DCDD5EFDD5997B03112B.jpg"
-      },
-      "notes": [
-        {
-          "pk": 1018,
-          "book_id": "740E1EC5C977DCDD5EFDD5997B03112B",
-          "chapter": null,
-          "text": ". Por outro lado “desejar ser aquele eu que realmente se é, constitui na verdade o oposto do desespero”, e esta escolha constitui a mais profunda responsabilidade do homem. ",
-          "sentence": "Ele destaca que o desespero mais comum é estar desesperado por não escolher, ou não estar disposto a ser ele mesmo; porém, a forma mais profunda de desespero é escolher “ser outra pessoa que não ele mesmo”. Por outro lado “desejar ser aquele eu que realmente se é, constitui na verdade o oposto do desespero”, e esta escolha constitui a mais profunda responsabilidade do homem. À medida que leio alguns de seus escritos, quase que sinto que ele esteve escutando algumas das afirmações feitas por nossos clientes ao buscarem e explorarem a realidade do eu – freqüentemente uma busca dolorosa e inquietante.\n",
-          "note": null,
-          "path": "epubcfi(/6/28[id51]!/4/28/3,:228,:401)",
-          "created_at": "2022-02-16 13:07:51 -0800",
-          "updated_at": "2022-02-16 13:07:51 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 29
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "34A7B1B18F5BFC8A25A7A72D9C7EF387",
       "author": "Isaac Newton",
       "title": "As profecias do Apocalipse e o livro de Daniel : as raízes do Código da Bíblia",
@@ -24491,6 +25718,31 @@ var ibook_history = {
           "type": 2,
           "words_count": 73
         }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "6B26008B5904F4AACC34A0F636C0FFA6",
+      "author": "Elias Canetti",
+      "title": "Auto de Fé",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1482973,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/6B26008B5904F4AACC34A0F636C0FFA6.jpg"
+      },
+      "notes": [
+
       ],
       "new_words": [
 
@@ -24910,31 +26162,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "6B26008B5904F4AACC34A0F636C0FFA6",
-      "author": "Elias Canetti",
-      "title": "Auto de Fé",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1482973,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/6B26008B5904F4AACC34A0F636C0FFA6.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "A92F7BB0898BF9AB4785F227856FF47A",
       "author": "Joao Guimaraes Rosa",
       "title": "Primeiras Estorias",
@@ -24951,31 +26178,6 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
         "src": "assets/images/A92F7BB0898BF9AB4785F227856FF47A.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "B1326F9EC70AE47A5B9A06AFF27082E9",
-      "author": "Leil Lowndes",
-      "title": "How to Talk to Anyone",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Language Arts & Disciplines",
-      "lang": null,
-      "file_size": 599894,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/B1326F9EC70AE47A5B9A06AFF27082E9.jpg"
       },
       "notes": [
 
@@ -25968,6 +27170,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "B1326F9EC70AE47A5B9A06AFF27082E9",
+      "author": "Leil Lowndes",
+      "title": "How to Talk to Anyone",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Language Arts & Disciplines",
+      "lang": null,
+      "file_size": 599894,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/B1326F9EC70AE47A5B9A06AFF27082E9.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "449DA0D6FB692D029D52C6412375D656",
       "author": "Paulo  Freire",
       "zauthor": "Paulo Freire",
@@ -26458,6 +27685,70 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "21B4AD37EA0B4BD8B57AC11728AEC438",
+      "author": "Paulo Evaristo Arns",
+      "title": "Brasil Nunca Mais",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1646492,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/21B4AD37EA0B4BD8B57AC11728AEC438.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "7B33C51710C13E5677CC788A0887E7ED",
+      "author": "Rachel Carson",
+      "title": "Silent Spring",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Science",
+      "lang": null,
+      "file_size": 1984605,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/7B33C51710C13E5677CC788A0887E7ED.jpg"
+      },
+      "notes": [
+        {
+          "pk": 816,
+          "book_id": "7B33C51710C13E5677CC788A0887E7ED",
+          "chapter": null,
+          "text": "grass-roots movement",
+          "sentence": "When Carson died barely eighteen months later in the spring of 1964, at the age of fifty-six, she had set in motion a course of events that would result in a ban on the domestic production of DDT and the creation of a grass-roots movement demanding protection of the environment through state and federal regulation. ",
+          "note": null,
+          "path": "epubcfi(/6/16[front06]!/4/6/11,:436,:456)",
+          "created_at": "2021-12-21 17:18:52 -0800",
+          "updated_at": "2021-12-21 17:18:52 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 2
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "A9021CED858C6D7DF088068B4EFE2561",
       "author": "Elias Canetti",
       "title": "Massa e poder",
@@ -26516,70 +27807,6 @@ var ibook_history = {
           "path": "epubcfi(/6/14[MASSA_E_PODER_0001.xhtml]!/4/48/2/1,:0,:10)",
           "created_at": "2022-01-08 20:23:29 -0800",
           "updated_at": "2022-01-08 20:23:29 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 2
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "21B4AD37EA0B4BD8B57AC11728AEC438",
-      "author": "Paulo Evaristo Arns",
-      "title": "Brasil Nunca Mais",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1646492,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/21B4AD37EA0B4BD8B57AC11728AEC438.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "7B33C51710C13E5677CC788A0887E7ED",
-      "author": "Rachel Carson",
-      "title": "Silent Spring",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Science",
-      "lang": null,
-      "file_size": 1984605,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/7B33C51710C13E5677CC788A0887E7ED.jpg"
-      },
-      "notes": [
-        {
-          "pk": 816,
-          "book_id": "7B33C51710C13E5677CC788A0887E7ED",
-          "chapter": null,
-          "text": "grass-roots movement",
-          "sentence": "When Carson died barely eighteen months later in the spring of 1964, at the age of fifty-six, she had set in motion a course of events that would result in a ban on the domestic production of DDT and the creation of a grass-roots movement demanding protection of the environment through state and federal regulation. ",
-          "note": null,
-          "path": "epubcfi(/6/16[front06]!/4/6/11,:436,:456)",
-          "created_at": "2021-12-21 17:18:52 -0800",
-          "updated_at": "2021-12-21 17:18:52 -0800",
           "is_inderline": 0,
           "color": 3,
           "type": 2,
@@ -26899,31 +28126,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "0ED776FCF583C943B3E5173DDAA1259D",
-      "author": "Ariano Suassuna",
-      "title": "Seleta em prosa e verso",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2066984,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/0ED776FCF583C943B3E5173DDAA1259D.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "36CD562C27690661456FC2DF60C8294F",
       "author": "Leo Tolstoy",
       "title": "What is Art?",
@@ -27082,6 +28284,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "0ED776FCF583C943B3E5173DDAA1259D",
+      "author": "Ariano Suassuna",
+      "title": "Seleta em prosa e verso",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2066984,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/0ED776FCF583C943B3E5173DDAA1259D.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "61E43CD9705F98A7B59C14CD30B3160B",
       "author": "Cora Coralina",
       "title": "Meu Livro de Cordel",
@@ -27162,31 +28389,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "85BBE45A27F4169A8470395C83A97DC0",
-      "author": "João Guimarães Rosa",
-      "title": "Ave, Palavra",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 3006184,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/85BBE45A27F4169A8470395C83A97DC0.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "57C8368BDC812DF3D62121AF6F9E3C6D",
       "author": "Albert Einstein",
       "title": "Como Vejo o Mundo - Col. Saraiva de Bolso",
@@ -27228,6 +28430,31 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
         "src": "assets/images/717D20BA21BED335064BFB50976ADD5B.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "85BBE45A27F4169A8470395C83A97DC0",
+      "author": "João Guimarães Rosa",
+      "title": "Ave, Palavra",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 3006184,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/85BBE45A27F4169A8470395C83A97DC0.jpg"
       },
       "notes": [
 
@@ -27306,6 +28533,106 @@ var ibook_history = {
       },
       "notes": [
 
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "76287EAF4902986C599FD98FBC5BC160",
+      "author": "Rubem Alves",
+      "title": "Gandhi – A magia dos gestos poéticos - Rubem Alves",
+      "ztitle": "Gandhi – A magia dos gestos poéticos",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Autores Nacionais",
+      "lang": null,
+      "file_size": 249181,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
+      "cover": {
+        "src": "assets/images/76287EAF4902986C599FD98FBC5BC160.jpg"
+      },
+      "notes": [
+        {
+          "pk": 1045,
+          "book_id": "76287EAF4902986C599FD98FBC5BC160",
+          "chapter": null,
+          "text": "O poeta é um ser que é capaz de despertar o bem que dorme no fundo do coração humano.",
+          "sentence": "O poeta é um ser que é capaz de despertar o bem que dorme no fundo do coração humano. ",
+          "note": null,
+          "path": "epubcfi(/6/4[id0]!/4/122/1,:1422,:1507)",
+          "created_at": "2022-02-09 00:14:37 -0800",
+          "updated_at": "2022-02-09 00:14:37 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 18
+        },
+        {
+          "pk": 1036,
+          "book_id": "76287EAF4902986C599FD98FBC5BC160",
+          "chapter": null,
+          "text": "estos que trouxessem de novo à vida coisas que pareciam mortas,",
+          "sentence": "Mas eu podería ser um poeta dos gestos, gestos que trouxessem de novo à vida coisas que pareciam mortas, gestos de encantamento e sedução. ",
+          "note": null,
+          "path": "epubcfi(/6/4[id0]!/4/124/1,:246,:309)",
+          "created_at": "2022-02-09 00:15:58 -0800",
+          "updated_at": "2022-02-09 00:15:58 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 10
+        },
+        {
+          "pk": 1034,
+          "book_id": "76287EAF4902986C599FD98FBC5BC160",
+          "chapter": null,
+          "text": "Precisa-se de muito pouca coisa para se ter paz e harmonia",
+          "sentence": "Precisa-se de muito pouca coisa para se ter paz e harmonia: a alegria vem quando as pessoas bebem de suas próprias fontes frescas a verdade que nelas mora. ",
+          "note": null,
+          "path": "epubcfi(/6/4[id0]!/4/162/1,:595,:653)",
+          "created_at": "2022-02-10 08:43:59 -0800",
+          "updated_at": "2022-02-10 08:43:59 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 10
+        },
+        {
+          "pk": 1016,
+          "book_id": "76287EAF4902986C599FD98FBC5BC160",
+          "chapter": null,
+          "text": " Os poemas fazem o corpo sorrir e lutar",
+          "sentence": "Não, eles não vivem só de comida. Os poemas fazem o corpo sorrir e lutar: alimento revigorante.",
+          "note": null,
+          "path": "epubcfi(/6/4[id0]!/4/126/1,:274,:313)",
+          "created_at": "2022-02-09 00:19:15 -0800",
+          "updated_at": "2022-02-09 00:19:15 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 1011,
+          "book_id": "76287EAF4902986C599FD98FBC5BC160",
+          "chapter": null,
+          "text": "os homens sejam naturalmente bons e belos, z lugares onde a vida cresce.",
+          "sentence": "Parece que os ocidentais não acreditam que os homens sejam naturalmente bons e belos, z lugares onde a vida cresce. ",
+          "note": null,
+          "path": "epubcfi(/6/4[id0]!/4/156,/3:89,/5:27)",
+          "created_at": "2022-02-10 08:40:21 -0800",
+          "updated_at": "2022-02-10 08:40:21 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 11
+        }
       ],
       "new_words": [
 
@@ -27860,100 +29187,25 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "76287EAF4902986C599FD98FBC5BC160",
-      "author": "Rubem Alves",
-      "title": "Gandhi – A magia dos gestos poéticos - Rubem Alves",
-      "ztitle": "Gandhi – A magia dos gestos poéticos",
+      "book_id": "08EB1B895088F69E144F28208822577E",
+      "author": "Daron Acemoglu",
+      "title": "Why Nations Fail",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Autores Nacionais",
+      "genre": null,
       "lang": null,
-      "file_size": 249181,
+      "file_size": 15221653,
       "page_count": 0,
       "created_at": "2022-09-17 01:04:32 -0700",
       "updated_at": "2022-09-17 01:04:30 -0700",
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
-        "src": "assets/images/76287EAF4902986C599FD98FBC5BC160.jpg"
+        "src": "assets/images/08EB1B895088F69E144F28208822577E.jpg"
       },
       "notes": [
-        {
-          "pk": 1045,
-          "book_id": "76287EAF4902986C599FD98FBC5BC160",
-          "chapter": null,
-          "text": "O poeta é um ser que é capaz de despertar o bem que dorme no fundo do coração humano.",
-          "sentence": "O poeta é um ser que é capaz de despertar o bem que dorme no fundo do coração humano. ",
-          "note": null,
-          "path": "epubcfi(/6/4[id0]!/4/122/1,:1422,:1507)",
-          "created_at": "2022-02-09 00:14:37 -0800",
-          "updated_at": "2022-02-09 00:14:37 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 18
-        },
-        {
-          "pk": 1036,
-          "book_id": "76287EAF4902986C599FD98FBC5BC160",
-          "chapter": null,
-          "text": "estos que trouxessem de novo à vida coisas que pareciam mortas,",
-          "sentence": "Mas eu podería ser um poeta dos gestos, gestos que trouxessem de novo à vida coisas que pareciam mortas, gestos de encantamento e sedução. ",
-          "note": null,
-          "path": "epubcfi(/6/4[id0]!/4/124/1,:246,:309)",
-          "created_at": "2022-02-09 00:15:58 -0800",
-          "updated_at": "2022-02-09 00:15:58 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 10
-        },
-        {
-          "pk": 1034,
-          "book_id": "76287EAF4902986C599FD98FBC5BC160",
-          "chapter": null,
-          "text": "Precisa-se de muito pouca coisa para se ter paz e harmonia",
-          "sentence": "Precisa-se de muito pouca coisa para se ter paz e harmonia: a alegria vem quando as pessoas bebem de suas próprias fontes frescas a verdade que nelas mora. ",
-          "note": null,
-          "path": "epubcfi(/6/4[id0]!/4/162/1,:595,:653)",
-          "created_at": "2022-02-10 08:43:59 -0800",
-          "updated_at": "2022-02-10 08:43:59 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 10
-        },
-        {
-          "pk": 1016,
-          "book_id": "76287EAF4902986C599FD98FBC5BC160",
-          "chapter": null,
-          "text": " Os poemas fazem o corpo sorrir e lutar",
-          "sentence": "Não, eles não vivem só de comida. Os poemas fazem o corpo sorrir e lutar: alimento revigorante.",
-          "note": null,
-          "path": "epubcfi(/6/4[id0]!/4/126/1,:274,:313)",
-          "created_at": "2022-02-09 00:19:15 -0800",
-          "updated_at": "2022-02-09 00:19:15 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 8
-        },
-        {
-          "pk": 1011,
-          "book_id": "76287EAF4902986C599FD98FBC5BC160",
-          "chapter": null,
-          "text": "os homens sejam naturalmente bons e belos, z lugares onde a vida cresce.",
-          "sentence": "Parece que os ocidentais não acreditam que os homens sejam naturalmente bons e belos, z lugares onde a vida cresce. ",
-          "note": null,
-          "path": "epubcfi(/6/4[id0]!/4/156,/3:89,/5:27)",
-          "created_at": "2022-02-10 08:40:21 -0800",
-          "updated_at": "2022-02-10 08:40:21 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 11
-        }
+
       ],
       "new_words": [
 
@@ -27985,31 +29237,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "08EB1B895088F69E144F28208822577E",
-      "author": "Daron Acemoglu",
-      "title": "Why Nations Fail",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 15221653,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
-      "cover": {
-        "src": "assets/images/08EB1B895088F69E144F28208822577E.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "7AF1B62FD69A9046999D24FF166C08BE",
       "author": "Rubem Fonseca",
       "title": "Romance Negro",
@@ -28026,6 +29253,81 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-05 22:42:02 -0800",
       "cover": {
         "src": "assets/images/7AF1B62FD69A9046999D24FF166C08BE.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "986B1351CBFA4C911462E08FE2E9B101",
+      "author": "Vladimir Nabokov",
+      "title": "Lectures on Don Quixote",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 681320,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/986B1351CBFA4C911462E08FE2E9B101.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "B1D5F1B40ABBFACB66C429ABB9A76E80",
+      "author": "Paulo Freire",
+      "title": "A África ensinando a gente: Angola, Guiné-Bissau, São Tomé e Príncipe",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1688447,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/B1D5F1B40ABBFACB66C429ABB9A76E80.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "B2F4383CA34AE01550436F666946CE1A",
+      "author": "Gianni Carta",
+      "title": "Garibaldi na América do Sul",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Vida e Obra",
+      "lang": null,
+      "file_size": 3359384,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/B2F4383CA34AE01550436F666946CE1A.jpg"
       },
       "notes": [
 
@@ -28433,81 +29735,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "986B1351CBFA4C911462E08FE2E9B101",
-      "author": "Vladimir Nabokov",
-      "title": "Lectures on Don Quixote",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 681320,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/986B1351CBFA4C911462E08FE2E9B101.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "B1D5F1B40ABBFACB66C429ABB9A76E80",
-      "author": "Paulo Freire",
-      "title": "A África ensinando a gente: Angola, Guiné-Bissau, São Tomé e Príncipe",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1688447,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/B1D5F1B40ABBFACB66C429ABB9A76E80.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "B2F4383CA34AE01550436F666946CE1A",
-      "author": "Gianni Carta",
-      "title": "Garibaldi na América do Sul",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Vida e Obra",
-      "lang": null,
-      "file_size": 3359384,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/B2F4383CA34AE01550436F666946CE1A.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "645A409CF346962815F11798424A930A",
       "author": "Álvares de Azevedo",
       "title": "Macário",
@@ -28527,45 +29754,6 @@ var ibook_history = {
       },
       "notes": [
 
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
-      "author": "Vários autores",
-      "title": "O goleiro e outros textos sobre futebol",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2551398,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/E5D89DDF2CE42E380AC9BB95DBFCE665.jpg"
-      },
-      "notes": [
-        {
-          "pk": 4,
-          "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
-          "chapter": null,
-          "text": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.",
-          "sentence": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.\n",
-          "note": null,
-          "path": "epubcfi(/6/14[GoleiroEOutrosTextos-4.xhtml]!/4/2/16/1,:0,:266)",
-          "created_at": "2020-12-18 21:46:43 -0800",
-          "updated_at": "2020-12-18 21:46:43 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 51
-        }
       ],
       "new_words": [
 
@@ -28861,6 +30049,45 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
+      "author": "Vários autores",
+      "title": "O goleiro e outros textos sobre futebol",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2551398,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/E5D89DDF2CE42E380AC9BB95DBFCE665.jpg"
+      },
+      "notes": [
+        {
+          "pk": 4,
+          "book_id": "E5D89DDF2CE42E380AC9BB95DBFCE665",
+          "chapter": null,
+          "text": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.",
+          "sentence": "E criarei para o Brasil oradores eloquentes; a estes darei a ambição, mas não a sabedoria; e criarei uns poucos homens sábios; e a estes não darei nem a ambição, nem a eloquência. A fim de que as discussões se prolonguem e que o povo se perca pela boca dos oradores.\n",
+          "note": null,
+          "path": "epubcfi(/6/14[GoleiroEOutrosTextos-4.xhtml]!/4/2/16/1,:0,:266)",
+          "created_at": "2020-12-18 21:46:43 -0800",
+          "updated_at": "2020-12-18 21:46:43 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 51
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "27FA50A53C7076EC036DC377D366741D",
       "author": "Jon M. Sweeney",
       "title": "St. Francis of Assisi in His Own Words",
@@ -28877,31 +30104,6 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
         "src": "assets/images/27FA50A53C7076EC036DC377D366741D.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "8780689C3CAC2950549EF57D5B16CB97",
-      "author": "Douglass, Frederick - Stepto, Robert B.",
-      "title": "Narrative of the Life of Frederick Douglass, an American Slave Written by Himself  ",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 613853,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/8780689C3CAC2950549EF57D5B16CB97.jpg"
       },
       "notes": [
 
@@ -28989,6 +30191,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "8780689C3CAC2950549EF57D5B16CB97",
+      "author": "Douglass, Frederick - Stepto, Robert B.",
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave Written by Himself  ",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 613853,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/8780689C3CAC2950549EF57D5B16CB97.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "27FFB33127DAF3F8BDC9B3653E9AD849",
       "author": "Eucanaã Ferraz",
       "title": "Sentimental",
@@ -29036,45 +30263,6 @@ var ibook_history = {
           "color": 3,
           "type": 2,
           "words_count": 37
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "AAC395D1EC2C4487B356C2DBF18F75DF",
-      "author": "Zygmunt Bauman",
-      "title": "Em Busca da Política",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1014421,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/AAC395D1EC2C4487B356C2DBF18F75DF.jpg"
-      },
-      "notes": [
-        {
-          "pk": 238,
-          "book_id": "AAC395D1EC2C4487B356C2DBF18F75DF",
-          "chapter": null,
-          "text": "“cínico” e “clínico”. O saber pode ser usado de forma “cínica”: sendo o mundo o que é, pensemos numa estratégia que me permitirá utilizar as suas regras para tirar o máximo de vantagem; quer o mundo seja justo ou injusto, agradável ou não, isso não vem ao caso. Quando é usado “clinicamente”, esse mesmo conhecimento do funcionamento da sociedade pode nos ajudar a combater o que vemos de impróprio, perigoso ou ofensivo à nossa moralidade. ",
-          "sentence": "Vez e outra, isso nos permite dois usos distintos, que Pierre Bourdieu chamou apropriadamente de “cínico” e “clínico”. O saber pode ser usado de forma “cínica”: sendo o mundo o que é, pensemos numa estratégia que me permitirá utilizar as suas regras para tirar o máximo de vantagem; quer o mundo seja justo ou injusto, agradável ou não, isso não vem ao caso. Quando é usado “clinicamente”, esse mesmo conhecimento do funcionamento da sociedade pode nos ajudar a combater o que vemos de impróprio, perigoso ou ofensivo à nossa moralidade. Por isso, o saber não determina a qual dos dois usos recorremos. ",
-          "note": null,
-          "path": "epubcfi(/6/12[body007]!/4/8/1,:484,:925)",
-          "created_at": "2021-07-23 23:11:55 -0700",
-          "updated_at": "2021-07-23 23:11:55 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 75
         }
       ],
       "new_words": [
@@ -29361,6 +30549,45 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "AAC395D1EC2C4487B356C2DBF18F75DF",
+      "author": "Zygmunt Bauman",
+      "title": "Em Busca da Política",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1014421,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/AAC395D1EC2C4487B356C2DBF18F75DF.jpg"
+      },
+      "notes": [
+        {
+          "pk": 238,
+          "book_id": "AAC395D1EC2C4487B356C2DBF18F75DF",
+          "chapter": null,
+          "text": "“cínico” e “clínico”. O saber pode ser usado de forma “cínica”: sendo o mundo o que é, pensemos numa estratégia que me permitirá utilizar as suas regras para tirar o máximo de vantagem; quer o mundo seja justo ou injusto, agradável ou não, isso não vem ao caso. Quando é usado “clinicamente”, esse mesmo conhecimento do funcionamento da sociedade pode nos ajudar a combater o que vemos de impróprio, perigoso ou ofensivo à nossa moralidade. ",
+          "sentence": "Vez e outra, isso nos permite dois usos distintos, que Pierre Bourdieu chamou apropriadamente de “cínico” e “clínico”. O saber pode ser usado de forma “cínica”: sendo o mundo o que é, pensemos numa estratégia que me permitirá utilizar as suas regras para tirar o máximo de vantagem; quer o mundo seja justo ou injusto, agradável ou não, isso não vem ao caso. Quando é usado “clinicamente”, esse mesmo conhecimento do funcionamento da sociedade pode nos ajudar a combater o que vemos de impróprio, perigoso ou ofensivo à nossa moralidade. Por isso, o saber não determina a qual dos dois usos recorremos. ",
+          "note": null,
+          "path": "epubcfi(/6/12[body007]!/4/8/1,:484,:925)",
+          "created_at": "2021-07-23 23:11:55 -0700",
+          "updated_at": "2021-07-23 23:11:55 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 75
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "27277727F9B0684E09DACC8440AC0A71",
       "author": "Daron Acemoglu",
       "title": "The Narrow Corridor",
@@ -29465,31 +30692,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "FB5C09659D63AF0C018F65707D213403",
-      "author": "Thomas Mann",
-      "title": "Discursos contra Hitler",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 550266,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/FB5C09659D63AF0C018F65707D213403.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "F92A84389D840B24F639B41175AE7D17",
       "author": "José Saramago",
       "title": "As Intermitências da Morte",
@@ -29540,22 +30742,22 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "CB27E5D74379F0C4AB49C6509C4EA2A4",
-      "author": "Marcel Souto Maior",
-      "title": "Kardec: a biografia",
+      "book_id": "FB5C09659D63AF0C018F65707D213403",
+      "author": "Thomas Mann",
+      "title": "Discursos contra Hitler",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "1. Allan Kardec",
+      "genre": null,
       "lang": null,
-      "file_size": 1954986,
+      "file_size": 550266,
       "page_count": 0,
       "created_at": "2022-09-17 01:04:32 -0700",
       "updated_at": "2022-09-17 01:04:30 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "assets/images/CB27E5D74379F0C4AB49C6509C4EA2A4.jpg"
+        "src": "assets/images/FB5C09659D63AF0C018F65707D213403.jpg"
       },
       "notes": [
 
@@ -30117,6 +31319,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "CB27E5D74379F0C4AB49C6509C4EA2A4",
+      "author": "Marcel Souto Maior",
+      "title": "Kardec: a biografia",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "1. Allan Kardec",
+      "lang": null,
+      "file_size": 1954986,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/CB27E5D74379F0C4AB49C6509C4EA2A4.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "36BC6FB6EE746CA4D78F2B97F80E397F",
       "author": "Bernard-Henri Levy",
       "title": "The Will to See",
@@ -30168,6 +31395,115 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
+      ]
+    },
+    {
+      "book_id": "BA8BCB876E769EFA8CECF0840816C023",
+      "author": "Oswald de Andrade",
+      "title": "MIRAMAR-SERAFIM",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 813151,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/BA8BCB876E769EFA8CECF0840816C023.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "076FA582D9293714117D948BD6BE2987",
+      "author": "Masi, Domenico de",
+      "title": "O Futuro Chegou",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 2514616,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/076FA582D9293714117D948BD6BE2987.jpg"
+      },
+      "notes": [
+        {
+          "pk": 17,
+          "book_id": "076FA582D9293714117D948BD6BE2987",
+          "chapter": null,
+          "text": "o senso de harmonia, a complacência, a moderação, a sobriedade, a amabilidade e a tolerância,",
+          "sentence": "Mas, quando Zweig encontra e decanta no atual “tipo antropológico brasileiro” virtudes como o senso de harmonia, a complacência, a moderação, a sobriedade, a amabilidade e a tolerância, a quem atribui esses elementos característicos da doçura brasileira? ",
+          "note": null,
+          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/78/2/1,:308,:401)",
+          "created_at": "2021-01-03 17:56:01 -0800",
+          "updated_at": "2021-01-03 17:56:01 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 15,
+          "book_id": "076FA582D9293714117D948BD6BE2987",
+          "chapter": null,
+          "text": "vida é mais importante do que o tempo, e não vale a pena fatigar-se além do necessário se o céu, o mar, o clima e a natureza já oferecem tudo aquilo que basta para satisfazer.",
+          "sentence": "Para o brasileiro do século XX, bem como para o napolitano do século XIX, valia o estereótipo segundo o qual a vida é mais importante do que o tempo, e não vale a pena fatigar-se além do necessário se o céu, o mar, o clima e a natureza já oferecem tudo aquilo que basta para satisfazer.\n",
+          "note": null,
+          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/104/2/1,:423,:598)",
+          "created_at": "2021-01-03 18:05:10 -0800",
+          "updated_at": "2021-01-03 18:05:10 -0800",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 35
+        },
+        {
+          "pk": 13,
+          "book_id": "076FA582D9293714117D948BD6BE2987",
+          "chapter": null,
+          "text": "“desleixada, remissa e algo melancólica",
+          "sentence": "Do ponto de vista psicológico, era tranquilo, sonhador, sentimental, desprovido de brutalidade, violência, grosseria, prepotência e presunção, além de propenso à melancolia que já em 1585 Anchieta e padre Cardim constatavam nessa terra “desleixada, remissa e algo melancólica”.\n",
+          "note": null,
+          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/96/4/1,:37,:76)",
+          "created_at": "2021-01-03 18:01:57 -0800",
+          "updated_at": "2021-01-03 18:01:57 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 5
+        },
+        {
+          "pk": 12,
+          "book_id": "076FA582D9293714117D948BD6BE2987",
+          "chapter": null,
+          "text": "míticas civilizações tupi e tapuia",
+          "sentence": "Por isso, é mais certo dizer que a história dos brasileiros é longuíssima, que funda suas raízes nas míticas civilizações tupi e tapuia, e que exatamente dessas raízes provém a sua melhor parte.\n",
+          "note": null,
+          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/90/2/1,:101,:135)",
+          "created_at": "2021-01-03 18:00:06 -0800",
+          "updated_at": "2021-01-03 18:00:06 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 5
+        }
+      ],
+      "new_words": [
+
       ]
     },
     {
@@ -30509,115 +31845,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "BA8BCB876E769EFA8CECF0840816C023",
-      "author": "Oswald de Andrade",
-      "title": "MIRAMAR-SERAFIM",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 813151,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/BA8BCB876E769EFA8CECF0840816C023.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "076FA582D9293714117D948BD6BE2987",
-      "author": "Masi, Domenico de",
-      "title": "O Futuro Chegou",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2514616,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/076FA582D9293714117D948BD6BE2987.jpg"
-      },
-      "notes": [
-        {
-          "pk": 17,
-          "book_id": "076FA582D9293714117D948BD6BE2987",
-          "chapter": null,
-          "text": "o senso de harmonia, a complacência, a moderação, a sobriedade, a amabilidade e a tolerância,",
-          "sentence": "Mas, quando Zweig encontra e decanta no atual “tipo antropológico brasileiro” virtudes como o senso de harmonia, a complacência, a moderação, a sobriedade, a amabilidade e a tolerância, a quem atribui esses elementos característicos da doçura brasileira? ",
-          "note": null,
-          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/78/2/1,:308,:401)",
-          "created_at": "2021-01-03 17:56:01 -0800",
-          "updated_at": "2021-01-03 17:56:01 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 15
-        },
-        {
-          "pk": 15,
-          "book_id": "076FA582D9293714117D948BD6BE2987",
-          "chapter": null,
-          "text": "vida é mais importante do que o tempo, e não vale a pena fatigar-se além do necessário se o céu, o mar, o clima e a natureza já oferecem tudo aquilo que basta para satisfazer.",
-          "sentence": "Para o brasileiro do século XX, bem como para o napolitano do século XIX, valia o estereótipo segundo o qual a vida é mais importante do que o tempo, e não vale a pena fatigar-se além do necessário se o céu, o mar, o clima e a natureza já oferecem tudo aquilo que basta para satisfazer.\n",
-          "note": null,
-          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/104/2/1,:423,:598)",
-          "created_at": "2021-01-03 18:05:10 -0800",
-          "updated_at": "2021-01-03 18:05:10 -0800",
-          "is_inderline": 0,
-          "color": 5,
-          "type": 2,
-          "words_count": 35
-        },
-        {
-          "pk": 13,
-          "book_id": "076FA582D9293714117D948BD6BE2987",
-          "chapter": null,
-          "text": "“desleixada, remissa e algo melancólica",
-          "sentence": "Do ponto de vista psicológico, era tranquilo, sonhador, sentimental, desprovido de brutalidade, violência, grosseria, prepotência e presunção, além de propenso à melancolia que já em 1585 Anchieta e padre Cardim constatavam nessa terra “desleixada, remissa e algo melancólica”.\n",
-          "note": null,
-          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/96/4/1,:37,:76)",
-          "created_at": "2021-01-03 18:01:57 -0800",
-          "updated_at": "2021-01-03 18:01:57 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 5
-        },
-        {
-          "pk": 12,
-          "book_id": "076FA582D9293714117D948BD6BE2987",
-          "chapter": null,
-          "text": "míticas civilizações tupi e tapuia",
-          "sentence": "Por isso, é mais certo dizer que a história dos brasileiros é longuíssima, que funda suas raízes nas míticas civilizações tupi e tapuia, e que exatamente dessas raízes provém a sua melhor parte.\n",
-          "note": null,
-          "path": "epubcfi(/6/74[id371]!/4[x9788577344284_o_futuro_chegou]/2/90/2/1,:101,:135)",
-          "created_at": "2021-01-03 18:00:06 -0800",
-          "updated_at": "2021-01-03 18:00:06 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 5
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "C2A8D49F42F2652F20CC19BA6594E066",
       "author": "Han, Byung-Chul; Steuer, Daniel;",
       "title": "Saving Beauty",
@@ -30867,31 +32094,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "7B7725E896ADCB5980DC62B5AF494E9C",
-      "author": "Hannah Arendt",
-      "title": "Homens em tempos sombrios",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1594616,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/7B7725E896ADCB5980DC62B5AF494E9C.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "3CBAD8DF121D647D0747C86D9424F029",
       "author": "Calvino, Italo",
       "title": "As cidades invisíveis",
@@ -30946,6 +32148,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "7B7725E896ADCB5980DC62B5AF494E9C",
+      "author": "Hannah Arendt",
+      "title": "Homens em tempos sombrios",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1594616,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/7B7725E896ADCB5980DC62B5AF494E9C.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "9CE992BBC6F94919C3B7456A122467CF",
       "author": "Máximo Górki",
       "title": "A mãe",
@@ -30962,31 +32189,6 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
         "src": "assets/images/9CE992BBC6F94919C3B7456A122467CF.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "1E2D3DDCAD15755FB86989CFCBCCCA3C",
-      "author": "Leo Tolstoy",
-      "title": "The Gospel in Brief",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1053654,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/1E2D3DDCAD15755FB86989CFCBCCCA3C.jpg"
       },
       "notes": [
 
@@ -31021,6 +32223,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "1E2D3DDCAD15755FB86989CFCBCCCA3C",
+      "author": "Leo Tolstoy",
+      "title": "The Gospel in Brief",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1053654,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/1E2D3DDCAD15755FB86989CFCBCCCA3C.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "314C546B81A8C2CB1118BFB571650893",
       "author": "Gabriel Garcia Márquez",
       "title": "Doze Contos Peregrinos",
@@ -31037,6 +32264,31 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
         "src": "assets/images/314C546B81A8C2CB1118BFB571650893.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "FD9D8A8E9D2F90DAD658B3F3BD70BD4E",
+      "author": "Joseph E. Stiglitz",
+      "title": "The Price of Inequality: How Today's Divided Society Endangers Our Future",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": "Business & Economics",
+      "lang": null,
+      "file_size": 1526606,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/FD9D8A8E9D2F90DAD658B3F3BD70BD4E.jpg"
       },
       "notes": [
 
@@ -31336,31 +32588,6 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
-    },
-    {
-      "book_id": "FD9D8A8E9D2F90DAD658B3F3BD70BD4E",
-      "author": "Joseph E. Stiglitz",
-      "title": "The Price of Inequality: How Today's Divided Society Endangers Our Future",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": "Business & Economics",
-      "lang": null,
-      "file_size": 1526606,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/FD9D8A8E9D2F90DAD658B3F3BD70BD4E.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
       ]
     },
     {
@@ -31703,31 +32930,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "BD0178E15707353DD73331996D5406FD",
-      "author": "James Cook",
-      "title": "The Journals of Captain Cook",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 12123034,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/BD0178E15707353DD73331996D5406FD.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "C5F330781A0703B61355618656A88192",
       "author": "José Saramago",
       "title": "Folhas políticas",
@@ -31792,6 +32994,31 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "BD0178E15707353DD73331996D5406FD",
+      "author": "James Cook",
+      "title": "The Journals of Captain Cook",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 12123034,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/BD0178E15707353DD73331996D5406FD.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "4DB94D3141C3EA3C405468A697DD56DA",
       "author": "Leslie Holmes",
       "title": "Corruption: A Very Short Introduction (Very Short Introductions)",
@@ -31811,195 +33038,6 @@ var ibook_history = {
       },
       "notes": [
 
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "C645A5E0503D183C1A6427B72D125348",
-      "author": "Clarice Lispector",
-      "title": "A descoberta do mundo",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 1967152,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/C645A5E0503D183C1A6427B72D125348.jpg"
-      },
-      "notes": [
-        {
-          "pk": 29,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe.",
-          "sentence": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe. ",
-          "note": null,
-          "path": "epubcfi(/6/78[id49]!/4/8/1,:0,:122)",
-          "created_at": "2021-01-06 01:13:24 -0800",
-          "updated_at": "2021-01-06 01:13:24 -0800",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 25
-        },
-        {
-          "pk": 28,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": " Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão",
-          "sentence": "Na hora marcada, entra-me pela porta adentro uma moça linda e adorável, Cristina. Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão. ",
-          "note": null,
-          "path": "epubcfi(/6/48[id34]!/4/8/1,:115,:263)",
-          "created_at": "2021-01-05 23:50:28 -0800",
-          "updated_at": "2021-01-05 23:50:28 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 23
-        },
-        {
-          "pk": 27,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
-          "sentence": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
-          "note": null,
-          "path": "epubcfi(/6/44[id32]!/4/12/1,:78,:158)",
-          "created_at": "2021-01-05 23:43:37 -0800",
-          "updated_at": "2021-01-05 23:43:37 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 15
-        },
-        {
-          "pk": 26,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "orque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande",
-          "sentence": "Porque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande a ponto de não haver constrangimento em usar, se necessário, a palavra outrem. ",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/18,/3:29,/5:28)",
-          "created_at": "2021-01-05 22:39:45 -0800",
-          "updated_at": "2021-01-05 22:39:45 -0800",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 24
-        },
-        {
-          "pk": 25,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "O susto de ter nascido do nada",
-          "sentence": "O susto de ter nascido do nada. ",
-          "note": null,
-          "path": "epubcfi(/6/62[id41]!/4/22/1,:94,:124)",
-          "created_at": "2021-01-06 00:19:28 -0800",
-          "updated_at": "2021-01-06 00:19:28 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 7
-        },
-        {
-          "pk": 24,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.",
-          "sentence": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.\n",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/28/1,:0,:157)",
-          "created_at": "2021-01-05 22:50:42 -0800",
-          "updated_at": "2021-01-05 22:50:42 -0800",
-          "is_inderline": 0,
-          "color": 5,
-          "type": 2,
-          "words_count": 28
-        },
-        {
-          "pk": 23,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
-          "sentence": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
-          "note": null,
-          "path": "epubcfi(/6/24[id22]!/4/26/1,:0,:214)",
-          "created_at": "2021-01-05 23:20:32 -0800",
-          "updated_at": "2021-01-05 23:20:32 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 32
-        },
-        {
-          "pk": 22,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe.",
-          "sentence": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe. ",
-          "note": null,
-          "path": "epubcfi(/6/78[id49]!/4/8/1,:276,:354)",
-          "created_at": "2021-01-06 01:14:08 -0800",
-          "updated_at": "2021-01-06 01:14:08 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 14
-        },
-        {
-          "pk": 20,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": " Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
-          "sentence": "E lá se foi Aninha, suave, mansa, mineira, com seus novos dentes branquíssimos, brandamente desperta. Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
-          "note": null,
-          "path": "epubcfi(/6/44[id32]!/4/24/1,:101,:158)",
-          "created_at": "2021-01-05 23:46:48 -0800",
-          "updated_at": "2021-01-05 23:46:48 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 11
-        },
-        {
-          "pk": 19,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "pensa-se junto, no disfarçado das palavras.",
-          "sentence": "O melhor modo é convidar apenas para uma visita, e, como quem não quer nada, pensa-se junto, no disfarçado das palavras.\n",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/16/1,:310,:353)",
-          "created_at": "2021-01-05 22:38:23 -0800",
-          "updated_at": "2021-01-05 22:38:23 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 6
-        },
-        {
-          "pk": 18,
-          "book_id": "C645A5E0503D183C1A6427B72D125348",
-          "chapter": null,
-          "text": "outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.",
-          "sentence": "O que eu queria dizer com isto tive que deixar para ver depois – outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.\n",
-          "note": null,
-          "path": "epubcfi(/6/12[id16]!/4/24/5,:106,:265)",
-          "created_at": "2021-01-05 22:49:08 -0800",
-          "updated_at": "2021-01-05 22:49:08 -0800",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 32
-        }
       ],
       "new_words": [
 
@@ -32360,6 +33398,195 @@ var ibook_history = {
       ]
     },
     {
+      "book_id": "C645A5E0503D183C1A6427B72D125348",
+      "author": "Clarice Lispector",
+      "title": "A descoberta do mundo",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 1967152,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/C645A5E0503D183C1A6427B72D125348.jpg"
+      },
+      "notes": [
+        {
+          "pk": 29,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe.",
+          "sentence": "O estado de graça de que falo não é usado para nada. É como se viesse apenas para que se soubesse que realmente se existe. ",
+          "note": null,
+          "path": "epubcfi(/6/78[id49]!/4/8/1,:0,:122)",
+          "created_at": "2021-01-06 01:13:24 -0800",
+          "updated_at": "2021-01-06 01:13:24 -0800",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 25
+        },
+        {
+          "pk": 28,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": " Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão",
+          "sentence": "Na hora marcada, entra-me pela porta adentro uma moça linda e adorável, Cristina. Tem um desses rostinhos difíceis de retratar, porque, apesar dos traços exteriores serem bonitos, o que mais importa são os interiores, a expressão. ",
+          "note": null,
+          "path": "epubcfi(/6/48[id34]!/4/8/1,:115,:263)",
+          "created_at": "2021-01-05 23:50:28 -0800",
+          "updated_at": "2021-01-05 23:50:28 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 23
+        },
+        {
+          "pk": 27,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
+          "sentence": "E estava um pouco mais “aparecida”, como se tivesse dado um passo para a frente. ",
+          "note": null,
+          "path": "epubcfi(/6/44[id32]!/4/12/1,:78,:158)",
+          "created_at": "2021-01-05 23:43:37 -0800",
+          "updated_at": "2021-01-05 23:43:37 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 26,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "orque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande",
+          "sentence": "Porque entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande a ponto de não haver constrangimento em usar, se necessário, a palavra outrem. ",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/18,/3:29,/5:28)",
+          "created_at": "2021-01-05 22:39:45 -0800",
+          "updated_at": "2021-01-05 22:39:45 -0800",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 24
+        },
+        {
+          "pk": 25,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "O susto de ter nascido do nada",
+          "sentence": "O susto de ter nascido do nada. ",
+          "note": null,
+          "path": "epubcfi(/6/62[id41]!/4/22/1,:94,:124)",
+          "created_at": "2021-01-06 00:19:28 -0800",
+          "updated_at": "2021-01-06 00:19:28 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 24,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.",
+          "sentence": "Mas devo avisar. Às vezes começa-se a brincar de pensar, e eis que inesperadamente o brinquedo é que começa a brincar conosco. Não é bom. É apenas frutífero.\n",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/28/1,:0,:157)",
+          "created_at": "2021-01-05 22:50:42 -0800",
+          "updated_at": "2021-01-05 22:50:42 -0800",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 28
+        },
+        {
+          "pk": 23,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
+          "sentence": "Não entendo. Nossa televisão, com exceções, é pobre, além de superlotada de anúncios. Mas Chacrinha foi demais. Simplesmente não entendi o fenômeno. E fiquei triste, decepcionada: eu quereria um povo mais exigente.",
+          "note": null,
+          "path": "epubcfi(/6/24[id22]!/4/26/1,:0,:214)",
+          "created_at": "2021-01-05 23:20:32 -0800",
+          "updated_at": "2021-01-05 23:20:32 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 32
+        },
+        {
+          "pk": 22,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe.",
+          "sentence": "É uma lucidez de quem não adivinha mais: sem esforço, sabe. Apenas isto: sabe. ",
+          "note": null,
+          "path": "epubcfi(/6/78[id49]!/4/8/1,:276,:354)",
+          "created_at": "2021-01-06 01:14:08 -0800",
+          "updated_at": "2021-01-06 01:14:08 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 20,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": " Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
+          "sentence": "E lá se foi Aninha, suave, mansa, mineira, com seus novos dentes branquíssimos, brandamente desperta. Só um ponto nela dormia: aquele que, acordado, dá a dor. ",
+          "note": null,
+          "path": "epubcfi(/6/44[id32]!/4/24/1,:101,:158)",
+          "created_at": "2021-01-05 23:46:48 -0800",
+          "updated_at": "2021-01-05 23:46:48 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 11
+        },
+        {
+          "pk": 19,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "pensa-se junto, no disfarçado das palavras.",
+          "sentence": "O melhor modo é convidar apenas para uma visita, e, como quem não quer nada, pensa-se junto, no disfarçado das palavras.\n",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/16/1,:310,:353)",
+          "created_at": "2021-01-05 22:38:23 -0800",
+          "updated_at": "2021-01-05 22:38:23 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 18,
+          "book_id": "C645A5E0503D183C1A6427B72D125348",
+          "chapter": null,
+          "text": "outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.",
+          "sentence": "O que eu queria dizer com isto tive que deixar para ver depois – outro sinal de se estar em caminho certo é o de não ficar aflita por não entender; a atitude deve ser: não se perde por esperar, não se perde por não entender.\n",
+          "note": null,
+          "path": "epubcfi(/6/12[id16]!/4/24/5,:106,:265)",
+          "created_at": "2021-01-05 22:49:08 -0800",
+          "updated_at": "2021-01-05 22:49:08 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 32
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "B75BDFADF0E1719C9DB50D4D74E3C0E6",
       "author": "António Damásio",
       "title": "Em busca de Espinosa",
@@ -32379,60 +33606,6 @@ var ibook_history = {
       },
       "notes": [
 
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
-      "author": "Padre Antônio Vieira",
-      "title": "Essencial Padre Antônio Vieira",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2022-09-17 01:04:30 -0700",
-      "genre": null,
-      "lang": null,
-      "file_size": 2169636,
-      "page_count": 0,
-      "created_at": "2022-09-17 01:04:32 -0700",
-      "updated_at": "2022-09-17 01:04:30 -0700",
-      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
-      "cover": {
-        "src": "assets/images/EA024B2CA30617707CDB4EE80AF73F60.jpg"
-      },
-      "notes": [
-        {
-          "pk": 308,
-          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
-          "chapter": null,
-          "text": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos ",
-          "sentence": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
-          "note": "",
-          "path": "epubcfi(/6/20[id140]!/4/42/9,:212,:467)",
-          "created_at": "2021-08-11 22:36:59 -0700",
-          "updated_at": "2021-08-11 22:36:59 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 46
-        },
-        {
-          "pk": 294,
-          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
-          "chapter": null,
-          "text": "demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento",
-          "sentence": "Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
-          "note": null,
-          "path": "epubcfi(/6/20[id140]!/4/42/9,:468,:578)",
-          "created_at": "2021-08-11 22:37:12 -0700",
-          "updated_at": "2021-08-11 22:37:12 -0700",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 14
-        }
       ],
       "new_words": [
 
@@ -32538,25 +33711,54 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "5D50B70059A780E717D391519AF25645",
-      "author": "Albert Einstein",
-      "title": "Como Vejo o Mundo",
+      "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
+      "author": "Padre Antônio Vieira",
+      "title": "Essencial Padre Antônio Vieira",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2022-09-17 01:04:30 -0700",
       "genre": null,
       "lang": null,
-      "file_size": 505185,
+      "file_size": 2169636,
       "page_count": 0,
       "created_at": "2022-09-17 01:04:32 -0700",
       "updated_at": "2022-09-17 01:04:30 -0700",
       "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
       "cover": {
-        "src": "assets/images/5D50B70059A780E717D391519AF25645.jpg"
+        "src": "assets/images/EA024B2CA30617707CDB4EE80AF73F60.jpg"
       },
       "notes": [
-
+        {
+          "pk": 308,
+          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
+          "chapter": null,
+          "text": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos ",
+          "sentence": "Assim o fez o semeador do nosso Evangelho. Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
+          "note": "",
+          "path": "epubcfi(/6/20[id140]!/4/42/9,:212,:467)",
+          "created_at": "2021-08-11 22:36:59 -0700",
+          "updated_at": "2021-08-11 22:36:59 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 46
+        },
+        {
+          "pk": 294,
+          "book_id": "EA024B2CA30617707CDB4EE80AF73F60",
+          "chapter": null,
+          "text": "demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento",
+          "sentence": "Não o desanimou, nem a primeira, nem a segunda, nem a terceira perda; continuou por diante no semear, e foi com tanta felicidade, que nesta quarta e última parte do trigo se restauraram com vantagem as perdas dos demais: nasceu, cresceu, espigou, amadureceu, colheu-se, mediu-se, achou-se que por um grão multiplicara cento: Et fecit fructum centuplum.\n",
+          "note": null,
+          "path": "epubcfi(/6/20[id140]!/4/42/9,:468,:578)",
+          "created_at": "2021-08-11 22:37:12 -0700",
+          "updated_at": "2021-08-11 22:37:12 -0700",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 14
+        }
       ],
       "new_words": [
 
@@ -32741,6 +33943,31 @@ var ibook_history = {
           "type": 2,
           "words_count": 16
         }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "5D50B70059A780E717D391519AF25645",
+      "author": "Albert Einstein",
+      "title": "Como Vejo o Mundo",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-09-17 01:04:30 -0700",
+      "genre": null,
+      "lang": null,
+      "file_size": 505185,
+      "page_count": 0,
+      "created_at": "2022-09-17 01:04:32 -0700",
+      "updated_at": "2022-09-17 01:04:30 -0700",
+      "asset_details_modification_date": "2022-03-05 22:41:51 -0800",
+      "cover": {
+        "src": "assets/images/5D50B70059A780E717D391519AF25645.jpg"
+      },
+      "notes": [
+
       ],
       "new_words": [
 
