@@ -2626,7 +2626,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/B23A5D7E4F8C9FB33B1F96B19C0EBC91.jpg"
+      }
     },
     {
       "book_id": "3C17E56A9B1055226BD110F7C7D13AE7",
@@ -2648,7 +2651,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/3C17E56A9B1055226BD110F7C7D13AE7.jpg"
+      }
     },
     {
       "book_id": "FD74A666B1BC5DAB426B126DEB42BADB",
