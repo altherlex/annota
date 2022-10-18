@@ -25,12 +25,16 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/D07B6935B9F0679274D636B828D31535.jpg"
+      }
     },
     {
       "book_id": "7B69A14ECE1391431B4A60E0060CE44F",
       "author": "Aluísio Azevedo",
       "title": "Aluísio Azevedo",
+      "ztitle": "Aluísio Azevedo - Obra complea",
       "last_engaged_date": "2022-10-17 19:19:01 -0700",
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -765,7 +769,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/7B69A14ECE1391431B4A60E0060CE44F.jpg"
+      }
     },
     {
       "book_id": "17F732281143A673585376D73A2F99FD",
@@ -17710,7 +17717,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/478DD6243C567805F8908AA58EA0516E.jpg"
+      }
     },
     {
       "book_id": "0C1FCE7CF26821B4FD6FA8B1D184D713",
@@ -17806,7 +17816,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/0C1FCE7CF26821B4FD6FA8B1D184D713.jpg"
+      }
     },
     {
       "book_id": "30EF512772944E638DE33FDEFD8331FA",
@@ -17828,7 +17841,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/30EF512772944E638DE33FDEFD8331FA.jpg"
+      }
     },
     {
       "book_id": "E26E056B24AA45AD2C1D600711DE15A8",
@@ -17961,7 +17977,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/A646FAE908D0E6E633CA467CD5B86998.jpg"
+      }
     },
     {
       "book_id": "DC26F5BB771AC937D64A5A4D8020E68A",
@@ -18311,7 +18330,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/DC26F5BB771AC937D64A5A4D8020E68A.jpg"
+      }
     },
     {
       "book_id": "E0ACFB917BE8187DEA4CFE0630D59257",
@@ -18911,7 +18933,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/6810CA10AB58AF47FE93EAEFBD152EFB.jpg"
+      }
     },
     {
       "book_id": "910E3724C004106D8218F1569950CA10",
@@ -18933,7 +18958,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/910E3724C004106D8218F1569950CA10.jpg"
+      }
     },
     {
       "book_id": "8CDBA4A0FB7E74C86D2870793DEC523D",
@@ -18955,7 +18983,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/8CDBA4A0FB7E74C86D2870793DEC523D.jpg"
+      }
     },
     {
       "book_id": "3C17E56A9B1055226BD110F7C7D13AE7",
