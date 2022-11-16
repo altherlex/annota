@@ -153,7 +153,7 @@ result_set = {
   author_count: books.group_by{|i| i[:author]}.length,
   notes_count: annotations.length,
   new_words_count: vocabularies.length,
-  data: books.sort_by{|i| i[:asset_details_modification_date]}.reverse
+  data: books.sort_by{|i| i[:updated_at]}.reverse
 }
 
 File.write(DATA_FILENAME, JS_CODE+JSON.pretty_generate(result_set))
