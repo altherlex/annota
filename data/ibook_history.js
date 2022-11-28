@@ -655,7 +655,7 @@ var ibook_history = {
         }
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41bpE0yLgVL.jpg"
+        "src": "assets/images/DAF005EE814CF2A001DF0EC4CE9631AB.jpg"
       }
     },
     {
@@ -680,7 +680,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://www.perlego.com/books/RM_Books/project_gutenberg_iopqzq/9700000006765.jpg"
+        "src": "assets/images/01F75F9C8603FAFFEAE139E4574E0318.jpg"
       }
     },
     {
@@ -705,7 +705,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781643130699/mendeleyevs-dream-9781643130699_hr.jpg"
+        "src": "assets/images/DA747782F0220EB3DAC0BF53729EB3E8.jpg"
       }
     },
     {
@@ -730,7 +730,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": ""
+        "src": null
       }
     },
     {
@@ -1099,7 +1099,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/416DQhnKsTL.jpg"
+        "src": "assets/images/34CB4D48BE330C7B382A61AE7DD6E94F.jpg"
       }
     },
     {
@@ -1124,7 +1124,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51Wg2O-2iSL._AC_SY780_.jpg"
+        "src": "assets/images/474C1456677BBB7B9565C733EB971629.jpg"
       }
     },
     {
@@ -1149,7 +1149,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41GDTXTZV4L.jpg"
+        "src": "assets/images/89826DF20CEF59046E2D7D7AFBE6720D.jpg"
       }
     },
     {
@@ -1174,7 +1174,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41Ki9A02gwL.jpg"
+        "src": "assets/images/A6F34C05C47E733EE80A3C94AA7BA812.jpg"
       }
     },
     {
@@ -1568,7 +1568,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51mwn5W9moL.jpg"
+        "src": "assets/images/430E4C41C09CEAE5F861E9889A516DD9.jpg"
       }
     },
     {
@@ -1593,7 +1593,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41KJjiBofvL.jpg"
+        "src": "assets/images/2309AF264A6D3CDAD4AA152D72D8593F.jpg"
       }
     },
     {
@@ -1687,7 +1687,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/71cERjQgroL.jpg"
+        "src": "assets/images/52D7D01D4EC02D6A7D03C9AC6F261E1C.jpg"
       }
     },
     {
@@ -1712,7 +1712,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://pbs.twimg.com/media/D8uJZrOW4AAOt42.jpg"
+        "src": "assets/images/490B5AB0A1E7211B7929486FF99A8340.jpg"
       }
     },
     {
