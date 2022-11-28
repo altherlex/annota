@@ -730,7 +730,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": null
+        "src": ""
       }
     },
     {
@@ -13053,7 +13053,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": null
+        "src": ""
       }
     },
     {

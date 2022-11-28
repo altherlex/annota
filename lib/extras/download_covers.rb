@@ -23,7 +23,8 @@ content = content.sub(JS_CODE, '')
 db = JSON.parse(content.empty? ? '{"data":[]}' : content)
 
 db["data"].each do |book|
-  next if book["cover"]["src"].nil? || book["cover"]["src"].start_with?("assets/images")
+  src = book["cover"]["src"]
+  next if src.nil? || src.empty? || src.start_with?("assets/images")
 
   book["cover"]["src"] = download(book)
 end
