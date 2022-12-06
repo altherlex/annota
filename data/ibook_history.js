@@ -27,7 +27,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/FCE7E94EA8F28EFD6EB7A8CF2B5765DA.jpg"
+      }
     },
     {
       "book_id": "781CB6F431EB22C36EECAC50CD46B231",
@@ -49,7 +52,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/781CB6F431EB22C36EECAC50CD46B231.jpg"
+      }
     },
     {
       "book_id": "214F924EA77CDA5B4A24284E93CED678",
@@ -73,7 +79,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/214F924EA77CDA5B4A24284E93CED678.jpg"
+      }
     },
     {
       "book_id": "64703B89059D4D59B1B68345129EE298",
@@ -97,7 +106,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/64703B89059D4D59B1B68345129EE298.jpg"
+      }
     },
     {
       "book_id": "3D6FD3592E3D8059138D6A0923B20652",
@@ -121,7 +133,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/3D6FD3592E3D8059138D6A0923B20652.jpg"
+      }
     },
     {
       "book_id": "A904747E8D9F84D93C8002A468AAAB57",
@@ -144,7 +159,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/A904747E8D9F84D93C8002A468AAAB57.jpg"
+      }
     },
     {
       "book_id": "01F75F9C8603FAFFEAE139E4574E0318",
