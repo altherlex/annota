@@ -1,10 +1,164 @@
 var ibook_history = {
-  "updated_at": "2022-12-05 19:45:51 -0800",
-  "book_count": 297,
-  "author_count": 216,
+  "updated_at": "2022-12-06 00:16:34 -0800",
+  "book_count": 304,
+  "author_count": 217,
   "notes_count": 2000,
   "new_words_count": 276,
   "data": [
+    {
+      "book_id": "C42CE695F9E11E4CCC65897EC4FECAB0",
+      "author": "Anton Tchékhov",
+      "title": "A estepe (História de uma viagem)",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-12-06 00:13:49 -0800",
+      "genre": "Ficção russa",
+      "lang": "pt",
+      "file_size": 675122,
+      "page_count": 0,
+      "created_at": "2022-12-06 00:13:49 -0800",
+      "updated_at": "2022-12-06 00:13:50 -0800",
+      "asset_details_modification_date": "2022-12-06 00:13:50 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "99227DE80592FF0E6A554B667F2E6923",
+      "author": "Anton Tchékhov",
+      "title": "Os 50 Melhores Contos de Tchekhov",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-12-06 00:13:44 -0800",
+      "genre": "Contos, Clássicos da Literatura Universal",
+      "lang": "pt",
+      "file_size": 1770305,
+      "page_count": 0,
+      "created_at": "2022-12-06 00:13:44 -0800",
+      "updated_at": "2022-12-06 00:13:46 -0800",
+      "asset_details_modification_date": "2022-12-06 00:13:46 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "274D58A34F3F75D5AA6B21F3E766A7B0",
+      "author": "Anton Tchékhov",
+      "title": "Quatro peças",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-12-06 00:13:38 -0800",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1707855,
+      "page_count": 0,
+      "created_at": "2022-12-06 00:13:38 -0800",
+      "updated_at": "2022-12-06 00:13:42 -0800",
+      "asset_details_modification_date": "2022-12-06 00:13:42 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+      "author": "Anton Tchékhov",
+      "title": "A ilha de Sacalina",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-12-06 00:13:35 -0800",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 2117800,
+      "page_count": 0,
+      "created_at": "2022-12-06 00:13:35 -0800",
+      "updated_at": "2022-12-06 00:13:36 -0800",
+      "asset_details_modification_date": "2022-12-06 00:13:36 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "E74D6BE58C328C42CDAE3F172D701608",
+      "author": "Anton Tchékhov",
+      "title": "No fundo do barranco (Contos da Prosa Livro 5)",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-12-06 00:13:30 -0800",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 388244,
+      "page_count": 0,
+      "created_at": "2022-12-06 00:13:30 -0800",
+      "updated_at": "2022-12-06 00:13:33 -0800",
+      "asset_details_modification_date": "2022-12-06 00:13:33 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "69DD70B5357E53AA8EB2D0571779DF27",
+      "author": "Anton Tchékhov",
+      "title": "Um Homem Extraordinário e outras Histórias",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-12-06 00:13:25 -0800",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 498368,
+      "page_count": 0,
+      "created_at": "2022-12-06 00:13:25 -0800",
+      "updated_at": "2022-12-06 00:13:28 -0800",
+      "asset_details_modification_date": "2022-12-06 00:13:28 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "378E77F898105F94FE125BADA5E7B52C",
+      "author": "Anton Tchékhov",
+      "title": "Sem Trama e Sem Final",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2022-12-06 00:13:02 -0800",
+      "genre": null,
+      "lang": null,
+      "file_size": 19367150,
+      "page_count": 52,
+      "created_at": "2022-12-06 00:13:02 -0800",
+      "updated_at": "2022-12-06 00:13:03 -0800",
+      "asset_details_modification_date": "2022-12-06 00:13:03 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
     {
       "book_id": "FCE7E94EA8F28EFD6EB7A8CF2B5765DA",
       "author": "UnknownAuthor",
@@ -14,14 +168,14 @@ var ibook_history = {
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": 1,
-      "purchase_date": "2022-12-05 19:45:10 -0800",
+      "purchase_date": "2022-12-05 20:43:27 -0800",
       "genre": null,
       "lang": null,
-      "file_size": 26038272,
-      "page_count": 87,
-      "created_at": "2022-12-05 19:45:10 -0800",
-      "updated_at": "2022-12-05 19:45:10 -0800",
-      "asset_details_modification_date": "2022-12-05 19:45:31 -0800",
+      "file_size": 26034627,
+      "page_count": 0,
+      "created_at": "2022-12-05 20:43:27 -0800",
+      "updated_at": "2022-12-05 20:43:27 -0800",
+      "asset_details_modification_date": "2022-12-05 23:28:27 -0800",
       "notes": [
 
       ],
@@ -30,6 +184,31 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/FCE7E94EA8F28EFD6EB7A8CF2B5765DA.jpg"
+      }
+    },
+    {
+      "book_id": "01F75F9C8603FAFFEAE139E4574E0318",
+      "author": "J. P. Jacobsen",
+      "title": "Mogens, and Other Stories",
+      "last_engaged_date": "2022-12-05 20:31:28 -0800",
+      "reading_progress": 0.09649123251438141,
+      "marked_as_finished": null,
+      "purchase_date": "2022-11-27 19:09:24 -0800",
+      "genre": "Denmark -- Social life and customs -- Fiction",
+      "lang": "en",
+      "file_size": 261939,
+      "page_count": 0,
+      "created_at": "2022-11-27 19:09:24 -0800",
+      "updated_at": "2022-12-05 19:52:32 -0800",
+      "asset_details_modification_date": "2022-12-05 19:52:32 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/01F75F9C8603FAFFEAE139E4574E0318.jpg"
       }
     },
     {
@@ -162,31 +341,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/A904747E8D9F84D93C8002A468AAAB57.jpg"
-      }
-    },
-    {
-      "book_id": "01F75F9C8603FAFFEAE139E4574E0318",
-      "author": "J. P. Jacobsen",
-      "title": "Mogens, and Other Stories",
-      "last_engaged_date": "2022-11-28 20:49:06 -0800",
-      "reading_progress": 0.09649123251438141,
-      "marked_as_finished": null,
-      "purchase_date": "2022-11-27 19:09:24 -0800",
-      "genre": "Denmark -- Social life and customs -- Fiction",
-      "lang": "en",
-      "file_size": 261939,
-      "page_count": 0,
-      "created_at": "2022-11-27 19:09:24 -0800",
-      "updated_at": "2022-11-28 20:46:58 -0800",
-      "asset_details_modification_date": "2022-11-28 20:46:58 -0800",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/01F75F9C8603FAFFEAE139E4574E0318.jpg"
       }
     },
     {
