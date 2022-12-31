@@ -42,11 +42,24 @@
 
     <!-- Offcanvas: Highlights & Notes -->
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
-      <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="offcanvasRightLabel">Highlights & Notes</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-      </div>
-      <div class="offcanvas-body" id="highlightBody">
+      <ul class="nav nav-tabs">
+        <li class="nav-item">
+          <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Highlights & Notes</button>
+        </li>
+        <li class="nav-item">
+          <button class="nav-link" id="vocabulary-tab" data-bs-toggle="tab" data-bs-target="#vocabulary" type="button" role="tab" aria-controls="vocabulary" aria-selected="false">Vocabulary</button>
+        </li>
+      </ul>
+      <div class="offcanvas-body">
+        <div class="tab-content">
+          <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+            <div id="highlightBody"></div>
+          </div>
+
+          <div class="tab-pane" id="vocabulary" role="tabpanel" aria-labelledby="vocabulary-tab" tabindex="0">
+            <ol class="list-group list-group-numbered" id="vocabularyBody">
+          </div>
+        </div>
       </div>
     </div>
 
@@ -228,6 +241,23 @@
         `
       }
 
+      function mountVocItem(highlight) {
+        let word = highlight.text || highlight.sentence
+        let definition = highlight.note || ''
+        if (definition != '') definition = ' - '+definition
+        return `
+          <li class="list-group-item">
+            <b class="text-capitalize">${word}</b>
+            ${definition}
+            <span class="badge">
+              <a class="nav-link" href="https://www.dicio.com.br/${word}/" target='_blank'>
+                <i class="bi bi-box-arrow-up-right" style="font-size: 10px;"></i>
+              </a>
+            </span>
+          </li>
+        `
+      }
+
       function mountHighlightItem(highlight) {
         // TODO: cover highlight.is_inderline
         let className = HIGHLIGHTS[highlight.color];
@@ -259,10 +289,21 @@
         return (items).join('');
       }
 
+      function mountVocList(book) {
+        let items = book.new_words.map(function(note){
+          return mountVocItem(note)
+        });
+
+        if (!items.length) return `<p>Nothing was found.</p>`
+        return (items).join('');
+      }
+
       function showHighlights(bookId){
         let book = bookByID(bookId);
         $("#highlightBody").empty();
         $('#highlightBody').append(mountHighlightList(book));
+        $("#vocabularyBody").empty();
+        $('#vocabularyBody').append(mountVocList(book));
       }
 
       function mountBigQuote(note, book){
