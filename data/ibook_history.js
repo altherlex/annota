@@ -1,16 +1,96 @@
 var ibook_history = {
-  "updated_at": "2022-12-31 22:21:18 -0800",
-  "book_count": 314,
-  "author_count": 227,
-  "notes_count": 2147,
+  "updated_at": "2023-01-03 15:00:22 -0800",
+  "book_count": 317,
+  "author_count": 229,
+  "notes_count": 2148,
   "new_words_count": 346,
   "data": [
+    {
+      "book_id": "54BADAC598C397FA14E2E947DDB9AA24",
+      "author": "Ricardo Piglia",
+      "title": "Peixe-elétrico #01",
+      "last_engaged_date": "2023-01-03 02:30:26 -0800",
+      "reading_progress": 0.06338027864694595,
+      "marked_as_finished": null,
+      "purchase_date": "2023-01-03 01:55:34 -0800",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 887284,
+      "page_count": 0,
+      "created_at": "2023-01-03 01:55:34 -0800",
+      "updated_at": "2023-01-03 01:55:37 -0800",
+      "asset_details_modification_date": "2023-01-03 01:55:37 -0800",
+      "notes": [
+        {
+          "pk": 2855,
+          "book_id": "54BADAC598C397FA14E2E947DDB9AA24",
+          "chapter": "Começo – os editores",
+          "text": "Juan Villoro basicamente por conta de seu incrível romance Arrecife",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/8[id15]!/4[PeixeEletrico1_CC-1]/2/6,/1:215,/2/1:8)",
+          "created_at": "2023-01-03 01:59:20 -0800",
+          "updated_at": "2023-01-03 01:59:21 -0800",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 10
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "EBD75AAF1F8898A949703E13374A5A36",
+      "author": "José Basilio da Gama",
+      "title": "O Uraguai",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-01-02 23:11:17 -0800",
+      "genre": null,
+      "lang": null,
+      "file_size": 11474105,
+      "page_count": 0,
+      "created_at": "2023-01-02 23:11:17 -0800",
+      "updated_at": "2023-01-02 23:11:17 -0800",
+      "asset_details_modification_date": "2023-01-03 01:55:42 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "00AA09D834673A0404B0B7E27C40143E",
+      "author": "Verissimo, Erico",
+      "title": "O Retrato vol. 1",
+      "last_engaged_date": "2023-01-01 18:02:28 -0800",
+      "reading_progress": 0.011210760101675987,
+      "marked_as_finished": null,
+      "purchase_date": "2023-01-01 02:00:30 -0800",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1740937,
+      "page_count": 0,
+      "created_at": "2023-01-01 02:00:30 -0800",
+      "updated_at": "2023-01-01 18:02:14 -0800",
+      "asset_details_modification_date": "2023-01-01 18:02:14 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
     {
       "book_id": "B52E0E21C595244ED9242A028F1A6FEF",
       "author": "Verissimo, Erico",
       "title": "O continente vol. 2",
-      "last_engaged_date": "2022-12-31 21:42:51 -0800",
-      "reading_progress": 1.0,
+      "last_engaged_date": "2023-01-01 17:58:17 -0800",
+      "reading_progress": 0.9648147821426392,
       "marked_as_finished": 1,
       "purchase_date": "2022-12-22 18:24:30 -0800",
       "genre": "",
