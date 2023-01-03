@@ -31,6 +31,10 @@
             <p class="text-white">
               What I've been reading
             </p>
+            <p class="text-white" style="font-size: 14px;">
+              Updated
+              <span id="updated_at"></span>
+            </p>
           </nav>
           <form class="d-flex" role="search" id="formSearch">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -42,15 +46,18 @@
 
     <!-- Offcanvas: Highlights & Notes -->
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
-      <ul class="nav nav-tabs">
-        <li class="nav-item">
-          <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Highlights & Notes</button>
-        </li>
-        <li class="nav-item">
-          <button class="nav-link" id="vocabulary-tab" data-bs-toggle="tab" data-bs-target="#vocabulary" type="button" role="tab" aria-controls="vocabulary" aria-selected="false">Vocabulary</button>
-        </li>
-      </ul>
+      <div class="offcanvas-header">
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
       <div class="offcanvas-body">
+        <ul class="nav nav-tabs">
+          <li class="nav-item">
+            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Highlights & Notes</button>
+          </li>
+          <li class="nav-item">
+            <button class="nav-link" id="vocabulary-tab" data-bs-toggle="tab" data-bs-target="#vocabulary" type="button" role="tab" aria-controls="vocabulary" aria-selected="false">Vocabulary</button>
+          </li>
+        </ul>
         <div class="tab-content">
           <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
             <div id="highlightBody"></div>
@@ -114,7 +121,8 @@
         $("#all").append(` (${allBooks().length})`);
         $("#progress").append(` (${inProgressBooks().length})`);
         $("#finished").append(` (${finishedBooks().length})`);
-        
+        $("#updated_at").append(moment(ibook_history.updated_at, "YYYY-MM-DD h:mm:ss -0700").fromNow());
+
         mountAll();
 
         // If there's any note at all
