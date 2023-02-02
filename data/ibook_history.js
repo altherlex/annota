@@ -1478,7 +1478,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/ABD3050CC802EA02A2D044761073A3AD.jpg"
+      }
     },
     {
       "book_id": "695F75B4623C8077516FF713EFF50C28",
@@ -1500,7 +1503,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/695F75B4623C8077516FF713EFF50C28.webp"
+      }
     },
     {
       "book_id": "345AE30E24E90A0846B71E3CB5A7E57D",
@@ -1522,7 +1528,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/345AE30E24E90A0846B71E3CB5A7E57D.jpg"
+      }
     },
     {
       "book_id": "188DD370ED271F0BF13B121013A06527",
@@ -1544,7 +1553,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/188DD370ED271F0BF13B121013A06527.jpg"
+      }
     },
     {
       "book_id": "F7414FECBA5F8AE69C5E7F16BBB7A117",
@@ -2431,7 +2443,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": ""
+      }
     },
     {
       "book_id": "559B2E4A747AF6CBEB067AB0D727D69B",
@@ -2453,7 +2468,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/559B2E4A747AF6CBEB067AB0D727D69B.jpg"
+      }
     },
     {
       "book_id": "0F42563FE9D67D838298E270059039DF",
@@ -2475,7 +2493,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/0F42563FE9D67D838298E270059039DF.jpg"
+      }
     },
     {
       "book_id": "C3EF10DCAE9428D98C8EEBD31DB14AC3",
@@ -2497,7 +2518,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/C3EF10DCAE9428D98C8EEBD31DB14AC3.jpg"
+      }
     },
     {
       "book_id": "D1BE49D50C9707483F83B7A04793920C",
@@ -2519,11 +2543,15 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/D1BE49D50C9707483F83B7A04793920C.jpg"
+      }
     },
     {
       "book_id": "0A81F7A5136A1B12BA5F494DE11F1766",
       "author": "S. Kierkegaard",
+      "zauthor": "Søren Kierkegaard",
       "title": "As obras do amor",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -2541,7 +2569,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/0A81F7A5136A1B12BA5F494DE11F1766.jpg"
+      }
     },
     {
       "book_id": "AFB1CB0052708170A6B5ED727EA204E7",
@@ -2563,7 +2594,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/AFB1CB0052708170A6B5ED727EA204E7.jpg"
+      }
     },
     {
       "book_id": "88E3EA5F08B6D816EF6E84F2E3FEC34D",
@@ -2585,7 +2619,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/88E3EA5F08B6D816EF6E84F2E3FEC34D.jpg"
+      }
     },
     {
       "book_id": "3D01D8D6DC458BBB1A0F436E9DD547E3",
@@ -2607,7 +2644,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": ""
+      }
     },
     {
       "book_id": "1778195DE6FF4C4DA16BD98BD824EDFB",
@@ -2629,7 +2669,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": ""
+      }
     },
     {
       "book_id": "4F72B5C57B5CF9762E56277150354A69",
@@ -2651,7 +2694,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/4F72B5C57B5CF9762E56277150354A69.jpg"
+      }
     },
     {
       "book_id": "DEB2D8771F43980EA00E9AB4AE0082A1",
@@ -2673,7 +2719,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/DEB2D8771F43980EA00E9AB4AE0082A1.jpg"
+      }
     },
     {
       "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
@@ -25244,7 +25293,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/D9A3C58972BFEA9A24D9B5A5D2A08C28.jpg"
+      }
     },
     {
       "book_id": "5A437471CC81DCA0DE4AD3D834020A6F",
