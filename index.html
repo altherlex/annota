@@ -13,6 +13,8 @@
   </head>
 
   <body class="bg-light">
+    <ul class="list-group" id="year-list"></ul>
+
     <!-- Back to top button -->
     <button onclick="topFunction()" id="buttonTop" title="Go to top">
       <i class="bi bi-arrow-up-circle-fill"></i>
@@ -131,6 +133,7 @@
         $("#updated_at").append(moment(ibook_history.updated_at, "YYYY-MM-DD h:mm:ss -0700").fromNow());
 
         mountAll();
+        mountYearList()
 
         // If there's any note at all
         if (!!booksWithNotes()) {
@@ -150,12 +153,12 @@
       function mountAll(element=null) {
         $(element).tab('show');
         // DOC: It wasnt clicked by the user.
-        let q
+        let query
         if (!element) {
-          q = (new URL(document.location)).searchParams.get('q');
-          if (!q) $('#all').tab('show');
+          query = (new URL(document.location)).searchParams.get('q');
+          if (!query) $('#all').tab('show');
         }
-        mountLib(allBooks(q));
+        mountLib(searchBooks(query));
       }
 
       function mountInProgress(element) {
@@ -175,6 +178,29 @@
           $("#library").append(mountCard(books[index]));
         }
         $('#library').slideDown('slow');
+      }
+
+      function mountYearList() {
+        const start_year = 2022;
+        const total_years = (moment().year() - start_year) + 1;
+        const query = (new URL(document.location)).searchParams.get('year') || String(moment().year());
+        let li_array = []
+
+        for(var i = 0; i < total_years; i++) {
+          const year = start_year+i
+          li_array.push(`
+            <li type="button" onclick="filterYear(${year})" class="fs-6 list-group-item ${(String(year)===query)? 'active' : ''}">
+              ${year}
+            </li>
+          `);
+        }
+
+        li_array.push(
+          `<li type="button" onclick="filterYear('all');" class="fs-6 list-group-item" id='all_years'>All</li>`
+        )
+        $("#year-list").append(li_array.reverse());
+
+        if (query==='all') $('#all_years').tab('show');
       }
 
       function notesCountTag(notesCounter) {
@@ -360,11 +386,16 @@
             </div>        
           </div>
         `
-      }    
+      }
+
+      function filterYear(value){
+        var location = document.location.href.replace(window.location.search, '');
+        var redirectTo = location + '?year=' + value;
+        window.location.href = redirectTo;
+      }
 
       $("#formSearch").submit(function( event ) {
         var location = document.location.href.replace(window.location.search, '');
-        console.log(location);
         var redirectTo = location + '?q=' + $('#formSearch>input').val();
         window.location.href = redirectTo;
         event.preventDefault();
@@ -372,7 +403,7 @@
 
       //Back to top button
       buttonTop = document.getElementById("buttonTop");
-      window.onscroll = function() {scrollFunction()};
+      window.onscroll = function() { scrollFunction() };
       function scrollFunction() {
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
           buttonTop.style.display = "block";

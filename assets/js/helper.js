@@ -25,17 +25,30 @@ function author(book) {
 }
 
 function bookByID(id){
-  return ibook_history.data.find(function(book){ 
+  return ibook_history.data.find(book => {
     return book.book_id === id
   })
 }
 
-function allBooks(query=null) {
-  let list = ibook_history.data;
-  if (query===null) return list
+function allBooks() {
+  let year = (new URL(document.location)).searchParams.get('year');
+
+  if (!year) {
+    year = moment().year();
+  }
+
+  if (year === 'all') {
+    return ibook_history.data
+  } else {
+    return ibook_history.data.filter(book => String(moment(book.created_at).year()) === String(year));
+  }
+}
+
+function searchBooks(query=null) {
+  if (query===null) return allBooks()
 
   options = {keys: ["title", "ztitle", "author", "zauthor"]}
-  const fuse = new Fuse(list, options);
+  const fuse = new Fuse(allBooks(), options);
   var finds = fuse.search(query)
   return finds.map(function(fuse) { 
     return fuse.item
@@ -43,13 +56,13 @@ function allBooks(query=null) {
 }
 
 function finishedBooks() {
-  return ibook_history.data.filter(function(book){ 
+  return allBooks().filter(book => {
     return book.reading_progress === 1 || book.marked_as_finished === 1
   })
 }
 
 function inProgressBooks() {
-  return ibook_history.data.filter(function(book){ 
+  return allBooks().filter(book => {
     return !!book.notes.length && !(book.reading_progress === 1 || book.marked_as_finished === 1)
   })
 }

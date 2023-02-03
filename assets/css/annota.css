@@ -18,6 +18,19 @@
   background-color: #555;
 }      
 
+#year-list {
+  position: fixed;
+  bottom: 68px;
+  right: 15px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
 .nav-pills .nav-link.active {
   background-color: black;
 }
