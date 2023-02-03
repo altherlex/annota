@@ -126,15 +126,23 @@
     <script src="https://cdn.jsdelivr.net/npm/moment@2.29.3/moment.min.js"></script>
 
     <script>      
+      var global_year = moment().year();
       $(function() {
-        $("#all").append(` (${allBooks().length})`);
-        $("#progress").append(` (${inProgressBooks().length})`);
-        $("#finished").append(` (${finishedBooks().length})`);
-        $("#updated_at").append(moment(ibook_history.updated_at, "YYYY-MM-DD h:mm:ss -0700").fromNow());
+        main();
+        mountCarousel()
+      });
+
+      function main() {
+        $("#all").empty().append(`All (${allBooks().length})`);
+        $("#progress").empty().append(`In Progress (${inProgressBooks().length})`);
+        $("#finished").empty().append(`Finished (${finishedBooks().length})`);
+        $("#updated_at").empty().append('Updated '+moment(ibook_history.updated_at, "YYYY-MM-DD h:mm:ss -0700").fromNow());
 
         mountAll();
         mountYearList()
+      }
 
+      function mountCarousel() {
         // If there's any note at all
         if (!!booksWithNotes()) {
           for (let i = 0; i < 6; i++) {
@@ -148,7 +156,7 @@
         } else {
           $('#carouselQuotes').remove();
         }
-      });
+      }
 
       function mountAll(element=null) {
         $(element).tab('show');
@@ -183,7 +191,7 @@
       function mountYearList() {
         const start_year = 2022;
         const total_years = (moment().year() - start_year) + 1;
-        const query = (new URL(document.location)).searchParams.get('year') || String(moment().year());
+        const query = (new URL(document.location)).searchParams.get('year') || String(global_year);
         let li_array = []
 
         for(var i = 0; i < total_years; i++) {
@@ -198,7 +206,7 @@
         li_array.push(
           `<li type="button" onclick="filterYear('all');" class="fs-6 list-group-item" id='all_years'>All</li>`
         )
-        $("#year-list").append(li_array.reverse());
+        $("#year-list").empty().append(li_array.reverse());
 
         if (query==='all') $('#all_years').tab('show');
       }
@@ -388,10 +396,12 @@
         `
       }
 
-      function filterYear(value){
+      function filterYear(value) {
+        global_year = value;
         var location = document.location.href.replace(window.location.search, '');
         var redirectTo = location + '?year=' + value;
-        window.location.href = redirectTo;
+        history.pushState({}, null, redirectTo);
+        main();
       }
 
       $("#formSearch").submit(function( event ) {

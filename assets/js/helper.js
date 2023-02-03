@@ -31,11 +31,7 @@ function bookByID(id){
 }
 
 function allBooks() {
-  let year = (new URL(document.location)).searchParams.get('year');
-
-  if (!year) {
-    year = moment().year();
-  }
+  let year = (new URL(document.location)).searchParams.get('year') || global_year;
 
   if (year === 'all') {
     return ibook_history.data
