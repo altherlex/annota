@@ -141,6 +141,8 @@ books = cache["data"].map do |cbook|
   cbook = cbook.deep_transform_keys(&:to_sym)
   book = books.find{|b| b[:book_id]==cbook[:book_id]}
   book = cbook.merge(book)
+  # DOC: Prefer old data over the new one: Fix bug on Book app: time to time, the app resets every book.
+  book[:created_at] = cbook[:created_at] || book[:created_at]
   book
 end
 
