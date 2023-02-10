@@ -1,5 +1,5 @@
 var ibook_history = {
-  "updated_at": "2023-02-10 01:06:06 -0800",
+  "updated_at": "2023-02-10 01:11:41 -0800",
   "book_count": 356,
   "author_count": 260,
   "notes_count": 2384,
@@ -19,7 +19,7 @@ var ibook_history = {
       "lang": "pt-BR",
       "file_size": 281004,
       "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
+      "created_at": "2023-01-18 09:29:45 -0800",
       "updated_at": "2023-02-10 01:05:52 -0800",
       "asset_details_modification_date": "2023-02-10 01:05:52 -0800",
       "notes": [
@@ -26803,7 +26803,7 @@ var ibook_history = {
       "title": "Peixe-elétrico #01",
       "last_engaged_date": "2023-01-08 01:50:19 -0800",
       "reading_progress": 0.0,
-      "marked_as_finished": null,
+      "marked_as_finished": 1,
       "purchase_date": "2023-01-18 09:29:40 -0800",
       "genre": null,
       "lang": null,
@@ -26811,7 +26811,7 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2023-01-18 09:29:45 -0800",
       "updated_at": "2023-01-18 09:29:40 -0800",
-      "asset_details_modification_date": "2023-01-09 12:12:08 -0800",
+      "asset_details_modification_date": "2023-02-10 01:10:49 -0800",
       "notes": [
         {
           "pk": 2941,
