@@ -1,18 +1,62 @@
 var ibook_history = {
-  "updated_at": "2023-02-10 01:11:41 -0800",
-  "book_count": 356,
-  "author_count": 260,
+  "updated_at": "2023-02-10 14:00:36 -0800",
+  "book_count": 358,
+  "author_count": 262,
   "notes_count": 2384,
   "new_words_count": 494,
   "data": [
+    {
+      "book_id": "8967864D4B7AD4C72B33C71B1CD96A9C",
+      "author": "Ricardo Cardoso",
+      "title": "A Invencível Armada na Pena de Shakespeare",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-02-10 13:59:44 -0800",
+      "genre": null,
+      "lang": null,
+      "file_size": 6632660,
+      "page_count": 0,
+      "created_at": "2023-02-10 13:59:44 -0800",
+      "updated_at": "2023-02-10 13:59:44 -0800",
+      "asset_details_modification_date": "2023-02-10 12:30:13 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "98031839C6D76D0ED74E94CD274D4142",
+      "author": "Maria José Dupré",
+      "title": "Éramos Seis",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-02-10 12:21:13 -0800",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 2656334,
+      "page_count": 0,
+      "created_at": "2023-02-10 12:21:13 -0800",
+      "updated_at": "2023-02-10 12:21:36 -0800",
+      "asset_details_modification_date": "2023-02-10 12:21:36 -0800",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
     {
       "book_id": "F7414FECBA5F8AE69C5E7F16BBB7A117",
       "author": "Autor desconhecido",
       "zauthor": "Northrop Frye",
       "title": "A Imaginação Educada - Northrop Frye",
       "ztitle": "A Imaginação Educada",
-      "last_engaged_date": "2023-02-10 00:58:14 -0800",
-      "reading_progress": 0.9300000071525574,
+      "last_engaged_date": "2023-02-10 13:58:37 -0800",
+      "reading_progress": 0.9900000095367432,
       "marked_as_finished": 1,
       "purchase_date": "2023-01-18 09:29:41 -0800",
       "genre": "",
