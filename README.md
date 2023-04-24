@@ -15,6 +15,7 @@ Make your iBook info public.
 
 ## TODO
 
+- BUG: Books downloded in 2022 and finished in 2023 are not counted in 2023.
 - Make a separate script for APPLE_BOOK_ANNOTATION_PATH
 - Make a main script running all the other scripts - 1) get book, 2) get notes, 3) get covers, 4) download covers locally
 - Add model ABOUT
