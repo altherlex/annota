@@ -938,7 +938,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/411CgNtk8WL.jpg"
+      }
     },
     {
       "book_id": "793FB2F09448E1BFC0BDDEA55BEDCEAC",
@@ -960,7 +963,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51OFm690dxL.jpg"
+      }
     },
     {
       "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
@@ -1154,7 +1160,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/91svvKhCXSL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "34C83F818A801961F5796B383F626B16",
@@ -25284,8 +25293,8 @@ var ibook_history = {
     },
     {
       "book_id": "829EA8B40C53C67B6811C4A9E579F48C",
-      "author": "Immigration, Refugees",
-      "title": "DC-eng-1-MG",
+      "author": "Canada",
+      "title": "Discover Canada - The Rights and Responsabilities of Citizenship",
       "last_engaged_date": "2023-04-24 02:22:09 -0400",
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -25302,7 +25311,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": ""
+      }
     },
     {
       "book_id": "33ED5CB0C6FB76DB0C0EBE00EA1E541D",
@@ -25324,7 +25336,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://d3cr86nr52kve0.cloudfront.net/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/9/7/9789724425856_1657195464.jpg"
+      }
     },
     {
       "book_id": "662683557C9C72A506184D65D6DE9855",
@@ -25346,7 +25361,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://pictures.abebooks.com/isbn/9788535917246-us-300.jpg"
+      }
     },
     {
       "book_id": "75855FADFEE85BBE5D0E2ACADA1FBCA0",
@@ -25368,7 +25386,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/41Q0VEV0lRL.jpg"
+      }
     },
     {
       "book_id": "7A1C5F99207035A1388BB0E885BB1742",
@@ -25390,7 +25411,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/91HJU0OjHML.jpg"
+      }
     },
     {
       "book_id": "CE9B2C9FDBCC30CBB96626D1FF99CF5F",
