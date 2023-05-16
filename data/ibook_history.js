@@ -1,10 +1,60 @@
 var ibook_history = {
-  "updated_at": "2023-05-16 07:39:18 -0400",
+  "updated_at": "2023-05-16 07:54:40 -0400",
   "book_count": 385,
   "author_count": 280,
   "notes_count": 2594,
   "new_words_count": 569,
   "data": [
+    {
+      "book_id": "33ED5CB0C6FB76DB0C0EBE00EA1E541D",
+      "author": "Harold Bloom",
+      "title": "A Angústia da Influência Uma Teoria da Poesia",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-04-26 00:03:04 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 4341382,
+      "page_count": 0,
+      "created_at": "2023-04-26 00:03:10 -0400",
+      "updated_at": "2023-05-15 07:49:10 -0400",
+      "asset_details_modification_date": "2023-05-15 07:49:10 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/33ED5CB0C6FB76DB0C0EBE00EA1E541D.jpg"
+      }
+    },
+    {
+      "book_id": "829EA8B40C53C67B6811C4A9E579F48C",
+      "author": "Immigration, Refugees",
+      "title": "Discover Canada - The Rights and Responsabilities of Citizenship",
+      "last_engaged_date": "2023-04-24 02:22:09 -0400",
+      "reading_progress": 0.016853930428624153,
+      "marked_as_finished": null,
+      "purchase_date": "2023-04-26 00:03:04 -0400",
+      "genre": "",
+      "lang": "en",
+      "file_size": 4404384,
+      "page_count": 0,
+      "created_at": "2023-04-26 00:03:10 -0400",
+      "updated_at": "2023-05-15 07:46:20 -0400",
+      "asset_details_modification_date": "2023-05-15 07:46:20 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": ""
+      }
+    },
     {
       "book_id": "CD6E0513E92AC8ABC509E15A3A694554",
       "author": "Booker T. Washington",
@@ -940,7 +990,7 @@ var ibook_history = {
         }
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/411CgNtk8WL.jpg"
+        "src": "assets/images/CD6E0513E92AC8ABC509E15A3A694554.jpg"
       }
     },
     {
@@ -965,7 +1015,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51OFm690dxL.jpg"
+        "src": "assets/images/793FB2F09448E1BFC0BDDEA55BEDCEAC.jpg"
       }
     },
     {
@@ -1162,7 +1212,7 @@ var ibook_history = {
         }
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/91svvKhCXSL._AC_UF1000,1000_QL80_.jpg"
+        "src": "assets/images/59C9368AACE62CDB5A88CA448FADC8D0.jpg"
       }
     },
     {
@@ -25292,56 +25342,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "829EA8B40C53C67B6811C4A9E579F48C",
-      "author": "Canada",
-      "title": "Discover Canada - The Rights and Responsabilities of Citizenship",
-      "last_engaged_date": "2023-04-24 02:22:09 -0400",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-04-26 00:03:04 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 4404730,
-      "page_count": 0,
-      "created_at": "2023-04-26 00:03:10 -0400",
-      "updated_at": "2023-04-26 00:03:04 -0400",
-      "asset_details_modification_date": "2023-04-24 02:22:20 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": ""
-      }
-    },
-    {
-      "book_id": "33ED5CB0C6FB76DB0C0EBE00EA1E541D",
-      "author": "UnknownAuthor",
-      "title": "A Angústia da Influência Uma Teoria da Poesia (Harold Bloom) (Z-Library)",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-04-26 00:03:04 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 4341382,
-      "page_count": 0,
-      "created_at": "2023-04-26 00:03:10 -0400",
-      "updated_at": "2023-04-26 00:03:04 -0400",
-      "asset_details_modification_date": "2023-04-24 00:27:09 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "https://d3cr86nr52kve0.cloudfront.net/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/9/7/9789724425856_1657195464.jpg"
-      }
-    },
-    {
       "book_id": "662683557C9C72A506184D65D6DE9855",
       "author": "Jorge Luis Borges",
       "title": "História da eternidade",
@@ -25363,7 +25363,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://pictures.abebooks.com/isbn/9788535917246-us-300.jpg"
+        "src": "assets/images/662683557C9C72A506184D65D6DE9855.jpg"
       }
     },
     {
@@ -25388,7 +25388,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/41Q0VEV0lRL.jpg"
+        "src": "assets/images/75855FADFEE85BBE5D0E2ACADA1FBCA0.jpg"
       }
     },
     {
@@ -25413,7 +25413,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/91HJU0OjHML.jpg"
+        "src": "assets/images/7A1C5F99207035A1388BB0E885BB1742.jpg"
       }
     },
     {
