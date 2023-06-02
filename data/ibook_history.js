@@ -1801,7 +1801,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/8F50A73E9BCA340DCC3689470BB568EB.jpg"
+      }
     },
     {
       "book_id": "64691C9D2B391AC3AACB157009FC39BF",
@@ -2071,7 +2074,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/BA79F35F1AAD54E3FA5FB9CB02C356AC.jpg"
+      }
     },
     {
       "book_id": "34C83F818A801961F5796B383F626B16",
@@ -25654,7 +25660,9 @@ var ibook_history = {
     {
       "book_id": "CB4728BDFA0F4AAF49C410D64223244A",
       "author": "UnknownAuthor",
+      "zauthor": "Günther Anders",
       "title": "Kafka - Pró e contra - Os autos do processo (Günther Anders) (Z-Library)",
+      "ztitle": "Kafka - Pró e contra - Os autos do processo",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -25671,7 +25679,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/CB4728BDFA0F4AAF49C410D64223244A.jpg"
+      }
     },
     {
       "book_id": "BEA6ABD4EF910AE4FE3EFC9799849383",
@@ -25693,7 +25704,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/BEA6ABD4EF910AE4FE3EFC9799849383.jpg"
+      }
     },
     {
       "book_id": "BCA67177202F5C52ED350DAE3677F2AE",
@@ -25715,7 +25729,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": ""
+      }
     },
     {
       "book_id": "F8B0E245AF063047D4F46EDDE42BA5AA",
@@ -25855,7 +25872,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/F8B0E245AF063047D4F46EDDE42BA5AA.jpg"
+      }
     },
     {
       "book_id": "8BB85F3E3B3EE4FF94BF721861517950",
@@ -25877,7 +25897,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/8BB85F3E3B3EE4FF94BF721861517950.jpg"
+      }
     },
     {
       "book_id": "C3E6FB97FAD97B6CB66A65D189544BF2",
@@ -25899,7 +25922,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/C3E6FB97FAD97B6CB66A65D189544BF2"
+      }
     },
     {
       "book_id": "65FF0ABAB13B703813B6BD851AF8577F",
@@ -25921,7 +25947,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/65FF0ABAB13B703813B6BD851AF8577F.jpg"
+      }
     },
     {
       "book_id": "4862BFCD4FDC234FED2CCD37F9794A68",
@@ -26376,7 +26405,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/4862BFCD4FDC234FED2CCD37F9794A68.jpg"
+      }
     },
     {
       "book_id": "793FB2F09448E1BFC0BDDEA55BEDCEAC",
