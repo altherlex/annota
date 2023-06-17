@@ -1,10 +1,618 @@
 var ibook_history = {
-  "updated_at": "2023-06-06 12:09:46 -0400",
-  "book_count": 401,
-  "author_count": 292,
-  "notes_count": 2683,
-  "new_words_count": 641,
+  "updated_at": "2023-06-12 02:39:29 -0400",
+  "book_count": 415,
+  "author_count": 298,
+  "notes_count": 2698,
+  "new_words_count": 647,
   "data": [
+    {
+      "book_id": "0C95E6602B0C8BCF88B8BD54D45D8043",
+      "author": "Charles Coura",
+      "title": "Sucesso escolar",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:22:58 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 936563,
+      "page_count": 103,
+      "created_at": "2023-06-11 02:22:58 -0400",
+      "updated_at": "2023-06-11 02:22:58 -0400",
+      "asset_details_modification_date": "2023-06-11 02:22:58 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "4B1133942375A29405A966BEEFE200A9",
+      "author": "Franz Kafka",
+      "title": "Na Colônia Penal e Outras Histórias",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:22:27 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 603930,
+      "page_count": 109,
+      "created_at": "2023-06-11 02:22:27 -0400",
+      "updated_at": "2023-06-11 02:22:28 -0400",
+      "asset_details_modification_date": "2023-06-11 02:22:28 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "DC70D9B17B2EED121C3CAD959C34D1B7",
+      "author": "Franz Kafka",
+      "title": "O Desaparecido ou Amerika",
+      "last_engaged_date": "2023-06-08 02:43:37 -0400",
+      "reading_progress": 0.0331588089466095,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-08 02:41:26 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1084331,
+      "page_count": 0,
+      "created_at": "2023-06-08 02:41:26 -0400",
+      "updated_at": "2023-06-11 02:20:34 -0400",
+      "asset_details_modification_date": "2023-06-11 02:20:34 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+        {
+          "pk": 3764,
+          "book_id": "DC70D9B17B2EED121C3CAD959C34D1B7",
+          "chapter": "AMBIGUIDADES DA LETRA",
+          "text": "imbricada",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/46[Desaparecido-0016.html]!/4/8/15,:114,:123)",
+          "created_at": "2023-06-08 02:45:59 -0400",
+          "updated_at": "2023-06-08 02:46:00 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
+    {
+      "book_id": "BC0CAB94FCD556BBA4D8C24B4655E9B4",
+      "author": "Octavio Paz",
+      "title": "O arco e a lira",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:19:55 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 35625555,
+      "page_count": 183,
+      "created_at": "2023-06-11 02:19:55 -0400",
+      "updated_at": "2023-06-11 02:19:55 -0400",
+      "asset_details_modification_date": "2023-06-11 02:19:55 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "AF2E5FF6EBE36A9895C9AC8A051F4902",
+      "author": "Achille Mbembe",
+      "title": "Sair da Grande Noite Ensaios sobre África Descolonizada",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:19:43 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 4523420,
+      "page_count": 195,
+      "created_at": "2023-06-11 02:19:43 -0400",
+      "updated_at": "2023-06-11 02:19:44 -0400",
+      "asset_details_modification_date": "2023-06-11 02:19:44 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "536948DB067A17669D020608FFFD22F2",
+      "author": "Achille Mbembe",
+      "title": "Necropolítica",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:19:35 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 751919,
+      "page_count": 0,
+      "created_at": "2023-06-11 02:19:35 -0400",
+      "updated_at": "2023-06-11 02:19:38 -0400",
+      "asset_details_modification_date": "2023-06-11 02:19:38 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "E78068A906550A5BADF9FACC42C45244",
+      "author": "Georges Didi-Huberman",
+      "title": "Sobrevivência dos Vaga-Lumes",
+      "last_engaged_date": "2023-06-11 02:13:31 -0400",
+      "reading_progress": 0.42608699202537537,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:09:30 -0400",
+      "genre": "General Fiction",
+      "lang": "pt-BR",
+      "file_size": 478074,
+      "page_count": 0,
+      "created_at": "2023-06-11 02:09:30 -0400",
+      "updated_at": "2023-06-11 02:19:01 -0400",
+      "asset_details_modification_date": "2023-06-11 02:19:01 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "8EAAF6C45B3366E3AE549A14F7B015CA",
+      "author": "Franz Kafka",
+      "title": "Sonhos",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:18:48 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 1392708,
+      "page_count": 156,
+      "created_at": "2023-06-11 02:18:48 -0400",
+      "updated_at": "2023-06-11 02:18:49 -0400",
+      "asset_details_modification_date": "2023-06-11 02:18:49 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "3F6A2E4830D070BB01C98D4AFBA3A9E3",
+      "author": "Walter Benjamin",
+      "title": "Kafka",
+      "last_engaged_date": null,
+      "reading_progress": 0.060606058686971664,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:17:16 -0400",
+      "genre": "",
+      "lang": "pt-BR",
+      "file_size": 189495,
+      "page_count": 0,
+      "created_at": "2023-06-11 02:17:16 -0400",
+      "updated_at": "2023-06-11 02:17:59 -0400",
+      "asset_details_modification_date": "2023-06-11 02:17:59 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "B4604E35DEBA2A7ADB30F8BB7D6E9509",
+      "author": "Franz Kafka",
+      "title": "Essencial Franz Kafka",
+      "last_engaged_date": null,
+      "reading_progress": 0.1488763988018036,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:16:09 -0400",
+      "genre": "Clássicos da Literatura",
+      "lang": "pt",
+      "file_size": 853073,
+      "page_count": 0,
+      "created_at": "2023-06-11 02:16:09 -0400",
+      "updated_at": "2023-06-11 02:17:11 -0400",
+      "asset_details_modification_date": "2023-06-11 02:17:11 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "660AC1830299A5A0245B3EAA11001188",
+      "author": "Louis Begley",
+      "title": "O mundo prodigioso que tenho na cabeça — Franz Kafka: um ensaio biográfico",
+      "last_engaged_date": null,
+      "reading_progress": 0.003571429057046771,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:15:51 -0400",
+      "genre": "1. Franz Kafka",
+      "lang": "pt",
+      "file_size": 1469617,
+      "page_count": 0,
+      "created_at": "2023-06-11 02:15:51 -0400",
+      "updated_at": "2023-06-11 02:16:04 -0400",
+      "asset_details_modification_date": "2023-06-11 02:16:04 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "A429C1D297D6DD01BE7F680C11C61B7F",
+      "author": "Johann Wolfgang von Goethe",
+      "title": "Goethe's Poems",
+      "last_engaged_date": null,
+      "reading_progress": 0.11553789675235748,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "",
+      "lang": "en",
+      "file_size": 1177479,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-06-08 19:08:31 -0400",
+      "asset_details_modification_date": "2023-06-08 19:08:31 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/A429C1D297D6DD01BE7F680C11C61B7F.jpg"
+      }
+    },
+    {
+      "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+      "author": "Franz Kafka",
+      "title": "A Metamorfose",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-08 02:40:46 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 487760,
+      "page_count": 0,
+      "created_at": "2023-06-08 02:40:46 -0400",
+      "updated_at": "2023-06-08 02:41:07 -0400",
+      "asset_details_modification_date": "2023-06-08 02:41:07 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+      "author": "Franz Kafka",
+      "title": "Um médico rural",
+      "last_engaged_date": "2023-06-11 02:15:36 -0400",
+      "reading_progress": 0.4399999976158142,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-07 18:32:27 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1129618,
+      "page_count": 0,
+      "created_at": "2023-06-07 18:32:27 -0400",
+      "updated_at": "2023-06-08 02:40:46 -0400",
+      "asset_details_modification_date": "2023-06-08 02:40:46 -0400",
+      "notes": [
+        {
+          "pk": 3762,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM MÉDICO RURAL",
+          "text": "Assim é.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[id13]!/4/72/1,:1211,:1219)",
+          "created_at": "2023-06-08 02:19:38 -0400",
+          "updated_at": "2023-06-08 02:19:39 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3760,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "CATORZE CONTOS EXEMPLARES",
+          "text": " transformar chumbo em ouro",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/44[id27]!/4/28/1,:126,:153)",
+          "created_at": "2023-06-08 00:32:25 -0400",
+          "updated_at": "2023-06-08 00:32:26 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 3757,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "CHACAIS E ÁRABES",
+          "text": "— O comportamento de vocês não me torna muito receptivo — disse eu.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/24[id17]!/4/60/1,:0,:67)",
+          "created_at": "2023-06-08 00:15:57 -0400",
+          "updated_at": "2023-06-08 00:15:57 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 13
+        },
+        {
+          "pk": 3756,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "CHACAIS E ÁRABES",
+          "text": "não me atrevo a julgar coisas que estão tão distantes de mim",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/24[id17]!/4/42/1,:35,:95)",
+          "created_at": "2023-06-08 00:12:40 -0400",
+          "updated_at": "2023-06-08 00:12:44 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 12
+        },
+        {
+          "pk": 3755,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "Quando em Hamburgo fui entregue ao primeiro amestrador, reconheci logo as duas possibilidades que me estavam abertas: jardim zoológico ou teatro de variedades. Não hesitei. Disse a mim mesmo: empregue toda a energia para ir ao teatro de variedades; essa é a saída; o jardim zoológico é apenas uma nova jaula; se você for para ele, está perdido.\n\n  E eu aprendi, senhores. Ah, aprende-se o que é preciso que se aprenda; aprende-se quando se quer uma saída; aprende-se a qualquer custo.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4,/68/1:0,/70/1:136)",
+          "created_at": "2023-06-07 23:58:06 -0400",
+          "updated_at": "2023-06-07 23:58:07 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 81
+        },
+        {
+          "pk": 3753,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": " exagero didático",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/58/1,:1387,:1404)",
+          "created_at": "2023-06-07 23:53:33 -0400",
+          "updated_at": "2023-06-07 23:53:33 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3752,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "Era tão fácil imitar as pessoas! Nos primeiros dias eu já sabia cuspir. Cuspimos então um na cara do outro; a única diferença era que depois eu lambia a minha e eles não lambiam a sua.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/56/1,:0,:184)",
+          "created_at": "2023-06-07 23:51:12 -0400",
+          "updated_at": "2023-06-07 23:51:12 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 36
+        },
+        {
+          "pk": 3751,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "nos meus pêlos as pulgas prosperam",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/50/1,:641,:675)",
+          "created_at": "2023-06-07 23:44:39 -0400",
+          "updated_at": "2023-06-07 23:44:39 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 3750,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "Eu não tinha saída mas precisava arranjar uma, pois sem ela não podia viver.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/42/1,:317,:393)",
+          "created_at": "2023-06-07 23:38:38 -0400",
+          "updated_at": "2023-06-07 23:38:39 -0400",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 3749,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "espírito largo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/34/1,:847,:861)",
+          "created_at": "2023-06-07 22:47:41 -0400",
+          "updated_at": "2023-06-07 22:47:41 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3748,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "— escolhamos aqui, para um objetivo definido, uma palavra definida, mas que não deve ser mal entendida —",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/34/1,:608,:712)",
+          "created_at": "2023-06-07 22:47:25 -0400",
+          "updated_at": "2023-06-07 22:47:25 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 18
+        },
+        {
+          "pk": 3747,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": " eu posso despir as calças a quem me apraz; não se encontrará lá nada senão uma pelúcia bem tratada",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/34/1,:489,:588)",
+          "created_at": "2023-06-07 22:47:15 -0400",
+          "updated_at": "2023-06-07 22:47:16 -0400",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 19
+        },
+        {
+          "pk": 3746,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": " o aperto de mão é testemunho de franqueza",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/30/1,:173,:215)",
+          "created_at": "2023-06-07 22:41:44 -0400",
+          "updated_at": "2023-06-07 22:41:44 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 3745,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": " Essa realização teria sido impossível se eu tivesse querido me apegar com teimosia à minha origem e às lembranças de juventude.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/28/1,:456,:584)",
+          "created_at": "2023-06-07 22:36:22 -0400",
+          "updated_at": "2023-06-07 22:36:50 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 21
+        },
+        {
+          "pk": 3744,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "acompanhado em alguns trechos por pessoas excelentes, conselhos, aplauso e música orquestral,",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/28/1,:246,:339)",
+          "created_at": "2023-06-07 21:49:07 -0400",
+          "updated_at": "2023-06-07 22:36:53 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 12
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 3761,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "NA GALERIA",
+          "text": "arrojasse",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id14]!/4/24/3,:652,:661)",
+          "created_at": "2023-06-08 01:47:38 -0400",
+          "updated_at": "2023-06-08 01:47:38 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3759,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM FRATRICÍDIO",
+          "text": "inescrutável",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id23]!/4/36/1,:382,:394)",
+          "created_at": "2023-06-08 00:26:48 -0400",
+          "updated_at": "2023-06-08 00:26:48 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3758,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "CHACAIS E ÁRABES",
+          "text": "obliterava",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/24[id17]!/4/80/1,:375,:385)",
+          "created_at": "2023-06-08 00:20:59 -0400",
+          "updated_at": "2023-06-08 00:20:59 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3754,
+          "book_id": "142A0D731B816B14CBADF4B0728B5F6C",
+          "chapter": "UM RELATÓRIO PARA UMA ACADEMIA",
+          "text": "cátedra",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id25]!/4/64/1,:482,:489)",
+          "created_at": "2023-06-07 23:55:51 -0400",
+          "updated_at": "2023-06-07 23:55:52 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
     {
       "book_id": "B5F894D1B1358A4ABE7333DB461DB36E",
       "author": "Kafka Frank",
@@ -18,8 +626,8 @@ var ibook_history = {
       "file_size": 256109,
       "page_count": 26,
       "created_at": "2023-06-03 00:42:43 -0400",
-      "updated_at": "2023-06-05 07:24:06 -0400",
-      "asset_details_modification_date": "2023-06-05 12:08:50 -0400",
+      "updated_at": "2023-06-07 18:09:46 -0400",
+      "asset_details_modification_date": "2023-06-07 18:09:46 -0400",
       "notes": [
 
       ],
@@ -31,60 +639,46 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "4084C347E7B22EC9FFDD486F61AEBCF2",
-      "author": "Vários Autores",
-      "title": "Cult #194 – Franz Kafka",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
+      "book_id": "5F46D3BB028353FC7D55F30C51A634ED",
+      "author": "Luiz Fernando Vianna",
+      "title": "Meu menino vadio: Histórias de um garoto autista e seu pai estranho",
+      "last_engaged_date": "2023-06-06 08:30:49 -0400",
+      "reading_progress": 0.401197612285614,
       "marked_as_finished": null,
-      "purchase_date": "2023-06-03 00:42:04 -0400",
+      "purchase_date": "2023-06-06 01:12:33 -0400",
       "genre": "",
       "lang": "pt",
-      "file_size": 1529134,
+      "file_size": 728273,
       "page_count": 0,
-      "created_at": "2023-06-03 00:42:04 -0400",
-      "updated_at": "2023-06-03 00:42:37 -0400",
-      "asset_details_modification_date": "2023-06-03 00:42:37 -0400",
+      "created_at": "2023-06-06 01:12:33 -0400",
+      "updated_at": "2023-06-07 18:09:40 -0400",
+      "asset_details_modification_date": "2023-06-07 18:09:40 -0400",
       "notes": [
 
       ],
       "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/4084C347E7B22EC9FFDD486F61AEBCF2.jpg"
-      }
-    },
-    {
-      "book_id": "9D0133EF229DB3FAC384DCB3B16547BD",
-      "author": "Theodor Adorno",
-      "title": "Anotações sobre Kafka in Prismas crítica cultural e sociedad",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-06-02 22:03:17 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 15585973,
-      "page_count": 18,
-      "created_at": "2023-06-02 22:03:17 -0400",
-      "updated_at": "2023-06-02 22:03:17 -0400",
-      "asset_details_modification_date": "2023-06-02 22:03:17 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/9D0133EF229DB3FAC384DCB3B16547BD.png"
-      }
+        {
+          "pk": 3741,
+          "book_id": "5F46D3BB028353FC7D55F30C51A634ED",
+          "chapter": "Encontros e despedidas",
+          "text": "barafunda",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/46[id40]!/4/22/1,:573,:582)",
+          "created_at": "2023-06-06 08:43:08 -0400",
+          "updated_at": "2023-06-06 08:43:09 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
     },
     {
       "book_id": "66CACBCF77D427EFB71954E85E8B67F9",
       "author": "Franz Kafka",
       "title": "Contos Absurdos (Mestres da Literatura de Terror, Horror e Fantasia Livro 16)",
-      "last_engaged_date": "2023-06-05 11:17:22 -0400",
+      "last_engaged_date": "2023-06-05 13:51:47 -0400",
       "reading_progress": 1.0,
       "marked_as_finished": 1,
       "purchase_date": "2023-06-02 22:02:43 -0400",
@@ -93,8 +687,8 @@ var ibook_history = {
       "file_size": 194201,
       "page_count": 0,
       "created_at": "2023-06-02 22:02:43 -0400",
-      "updated_at": "2023-06-02 22:03:17 -0400",
-      "asset_details_modification_date": "2023-06-05 11:40:11 -0400",
+      "updated_at": "2023-06-05 13:51:39 -0400",
+      "asset_details_modification_date": "2023-06-05 13:51:39 -0400",
       "notes": [
         {
           "pk": 3740,
@@ -146,6 +740,56 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/66CACBCF77D427EFB71954E85E8B67F9.jpg"
+      }
+    },
+    {
+      "book_id": "4084C347E7B22EC9FFDD486F61AEBCF2",
+      "author": "Vários Autores",
+      "title": "Cult #194 – Franz Kafka",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-03 00:42:04 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1529134,
+      "page_count": 0,
+      "created_at": "2023-06-03 00:42:04 -0400",
+      "updated_at": "2023-06-03 00:42:37 -0400",
+      "asset_details_modification_date": "2023-06-03 00:42:37 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/4084C347E7B22EC9FFDD486F61AEBCF2.jpg"
+      }
+    },
+    {
+      "book_id": "9D0133EF229DB3FAC384DCB3B16547BD",
+      "author": "Theodor Adorno",
+      "title": "Anotações sobre Kafka in Prismas crítica cultural e sociedad",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-02 22:03:17 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 15585973,
+      "page_count": 18,
+      "created_at": "2023-06-02 22:03:17 -0400",
+      "updated_at": "2023-06-02 22:03:17 -0400",
+      "asset_details_modification_date": "2023-06-02 22:03:17 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/9D0133EF229DB3FAC384DCB3B16547BD.png"
       }
     },
     {
@@ -2030,7 +2674,7 @@ var ibook_history = {
       "book_id": "64691C9D2B391AC3AACB157009FC39BF",
       "author": "Walter Benjamin",
       "title": "Magia e Técnica, Arte e Política (Obras escolhidas, v.1)",
-      "last_engaged_date": "2023-06-04 23:51:51 -0400",
+      "last_engaged_date": "2023-06-05 23:23:55 -0400",
       "reading_progress": 0.4624060094356537,
       "marked_as_finished": null,
       "purchase_date": "2023-05-30 15:56:44 -0400",
@@ -5997,31 +6641,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/0029D88F3C6807AAF020E78A9213651C"
-      }
-    },
-    {
-      "book_id": "A429C1D297D6DD01BE7F680C11C61B7F",
-      "author": "Johann Wolfgang von Goethe",
-      "title": "Goethe's Poems",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 1177479,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2023-01-19 07:44:56 -0500",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/A429C1D297D6DD01BE7F680C11C61B7F.jpg"
       }
     },
     {
