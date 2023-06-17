@@ -1,10 +1,503 @@
 var ibook_history = {
-  "updated_at": "2023-06-12 02:39:29 -0400",
-  "book_count": 415,
-  "author_count": 298,
-  "notes_count": 2698,
-  "new_words_count": 647,
+  "updated_at": "2023-06-17 12:26:36 -0400",
+  "book_count": 418,
+  "author_count": 300,
+  "notes_count": 2712,
+  "new_words_count": 651,
   "data": [
+    {
+      "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+      "author": "Gustave Flaubert",
+      "title": "Um coração singelo",
+      "last_engaged_date": "2023-06-16 12:07:41 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-06-15 22:06:28 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 994733,
+      "page_count": 0,
+      "created_at": "2023-06-15 22:06:28 -0400",
+      "updated_at": "2023-06-15 22:27:50 -0400",
+      "asset_details_modification_date": "2023-06-16 12:25:36 -0400",
+      "notes": [
+        {
+          "pk": 3789,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "4",
+          "text": "trovão ribombava",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Capitulo4.xhtml]!/4/32/1,:32,:48)",
+          "created_at": "2023-06-16 08:57:24 -0400",
+          "updated_at": "2023-06-16 08:57:25 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3788,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "4",
+          "text": "círculo de suas ideias",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Capitulo4.xhtml]!/4/26/1,:11,:33)",
+          "created_at": "2023-06-16 08:55:44 -0400",
+          "updated_at": "2023-06-16 08:55:45 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 3786,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "natureza expansiva",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/196/1,:81,:99)",
+          "created_at": "2023-06-16 08:44:23 -0400",
+          "updated_at": "2023-06-16 08:44:24 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3785,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "Acusava-se, queria ir juntar-se à filha, gritava desesperada no meio de seus sonhos. Um destes, principalmente, a obsediava. Seu marido, vestido de marinheiro, retornava de uma longa viagem e dizia-lhe chorando, que recebera ordem de levar Virgínia. Então eles se juntavam para arranjar um esconderijo nalgum lugar.\n\n  Uma vez, ela voltou do jardim transtornada. Naquele mesmo instante (e mostrava o lugar) pai e filha haviam-lhe aparecido juntos, e não faziam nada; só faziam olhá-la.",
+          "sentence": null,
+          "note": "Sonho da Sra. Aubain sob o luto da filha morta",
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4,/170/1:224,/172/1:166)",
+          "created_at": "2023-06-16 08:37:55 -0400",
+          "updated_at": "2023-06-16 08:37:55 -0400",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 74
+        },
+        {
+          "pk": 3784,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "Beijou-os várias vezes e não teria sentido grande espanto se Virgínia os houvesse reaberto; para almas assim o sobrenatural é visto com simplicidade.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/162/1,:289,:438)",
+          "created_at": "2023-06-16 08:34:30 -0400",
+          "updated_at": "2023-06-16 08:34:31 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 23
+        },
+        {
+          "pk": 3783,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "O bom do Liébard achou por bem retirar-se.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/114/1,:19,:61)",
+          "created_at": "2023-06-16 08:25:04 -0400",
+          "updated_at": "2023-06-16 08:25:04 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 3782,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "Estas coisas ultrapassavam a sua competência",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/24/1,:133,:177)",
+          "created_at": "2023-06-16 08:07:24 -0400",
+          "updated_at": "2023-06-16 08:07:24 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 3781,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "com a imaginação que brota das ternuras verdadeiras",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/18/3,:348,:399)",
+          "created_at": "2023-06-16 08:04:07 -0400",
+          "updated_at": "2023-06-16 08:04:07 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 3780,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "pois ele não era somente pássaro, mas também um lume, e por vezes um sopro",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/10/1,:46,:120)",
+          "created_at": "2023-06-16 07:58:35 -0400",
+          "updated_at": "2023-06-16 07:58:35 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 3779,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "o Paraíso, o dilúvio, a torre de Babel, cidades em chamas, povos que morriam, ídolos tombados",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/8/1,:86,:179)",
+          "created_at": "2023-06-16 07:53:59 -0400",
+          "updated_at": "2023-06-16 07:54:00 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 16
+        },
+        {
+          "pk": 3777,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "3",
+          "text": "As sementeiras, as ceifas, os lagares",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[Capitulo3.xhtml]!/4/8/1,:473,:510)",
+          "created_at": "2023-06-16 07:52:59 -0400",
+          "updated_at": "2023-06-16 07:52:59 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 3776,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "2",
+          "text": "desgosto pungente",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[Capitulo2.xhtml]!/4/40/1,:7,:24)",
+          "created_at": "2023-06-15 22:46:15 -0400",
+          "updated_at": "2023-06-15 22:46:15 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 3793,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "5",
+          "text": "Grinaldas",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/20[Capitulo5.xhtml]!/4/24/1,:0,:9)",
+          "created_at": "2023-06-16 12:14:16 -0400",
+          "updated_at": "2023-06-16 12:14:16 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3791,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "4",
+          "text": "procissões",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Capitulo4.xhtml]!/4/112/1,:26,:36)",
+          "created_at": "2023-06-16 09:13:37 -0400",
+          "updated_at": "2023-06-16 09:13:38 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3790,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "4",
+          "text": "sucediam",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Capitulo4.xhtml]!/4/44/1,:25,:33)",
+          "created_at": "2023-06-16 09:00:12 -0400",
+          "updated_at": "2023-06-16 09:00:12 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3787,
+          "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
+          "chapter": "4",
+          "text": "diocese",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Capitulo4.xhtml]!/4/22/1,:280,:287)",
+          "created_at": "2023-06-16 08:54:35 -0400",
+          "updated_at": "2023-06-16 08:54:35 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
+    {
+      "book_id": "EE2B0841A8810D874BA007593C3F0D09",
+      "author": "Alice Sant’Anna",
+      "title": "Rabo de Baleia",
+      "last_engaged_date": "2023-06-15 00:56:25 -0400",
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-15 00:49:56 -0400",
+      "genre": "Poemas",
+      "lang": "pt",
+      "file_size": 191021,
+      "page_count": 0,
+      "created_at": "2023-06-15 00:49:56 -0400",
+      "updated_at": "2023-06-15 01:01:52 -0400",
+      "asset_details_modification_date": "2023-06-15 01:01:52 -0400",
+      "notes": [
+        {
+          "pk": 3775,
+          "book_id": "EE2B0841A8810D874BA007593C3F0D09",
+          "chapter": "UM ENORME RABO DE BALEIA",
+          "text": "UM ENORME RABO DE BALEIA\n\n  cruzaria a sala neste momento\n\n  sem barulho algum o bicho\n\n  afundaria nas tábuas corridas\n\n  e sumiria sem que percebêssemos\n\n  no sofá a falta de assunto\n\n  o que eu queria mas não te conto\n\n  era abraçar a baleia mergulhar com ela\n\n  sinto um tédio pavoroso desses dias\n\n  de água parada acumulando mosquito\n\n  apesar da agitação dos dias\n\n  da exaustão dos dias\n\n  o corpo que chega exausto em casa\n\n  com a mão esticada em busca\n\n  de um copo d’água\n\n  a urgência de seguir para uma terça\n\n  ou quarta boia, e a vontade\n\n  é de abraçar um enorme\n\n  rabo de baleia seguir com ela",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[id148]!/4,/2[filepos758]/2/2/1:0,/38/1:29)",
+          "created_at": "2023-06-15 01:01:05 -0400",
+          "updated_at": "2023-06-15 01:01:06 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 106
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "F15A13454CB5816975060869B2EDA08F",
+      "author": "Rainer Maria Rilke",
+      "title": "Canção de Amor e de Morte do Porta-Estandarte Cristovão Rilke",
+      "last_engaged_date": null,
+      "reading_progress": 0.09677419066429138,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-13 00:18:56 -0400",
+      "genre": "General Fiction",
+      "lang": "pt-BR",
+      "file_size": 95451,
+      "page_count": 0,
+      "created_at": "2023-06-13 00:18:56 -0400",
+      "updated_at": "2023-06-15 00:49:55 -0400",
+      "asset_details_modification_date": "2023-06-15 00:49:55 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "474C1456677BBB7B9565C733EB971629",
+      "author": "Rilke, Rainer Maria",
+      "title": "Elegias de Duino",
+      "last_engaged_date": "2023-06-13 00:00:32 -0400",
+      "reading_progress": 0.1517857015132904,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1960065,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-06-12 23:58:24 -0400",
+      "asset_details_modification_date": "2023-06-12 23:58:24 -0400",
+      "notes": [
+        {
+          "pk": 3771,
+          "book_id": "474C1456677BBB7B9565C733EB971629",
+          "chapter": "Segunda elegia",
+          "text": "Todo Anjo é terrível. No entanto, ai de mim, eu vos invoco,\n\n      pássaros quase mortais da alma, sabendo quem sois.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/22[id1120]!/4/2[elegias]/2,/4/1:0,/6/1:50)",
+          "created_at": "2023-06-13 00:14:38 -0400",
+          "updated_at": "2023-06-13 00:14:38 -0400",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 20
+        }
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/474C1456677BBB7B9565C733EB971629.jpg"
+      }
+    },
+    {
+      "book_id": "89826DF20CEF59046E2D7D7AFBE6720D",
+      "author": "Rainer Maria Rilke",
+      "title": "The Best of Rilke",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "test",
+      "lang": "en",
+      "file_size": 1011442,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-06-12 23:57:54 -0400",
+      "asset_details_modification_date": "2023-06-12 23:57:54 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/89826DF20CEF59046E2D7D7AFBE6720D.jpg"
+      }
+    },
+    {
+      "book_id": "1A47A5BD7193308633E6346A10DD5C69",
+      "author": "Franz Kafka",
+      "title": "O veredicto/Na colônia penal",
+      "last_engaged_date": "2023-06-12 09:21:13 -0400",
+      "reading_progress": 0.25,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-02 22:02:29 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 519916,
+      "page_count": 0,
+      "created_at": "2023-06-02 22:02:29 -0400",
+      "updated_at": "2023-06-12 09:19:05 -0400",
+      "asset_details_modification_date": "2023-06-12 09:19:05 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/1A47A5BD7193308633E6346A10DD5C69.jpg"
+      }
+    },
+    {
+      "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
+      "author": "João Guimarães Rosa",
+      "title": "Magma",
+      "last_engaged_date": "2023-06-11 20:07:44 -0400",
+      "reading_progress": 0.982300877571106,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 370205,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-06-11 20:07:37 -0400",
+      "asset_details_modification_date": "2023-06-11 20:07:37 -0400",
+      "notes": [
+        {
+          "pk": 3548,
+          "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
+          "chapter": "Consciência Cósmica",
+          "text": "Deixo que o inevitável dance, ao meu redor,\n\n  a dança das espadas de todos os momentos.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/138[MAGMA_0062.html]!/4,/32/1:0,/34/1:41)",
+          "created_at": "2023-05-08 23:06:26 -0400",
+          "updated_at": "2023-05-08 23:06:27 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 16
+        }
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/F3AA55645F8F6E29C1FA47579FA3F329.jpg"
+      }
+    },
+    {
+      "book_id": "92107246319D005056910355FB92387A",
+      "author": "João Guimarães Rosa",
+      "title": "Primeiras estórias",
+      "last_engaged_date": null,
+      "reading_progress": 0.5969231128692627,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 3276694,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-06-11 20:07:32 -0400",
+      "asset_details_modification_date": "2023-06-11 20:07:32 -0400",
+      "cover": {
+        "src": "assets/images/92107246319D005056910355FB92387A.jpg"
+      },
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "8EAAF6C45B3366E3AE549A14F7B015CA",
+      "author": "Franz Kafka",
+      "title": "Sonhos",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-11 02:18:48 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 1392708,
+      "page_count": 156,
+      "created_at": "2023-06-11 02:18:48 -0400",
+      "updated_at": "2023-06-11 02:48:13 -0400",
+      "asset_details_modification_date": "2023-06-11 02:48:13 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
     {
       "book_id": "0C95E6602B0C8BCF88B8BD54D45D8043",
       "author": "Charles Coura",
@@ -166,28 +659,6 @@ var ibook_history = {
       "created_at": "2023-06-11 02:09:30 -0400",
       "updated_at": "2023-06-11 02:19:01 -0400",
       "asset_details_modification_date": "2023-06-11 02:19:01 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "8EAAF6C45B3366E3AE549A14F7B015CA",
-      "author": "Franz Kafka",
-      "title": "Sonhos",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-06-11 02:18:48 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 1392708,
-      "page_count": 156,
-      "created_at": "2023-06-11 02:18:48 -0400",
-      "updated_at": "2023-06-11 02:18:49 -0400",
-      "asset_details_modification_date": "2023-06-11 02:18:49 -0400",
       "notes": [
 
       ],
@@ -815,31 +1286,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/02EE74D760493CC7172495A8912B425A.jpg"
-      }
-    },
-    {
-      "book_id": "1A47A5BD7193308633E6346A10DD5C69",
-      "author": "Franz Kafka",
-      "title": "O veredicto/Na colônia penal",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-06-02 22:02:29 -0400",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 519916,
-      "page_count": 0,
-      "created_at": "2023-06-02 22:02:29 -0400",
-      "updated_at": "2023-06-02 22:02:36 -0400",
-      "asset_details_modification_date": "2023-06-02 22:02:36 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/1A47A5BD7193308633E6346A10DD5C69.jpg"
       }
     },
     {
@@ -2126,8 +2572,8 @@ var ibook_history = {
       "book_id": "C0A101CBE52473AC6271C1B86B1565FE",
       "author": "Elias Canetti",
       "title": "A consciência das palavras",
-      "last_engaged_date": null,
-      "reading_progress": 0.24856600165367126,
+      "last_engaged_date": "2023-06-11 15:14:44 -0400",
+      "reading_progress": 0.7048345804214478,
       "marked_as_finished": null,
       "purchase_date": "2023-05-30 15:56:44 -0400",
       "genre": "",
@@ -20187,31 +20633,6 @@ var ibook_history = {
           "type": 2,
           "words_count": 11
         }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "92107246319D005056910355FB92387A",
-      "author": "João Guimarães Rosa",
-      "title": "Primeiras estórias",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": 1,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 3276694,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2023-05-30 15:56:52 -0400",
-      "cover": {
-        "src": "assets/images/92107246319D005056910355FB92387A.jpg"
-      },
-      "notes": [
-
       ],
       "new_words": [
 
@@ -39687,31 +40108,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "474C1456677BBB7B9565C733EB971629",
-      "author": "Rilke, Rainer Maria",
-      "title": "Elegias de Duino",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 1960065,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2022-11-22 14:47:33 -0500",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/474C1456677BBB7B9565C733EB971629.jpg"
-      }
-    },
-    {
       "book_id": "BA859E0DD9FC7141F6DD1733B3D5FA54",
       "author": "Faustino Teixeira",
       "title": "O canto espiritual de Rilke",
@@ -39734,31 +40130,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": ""
-      }
-    },
-    {
-      "book_id": "89826DF20CEF59046E2D7D7AFBE6720D",
-      "author": "Rainer Maria Rilke",
-      "title": "The Best of Rilke",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": "test",
-      "lang": null,
-      "file_size": 1011442,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2022-11-22 04:54:23 -0500",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/89826DF20CEF59046E2D7D7AFBE6720D.jpg"
       }
     },
     {
@@ -43790,45 +44161,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/E7AA851F1598597659E01D8750BBF997.jpg"
-      }
-    },
-    {
-      "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
-      "author": "João Guimarães Rosa",
-      "title": "Magma",
-      "last_engaged_date": "2023-05-16 18:27:28 -0400",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 370205,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2023-05-30 15:56:52 -0400",
-      "notes": [
-        {
-          "pk": 3548,
-          "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
-          "chapter": "Consciência Cósmica",
-          "text": "Deixo que o inevitável dance, ao meu redor,\n\n  a dança das espadas de todos os momentos.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/138[MAGMA_0062.html]!/4,/32/1:0,/34/1:41)",
-          "created_at": "2023-05-08 23:06:26 -0400",
-          "updated_at": "2023-05-08 23:06:27 -0400",
-          "is_inderline": 0,
-          "color": 5,
-          "type": 2,
-          "words_count": 16
-        }
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/F3AA55645F8F6E29C1FA47579FA3F329.jpg"
       }
     },
     {
