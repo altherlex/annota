@@ -1,10 +1,566 @@
 var ibook_history = {
-  "updated_at": "2023-06-17 12:26:36 -0400",
-  "book_count": 418,
-  "author_count": 300,
-  "notes_count": 2712,
-  "new_words_count": 651,
+  "updated_at": "2023-06-23 17:46:10 -0400",
+  "book_count": 425,
+  "author_count": 307,
+  "notes_count": 2714,
+  "new_words_count": 654,
   "data": [
+    {
+      "book_id": "4E0B4683BDED71DFC361C468BA45D2CF",
+      "author": "Edgar Morin",
+      "title": "Conhecimento, Ignorância, Mistério",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-06-22 17:45:25 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 11626429,
+      "page_count": 108,
+      "created_at": "2023-06-22 17:45:25 -0400",
+      "updated_at": "2023-06-22 17:45:25 -0400",
+      "asset_details_modification_date": "2023-06-22 17:45:30 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "5B8D1566B4F88EAA93C180AE1251CEA9",
+      "author": "Isaac Asimov",
+      "title": "Trilogia Da Fundação",
+      "last_engaged_date": null,
+      "reading_progress": 0.006872851867228746,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-22 11:37:31 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1778357,
+      "page_count": 0,
+      "created_at": "2023-06-22 11:37:31 -0400",
+      "updated_at": "2023-06-22 11:41:03 -0400",
+      "asset_details_modification_date": "2023-06-22 11:41:03 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "19CE2D52680F0701AF035516068139F5",
+      "author": "Giorgio Agamben",
+      "title": "O fogo e o relato: Ensaios sobre criação, escrita, arte e livros",
+      "last_engaged_date": "2023-06-22 03:04:24 -0400",
+      "reading_progress": 0.10828030109405518,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-22 01:05:15 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1054295,
+      "page_count": 0,
+      "created_at": "2023-06-22 01:05:15 -0400",
+      "updated_at": "2023-06-22 11:37:30 -0400",
+      "asset_details_modification_date": "2023-06-22 11:37:30 -0400",
+      "notes": [
+        {
+          "pk": 3800,
+          "book_id": "19CE2D52680F0701AF035516068139F5",
+          "chapter": "",
+          "text": " ou, se quisermos,",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[id32]!/4[5N3C0-b531855f74de4dbe9fe6a543ba256ae4]/6/1,:49,:67)",
+          "created_at": "2023-06-22 01:13:51 -0400",
+          "updated_at": "2023-06-22 01:13:51 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 3
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 3801,
+          "book_id": "19CE2D52680F0701AF035516068139F5",
+          "chapter": "Apresentação – Pensamento e poesia: ética e política",
+          "text": "inoperosidade",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[id32]!/4[5N3C0-b531855f74de4dbe9fe6a543ba256ae4]/6/3,:542,:555)",
+          "created_at": "2023-06-22 01:23:06 -0400",
+          "updated_at": "2023-06-22 01:23:06 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
+    {
+      "book_id": "C6EBEF765C31F44D6EE6885FE0C5C655",
+      "author": "Roy David Frankel",
+      "title": "Sessão",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-22 01:04:27 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 215849,
+      "page_count": 125,
+      "created_at": "2023-06-22 01:04:27 -0400",
+      "updated_at": "2023-06-22 01:04:27 -0400",
+      "asset_details_modification_date": "2023-06-22 01:04:27 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "BCA67177202F5C52ED350DAE3677F2AE",
+      "author": "Antonio Candido",
+      "title": "O Direito à Literatura",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 1337058,
+      "page_count": 0,
+      "created_at": "2023-05-30 15:56:51 -0400",
+      "updated_at": "2023-06-21 13:17:10 -0400",
+      "asset_details_modification_date": "2023-06-21 13:17:10 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": ""
+      }
+    },
+    {
+      "book_id": "5067912C09A2E1CFE2B35A1C735CE937",
+      "author": "Ursula K. Le Guin",
+      "title": "A ficção como cesta: uma teoria",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-06-20 23:48:23 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 191487,
+      "page_count": 7,
+      "created_at": "2023-06-20 23:48:23 -0400",
+      "updated_at": "2023-06-20 23:48:24 -0400",
+      "asset_details_modification_date": "2023-06-20 23:49:37 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+      "author": "Hélène Cixous",
+      "title": "O riso da Medusa",
+      "last_engaged_date": "2023-06-20 20:40:06 -0400",
+      "reading_progress": 0.3055556118488312,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-19 00:13:23 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 875506,
+      "page_count": 0,
+      "created_at": "2023-06-19 00:13:23 -0400",
+      "updated_at": "2023-06-19 00:18:06 -0400",
+      "asset_details_modification_date": "2023-06-19 00:18:06 -0400",
+      "notes": [
+        {
+          "pk": 3797,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "AO!",
+          "text": "diástoles e sístoles",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[id134]!/4/36/20/1,:445,:465)",
+          "created_at": "2023-06-19 18:48:54 -0400",
+          "updated_at": "2023-06-19 18:48:55 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 3
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 3798,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "AO!",
+          "text": "Auscultemos",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[id134]!/4/36/20/1,:502,:513)",
+          "created_at": "2023-06-19 18:49:07 -0400",
+          "updated_at": "2023-06-19 18:49:07 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3796,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "",
+          "text": "quiasmo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[id134]!/4/32/6/1,:22,:29)",
+          "created_at": "2023-06-19 18:44:07 -0400",
+          "updated_at": "2023-06-19 18:44:08 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
+    {
+      "book_id": "1907BACE3DCAD71912574556D45598F1",
+      "author": "Samuel Beckett",
+      "title": "Waiting for Godot",
+      "last_engaged_date": "2023-06-19 00:18:19 -0400",
+      "reading_progress": 0.012820510193705559,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-18 22:36:57 -0400",
+      "genre": "",
+      "lang": "en",
+      "file_size": 990526,
+      "page_count": 0,
+      "created_at": "2023-06-18 22:36:57 -0400",
+      "updated_at": "2023-06-19 00:13:23 -0400",
+      "asset_details_modification_date": "2023-06-19 00:13:23 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "481062C70A4A172675DF8EEF57274B76",
+      "author": "Abraham Joshua Heschel",
+      "title": "Moral Grandeur and Spiritual Audacity",
+      "last_engaged_date": "2023-06-17 02:54:45 -0400",
+      "reading_progress": 0.16255439817905426,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "",
+      "lang": "en",
+      "file_size": 1772257,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-06-17 02:52:37 -0400",
+      "asset_details_modification_date": "2023-06-17 02:52:37 -0400",
+      "cover": {
+        "src": "assets/images/481062C70A4A172675DF8EEF57274B76.jpg"
+      },
+      "notes": [
+        {
+          "pk": 159,
+          "book_id": "481062C70A4A172675DF8EEF57274B76",
+          "chapter": "",
+          "text": "cultivate passion for justice",
+          "sentence": "He is called upon to know of God’s stake in history; to be involved in the sanctification of time and in building of the Holy Land; to cultivate passion for justice and the ability to experience the arrival of Friday evening as an event.\n",
+          "note": null,
+          "path": "epubcfi(/6/24[c07]!/4/2/8/2/1,:257,:286)",
+          "created_at": "2021-02-18 01:49:36 -0500",
+          "updated_at": "2023-06-17 02:52:38 -0400",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 157,
+          "book_id": "481062C70A4A172675DF8EEF57274B76",
+          "chapter": "",
+          "text": "We are either the last, the dying, Jews or else we are those who will give new life to our tradition. Rarely in our history has so much been dependent upon one generation. We will either forfeit or enrich the legacy of the ages.",
+          "sentence": "We are either the last, the dying, Jews or else we are those who will give new life to our tradition. Rarely in our history has so much been dependent upon one generation. We will either forfeit or enrich the legacy of the ages.\n",
+          "note": null,
+          "path": "epubcfi(/6/12[c01]!/4/2/10/2/1,:427,:655)",
+          "created_at": "2020-12-26 21:33:22 -0500",
+          "updated_at": "2023-06-17 02:52:37 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 44
+        },
+        {
+          "pk": 124,
+          "book_id": "481062C70A4A172675DF8EEF57274B76",
+          "chapter": "",
+          "text": "The best prophet of the future is our past.",
+          "sentence": "The best prophet of the future is our past. ",
+          "note": null,
+          "path": "epubcfi(/6/24[c07]!/4/2/12/2/1,:40,:83)",
+          "created_at": "2021-02-18 01:57:02 -0500",
+          "updated_at": "2023-06-17 02:52:38 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 9
+        },
+        {
+          "pk": 115,
+          "book_id": "481062C70A4A172675DF8EEF57274B76",
+          "chapter": "",
+          "text": "a person to whom God is a challenge, not an abstraction. ",
+          "sentence": "A person in travail with God’s dreams and designs; a person to whom God is a challenge, not an abstraction. He is called upon to know of God’s stake in history; to be involved in the sanctification of time and in building of the Holy Land; to cultivate passion for justice and the ability to experience the arrival of Friday evening as an event.\n",
+          "note": null,
+          "path": "epubcfi(/6/24[c07]!/4/2/8/2/1,:65,:122)",
+          "created_at": "2021-02-17 23:56:15 -0500",
+          "updated_at": "2023-06-17 02:52:38 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 11
+        },
+        {
+          "pk": 107,
+          "book_id": "481062C70A4A172675DF8EEF57274B76",
+          "chapter": "",
+          "text": "All that remain to us is the Torah, and one’s heart’s desire to find a road to a life which would have an aspect of eternal life. ",
+          "sentence": "All that remain to us is the Torah, and one’s heart’s desire to find a road to a life which would have an aspect of eternal life. You are of the opinion that in the state of Israel “there is no danger of Jews assimilating among non-Jews.” ",
+          "note": null,
+          "path": "epubcfi(/6/22[c06]!/4/2/10/2/1,:250,:380)",
+          "created_at": "2021-02-17 23:20:42 -0500",
+          "updated_at": "2023-06-17 02:52:38 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 27
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "1A47A5BD7193308633E6346A10DD5C69",
+      "author": "Franz Kafka",
+      "title": "O veredicto/Na colônia penal",
+      "last_engaged_date": "2023-06-16 12:46:49 -0400",
+      "reading_progress": 0.2763158082962036,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-02 22:02:29 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 519916,
+      "page_count": 0,
+      "created_at": "2023-06-02 22:02:29 -0400",
+      "updated_at": "2023-06-16 20:19:06 -0400",
+      "asset_details_modification_date": "2023-06-16 20:19:06 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/1A47A5BD7193308633E6346A10DD5C69.jpg"
+      }
+    },
+    {
+      "book_id": "5F46D3BB028353FC7D55F30C51A634ED",
+      "author": "Luiz Fernando Vianna",
+      "title": "Meu menino vadio: Histórias de um garoto autista e seu pai estranho",
+      "last_engaged_date": "2023-06-16 19:03:26 -0400",
+      "reading_progress": 0.31736528873443604,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-06 01:12:33 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 728273,
+      "page_count": 0,
+      "created_at": "2023-06-06 01:12:33 -0400",
+      "updated_at": "2023-06-16 17:17:16 -0400",
+      "asset_details_modification_date": "2023-06-16 17:17:16 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+        {
+          "pk": 3741,
+          "book_id": "5F46D3BB028353FC7D55F30C51A634ED",
+          "chapter": "Encontros e despedidas",
+          "text": "barafunda",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/46[id40]!/4/22/1,:573,:582)",
+          "created_at": "2023-06-06 08:43:08 -0400",
+          "updated_at": "2023-06-06 08:43:09 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ],
+      "cover": {
+        "src": "assets/images/5F46D3BB028353FC7D55F30C51A634ED.jpg"
+      }
+    },
+    {
+      "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+      "author": "Anton Tchékhov",
+      "title": "A ilha de Sacalina",
+      "last_engaged_date": "2023-06-16 17:13:39 -0400",
+      "reading_progress": 0.02508361078798771,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 2117800,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-06-16 17:13:31 -0400",
+      "asset_details_modification_date": "2023-06-16 17:13:31 -0400",
+      "notes": [
+        {
+          "pk": 3088,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "V",
+          "text": "prisão de Aleksándrovski",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/90/1,:184,:208)",
+          "created_at": "2023-01-26 04:10:52 -0500",
+          "updated_at": "2023-01-26 04:10:54 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 3
+        },
+        {
+          "pk": 3037,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "V",
+          "text": " Se a vida surge e se desenvolve de uma forma que não é a natural, mas sim artificial, e se seu crescimento depende menos das condições naturais e econômicas do que da teoria e do arbítrio de determinadas pessoas, acasos desse tipo subordinam a vida de forma imperiosa e inevitável e se tornam uma espécie de lei, para essa vida artificial.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/36/3,:193,:533)",
+          "created_at": "2023-01-19 13:56:53 -0500",
+          "updated_at": "2023-01-19 13:56:54 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 61
+        },
+        {
+          "pk": 3036,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "IV",
+          "text": "A população sobrevive a duras penas, mas mesmo assim as pessoas bebem chá todo dia, fumam tabaco turco, andam em roupas de pessoas livres, pagam aluguel, compram as casas dos camponeses que partem para o continente e constroem casas novas.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/30/1,:357,:596)",
+          "created_at": "2023-01-19 13:53:09 -0500",
+          "updated_at": "2023-01-19 13:53:10 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 40
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 3035,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "IV",
+          "text": "isbás",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/26/1,:60,:65)",
+          "created_at": "2023-01-19 13:49:03 -0500",
+          "updated_at": "2023-01-19 13:49:04 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3034,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "IV",
+          "text": "cabal",
+          "sentence": null,
+          "note": "Completa",
+          "path": "epubcfi(/6/6[id113]!/4/24/1,:116,:121)",
+          "created_at": "2023-01-19 13:47:48 -0500",
+          "updated_at": "2023-01-19 13:47:56 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2631,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "II",
+          "text": "Arrabaldes",
+          "sentence": null,
+          "note": "Suburbio",
+          "path": "epubcfi(/6/4[id114]!/4/256/1,:15,:25)",
+          "created_at": "2022-12-10 02:06:17 -0500",
+          "updated_at": "2022-12-10 02:06:26 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2630,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "I",
+          "text": "istmo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id114]!/4/192/5,:385,:390)",
+          "created_at": "2022-12-10 01:40:14 -0500",
+          "updated_at": "2022-12-10 01:40:15 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2629,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "Apresentação",
+          "text": "liceu",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id114]!/4/84/1,:264,:269)",
+          "created_at": "2022-12-10 00:08:10 -0500",
+          "updated_at": "2022-12-10 00:08:11 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ],
+      "cover": {
+        "src": "assets/images/D2F0D17CF863FA1805CED4D675016FC5.jpg"
+      }
+    },
     {
       "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
       "author": "Gustave Flaubert",
@@ -397,31 +953,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "1A47A5BD7193308633E6346A10DD5C69",
-      "author": "Franz Kafka",
-      "title": "O veredicto/Na colônia penal",
-      "last_engaged_date": "2023-06-12 09:21:13 -0400",
-      "reading_progress": 0.25,
-      "marked_as_finished": null,
-      "purchase_date": "2023-06-02 22:02:29 -0400",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 519916,
-      "page_count": 0,
-      "created_at": "2023-06-02 22:02:29 -0400",
-      "updated_at": "2023-06-12 09:19:05 -0400",
-      "asset_details_modification_date": "2023-06-12 09:19:05 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/1A47A5BD7193308633E6346A10DD5C69.jpg"
-      }
-    },
-    {
       "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
       "author": "João Guimarães Rosa",
       "title": "Magma",
@@ -491,7 +1022,7 @@ var ibook_history = {
       "title": "Sonhos",
       "last_engaged_date": null,
       "reading_progress": 0.0,
-      "marked_as_finished": null,
+      "marked_as_finished": 1,
       "purchase_date": "2023-06-11 02:18:48 -0400",
       "genre": null,
       "lang": null,
@@ -499,7 +1030,7 @@ var ibook_history = {
       "page_count": 156,
       "created_at": "2023-06-11 02:18:48 -0400",
       "updated_at": "2023-06-11 02:48:13 -0400",
-      "asset_details_modification_date": "2023-06-11 02:48:13 -0400",
+      "asset_details_modification_date": "2023-06-16 12:47:19 -0400",
       "notes": [
 
       ],
@@ -1155,45 +1686,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/B5F894D1B1358A4ABE7333DB461DB36E.jpg"
-      }
-    },
-    {
-      "book_id": "5F46D3BB028353FC7D55F30C51A634ED",
-      "author": "Luiz Fernando Vianna",
-      "title": "Meu menino vadio: Histórias de um garoto autista e seu pai estranho",
-      "last_engaged_date": "2023-06-06 08:30:49 -0400",
-      "reading_progress": 0.401197612285614,
-      "marked_as_finished": null,
-      "purchase_date": "2023-06-06 01:12:33 -0400",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 728273,
-      "page_count": 0,
-      "created_at": "2023-06-06 01:12:33 -0400",
-      "updated_at": "2023-06-07 18:09:40 -0400",
-      "asset_details_modification_date": "2023-06-07 18:09:40 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-        {
-          "pk": 3741,
-          "book_id": "5F46D3BB028353FC7D55F30C51A634ED",
-          "chapter": "Encontros e despedidas",
-          "text": "barafunda",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/46[id40]!/4/22/1,:573,:582)",
-          "created_at": "2023-06-06 08:43:08 -0400",
-          "updated_at": "2023-06-06 08:43:09 -0400",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        }
-      ],
-      "cover": {
-        "src": "assets/images/5F46D3BB028353FC7D55F30C51A634ED.jpg"
       }
     },
     {
@@ -27354,31 +27846,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "BCA67177202F5C52ED350DAE3677F2AE",
-      "author": "Antonio Candido",
-      "title": "O Direito à Literatura",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": 1,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 1337058,
-      "page_count": 0,
-      "created_at": "2023-05-30 15:56:51 -0400",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2023-05-30 15:56:52 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": ""
-      }
-    },
-    {
       "book_id": "F8B0E245AF063047D4F46EDDE42BA5AA",
       "author": "Slavoj Žižek",
       "title": "Como ler Lacan",
@@ -39711,149 +40178,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/E74D6BE58C328C42CDAE3F172D701608.jpg"
-      }
-    },
-    {
-      "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-      "author": "Anton Tchékhov",
-      "title": "A ilha de Sacalina",
-      "last_engaged_date": "2023-01-26 04:06:06 -0500",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 2117800,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2023-01-26 04:34:37 -0500",
-      "notes": [
-        {
-          "pk": 3088,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "V",
-          "text": "prisão de Aleksándrovski",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/90/1,:184,:208)",
-          "created_at": "2023-01-26 04:10:52 -0500",
-          "updated_at": "2023-01-26 04:10:54 -0500",
-          "is_inderline": 1,
-          "color": 0,
-          "type": 2,
-          "words_count": 3
-        },
-        {
-          "pk": 3037,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "V",
-          "text": " Se a vida surge e se desenvolve de uma forma que não é a natural, mas sim artificial, e se seu crescimento depende menos das condições naturais e econômicas do que da teoria e do arbítrio de determinadas pessoas, acasos desse tipo subordinam a vida de forma imperiosa e inevitável e se tornam uma espécie de lei, para essa vida artificial.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/36/3,:193,:533)",
-          "created_at": "2023-01-19 13:56:53 -0500",
-          "updated_at": "2023-01-19 13:56:54 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 61
-        },
-        {
-          "pk": 3036,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "IV",
-          "text": "A população sobrevive a duras penas, mas mesmo assim as pessoas bebem chá todo dia, fumam tabaco turco, andam em roupas de pessoas livres, pagam aluguel, compram as casas dos camponeses que partem para o continente e constroem casas novas.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/30/1,:357,:596)",
-          "created_at": "2023-01-19 13:53:09 -0500",
-          "updated_at": "2023-01-19 13:53:10 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 40
-        }
-      ],
-      "new_words": [
-        {
-          "pk": 3035,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "IV",
-          "text": "isbás",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/26/1,:60,:65)",
-          "created_at": "2023-01-19 13:49:03 -0500",
-          "updated_at": "2023-01-19 13:49:04 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 3034,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "IV",
-          "text": "cabal",
-          "sentence": null,
-          "note": "Completa",
-          "path": "epubcfi(/6/6[id113]!/4/24/1,:116,:121)",
-          "created_at": "2023-01-19 13:47:48 -0500",
-          "updated_at": "2023-01-19 13:47:56 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 2631,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "II",
-          "text": "Arrabaldes",
-          "sentence": null,
-          "note": "Suburbio",
-          "path": "epubcfi(/6/4[id114]!/4/256/1,:15,:25)",
-          "created_at": "2022-12-10 02:06:17 -0500",
-          "updated_at": "2022-12-10 02:06:26 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 2630,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "I",
-          "text": "istmo",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/4[id114]!/4/192/5,:385,:390)",
-          "created_at": "2022-12-10 01:40:14 -0500",
-          "updated_at": "2022-12-10 01:40:15 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 2629,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "Apresentação",
-          "text": "liceu",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/4[id114]!/4/84/1,:264,:269)",
-          "created_at": "2022-12-10 00:08:10 -0500",
-          "updated_at": "2022-12-10 00:08:11 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        }
-      ],
-      "cover": {
-        "src": "assets/images/D2F0D17CF863FA1805CED4D675016FC5.jpg"
       }
     },
     {
@@ -60073,105 +60397,6 @@ var ibook_history = {
       },
       "notes": [
 
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "481062C70A4A172675DF8EEF57274B76",
-      "author": "Abraham Joshua Heschel",
-      "title": "Moral Grandeur and Spiritual Audacity",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 1772257,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2022-03-06 01:41:51 -0500",
-      "cover": {
-        "src": "assets/images/481062C70A4A172675DF8EEF57274B76.jpg"
-      },
-      "notes": [
-        {
-          "pk": 159,
-          "book_id": "481062C70A4A172675DF8EEF57274B76",
-          "chapter": null,
-          "text": "cultivate passion for justice",
-          "sentence": "He is called upon to know of God’s stake in history; to be involved in the sanctification of time and in building of the Holy Land; to cultivate passion for justice and the ability to experience the arrival of Friday evening as an event.\n",
-          "note": null,
-          "path": "epubcfi(/6/24[c07]!/4/2/8/2/1,:257,:286)",
-          "created_at": "2021-02-18 01:49:36 -0500",
-          "updated_at": "2021-02-18 01:49:36 -0500",
-          "is_inderline": 0,
-          "color": 4,
-          "type": 2,
-          "words_count": 4
-        },
-        {
-          "pk": 157,
-          "book_id": "481062C70A4A172675DF8EEF57274B76",
-          "chapter": null,
-          "text": "We are either the last, the dying, Jews or else we are those who will give new life to our tradition. Rarely in our history has so much been dependent upon one generation. We will either forfeit or enrich the legacy of the ages.",
-          "sentence": "We are either the last, the dying, Jews or else we are those who will give new life to our tradition. Rarely in our history has so much been dependent upon one generation. We will either forfeit or enrich the legacy of the ages.\n",
-          "note": null,
-          "path": "epubcfi(/6/12[c01]!/4/2/10/2/1,:427,:655)",
-          "created_at": "2020-12-26 21:33:22 -0500",
-          "updated_at": "2020-12-26 21:33:22 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 44
-        },
-        {
-          "pk": 124,
-          "book_id": "481062C70A4A172675DF8EEF57274B76",
-          "chapter": null,
-          "text": "The best prophet of the future is our past.",
-          "sentence": "The best prophet of the future is our past. ",
-          "note": null,
-          "path": "epubcfi(/6/24[c07]!/4/2/12/2/1,:40,:83)",
-          "created_at": "2021-02-18 01:57:02 -0500",
-          "updated_at": "2021-02-18 01:57:02 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 9
-        },
-        {
-          "pk": 115,
-          "book_id": "481062C70A4A172675DF8EEF57274B76",
-          "chapter": null,
-          "text": "a person to whom God is a challenge, not an abstraction. ",
-          "sentence": "A person in travail with God’s dreams and designs; a person to whom God is a challenge, not an abstraction. He is called upon to know of God’s stake in history; to be involved in the sanctification of time and in building of the Holy Land; to cultivate passion for justice and the ability to experience the arrival of Friday evening as an event.\n",
-          "note": null,
-          "path": "epubcfi(/6/24[c07]!/4/2/8/2/1,:65,:122)",
-          "created_at": "2021-02-17 23:56:15 -0500",
-          "updated_at": "2021-02-17 23:56:15 -0500",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 11
-        },
-        {
-          "pk": 107,
-          "book_id": "481062C70A4A172675DF8EEF57274B76",
-          "chapter": null,
-          "text": "All that remain to us is the Torah, and one’s heart’s desire to find a road to a life which would have an aspect of eternal life. ",
-          "sentence": "All that remain to us is the Torah, and one’s heart’s desire to find a road to a life which would have an aspect of eternal life. You are of the opinion that in the state of Israel “there is no danger of Jews assimilating among non-Jews.” ",
-          "note": null,
-          "path": "epubcfi(/6/22[c06]!/4/2/10/2/1,:250,:380)",
-          "created_at": "2021-02-17 23:20:42 -0500",
-          "updated_at": "2021-02-17 23:20:42 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 27
-        }
       ],
       "new_words": [
 
