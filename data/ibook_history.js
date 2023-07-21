@@ -1,10 +1,542 @@
 var ibook_history = {
-  "updated_at": "2023-07-01 11:14:23 -0400",
-  "book_count": 433,
-  "author_count": 310,
-  "notes_count": 2739,
-  "new_words_count": 675,
+  "updated_at": "2023-07-21 17:52:00 -0400",
+  "book_count": 443,
+  "author_count": 319,
+  "notes_count": 2784,
+  "new_words_count": 689,
   "data": [
+    {
+      "book_id": "71970736835F57B3A9FF160B75655AD3",
+      "author": "José Ortega Y Gasset",
+      "title": "A Rebelião das Massas",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "Politica",
+      "lang": "pt",
+      "file_size": 1227112,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-07-19 18:33:38 -0400",
+      "asset_details_modification_date": "2023-07-19 18:33:38 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/71970736835F57B3A9FF160B75655AD3.jpg"
+      }
+    },
+    {
+      "book_id": "35ECAAFA38ACD9EE61A1711B8FEE4960",
+      "author": "WERLE, MA.",
+      "title": "Poesia e pensamento em Hölderlin e Heidegger",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-18 23:47:48 -0400",
+      "genre": "Heidegger",
+      "lang": "pt",
+      "file_size": 637445,
+      "page_count": 0,
+      "created_at": "2023-07-18 23:47:48 -0400",
+      "updated_at": "2023-07-18 23:47:51 -0400",
+      "asset_details_modification_date": "2023-07-18 23:47:51 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "7205D52E3AF8BB3FE21163B68F6C0E77",
+      "author": "Nikolai Gogol",
+      "title": "Diário de um Louco",
+      "last_engaged_date": "2023-07-19 10:05:13 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-07-18 23:27:53 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 202910,
+      "page_count": 0,
+      "created_at": "2023-07-18 23:27:53 -0400",
+      "updated_at": "2023-07-18 23:33:45 -0400",
+      "asset_details_modification_date": "2023-07-19 10:39:07 -0400",
+      "notes": [
+        {
+          "pk": 3923,
+          "book_id": "7205D52E3AF8BB3FE21163B68F6C0E77",
+          "chapter": "Dia 5 de dezembro.",
+          "text": "Prepare a carruagem, cocheiro, toque os sinos, galope os cavalos e me carregue embora deste mundo. Para longe, sempre para longe, até não haver mais o que ver!",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/44[id41]!/4/2/6/1,:472,:631)",
+          "created_at": "2023-07-19 10:38:50 -0400",
+          "updated_at": "2023-07-19 10:38:51 -0400",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 28
+        },
+        {
+          "pk": 3921,
+          "book_id": "7205D52E3AF8BB3FE21163B68F6C0E77",
+          "chapter": "Dia 5 de dezembro.",
+          "text": "Agora está claro como cristal. Antes – não sei por que – tudo parecia envolto em um tipo de névoa. E isso se deu, creio eu, pelo fato das pessoas pensarem que o cérebro fica na cabeça. Nada disso; ele é carregado pelo vento desde o Mar Cáspio.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/30[id48]!/4/2/8/1,:189,:432)",
+          "created_at": "2023-07-19 10:20:37 -0400",
+          "updated_at": "2023-07-19 10:20:38 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 48
+        },
+        {
+          "pk": 3920,
+          "book_id": "7205D52E3AF8BB3FE21163B68F6C0E77",
+          "chapter": "Dia 5 de dezembro.",
+          "text": "“Sua Excelência” eu queria gritar “não mande que me executem, mas se deve ser feito, mate-me com suas mãos angelicais”. Mas, sabe Deus porque, eu não consegui falar. Então eu disse “Não, ele não saiu ainda”.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[id418]!/4/2/22,/1:0,/7:2)",
+          "created_at": "2023-07-19 09:41:19 -0400",
+          "updated_at": "2023-07-19 09:41:20 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 36
+        },
+        {
+          "pk": 3919,
+          "book_id": "7205D52E3AF8BB3FE21163B68F6C0E77",
+          "chapter": "Dia 5 de dezembro.",
+          "text": "O brilho de um Sol, em verdade!",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[id418]!/4/2/16/1,:239,:270)",
+          "created_at": "2023-07-19 09:40:19 -0400",
+          "updated_at": "2023-07-19 09:40:19 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 3918,
+          "book_id": "7205D52E3AF8BB3FE21163B68F6C0E77",
+          "chapter": "Dia 5 de dezembro.",
+          "text": "Por conseguinte,",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/8[id419]!/4/2/42/5,:4,:20)",
+          "created_at": "2023-07-19 09:32:01 -0400",
+          "updated_at": "2023-07-19 09:32:02 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3917,
+          "book_id": "7205D52E3AF8BB3FE21163B68F6C0E77",
+          "chapter": "Dia 5 de dezembro.",
+          "text": " Diz-se que na Inglaterra um peixe colocou a cabeça fora da água e disse uma palavra ou duas em uma linguagem tão extraordinária que homens estudados estão quebrando a cabeça há três anos e ainda não conseguiram interpretá-las. Eu também li no jornal que duas vacas entraram em uma loja e pediram meio quilo de chá.\n\n    ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/8[id419]!/4/2,/36/1:208,/38)",
+          "created_at": "2023-07-19 09:29:58 -0400",
+          "updated_at": "2023-07-19 09:29:59 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 56
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "0EB0C5518C15FAAEC9188C167CFD5272",
+      "author": "Friedrich Hölderlin",
+      "title": "Poemas",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-07-18 13:28:35 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 35233470,
+      "page_count": 111,
+      "created_at": "2023-07-18 13:28:35 -0400",
+      "updated_at": "2023-07-18 13:28:36 -0400",
+      "asset_details_modification_date": "2023-07-20 13:25:52 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "44CDDB10393C14A4303FF9C83A66F015",
+      "author": "Eurípides",
+      "title": "As bacantes: Uma tragédia grega",
+      "last_engaged_date": "2023-07-18 12:59:42 -0400",
+      "reading_progress": 0.3658536970615387,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-18 12:59:14 -0400",
+      "genre": "Teatro Grego - Tragédia",
+      "lang": "pt",
+      "file_size": 491253,
+      "page_count": 0,
+      "created_at": "2023-07-18 12:59:14 -0400",
+      "updated_at": "2023-07-18 13:28:35 -0400",
+      "asset_details_modification_date": "2023-07-18 13:28:35 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "4540F93E191C474ACBA542864E242984",
+      "author": "Eurípedes",
+      "title": "Eurípides - Volume 1: Teatro completo",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-18 12:37:41 -0400",
+      "genre": "1. Eurípides",
+      "lang": "pt",
+      "file_size": 759906,
+      "page_count": 0,
+      "created_at": "2023-07-18 12:37:41 -0400",
+      "updated_at": "2023-07-18 12:42:46 -0400",
+      "asset_details_modification_date": "2023-07-18 12:42:46 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "8D9BD1602390B326C6A1F254BEEAAF23",
+      "author": "Eurípedes",
+      "title": "Eurípides - Volume 2: Teatro completo",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-18 12:40:13 -0400",
+      "genre": "1. Eurípides",
+      "lang": "pt",
+      "file_size": 986340,
+      "page_count": 0,
+      "created_at": "2023-07-18 12:40:13 -0400",
+      "updated_at": "2023-07-18 12:42:36 -0400",
+      "asset_details_modification_date": "2023-07-18 12:42:36 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "88A9DC51DCFE472D244B74085D0D9B9C",
+      "author": "Virgílio",
+      "title": "Eneida [com notas]",
+      "last_engaged_date": "2023-07-17 13:58:14 -0400",
+      "reading_progress": 0.012411350384354591,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-17 13:48:17 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1361723,
+      "page_count": 0,
+      "created_at": "2023-07-17 13:48:17 -0400",
+      "updated_at": "2023-07-17 13:58:49 -0400",
+      "asset_details_modification_date": "2023-07-17 13:58:49 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "D189EDAD9D806A72DBCFAC5B4EABB2A6",
+      "author": "Murilo Mendes",
+      "title": "Os Melhores Poemas de Murilo Mendes",
+      "last_engaged_date": "2023-07-16 19:31:16 -0400",
+      "reading_progress": 0.22685189545154572,
+      "marked_as_finished": null,
+      "purchase_date": "2023-05-30 15:56:44 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 992854,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-07-16 19:31:10 -0400",
+      "asset_details_modification_date": "2023-07-16 19:31:10 -0400",
+      "cover": {
+        "src": "assets/images/D189EDAD9D806A72DBCFAC5B4EABB2A6.jpg"
+      },
+      "notes": [
+        {
+          "pk": 3864,
+          "book_id": "D189EDAD9D806A72DBCFAC5B4EABB2A6",
+          "chapter": "Vocação do Poeta",
+          "text": "Vim para reprimir o choro formidável\n\n      Que as gerações anteriores me transmitiram.\n\n      Vim para experimentar dúvidas e contradições.\n\n      Vim para sofrer as influências do tempo\n\n      E para afirmar o princípio eterno de onde vim.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/76[Murilo_Mendes-37]!/4/2[Murilo_Mendes-37.html]/2,/24/1:0,/32/1:46)",
+          "created_at": "2023-07-03 09:35:33 -0400",
+          "updated_at": "2023-07-03 09:35:33 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 34
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "02EE74D760493CC7172495A8912B425A",
+      "author": "Franz Kafka",
+      "title": "O castelo",
+      "last_engaged_date": null,
+      "reading_progress": 0.021212119609117508,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-02 22:02:39 -0400",
+      "genre": "",
+      "lang": "pt-BR",
+      "file_size": 1505157,
+      "page_count": 0,
+      "created_at": "2023-06-02 22:02:39 -0400",
+      "updated_at": "2023-07-16 04:26:24 -0400",
+      "asset_details_modification_date": "2023-07-16 04:26:24 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/02EE74D760493CC7172495A8912B425A.jpg"
+      }
+    },
+    {
+      "book_id": "16BDD9D427F244387840CCC404C57E6E",
+      "author": "Marco Lucchesi",
+      "title": "Clio",
+      "last_engaged_date": null,
+      "reading_progress": 0.2195121943950653,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-14 06:39:56 -0400",
+      "genre": "",
+      "lang": "en",
+      "file_size": 216192,
+      "page_count": 0,
+      "created_at": "2023-07-14 06:39:56 -0400",
+      "updated_at": "2023-07-14 06:40:30 -0400",
+      "asset_details_modification_date": "2023-07-14 06:40:30 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "CDE14148B703369B3379D75C473E102E",
+      "author": "Paul Valery",
+      "title": "CEMITÉRIO MARINHO",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-07-01 23:02:27 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 365094,
+      "page_count": 34,
+      "created_at": "2023-07-01 23:02:27 -0400",
+      "updated_at": "2023-07-01 23:02:28 -0400",
+      "asset_details_modification_date": "2023-07-01 23:02:48 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+      "author": "Paul Valéry",
+      "title": "A arte de pensar",
+      "last_engaged_date": "2023-07-13 22:40:26 -0400",
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-06-30 11:22:53 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 1180714,
+      "page_count": 0,
+      "created_at": "2023-06-30 11:22:53 -0400",
+      "updated_at": "2023-07-01 22:59:21 -0400",
+      "asset_details_modification_date": "2023-07-01 22:59:21 -0400",
+      "notes": [
+        {
+          "pk": 3895,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "Toda a desordem de nossos conhecimentos e potencialidades nos cerca. Somos sitiados pela lembrança, pelo possível, pelo imaginável, pelo calculável, por todas as combinações de nosso espírito, em todos os graus da probabilidade, em todos os estados da precisão.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/102/3,:298,:559)",
+          "created_at": "2023-07-13 22:36:20 -0400",
+          "updated_at": "2023-07-13 22:03:20 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 39
+        },
+        {
+          "pk": 3894,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "espíritos audaciosos",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/54/5,:136,:156)",
+          "created_at": "2023-07-13 21:42:45 -0400",
+          "updated_at": "2023-07-13 21:42:46 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3893,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "a ansiedade de um inventor ocupado com a sua própria invenção, cujos vícios ele conhece admiravelmente, cuja beleza ele quer necessariamente mostrar, explorar as vantagens, dissimular as misérias e, a todo preço, fazer dela uma imagem do que deseja. O mercador enfeita a sua mercadoria. A mulher se ajeita diante do seu espelho. O padre, o filósofo, o político e, em geral, todos aqueles que se devotaram a nos propor coisas incertas são sempre uma mistura de sinceridade e silêncios (no mais favorável dos casos). Não querem que vejamos o que eles não gostam de considerar...",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/38/1,:129,:705)",
+          "created_at": "2023-07-13 05:57:34 -0400",
+          "updated_at": "2023-07-13 05:57:34 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 96
+        },
+        {
+          "pk": 3892,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "Encontramos com bastante frequência ideias análogas a essas entre os matemáticos. Eles costumam considerar as suas descobertas não como “criações” de suas faculdades combinatórias, mas, sobretudo, como capturas feitas pela sua atenção dentro de uma riqueza de formas preexistentes e naturais, apenas acessível pela rara conjugação de rigor, sensibilidade e desejo.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/34/1,:0,:364)",
+          "created_at": "2023-07-13 05:45:17 -0400",
+          "updated_at": "2023-07-13 05:45:18 -0400",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 51
+        },
+        {
+          "pk": 3891,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "O universo está construído sobre um plano cuja simetria profunda está de algum modo presente na íntima estrutura de nosso espírito. O instinto poético deve nos levar cegamente para a verdade.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/32/1,:200,:391)",
+          "created_at": "2023-07-13 05:43:04 -0400",
+          "updated_at": "2023-07-13 05:43:04 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 31
+        },
+        {
+          "pk": 3890,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "falta de rigor",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/16/1,:71,:85)",
+          "created_at": "2023-07-12 00:16:33 -0400",
+          "updated_at": "2023-07-12 00:16:33 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 3
+        },
+        {
+          "pk": 3889,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "A única esperança para uma filosofia é tornar-se impessoal. É preciso esperar esse grande passo bem antes do fim do Mundo.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/8/1,:682,:804)",
+          "created_at": "2023-07-11 23:56:52 -0400",
+          "updated_at": "2023-07-11 23:56:53 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 21
+        },
+        {
+          "pk": 3888,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "extremo no desprezo, absoluto na admiração, fácil de me impressionar, impossível de ser convencido",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/4/3,:300,:398)",
+          "created_at": "2023-07-11 18:09:32 -0400",
+          "updated_at": "2023-07-11 18:09:33 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 3887,
+          "book_id": "53037F28017CA1B2F7795EA7633BFFD7",
+          "chapter": "SOBRE A EUREKA",
+          "text": "u tinha vinte anos e acreditava na força do pensamento.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id43]!/4/2/4,/2/1:1,/3:55)",
+          "created_at": "2023-07-06 00:29:09 -0400",
+          "updated_at": "2023-07-06 00:29:09 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 10
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
     {
       "book_id": "4B1534D17FC930D31FFBE82AD77D33A4",
       "author": "Gustave Flaubert",
@@ -272,9 +804,9 @@ var ibook_history = {
       "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
       "author": "Franz Kafka",
       "title": "A Metamorfose",
-      "last_engaged_date": "2023-06-29 22:56:26 -0400",
-      "reading_progress": 0.06849315017461777,
-      "marked_as_finished": null,
+      "last_engaged_date": "2023-07-05 21:12:08 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
       "purchase_date": "2023-06-08 02:40:46 -0400",
       "genre": "",
       "lang": "pt",
@@ -282,8 +814,83 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2023-06-08 02:40:46 -0400",
       "updated_at": "2023-06-28 22:52:45 -0400",
-      "asset_details_modification_date": "2023-06-28 22:52:45 -0400",
+      "asset_details_modification_date": "2023-07-05 21:26:36 -0400",
       "notes": [
+        {
+          "pk": 3886,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "III",
+          "text": "Era ele um animal, já que a música o comovia tanto?",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[AMetamorfose-21.xhtml]!/4/2[ametamorfose]/56/1,:1153,:1204)",
+          "created_at": "2023-07-05 20:54:50 -0400",
+          "updated_at": "2023-07-05 20:54:51 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 11
+        },
+        {
+          "pk": 3885,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "III",
+          "text": "sua longa vida devia ter suportado as piores coisas com a ajuda de uma forte construção óssea",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[AMetamorfose-21.xhtml]!/4/2[ametamorfose]/32/1,:278,:371)",
+          "created_at": "2023-07-05 20:36:17 -0400",
+          "updated_at": "2023-07-05 20:36:18 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 17
+        },
+        {
+          "pk": 3880,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "para ver como a irmã acolhia a nova instalação",
+          "sentence": null,
+          "note": "Acolher",
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/52/1,:1646,:1692)",
+          "created_at": "2023-07-05 19:19:18 -0400",
+          "updated_at": "2023-07-05 19:19:24 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 9
+        },
+        {
+          "pk": 3876,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "Mas ao passo que não podia tomar conhecimento imediato de qualquer novidade, Gregor escutava muita coisa vinda dos quartos vizinhos",
+          "sentence": null,
+          "note": "Ao passo que",
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/34/1,:0,:131)",
+          "created_at": "2023-07-05 18:54:24 -0400",
+          "updated_at": "2023-07-05 18:54:29 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 20
+        },
+        {
+          "pk": 3872,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "I",
+          "text": "sem espinha dorsal nem discernimento",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[AMetamorfose-19.xhtml]!/4/2[ametamorfose]/24/1,:918,:954)",
+          "created_at": "2023-07-05 00:28:43 -0400",
+          "updated_at": "2023-07-05 00:28:43 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 5
+        },
         {
           "pk": 3842,
           "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
@@ -301,7 +908,156 @@ var ibook_history = {
         }
       ],
       "new_words": [
-
+        {
+          "pk": 3884,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "III",
+          "text": "suscetibilidade",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[AMetamorfose-21.xhtml]!/4/2[ametamorfose]/30/1,:1928,:1943)",
+          "created_at": "2023-07-05 20:33:15 -0400",
+          "updated_at": "2023-07-05 20:33:16 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3883,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "luzidia",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/114/1,:1436,:1443)",
+          "created_at": "2023-07-05 19:48:33 -0400",
+          "updated_at": "2023-07-05 19:48:33 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3882,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "influxos",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/68/1,:794,:802)",
+          "created_at": "2023-07-05 19:30:18 -0400",
+          "updated_at": "2023-07-05 19:30:19 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3881,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "infligia",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/60/1,:845,:853)",
+          "created_at": "2023-07-05 19:24:00 -0400",
+          "updated_at": "2023-07-05 19:24:01 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3879,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "malograda",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/46/1,:562,:571)",
+          "created_at": "2023-07-05 19:10:20 -0400",
+          "updated_at": "2023-07-05 19:10:20 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3878,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "florins",
+          "sentence": null,
+          "note": "Moeda, dinheiro",
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/44/1,:531,:538)",
+          "created_at": "2023-07-05 19:07:13 -0400",
+          "updated_at": "2023-07-05 19:07:20 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3877,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "II",
+          "text": "provisões",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[AMetamorfose-20.xhtml]!/4/2[ametamorfose]/38/1,:1202,:1211)",
+          "created_at": "2023-07-05 19:03:06 -0400",
+          "updated_at": "2023-07-05 19:03:07 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3875,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "I",
+          "text": "rumorejar",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[AMetamorfose-19.xhtml]!/4/2[ametamorfose]/168/1,:1556,:1565)",
+          "created_at": "2023-07-05 06:24:44 -0400",
+          "updated_at": "2023-07-05 06:24:44 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3874,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "I",
+          "text": "abauladas",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[AMetamorfose-19.xhtml]!/4/2[ametamorfose]/78/1,:339,:348)",
+          "created_at": "2023-07-05 05:46:50 -0400",
+          "updated_at": "2023-07-05 05:46:51 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3873,
+          "book_id": "3B7AFEE8AF543F5CD747F75F9AE95B7F",
+          "chapter": "I",
+          "text": "imiscuía",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/10[AMetamorfose-19.xhtml]!/4/2[ametamorfose]/30/1,:123,:131)",
+          "created_at": "2023-07-05 05:29:51 -0400",
+          "updated_at": "2023-07-05 05:29:52 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
       ],
       "cover": {
         "src": "assets/images/3B7AFEE8AF543F5CD747F75F9AE95B7F.jpg"
@@ -333,8 +1089,8 @@ var ibook_history = {
       "book_id": "334F8D17415DB1A77AB893D6E1572983",
       "author": "Helen Keller",
       "title": "Optimism",
-      "last_engaged_date": null,
-      "reading_progress": 0.3125,
+      "last_engaged_date": "2023-07-03 10:41:59 -0400",
+      "reading_progress": 0.1875,
       "marked_as_finished": null,
       "purchase_date": "2023-06-28 21:23:07 -0400",
       "genre": "",
@@ -345,10 +1101,113 @@ var ibook_history = {
       "updated_at": "2023-06-28 21:42:50 -0400",
       "asset_details_modification_date": "2023-06-28 21:42:50 -0400",
       "notes": [
-
+        {
+          "pk": 3871,
+          "book_id": "334F8D17415DB1A77AB893D6E1572983",
+          "chapter": "",
+          "text": "I try to increase the power God has given me to see the best in everything and every one, and make that Best a part of my life.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[html1]!/4/82/1,:779,:906)",
+          "created_at": "2023-07-03 10:47:50 -0400",
+          "updated_at": "2023-07-03 10:47:51 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 28
+        },
+        {
+          "pk": 3870,
+          "book_id": "334F8D17415DB1A77AB893D6E1572983",
+          "chapter": "",
+          "text": " although the world is full of suffering, it is full also of the overcoming of it",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[html1]!/4/82/1,:512,:593)",
+          "created_at": "2023-07-03 10:45:04 -0400",
+          "updated_at": "2023-07-03 10:45:04 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 16
+        },
+        {
+          "pk": 3869,
+          "book_id": "334F8D17415DB1A77AB893D6E1572983",
+          "chapter": "",
+          "text": " the soul of things",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[html1]!/4/82/1,:473,:492)",
+          "created_at": "2023-07-03 10:43:54 -0400",
+          "updated_at": "2023-07-03 10:43:54 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 3867,
+          "book_id": "334F8D17415DB1A77AB893D6E1572983",
+          "chapter": "",
+          "text": "Darkness cannot shut me in again.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[html1]!/4/76/1,:319,:352)",
+          "created_at": "2023-07-03 10:31:36 -0400",
+          "updated_at": "2023-07-03 10:31:37 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 3866,
+          "book_id": "334F8D17415DB1A77AB893D6E1572983",
+          "chapter": "",
+          "text": " I can think, act and attain heaven",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[html1]!/4/74/1,:292,:327)",
+          "created_at": "2023-07-03 10:24:40 -0400",
+          "updated_at": "2023-07-03 10:24:40 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 3865,
+          "book_id": "334F8D17415DB1A77AB893D6E1572983",
+          "chapter": "",
+          "text": "The will to be happy animates alike the philosopher, the prince and the chimney-sweep.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[html1]!/4/68/1,:221,:307)",
+          "created_at": "2023-07-03 10:05:15 -0400",
+          "updated_at": "2023-07-03 10:05:15 -0400",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 14
+        }
       ],
       "new_words": [
-
+        {
+          "pk": 3868,
+          "book_id": "334F8D17415DB1A77AB893D6E1572983",
+          "chapter": "",
+          "text": "Hurrah",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[html1]!/4/80/1,:712,:718)",
+          "created_at": "2023-07-03 10:40:13 -0400",
+          "updated_at": "2023-07-03 10:40:13 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 1
+        }
       ]
     },
     {
@@ -438,8 +1297,8 @@ var ibook_history = {
       "book_id": "6E90ED38CC6CCB2ED602D1E6838F1BD5",
       "author": "João Cabral de Melo Neto",
       "title": "Prosa",
-      "last_engaged_date": "2023-06-30 00:20:42 -0400",
-      "reading_progress": 0.6480000019073486,
+      "last_engaged_date": "2023-07-01 22:46:56 -0400",
+      "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2023-06-24 21:28:43 -0400",
       "genre": "General Fiction",
@@ -450,6 +1309,51 @@ var ibook_history = {
       "updated_at": "2023-06-25 00:22:15 -0400",
       "asset_details_modification_date": "2023-06-25 00:22:15 -0400",
       "notes": [
+        {
+          "pk": 3860,
+          "book_id": "6E90ED38CC6CCB2ED602D1E6838F1BD5",
+          "chapter": "Da função moderna da poesia",
+          "text": "diária. Ele tem, se quer encontrá-la, de defender dentro de seu dia um vazio de tempo em que possa viver momentos de contemplação, de monge ou de ocioso.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[section-0007_html]!/4/16/1,:1072,:1225)",
+          "created_at": "2023-06-30 12:34:20 -0400",
+          "updated_at": "2023-06-30 12:34:21 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 28
+        },
+        {
+          "pk": 3859,
+          "book_id": "6E90ED38CC6CCB2ED602D1E6838F1BD5",
+          "chapter": "Da função moderna da poesia",
+          "text": "O poema moderno, por não ser funcional, exige do leitor um esforço sobre-humano nara se colocar acima das contingências de sua vida. O leitor moderno não tem a ocasião de defrontar-se com a poesia nos atos normais que pratica durante sua vida",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[section-0007_html]!/4/16/1,:829,:1071)",
+          "created_at": "2023-06-30 12:34:06 -0400",
+          "updated_at": "2023-06-30 12:34:07 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 42
+        },
+        {
+          "pk": 3857,
+          "book_id": "6E90ED38CC6CCB2ED602D1E6838F1BD5",
+          "chapter": "Como a Europa vê a América",
+          "text": "Não é pelo gosto da minúcia que eu desejava ver descritas as diferentes visões européias das diferentes Américas. Talvez, unicamente, por certo desgosto do vago.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[section-0006_html]!/4/28,/1:451,/3:156)",
+          "created_at": "2023-06-30 11:41:39 -0400",
+          "updated_at": "2023-06-30 11:41:40 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 25
+        },
         {
           "pk": 3856,
           "book_id": "6E90ED38CC6CCB2ED602D1E6838F1BD5",
@@ -497,7 +1401,21 @@ var ibook_history = {
         }
       ],
       "new_words": [
-
+        {
+          "pk": 3858,
+          "book_id": "6E90ED38CC6CCB2ED602D1E6838F1BD5",
+          "chapter": "Como a Europa vê a América",
+          "text": "auscultação",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[section-0006_html]!/4/30/1,:212,:223)",
+          "created_at": "2023-06-30 11:43:32 -0400",
+          "updated_at": "2023-06-30 11:43:33 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
       ]
     },
     {
@@ -942,8 +1860,8 @@ var ibook_history = {
       "book_id": "19CE2D52680F0701AF035516068139F5",
       "author": "Giorgio Agamben",
       "title": "O fogo e o relato: Ensaios sobre criação, escrita, arte e livros",
-      "last_engaged_date": "2023-06-23 22:07:21 -0400",
-      "reading_progress": 0.47770699858665466,
+      "last_engaged_date": "2023-07-14 06:09:27 -0400",
+      "reading_progress": 0.528662383556366,
       "marked_as_finished": null,
       "purchase_date": "2023-06-22 01:05:15 -0400",
       "genre": "",
@@ -954,6 +1872,36 @@ var ibook_history = {
       "updated_at": "2023-06-22 11:37:30 -0400",
       "asset_details_modification_date": "2023-06-22 11:37:30 -0400",
       "notes": [
+        {
+          "pk": 3898,
+          "book_id": "19CE2D52680F0701AF035516068139F5",
+          "chapter": "Em nome de quê?",
+          "text": "O que é uma língua da qual desapareceu o nome de Deus? A resposta – decidida e inesperada – de Hölderlin é: a língua da poesia, a língua sem mais nome. “O poeta” – escreve ele – “não precisará de armas / nem de astúcias enquanto a ausência de Deus o ajudar.”",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/30[id39]!/4[CCNA0-b531855f74de4dbe9fe6a543ba256ae4]/28/1,:341,:599)",
+          "created_at": "2023-07-14 05:30:21 -0400",
+          "updated_at": "2023-07-14 05:30:21 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 52
+        },
+        {
+          "pk": 3896,
+          "book_id": "19CE2D52680F0701AF035516068139F5",
+          "chapter": "Em nome de quê?",
+          "text": "Mas a verdade não é aquilo em nome do qual falamos, é o conteúdo de nossas palavras; não podemos falar em nome da verdade, só podemos dizer o verdadeiro.",
+          "sentence": null,
+          "note": "Só se pode dizer a verdade e não em nome da verdade",
+          "path": "epubcfi(/6/30[id39]!/4[CCNA0-b531855f74de4dbe9fe6a543ba256ae4]/14/1,:636,:789)",
+          "created_at": "2023-07-14 05:15:43 -0400",
+          "updated_at": "2023-07-14 05:16:05 -0400",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 29
+        },
         {
           "pk": 3818,
           "book_id": "19CE2D52680F0701AF035516068139F5",
@@ -1046,6 +1994,21 @@ var ibook_history = {
         }
       ],
       "new_words": [
+        {
+          "pk": 3897,
+          "book_id": "19CE2D52680F0701AF035516068139F5",
+          "chapter": "Em nome de quê?",
+          "text": "instigá",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/30[id39]!/4[CCNA0-b531855f74de4dbe9fe6a543ba256ae4]/16/1,:359,:366)",
+          "created_at": "2023-07-14 05:17:09 -0400",
+          "updated_at": "2023-07-14 05:17:10 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
         {
           "pk": 3817,
           "book_id": "19CE2D52680F0701AF035516068139F5",
@@ -1270,9 +2233,9 @@ var ibook_history = {
       "book_id": "8E09F52245EEDB97507068FD657CC7AE",
       "author": "Hélène Cixous",
       "title": "O riso da Medusa",
-      "last_engaged_date": "2023-06-25 19:21:08 -0400",
-      "reading_progress": 0.3055556118488312,
-      "marked_as_finished": null,
+      "last_engaged_date": "2023-07-17 00:11:47 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 0,
       "purchase_date": "2023-06-19 00:13:23 -0400",
       "genre": "",
       "lang": "pt",
@@ -1280,8 +2243,203 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2023-06-19 00:13:23 -0400",
       "updated_at": "2023-06-19 00:18:06 -0400",
-      "asset_details_modification_date": "2023-06-19 00:18:06 -0400",
+      "asset_details_modification_date": "2023-07-17 00:59:24 -0400",
       "notes": [
+        {
+          "pk": 3914,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "e tudo o que seremos nos chama à incansável, inebriante, insaciável procurada61 de amor.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/160/6,/1:1696,/3:9)",
+          "created_at": "2023-07-17 00:48:34 -0400",
+          "updated_at": "2023-07-17 00:48:34 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 3913,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "Minha amiga, tome cuidado com o significante que quer reconduzi-la à autoridade de um significado!",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/152/2/1,:0,:98)",
+          "created_at": "2023-07-17 00:42:53 -0400",
+          "updated_at": "2023-07-17 00:42:54 -0400",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 15
+        },
+        {
+          "pk": 3912,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "À vida, ela não recusa nada.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/132/2/1,:1104,:1132)",
+          "created_at": "2023-07-17 00:26:33 -0400",
+          "updated_at": "2023-07-17 00:26:33 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 6
+        },
+        {
+          "pk": 3911,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "não conhece nem o muro nem a morte",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/132/2/1,:1068,:1102)",
+          "created_at": "2023-07-17 00:26:18 -0400",
+          "updated_at": "2023-07-17 00:26:19 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 3910,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "Sua libido é cósmica, assim como seu inconsciente é mundial",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/132/2/1,:394,:453)",
+          "created_at": "2023-07-17 00:24:42 -0400",
+          "updated_at": "2023-07-17 00:24:42 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 10
+        },
+        {
+          "pk": 3908,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "o gosto do ar livre",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/126/6/5,:311,:330)",
+          "created_at": "2023-07-17 00:19:28 -0400",
+          "updated_at": "2023-07-17 00:19:29 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 5
+        },
+        {
+          "pk": 3906,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "aquela parte de você que entra em você, te espaceia",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/70/20/1,:182,:233)",
+          "created_at": "2023-07-16 05:40:10 -0400",
+          "updated_at": "2023-07-16 05:40:15 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 10
+        },
+        {
+          "pk": 3905,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "na mulher sempre se mantém a força produtiva do outro",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/70/4/1,:2,:55)",
+          "created_at": "2023-07-16 05:34:59 -0400",
+          "updated_at": "2023-07-16 05:34:59 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 10
+        },
+        {
+          "pk": 3904,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": " Ao censurar o corpo, censura-se, de um golpe só, o sopro, a palavra.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/48/2/1,:274,:343)",
+          "created_at": "2023-07-16 05:20:50 -0400",
+          "updated_at": "2023-07-16 05:20:51 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 13
+        },
+        {
+          "pk": 3903,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "Quase toda a história da escrita se confunde com a história da razão",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/40/2/1,:0,:68)",
+          "created_at": "2023-07-16 05:09:24 -0400",
+          "updated_at": "2023-07-16 05:09:24 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 13
+        },
+        {
+          "pk": 3902,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "educação descerebrante",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/18/2/1,:194,:216)",
+          "created_at": "2023-07-16 04:57:38 -0400",
+          "updated_at": "2023-07-16 04:57:39 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3901,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "soberanas inconfessas",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/8/18/1,:151,:172)",
+          "created_at": "2023-07-16 04:56:32 -0400",
+          "updated_at": "2023-07-16 04:56:48 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 3900,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "o inconsciente é indomável",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/18/2/1,:72,:98)",
+          "created_at": "2023-07-16 04:56:21 -0400",
+          "updated_at": "2023-07-16 04:56:22 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 4
+        },
         {
           "pk": 3797,
           "book_id": "8E09F52245EEDB97507068FD657CC7AE",
@@ -1299,6 +2457,21 @@ var ibook_history = {
         }
       ],
       "new_words": [
+        {
+          "pk": 3909,
+          "book_id": "8E09F52245EEDB97507068FD657CC7AE",
+          "chapter": "O riso da Medusa",
+          "text": "extorquiram",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[id131]!/4/126/10/1,:224,:235)",
+          "created_at": "2023-07-17 00:20:04 -0400",
+          "updated_at": "2023-07-17 00:20:05 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
         {
           "pk": 3798,
           "book_id": "8E09F52245EEDB97507068FD657CC7AE",
@@ -2771,31 +3944,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "02EE74D760493CC7172495A8912B425A",
-      "author": "Franz Kafka",
-      "title": "O castelo",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-06-02 22:02:39 -0400",
-      "genre": "",
-      "lang": "pt-BR",
-      "file_size": 1505157,
-      "page_count": 0,
-      "created_at": "2023-06-02 22:02:39 -0400",
-      "updated_at": "2023-06-02 22:02:42 -0400",
-      "asset_details_modification_date": "2023-06-02 22:02:42 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/02EE74D760493CC7172495A8912B425A.jpg"
-      }
-    },
-    {
       "book_id": "8F50A73E9BCA340DCC3689470BB568EB",
       "author": "Franz Kafka",
       "title": "O processo",
@@ -4060,7 +5208,7 @@ var ibook_history = {
       "purchase_date": "2023-05-30 15:56:44 -0400",
       "genre": null,
       "lang": null,
-      "file_size": 28862457,
+      "file_size": 28880642,
       "page_count": 0,
       "created_at": "2023-05-30 15:56:51 -0400",
       "updated_at": "2023-06-02 16:21:54 -0400",
@@ -4080,7 +5228,7 @@ var ibook_history = {
       "author": "Elias Canetti",
       "title": "A consciência das palavras",
       "last_engaged_date": "2023-06-11 15:14:44 -0400",
-      "reading_progress": 0.7048345804214478,
+      "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2023-05-30 15:56:44 -0400",
       "genre": "",
@@ -21635,31 +22783,6 @@ var ibook_history = {
       "asset_details_modification_date": "2022-03-14 00:08:57 -0400",
       "cover": {
         "src": "assets/images/7517406CDE0AE2DD90CF24D2F84DBE6E.jpg"
-      },
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
-      "book_id": "D189EDAD9D806A72DBCFAC5B4EABB2A6",
-      "author": "Murilo Mendes",
-      "title": "Os Melhores Poemas de Murilo Mendes",
-      "last_engaged_date": "2022-03-14 00:09:17 -0400",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 992854,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2022-04-27 02:37:50 -0400",
-      "cover": {
-        "src": "assets/images/D189EDAD9D806A72DBCFAC5B4EABB2A6.jpg"
       },
       "notes": [
 
@@ -52512,31 +53635,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/CF6D73B88517C7A85B2A1EC3F259A88D.jpg"
-      }
-    },
-    {
-      "book_id": "71970736835F57B3A9FF160B75655AD3",
-      "author": "José Ortega Y Gasset",
-      "title": "A Rebelião das Massas",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-05-30 15:56:44 -0400",
-      "genre": "Politica",
-      "lang": null,
-      "file_size": 1227112,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-05-30 15:56:44 -0400",
-      "asset_details_modification_date": "2022-09-04 13:59:36 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/71970736835F57B3A9FF160B75655AD3.jpg"
       }
     },
     {
