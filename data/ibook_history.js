@@ -25,7 +25,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E31365F3D4FC571342479C977B10F25C.jpg"
+      }
     },
     {
       "book_id": "D8DC09A82A9C0882BF19871675868CC4",
@@ -47,7 +50,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": ""
+      }
     },
     {
       "book_id": "8C7EEE9C1D115D24A6855C8BF7606B10",
@@ -69,7 +75,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/8C7EEE9C1D115D24A6855C8BF7606B10.jpg"
+      }
     },
     {
       "book_id": "D2B91F9FC2008AFECE9C5F831F8CCF73",
@@ -91,7 +100,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/D2B91F9FC2008AFECE9C5F831F8CCF73.jpg"
+      }
     },
     {
       "book_id": "22D31B891BD500C032F2D6533FEA35B6",
@@ -113,7 +125,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/22D31B891BD500C032F2D6533FEA35B6.jpg"
+      }
     },
     {
       "book_id": "CBA1E2BB03F9A0149D9274811EADFCBB",
@@ -463,7 +478,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/CBA1E2BB03F9A0149D9274811EADFCBB.jpg"
+      }
     },
     {
       "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
@@ -485,7 +503,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/FCBA623622C3C9F54C9AC69BEBEE2D4E.jpg"
+      }
     },
     {
       "book_id": "4B1133942375A29405A966BEEFE200A9",
@@ -532,7 +553,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/D317BB9E11F93813DD21F5663CF8F838.jpg"
+      }
     },
     {
       "book_id": "1CCBB2D3B107740D3423E8B11CA52B8A",
@@ -554,7 +578,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/1CCBB2D3B107740D3423E8B11CA52B8A.jpg"
+      }
     },
     {
       "book_id": "02EE74D760493CC7172495A8912B425A",
