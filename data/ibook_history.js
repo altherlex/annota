@@ -1,10 +1,170 @@
 var ibook_history = {
-  "updated_at": "2023-08-06 17:57:10 -0400",
+  "updated_at": "2023-08-09 23:49:40 -0400",
   "book_count": 452,
   "author_count": 321,
   "notes_count": 2902,
   "new_words_count": 756,
   "data": [
+    {
+      "book_id": "7D2D7945EE21039A0E11B634782658F5",
+      "author": "João Antônio",
+      "title": "Contos Reunidos",
+      "last_engaged_date": "2023-08-07 00:59:34 -0400",
+      "reading_progress": 0.10236220061779022,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-25 13:57:27 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 2589547,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2023-08-07 00:59:26 -0400",
+      "asset_details_modification_date": "2023-08-07 00:59:26 -0400",
+      "cover": {
+        "src": "assets/images/7D2D7945EE21039A0E11B634782658F5.jpg"
+      },
+      "notes": [
+        {
+          "pk": 778,
+          "book_id": "7D2D7945EE21039A0E11B634782658F5",
+          "chapter": "",
+          "text": "“Na noite de São Paulo você esquece que o dia vai nascer.”",
+          "sentence": "“Na noite de São Paulo você esquece que o dia vai nascer.”\n",
+          "note": null,
+          "path": "epubcfi(/6/78[id135]!/4/40/1,:305,:363)",
+          "created_at": "2021-11-22 19:05:50 -0500",
+          "updated_at": "2022-07-02 03:29:45 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 12
+        },
+        {
+          "pk": 776,
+          "book_id": "7D2D7945EE21039A0E11B634782658F5",
+          "chapter": "",
+          "text": "Mas que eu não a achincalhe, afinal, fonte de ternura e, no fundo, comoção de antigamente, ela é uma cidade. Todos têm a sua e nasceram numa. Esta é a minha, queira ou não. Mais que geografia, um modo de vida.",
+          "sentence": "Mas que eu não a achincalhe, afinal, fonte de ternura e, no fundo, comoção de antigamente, ela é uma cidade. Todos têm a sua e nasceram numa. Esta é a minha, queira ou não. Mais que geografia, um modo de vida.\n",
+          "note": null,
+          "path": "epubcfi(/6/78[id135]!/4/186/1,:0,:209)",
+          "created_at": "2021-11-23 18:59:24 -0500",
+          "updated_at": "2022-07-02 03:29:45 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 41
+        },
+        {
+          "pk": 775,
+          "book_id": "7D2D7945EE21039A0E11B634782658F5",
+          "chapter": "",
+          "text": "a. fortuna de paulista\nb. honradez de mineiro\nc. valentia de gaúcho\nd. inteligência de nortista",
+          "sentence": "a. fortuna de paulista\nb. honradez de mineiro\nc. valentia de gaúcho\nd. inteligência de nortista\n",
+          "note": null,
+          "path": "epubcfi(/6/76[id136]!/4,/30/1:0,/36/1:27)",
+          "created_at": "2021-10-03 00:01:03 -0400",
+          "updated_at": "2022-07-02 03:29:45 -0400",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 16
+        },
+        {
+          "pk": 773,
+          "book_id": "7D2D7945EE21039A0E11B634782658F5",
+          "chapter": "",
+          "text": "Sim... Só não considera que estamos numa fábrica de neurastenias e este tempo, se tem uma verdade, é a de que ninguém mais tolera ninguém. E pressa, não se sabe para quê, mas há.",
+          "sentence": "Sim... Só não considera que estamos numa fábrica de neurastenias e este tempo, se tem uma verdade, é a de que ninguém mais tolera ninguém. E pressa, não se sabe para quê, mas há.\n",
+          "note": null,
+          "path": "epubcfi(/6/78[id135]!/4/260/1,:0,:178)",
+          "created_at": "2021-11-23 19:35:02 -0500",
+          "updated_at": "2022-07-02 03:29:45 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 34
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "0A81F7A5136A1B12BA5F494DE11F1766",
+      "author": "S. Kierkegaard",
+      "zauthor": "Søren Kierkegaard",
+      "title": "As obras do amor",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-25 13:57:27 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 74667405,
+      "page_count": 0,
+      "created_at": "2023-01-28 23:47:58 -0800",
+      "updated_at": "2023-08-06 12:02:46 -0400",
+      "asset_details_modification_date": "2023-08-06 12:02:46 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/0A81F7A5136A1B12BA5F494DE11F1766.jpg"
+      }
+    },
+    {
+      "book_id": "D2B91F9FC2008AFECE9C5F831F8CCF73",
+      "author": "Alain Badiou e Nicolas Truong",
+      "title": "Elogio ao amor",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-08-05 17:53:15 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 8571335,
+      "page_count": 64,
+      "created_at": "2023-08-05 17:53:15 -0400",
+      "updated_at": "2023-08-06 04:38:38 -0400",
+      "asset_details_modification_date": "2023-08-08 23:49:04 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/D2B91F9FC2008AFECE9C5F831F8CCF73.jpg"
+      }
+    },
+    {
+      "book_id": "D8DC09A82A9C0882BF19871675868CC4",
+      "author": "Mark Twain",
+      "title": "Como contar uma história: e outros ensaios",
+      "last_engaged_date": "2023-08-05 21:40:35 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-08-05 17:55:14 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 199364,
+      "page_count": 0,
+      "created_at": "2023-08-05 17:55:14 -0400",
+      "updated_at": "2023-08-05 20:21:21 -0400",
+      "asset_details_modification_date": "2023-08-05 21:41:54 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": ""
+      }
+    },
     {
       "book_id": "E31365F3D4FC571342479C977B10F25C",
       "author": "Mark Twain",
@@ -31,31 +191,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "D8DC09A82A9C0882BF19871675868CC4",
-      "author": "Mark Twain",
-      "title": "Como contar uma história: e outros ensaios",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-08-05 17:55:14 -0400",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 199364,
-      "page_count": 0,
-      "created_at": "2023-08-05 17:55:14 -0400",
-      "updated_at": "2023-08-05 17:55:23 -0400",
-      "asset_details_modification_date": "2023-08-05 17:55:23 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": ""
-      }
-    },
-    {
       "book_id": "8C7EEE9C1D115D24A6855C8BF7606B10",
       "author": "Mark Twain",
       "title": "Joana d'Arc",
@@ -78,31 +213,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/8C7EEE9C1D115D24A6855C8BF7606B10.jpg"
-      }
-    },
-    {
-      "book_id": "D2B91F9FC2008AFECE9C5F831F8CCF73",
-      "author": "Alain Badiou e Nicolas Truong",
-      "title": "Elogio ao amor",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-08-05 17:53:15 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 8571335,
-      "page_count": 64,
-      "created_at": "2023-08-05 17:53:15 -0400",
-      "updated_at": "2023-08-05 17:53:16 -0400",
-      "asset_details_modification_date": "2023-08-05 17:53:16 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/D2B91F9FC2008AFECE9C5F831F8CCF73.jpg"
       }
     },
     {
@@ -21059,90 +21169,6 @@ var ibook_history = {
       ]
     },
     {
-      "book_id": "7D2D7945EE21039A0E11B634782658F5",
-      "author": "João Antônio",
-      "title": "Contos Reunidos",
-      "last_engaged_date": "2022-07-02 03:50:25 -0400",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-07-25 13:57:27 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 2589547,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-07-25 13:57:27 -0400",
-      "asset_details_modification_date": "2022-07-02 22:45:10 -0400",
-      "cover": {
-        "src": "assets/images/7D2D7945EE21039A0E11B634782658F5.jpg"
-      },
-      "notes": [
-        {
-          "pk": 778,
-          "book_id": "7D2D7945EE21039A0E11B634782658F5",
-          "chapter": "",
-          "text": "“Na noite de São Paulo você esquece que o dia vai nascer.”",
-          "sentence": "“Na noite de São Paulo você esquece que o dia vai nascer.”\n",
-          "note": null,
-          "path": "epubcfi(/6/78[id135]!/4/40/1,:305,:363)",
-          "created_at": "2021-11-22 19:05:50 -0500",
-          "updated_at": "2022-07-02 03:29:45 -0400",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 12
-        },
-        {
-          "pk": 776,
-          "book_id": "7D2D7945EE21039A0E11B634782658F5",
-          "chapter": "",
-          "text": "Mas que eu não a achincalhe, afinal, fonte de ternura e, no fundo, comoção de antigamente, ela é uma cidade. Todos têm a sua e nasceram numa. Esta é a minha, queira ou não. Mais que geografia, um modo de vida.",
-          "sentence": "Mas que eu não a achincalhe, afinal, fonte de ternura e, no fundo, comoção de antigamente, ela é uma cidade. Todos têm a sua e nasceram numa. Esta é a minha, queira ou não. Mais que geografia, um modo de vida.\n",
-          "note": null,
-          "path": "epubcfi(/6/78[id135]!/4/186/1,:0,:209)",
-          "created_at": "2021-11-23 18:59:24 -0500",
-          "updated_at": "2022-07-02 03:29:45 -0400",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 41
-        },
-        {
-          "pk": 775,
-          "book_id": "7D2D7945EE21039A0E11B634782658F5",
-          "chapter": "",
-          "text": "a. fortuna de paulista\nb. honradez de mineiro\nc. valentia de gaúcho\nd. inteligência de nortista",
-          "sentence": "a. fortuna de paulista\nb. honradez de mineiro\nc. valentia de gaúcho\nd. inteligência de nortista\n",
-          "note": null,
-          "path": "epubcfi(/6/76[id136]!/4,/30/1:0,/36/1:27)",
-          "created_at": "2021-10-03 00:01:03 -0400",
-          "updated_at": "2022-07-02 03:29:45 -0400",
-          "is_inderline": 0,
-          "color": 1,
-          "type": 2,
-          "words_count": 16
-        },
-        {
-          "pk": 773,
-          "book_id": "7D2D7945EE21039A0E11B634782658F5",
-          "chapter": "",
-          "text": "Sim... Só não considera que estamos numa fábrica de neurastenias e este tempo, se tem uma verdade, é a de que ninguém mais tolera ninguém. E pressa, não se sabe para quê, mas há.",
-          "sentence": "Sim... Só não considera que estamos numa fábrica de neurastenias e este tempo, se tem uma verdade, é a de que ninguém mais tolera ninguém. E pressa, não se sabe para quê, mas há.\n",
-          "note": null,
-          "path": "epubcfi(/6/78[id135]!/4/260/1,:0,:178)",
-          "created_at": "2021-11-23 19:35:02 -0500",
-          "updated_at": "2022-07-02 03:29:45 -0400",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 34
-        }
-      ],
-      "new_words": [
-
-      ]
-    },
-    {
       "book_id": "07B88E38B654F6CC65CBF5A46744BDA5",
       "author": "Ariano Suassuna",
       "title": "Teatro Completo Ariano Suassuna",
@@ -35560,32 +35586,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/559B2E4A747AF6CBEB067AB0D727D69B.jpg"
-      }
-    },
-    {
-      "book_id": "0A81F7A5136A1B12BA5F494DE11F1766",
-      "author": "S. Kierkegaard",
-      "zauthor": "Søren Kierkegaard",
-      "title": "As obras do amor",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-07-25 13:57:27 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 74633720,
-      "page_count": 0,
-      "created_at": "2023-01-28 23:47:58 -0800",
-      "updated_at": "2023-07-25 13:57:27 -0400",
-      "asset_details_modification_date": "2023-01-29 02:48:04 -0500",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/0A81F7A5136A1B12BA5F494DE11F1766.jpg"
       }
     },
     {
