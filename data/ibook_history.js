@@ -1,16 +1,191 @@
 var ibook_history = {
-  "updated_at": "2023-08-09 23:49:40 -0400",
-  "book_count": 452,
+  "updated_at": "2023-08-18 22:18:22 -0400",
+  "book_count": 453,
   "author_count": 321,
-  "notes_count": 2902,
-  "new_words_count": 756,
+  "notes_count": 2907,
+  "new_words_count": 758,
   "data": [
+    {
+      "book_id": "FA349E672F8071E4BD0AD4524992B0BC",
+      "author": "Franz Kafka",
+      "title": "Descrição de uma luta",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2023-08-14 23:33:59 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 3834287,
+      "page_count": 35,
+      "created_at": "2023-08-14 23:33:59 -0400",
+      "updated_at": "2023-08-15 00:04:18 -0400",
+      "asset_details_modification_date": "2023-08-17 22:18:11 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "D317BB9E11F93813DD21F5663CF8F838",
+      "author": "Friedrich Schiller",
+      "title": "A Educacao Estética do Homem",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-28 00:07:06 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 20729900,
+      "page_count": 80,
+      "created_at": "2023-07-28 00:07:06 -0400",
+      "updated_at": "2023-08-11 11:28:14 -0400",
+      "asset_details_modification_date": "2023-08-11 11:28:14 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/D317BB9E11F93813DD21F5663CF8F838.jpg"
+      }
+    },
+    {
+      "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+      "author": "Franz Kafka",
+      "title": "Contemplação e O Foguista",
+      "last_engaged_date": "2023-08-11 00:49:00 -0400",
+      "reading_progress": 0.9390243887901306,
+      "marked_as_finished": null,
+      "purchase_date": "2023-08-01 23:24:09 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 387690,
+      "page_count": 0,
+      "created_at": "2023-08-01 23:24:09 -0400",
+      "updated_at": "2023-08-09 03:48:14 -0400",
+      "asset_details_modification_date": "2023-08-09 03:48:14 -0400",
+      "notes": [
+        {
+          "pk": 4120,
+          "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+          "chapter": "Um Fragmento",
+          "text": "provisão irresponsavelmente escassa",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Foguis.html]!/4/310/1,:960,:995)",
+          "created_at": "2023-08-10 14:22:29 -0400",
+          "updated_at": "2023-08-10 14:22:30 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 3
+        },
+        {
+          "pk": 4119,
+          "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+          "chapter": "Um Fragmento",
+          "text": "força do seu desespero.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Foguis.html]!/4/240/1,:410,:433)",
+          "created_at": "2023-08-10 13:59:38 -0400",
+          "updated_at": "2023-08-10 13:59:39 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 4116,
+          "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+          "chapter": "Um Fragmento",
+          "text": "“Se na América é possível roubar mala, então é possível também mentir de vez em quando” — pensou como desculpa.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Foguis.html]!/4/226/1,:0,:111)",
+          "created_at": "2023-08-10 13:54:26 -0400",
+          "updated_at": "2023-08-10 13:54:27 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 20
+        },
+        {
+          "pk": 4115,
+          "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+          "chapter": "Um Fragmento",
+          "text": "— Tudo isso é verdade, palavra por palavra",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Foguis.html]!/4/196/1,:0,:42)",
+          "created_at": "2023-08-10 00:38:43 -0400",
+          "updated_at": "2023-08-10 00:38:49 -0400",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 8
+        },
+        {
+          "pk": 4113,
+          "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+          "chapter": "Crianças na Rua Principal",
+          "text": "Quando se mistura a própria voz com outras fica-se preso como que por um anzol.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[Contempla.html]!/4/42/1,:246,:325)",
+          "created_at": "2023-08-09 04:07:58 -0400",
+          "updated_at": "2023-08-09 04:07:58 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 15
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 4118,
+          "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+          "chapter": "Um Fragmento",
+          "text": "estribeiras",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Foguis.html]!/4/240/1,:246,:257)",
+          "created_at": "2023-08-10 13:59:21 -0400",
+          "updated_at": "2023-08-10 13:59:21 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4117,
+          "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
+          "chapter": "Um Fragmento",
+          "text": "aversão",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/18[Foguis.html]!/4/234/1,:721,:728)",
+          "created_at": "2023-08-10 13:57:37 -0400",
+          "updated_at": "2023-08-10 13:57:38 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ],
+      "cover": {
+        "src": "assets/images/FCBA623622C3C9F54C9AC69BEBEE2D4E.jpg"
+      }
+    },
     {
       "book_id": "7D2D7945EE21039A0E11B634782658F5",
       "author": "João Antônio",
       "title": "Contos Reunidos",
-      "last_engaged_date": "2023-08-07 00:59:34 -0400",
-      "reading_progress": 0.10236220061779022,
+      "last_engaged_date": "2023-08-14 00:50:00 -0400",
+      "reading_progress": 0.30078738927841187,
       "marked_as_finished": null,
       "purchase_date": "2023-07-25 13:57:27 -0400",
       "genre": "",
@@ -594,31 +769,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "FCBA623622C3C9F54C9AC69BEBEE2D4E",
-      "author": "Franz Kafka",
-      "title": "Contemplação e O Foguista",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-08-01 23:24:09 -0400",
-      "genre": "",
-      "lang": "pt",
-      "file_size": 387690,
-      "page_count": 0,
-      "created_at": "2023-08-01 23:24:09 -0400",
-      "updated_at": "2023-08-01 23:24:53 -0400",
-      "asset_details_modification_date": "2023-08-01 23:24:53 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/FCBA623622C3C9F54C9AC69BEBEE2D4E.jpg"
-      }
-    },
-    {
       "book_id": "4B1133942375A29405A966BEEFE200A9",
       "author": "Franz Kafka",
       "title": "Na Colônia Penal e Outras Histórias",
@@ -641,31 +791,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/4B1133942375A29405A966BEEFE200A9.png"
-      }
-    },
-    {
-      "book_id": "D317BB9E11F93813DD21F5663CF8F838",
-      "author": "Friedrich Schiller",
-      "title": "A Educacao Estética do Homem",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-07-28 00:07:06 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 20729900,
-      "page_count": 80,
-      "created_at": "2023-07-28 00:07:06 -0400",
-      "updated_at": "2023-07-28 00:07:35 -0400",
-      "asset_details_modification_date": "2023-07-28 00:07:35 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/D317BB9E11F93813DD21F5663CF8F838.jpg"
       }
     },
     {
