@@ -25,7 +25,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/FA349E672F8071E4BD0AD4524992B0BC.jpg"
+      }
     },
     {
       "book_id": "D317BB9E11F93813DD21F5663CF8F838",
