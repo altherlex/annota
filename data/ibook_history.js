@@ -1,15 +1,1086 @@
 var ibook_history = {
-  "updated_at": "2023-12-23 15:44:06 -0500",
-  "book_count": 465,
-  "author_count": 331,
-  "notes_count": 3100,
-  "new_words_count": 854,
+  "updated_at": "2024-01-27 10:50:11 -0500",
+  "book_count": 475,
+  "author_count": 335,
+  "notes_count": 3128,
+  "new_words_count": 866,
   "data": [
+    {
+      "book_id": "4C5F32ADFFE3E080196FC4B9B1D62943",
+      "author": "George Orwell",
+      "title": "Dentro da baleia e outros ensaios(Oficial)",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2024-01-22 10:05:56 -0500",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 716263,
+      "page_count": 0,
+      "created_at": "2024-01-22 10:05:56 -0500",
+      "updated_at": "2024-01-22 10:05:59 -0500",
+      "asset_details_modification_date": "2024-01-22 10:05:59 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "EB1226BA9729DEA7B5874B6EF9C8BA74",
+      "author": "George Orwell",
+      "title": "Sobre a verdade",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2024-01-22 10:05:52 -0500",
+      "genre": "Escritos - Ebsaios - Cartas - Reportagens",
+      "lang": "pt",
+      "file_size": 961297,
+      "page_count": 0,
+      "created_at": "2024-01-22 10:05:52 -0500",
+      "updated_at": "2024-01-22 10:05:56 -0500",
+      "asset_details_modification_date": "2024-01-22 10:05:56 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+      "author": "Anton Tchékhov",
+      "title": "A ilha de Sacalina",
+      "last_engaged_date": "2024-01-21 02:48:01 -0500",
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-25 13:57:27 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 2117800,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2024-01-21 02:37:19 -0500",
+      "asset_details_modification_date": "2024-01-21 02:37:19 -0500",
+      "notes": [
+        {
+          "pk": 3088,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "V",
+          "text": "prisão de Aleksándrovski",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/90/1,:184,:208)",
+          "created_at": "2023-01-26 04:10:52 -0500",
+          "updated_at": "2023-01-26 04:10:54 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 3
+        },
+        {
+          "pk": 3037,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "V",
+          "text": " Se a vida surge e se desenvolve de uma forma que não é a natural, mas sim artificial, e se seu crescimento depende menos das condições naturais e econômicas do que da teoria e do arbítrio de determinadas pessoas, acasos desse tipo subordinam a vida de forma imperiosa e inevitável e se tornam uma espécie de lei, para essa vida artificial.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/36/3,:193,:533)",
+          "created_at": "2023-01-19 13:56:53 -0500",
+          "updated_at": "2023-01-19 13:56:54 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 61
+        },
+        {
+          "pk": 3036,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "IV",
+          "text": "A população sobrevive a duras penas, mas mesmo assim as pessoas bebem chá todo dia, fumam tabaco turco, andam em roupas de pessoas livres, pagam aluguel, compram as casas dos camponeses que partem para o continente e constroem casas novas.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/30/1,:357,:596)",
+          "created_at": "2023-01-19 13:53:09 -0500",
+          "updated_at": "2023-01-19 13:53:10 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 40
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 3035,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "IV",
+          "text": "isbás",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[id113]!/4/26/1,:60,:65)",
+          "created_at": "2023-01-19 13:49:03 -0500",
+          "updated_at": "2023-01-19 13:49:04 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 3034,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "IV",
+          "text": "cabal",
+          "sentence": null,
+          "note": "Completa",
+          "path": "epubcfi(/6/6[id113]!/4/24/1,:116,:121)",
+          "created_at": "2023-01-19 13:47:48 -0500",
+          "updated_at": "2023-01-19 13:47:56 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2631,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "II",
+          "text": "Arrabaldes",
+          "sentence": null,
+          "note": "Suburbio",
+          "path": "epubcfi(/6/4[id114]!/4/256/1,:15,:25)",
+          "created_at": "2022-12-10 02:06:17 -0500",
+          "updated_at": "2022-12-10 02:06:26 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2630,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "I",
+          "text": "istmo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id114]!/4/192/5,:385,:390)",
+          "created_at": "2022-12-10 01:40:14 -0500",
+          "updated_at": "2022-12-10 01:40:15 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 2629,
+          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
+          "chapter": "Apresentação",
+          "text": "liceu",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[id114]!/4/84/1,:264,:269)",
+          "created_at": "2022-12-10 00:08:10 -0500",
+          "updated_at": "2022-12-10 00:08:11 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ],
+      "cover": {
+        "src": "assets/images/D2F0D17CF863FA1805CED4D675016FC5.jpg"
+      }
+    },
+    {
+      "book_id": "F464D9387A696237647ED627621CF468",
+      "author": "Camilo Castelo Branco",
+      "title": "CORAÇÃO, CABEÇA E ESTÔMAGO",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2024-01-17 03:17:18 -0500",
+      "genre": null,
+      "lang": null,
+      "file_size": 904862,
+      "page_count": 63,
+      "created_at": "2024-01-17 03:17:18 -0500",
+      "updated_at": "2024-01-17 03:17:45 -0500",
+      "asset_details_modification_date": "2024-01-17 03:17:45 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+      "author": "Clarice Lispector",
+      "title": "A paixão segundo G.H.",
+      "last_engaged_date": "2024-01-26 10:37:51 -0500",
+      "reading_progress": 0.5987653732299805,
+      "marked_as_finished": null,
+      "purchase_date": "2024-01-06 18:59:37 -0500",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 630615,
+      "page_count": 0,
+      "created_at": "2024-01-06 18:59:37 -0500",
+      "updated_at": "2024-01-12 21:31:55 -0500",
+      "asset_details_modification_date": "2024-01-12 21:31:55 -0500",
+      "notes": [
+        {
+          "pk": 4469,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Aumentar infinitamente o pedido que nasce da carência.",
+          "text": "somos intensamente aproveitados por Deus",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/66[id41]!/4/20/1,:268,:308)",
+          "created_at": "2024-01-26 10:44:10 -0500",
+          "updated_at": "2024-01-26 10:44:11 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 5
+        },
+        {
+          "pk": 4468,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Não devo ter medo de ver a humanização por dentro.",
+          "text": "Mas vejo agora o que na verdade me acontecia: eu tinha tão pouca fé que havia inventado apenas o futuro, eu acreditava tão pouco no que existe que adiava a atualidade para uma promessa e para um futuro.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/64[id40]!/4/20/1,:214,:416)",
+          "created_at": "2024-01-26 10:06:41 -0500",
+          "updated_at": "2024-01-26 10:06:42 -0500",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 38
+        },
+        {
+          "pk": 4466,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Porque a coisa nua é tão tediosa.",
+          "text": "– Ah, não sei como te dizer, já que só fico eloquente quando erro, o erro me leva a discutir e a pensar. Mas como te falar, se há um silêncio quando acerto? Como te falar do inexpressivo?",
+          "sentence": null,
+          "note": "Do erro de novo",
+          "path": "epubcfi(/6/62[id39]!/4/14/1,:0,:187)",
+          "created_at": "2024-01-26 09:55:24 -0500",
+          "updated_at": "2024-01-26 09:55:30 -0500",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 38
+        },
+        {
+          "pk": 4465,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Ela sentiria falta do que deveria ser seu.",
+          "text": "De que sou eu a semente? Semente de coisa, semente de existência, semente desses mesmos vagalhões de amor-neutro. Eu, pessoa, sou um germe. O germe é apenas sensível – esta é a sua única particular inerência. O germe dói. O germe é ávido e esperto. Minha avidez é a minha mais inicial fome: sou pura porque sou ávida.",
+          "sentence": null,
+          "note": "Oração da Clarice",
+          "path": "epubcfi(/6/60[id38]!/4/40/1,:0,:317)",
+          "created_at": "2024-01-26 09:46:50 -0500",
+          "updated_at": "2024-01-26 09:47:02 -0500",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 58
+        },
+        {
+          "pk": 4464,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Ela sentiria falta do que deveria ser seu.",
+          "text": "a coisa nunca pode ser realmente tocada.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/60[id38]!/4/30/1,:23,:63)",
+          "created_at": "2024-01-26 09:42:50 -0500",
+          "updated_at": "2024-01-26 09:42:51 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 4462,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Pois em mim mesma eu vi como é o inferno.",
+          "text": "Somos livres, e este é o inferno. ",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/54[id35]!/4/46/1,:430,:464)",
+          "created_at": "2024-01-26 01:44:51 -0500",
+          "updated_at": "2024-01-26 01:44:52 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 4461,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Pois em mim mesma eu vi como é o inferno.",
+          "text": " viver a minha própria remotidão",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/54[id35]!/4/38/1,:49,:81)",
+          "created_at": "2024-01-26 01:42:02 -0500",
+          "updated_at": "2024-01-26 01:42:03 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 5
+        },
+        {
+          "pk": 4460,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Voltei-me de chofre para o interior do quarto que, na sua ardência, pelo menos não era povoado.",
+          "text": "estado latente",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[id33]!/4/24/1,:184,:198)",
+          "created_at": "2024-01-26 01:16:34 -0500",
+          "updated_at": "2024-01-26 01:16:35 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 4457,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Eu procurava uma amplidão.",
+          "text": "E não me esquecer, ao começar o trabalho, de me preparar para errar. Não esquecer que o erro muitas vezes se havia tornado o meu caminho. Todas as vezes em que não dava certo o que eu pensava ou sentia – é que se fazia enfim uma brecha, e, se antes eu tivesse tido coragem, já teria entrado por ela. Mas eu sempre tivera medo de delírio e erro. Meu erro, no entanto, devia ser o caminho de uma verdade: pois só quando erro é que saio do que conheço e do que entendo. Se a “verdade” fosse aquilo que posso entender – terminaria sendo apenas uma verdade pequena, do meu tamanho.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/48[id32]!/4/48/1,:0,:576)",
+          "created_at": "2024-01-25 09:44:21 -0500",
+          "updated_at": "2024-01-25 09:44:28 -0500",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 112
+        },
+        {
+          "pk": 4456,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Eu procurava uma amplidão.",
+          "text": "criança inquisidora",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/48[id32]!/4/12/1,:248,:267)",
+          "created_at": "2024-01-25 09:28:57 -0500",
+          "updated_at": "2024-01-25 09:28:58 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 4455,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "A vida pré-humana divina é de uma atualidade que queima.",
+          "text": " deserto vivo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/46[id31]!/4/24/1,:235,:248)",
+          "created_at": "2024-01-25 09:22:00 -0500",
+          "updated_at": "2024-01-25 09:22:01 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 4453,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "A vida pré-humana divina é de uma atualidade que queima.",
+          "text": "A alegria de perder-se é uma alegria de sabá. Perder-se é um achar-se perigoso.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/46[id31]!/4/6/1,:0,:79)",
+          "created_at": "2024-01-25 09:17:08 -0500",
+          "updated_at": "2024-01-25 09:17:09 -0500",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 14
+        },
+        {
+          "pk": 4452,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Dá-me a tua mão:",
+          "text": "atravessarei o mormaço estupefato que se incha do nada",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/44[id30]!/4/22/1,:213,:267)",
+          "created_at": "2024-01-25 09:15:29 -0500",
+          "updated_at": "2024-01-25 09:15:30 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 9
+        },
+        {
+          "pk": 4451,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Dá-me a tua mão:",
+          "text": "Vou agora te contar como entrei no inexpressivo que sempre foi a minha busca cega e secreta. De como entrei naquilo que existe entre o número um e o número dois, de como vi a linha de mistério e fogo, e que é linha sub-reptícia. Entre duas notas de música existe uma nota, entre dois fatos existe um fato, entre dois grãos de areia por mais juntos que estejam existe um intervalo de espaço, existe um sentir que é entre o sentir – nos interstícios da matéria primordial está a linha de mistério e fogo que é a respiração do mundo, e a respiração contínua do mundo é aquilo que ouvimos e chamamos de silêncio.",
+          "sentence": null,
+          "note": "Introdução a metafisica de Clarice",
+          "path": "epubcfi(/6/44[id30]!/4/4/1,:0,:608)",
+          "created_at": "2024-01-25 09:09:44 -0500",
+          "updated_at": "2024-01-25 09:09:54 -0500",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 115
+        },
+        {
+          "pk": 4450,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Neutro artesanato de vida.",
+          "text": "ser é não saber",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id28]!/4/38/1,:431,:446)",
+          "created_at": "2024-01-25 05:31:52 -0500",
+          "updated_at": "2024-01-25 05:31:53 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 4449,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Neutro artesanato de vida.",
+          "text": "O mundo só não me amedrontaria se eu passasse a ser o mundo.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id28]!/4/10/1,:430,:490)",
+          "created_at": "2024-01-25 05:22:21 -0500",
+          "updated_at": "2024-01-25 05:22:22 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 13
+        },
+        {
+          "pk": 4448,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Neutro artesanato de vida.",
+          "text": "uma eternidade que respira",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/40[id28]!/4/10/1,:381,:407)",
+          "created_at": "2024-01-25 05:22:05 -0500",
+          "updated_at": "2024-01-25 05:22:06 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 4446,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Finalmente, meu amor, sucumbi.",
+          "text": "como o hálito de quem está vivo.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id26]!/4/36/1,:197,:229)",
+          "created_at": "2024-01-25 04:56:34 -0500",
+          "updated_at": "2024-01-25 04:56:35 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 7
+        },
+        {
+          "pk": 4445,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Finalmente, meu amor, sucumbi.",
+          "text": "Transcender é uma transgressão. Mas ficar dentro do que é, isso exige que eu não tenha medo!",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/36[id26]!/4/32/1,:488,:580)",
+          "created_at": "2024-01-25 04:55:45 -0500",
+          "updated_at": "2024-01-25 04:55:46 -0500",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 17
+        },
+        {
+          "pk": 4444,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Então, de novo, mais um milímetro grosso de matéria branca espremeu-se para fora.",
+          "text": " A hora de viver, meu amor, estava sendo tão já que eu encostava a boca na matéria da vida. A hora de viver é um ininterrupto lento rangido de portas que se abrem continuamente de par em par. Dois portões se abriam e nunca tinham parado de se abrir.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id25]!/4/32/1,:237,:486)",
+          "created_at": "2024-01-25 04:40:37 -0500",
+          "updated_at": "2024-01-25 04:40:38 -0500",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 49
+        },
+        {
+          "pk": 4443,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Então, de novo, mais um milímetro grosso de matéria branca espremeu-se para fora.",
+          "text": "curiosidade malsã",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/34[id25]!/4/24/1,:59,:76)",
+          "created_at": "2024-01-25 04:35:59 -0500",
+          "updated_at": "2024-01-25 04:36:00 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 4439,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Eu chegara ao nada, e o nada era vivo e úmido.",
+          "text": "De nascer até morrer é o que eu me chamo de humana, e nunca propriamente morrerei.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/28[id22]!/4/44/1,:472,:554)",
+          "created_at": "2024-01-23 07:44:19 -0500",
+          "updated_at": "2024-01-23 07:44:20 -0500",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 16
+        },
+        {
+          "pk": 4435,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "É que um mundo todo vivo tem a força de um Inferno.",
+          "text": "viver não é coragem, saber que se vive é a coragem",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[id16]!/4/14/1,:458,:508)",
+          "created_at": "2024-01-22 05:49:19 -0500",
+          "updated_at": "2024-01-22 05:49:19 -0500",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 11
+        },
+        {
+          "pk": 4433,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "estou procurando, estou procurando",
+          "text": "E porque não tenho uma palavra a dizer.\n\n  Não tenho uma palavra a dizer. Por que não me calo, então? Mas se eu não forçar a palavra a mudez me engolfará para sempre em ondas. A palavra e a forma serão a tábua onde boiarei sobre vagalhões de mudez.",
+          "sentence": null,
+          "note": "Se não forcar a palavra, a mudez me engolfara",
+          "path": "epubcfi(/6/14[id15]!/4,/68/1:0,/70/1:205)",
+          "created_at": "2024-01-21 01:31:55 -0500",
+          "updated_at": "2024-01-21 01:32:22 -0500",
+          "is_inderline": 0,
+          "color": 4,
+          "type": 2,
+          "words_count": 49
+        },
+        {
+          "pk": 4432,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "estou procurando, estou procurando",
+          "text": "Enquanto escrever e falar vou ter que fingir que alguém está segurando a minha mão.\n\n  Oh pelo menos no começo, só no começo. Logo que puder dispensá-la, irei sozinha. Por enquanto preciso segurar esta tua mão – mesmo que não consiga inventar teu rosto e teus olhos e tua boca. Mas embora decepada, esta mão não me assusta. A invenção dela vem de tal ideia de amor como se a mão estivesse realmente ligada a um corpo que, se não vejo, é por incapacidade de amar mais. Não estou à altura de imaginar uma pessoa inteira porque não sou uma pessoa inteira. E como imaginar um rosto se não sei de que expressão de rosto preciso? Logo que puder dispensar tua mão quente, irei sozinha e com horror. ",
+          "sentence": null,
+          "note": "Oracao de Clarice Lispector",
+          "path": "epubcfi(/6/14[id15]!/4,/54/1:0,/56/1:605)",
+          "created_at": "2024-01-21 01:26:45 -0500",
+          "updated_at": "2024-01-21 01:26:45 -0500",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 128
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 4467,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Porque a coisa nua é tão tediosa.",
+          "text": "exasperação",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/62[id39]!/4/18/1,:435,:446)",
+          "created_at": "2024-01-26 09:57:29 -0500",
+          "updated_at": "2024-01-26 09:57:30 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4463,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Ela sentiria falta do que deveria ser seu.",
+          "text": "escrínio",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/60[id38]!/4/12/1,:240,:248)",
+          "created_at": "2024-01-26 09:31:26 -0500",
+          "updated_at": "2024-01-26 09:31:27 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4459,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Voltei-me de chofre para o interior do quarto que, na sua ardência, pelo menos não era povoado.",
+          "text": "prescinde",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[id33]!/4/4/1,:266,:275)",
+          "created_at": "2024-01-26 01:06:42 -0500",
+          "updated_at": "2024-01-26 01:06:43 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4458,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Voltei-me de chofre para o interior do quarto que, na sua ardência, pelo menos não era povoado.",
+          "text": "chofre",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[id33]!/4/2/1,:13,:19)",
+          "created_at": "2024-01-26 01:03:31 -0500",
+          "updated_at": "2024-01-26 01:03:33 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4454,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "A vida pré-humana divina é de uma atualidade que queima.",
+          "text": "tessitura",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/46[id31]!/4/6/1,:183,:192)",
+          "created_at": "2024-01-25 09:17:32 -0500",
+          "updated_at": "2024-01-25 09:17:33 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4447,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Pois o que eu estava vendo era ainda anterior ao humano.",
+          "text": "contemporização",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/38[id27]!/4/30/1,:154,:169)",
+          "created_at": "2024-01-25 05:16:02 -0500",
+          "updated_at": "2024-01-25 05:16:02 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4442,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Perdão é um atributo da matéria viva.",
+          "text": "derrocada",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/30[id23]!/4/20/1,:706,:715)",
+          "created_at": "2024-01-23 07:50:37 -0500",
+          "updated_at": "2024-01-23 07:50:38 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4441,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Perdão é um atributo da matéria viva.",
+          "text": "friável",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/30[id23]!/4/20/1,:693,:700)",
+          "created_at": "2024-01-23 07:50:35 -0500",
+          "updated_at": "2024-01-23 07:50:36 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4440,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Perdão é um atributo da matéria viva.",
+          "text": "fragor",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/30[id23]!/4/20/1,:651,:657)",
+          "created_at": "2024-01-23 07:50:09 -0500",
+          "updated_at": "2024-01-23 07:50:09 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4438,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Então, antes de entender, meu coração embranqueceu como cabelos embranquecem.",
+          "text": "inextricável",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/22[id19]!/4/48/1,:527,:539)",
+          "created_at": "2024-01-23 01:03:21 -0500",
+          "updated_at": "2024-01-23 01:03:21 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4437,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Então, antes de entender, meu coração embranqueceu como cabelos embranquecem.",
+          "text": "imemorial",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/22[id19]!/4/10/1,:209,:218)",
+          "created_at": "2024-01-23 00:46:21 -0500",
+          "updated_at": "2024-01-23 00:46:22 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4436,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "É que um mundo todo vivo tem a força de um Inferno.",
+          "text": "indulgência",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/16[id16]!/4/66/1,:308,:319)",
+          "created_at": "2024-01-22 06:13:22 -0500",
+          "updated_at": "2024-01-22 06:13:22 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ]
+    },
+    {
+      "book_id": "0B395C4DBDBCA0ABBBB490A8B9944D37",
+      "author": "Clarice Lispector",
+      "title": "Perto do Coracao Selvagem",
+      "last_engaged_date": null,
+      "reading_progress": 0.01939057931303978,
+      "marked_as_finished": null,
+      "purchase_date": "2024-01-06 06:51:59 -0500",
+      "genre": "",
+      "lang": "",
+      "file_size": 105143296,
+      "page_count": 0,
+      "created_at": "2024-01-06 06:51:59 -0500",
+      "updated_at": "2024-01-06 06:52:13 -0500",
+      "asset_details_modification_date": "2024-01-06 06:52:13 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "D27C288BF852405F23ABD1A8DF43BE6E",
+      "author": "Clarice Lispector",
+      "title": "A Descoberta do Mundo",
+      "last_engaged_date": "2024-01-21 02:47:16 -0500",
+      "reading_progress": 0.3191125988960266,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-25 13:57:27 -0400",
+      "genre": "Contos e Crônicas",
+      "lang": "pt",
+      "file_size": 1505497,
+      "page_count": 0,
+      "created_at": "2022-01-18 09:29:45 -0800",
+      "updated_at": "2024-01-06 06:41:54 -0500",
+      "asset_details_modification_date": "2024-01-06 06:41:54 -0500",
+      "notes": [
+        {
+          "pk": 2359,
+          "book_id": "D27C288BF852405F23ABD1A8DF43BE6E",
+          "chapter": "",
+          "text": "Repito por pura alegria de viver: a salvação é pelo risco, sem o qual a vida não vale a pena!",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/12[html6]!/4/2/232/2/1,:0,:93)",
+          "created_at": "2022-10-30 18:55:15 -0400",
+          "updated_at": "2022-10-30 18:55:15 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 20
+        }
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/D27C288BF852405F23ABD1A8DF43BE6E.jpg"
+      }
+    },
+    {
+      "book_id": "407F7D910BB2A1CF761E526872ABBFB6",
+      "author": "Aristófanes",
+      "title": "Lisístrata",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": 1,
+      "purchase_date": "2024-01-03 16:42:36 -0500",
+      "genre": null,
+      "lang": null,
+      "file_size": 447232,
+      "page_count": 37,
+      "created_at": "2024-01-03 16:42:36 -0500",
+      "updated_at": "2024-01-03 16:43:20 -0500",
+      "asset_details_modification_date": "2024-01-03 16:43:20 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "04488B47DF25D9310478BFE33832E630",
+      "author": "Anna Maria Casoretti",
+      "title": "A origem da alma - do Orfismo a Platão",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-12-26 11:56:36 -0500",
+      "genre": null,
+      "lang": null,
+      "file_size": 508771,
+      "page_count": 76,
+      "created_at": "2023-12-26 11:56:36 -0500",
+      "updated_at": "2024-01-03 10:27:03 -0500",
+      "asset_details_modification_date": "2024-01-03 10:27:03 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "EE2379563C74B2D965AA6B50139935B3",
+      "author": "Anna Maria Casoretti",
+      "title": "O surgimento da ascética da alma na antiguidade grega - Orfismo e Pitagorismo",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-12-26 11:57:34 -0500",
+      "genre": null,
+      "lang": null,
+      "file_size": 945336,
+      "page_count": 123,
+      "created_at": "2023-12-26 11:57:34 -0500",
+      "updated_at": "2023-12-26 11:57:35 -0500",
+      "asset_details_modification_date": "2023-12-26 11:57:35 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "C649A247BF43221B816B8F64D24FEB63",
+      "author": "Mark Matousek",
+      "title": "Lessons from an American Stoic",
+      "last_engaged_date": "2024-01-02 14:11:24 -0500",
+      "reading_progress": 0.025547439232468605,
+      "marked_as_finished": null,
+      "purchase_date": "2023-12-25 20:41:38 -0500",
+      "genre": "",
+      "lang": "en",
+      "file_size": 4326836,
+      "page_count": 0,
+      "created_at": "2023-12-25 20:41:38 -0500",
+      "updated_at": "2023-12-25 20:42:00 -0500",
+      "asset_details_modification_date": "2023-12-25 20:42:00 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "8317DE2925591F5651ECF7705A8A8FDC",
+      "author": "João Cabral de Melo Neto",
+      "title": "Morte e Vida Severina",
+      "last_engaged_date": "2023-12-29 08:41:50 -0500",
+      "reading_progress": 0.8787878751754761,
+      "marked_as_finished": null,
+      "purchase_date": "2023-12-25 17:09:03 -0500",
+      "genre": "",
+      "lang": "en",
+      "file_size": 529999,
+      "page_count": 0,
+      "created_at": "2023-12-25 17:09:03 -0500",
+      "updated_at": "2023-12-25 17:09:43 -0500",
+      "asset_details_modification_date": "2023-12-25 17:09:43 -0500",
+      "notes": [
+        {
+          "pk": 4430,
+          "book_id": "8317DE2925591F5651ECF7705A8A8FDC",
+          "chapter": "Uma Faca Só Lâmina",
+          "text": "aquela ausência sôfrega",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[id111]!/4/124/2/1,:0,:23)",
+          "created_at": "2023-12-29 08:33:57 -0500",
+          "updated_at": "2023-12-29 08:33:58 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 3
+        },
+        {
+          "pk": 4429,
+          "book_id": "8317DE2925591F5651ECF7705A8A8FDC",
+          "chapter": "Uma Faca Só Lâmina",
+          "text": "essa ausência tão ávida",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/50[id111]!/4/116/2/1,:0,:23)",
+          "created_at": "2023-12-29 08:33:38 -0500",
+          "updated_at": "2023-12-29 08:33:39 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 4426,
+          "book_id": "8317DE2925591F5651ECF7705A8A8FDC",
+          "chapter": "Morte e Vida Severina",
+          "text": "a vida que tem vivido     foi sempre comprada à vista? — Severino, retirante,      sou de Nazaré da Mata,      mas tanto lá como aqui     jamais me fiaram nada:     a vida de cada dia     cada dia hei de comprá-la.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/48[id112]!/4,/1926/2/1:7,/1940/2/1:31)",
+          "created_at": "2023-12-25 17:39:45 -0500",
+          "updated_at": "2023-12-25 17:39:46 -0500",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 33
+        }
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "E547D5D869A603EFE999773A5AFDDBE1",
+      "author": "Andrea Wulf",
+      "title": "A invencao da natureza - A vida e as descobertas de Alexander von Humbolt",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-12-01 18:00:35 -0500",
+      "genre": null,
+      "lang": null,
+      "file_size": 10500552,
+      "page_count": 1048,
+      "created_at": "2023-12-01 18:00:35 -0500",
+      "updated_at": "2023-12-23 19:47:04 -0500",
+      "asset_details_modification_date": "2023-12-23 19:47:04 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
+      "book_id": "EBB8446515B76BD538646083CCB546D9",
+      "author": "Nizar Qabbani",
+      "title": "Arabian Love Poems",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-09-29 21:45:55 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 6250348,
+      "page_count": 120,
+      "created_at": "2023-09-29 21:45:55 -0400",
+      "updated_at": "2023-12-23 19:46:56 -0500",
+      "asset_details_modification_date": "2023-12-23 19:46:56 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/EBB8446515B76BD538646083CCB546D9.jpg"
+      }
+    },
+    {
+      "book_id": "D317BB9E11F93813DD21F5663CF8F838",
+      "author": "Friedrich Schiller",
+      "title": "A Educacao Estética do Homem",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-28 00:07:06 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 20775710,
+      "page_count": 80,
+      "created_at": "2023-07-28 00:07:06 -0400",
+      "updated_at": "2023-12-23 19:46:48 -0500",
+      "asset_details_modification_date": "2023-12-23 19:46:48 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/D317BB9E11F93813DD21F5663CF8F838.jpg"
+      }
+    },
     {
       "book_id": "72407F076510E52E4A7C0E9FC4234D32",
       "author": "Italo Calvino",
       "title": "Os nossos antepassados",
-      "last_engaged_date": "2023-12-20 22:59:54 -0500",
+      "last_engaged_date": "2024-01-21 02:36:29 -0500",
       "reading_progress": 0.7507987022399902,
       "marked_as_finished": null,
       "purchase_date": "2023-10-26 21:28:54 -0400",
@@ -88,28 +1159,6 @@ var ibook_history = {
       "cover": {
         "src": "assets/images/72407F076510E52E4A7C0E9FC4234D32.jpg"
       }
-    },
-    {
-      "book_id": "E547D5D869A603EFE999773A5AFDDBE1",
-      "author": "Andrea Wulf",
-      "title": "A invencao da natureza - A vida e as descobertas de Alexander von Humbolt",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-12-01 18:00:35 -0500",
-      "genre": null,
-      "lang": null,
-      "file_size": 10500552,
-      "page_count": 1048,
-      "created_at": "2023-12-01 18:00:35 -0500",
-      "updated_at": "2023-12-01 18:00:35 -0500",
-      "asset_details_modification_date": "2023-12-01 18:00:35 -0500",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ]
     },
     {
       "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
@@ -998,31 +2047,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/A6BF01DED0596A6BE85A50C666CDBF2C.jpg"
-      }
-    },
-    {
-      "book_id": "EBB8446515B76BD538646083CCB546D9",
-      "author": "Nizar Qabbani",
-      "title": "Arabian Love Poems",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-09-29 21:45:55 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 6250348,
-      "page_count": 120,
-      "created_at": "2023-09-29 21:45:55 -0400",
-      "updated_at": "2023-09-29 21:45:55 -0400",
-      "asset_details_modification_date": "2023-09-29 21:45:55 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/EBB8446515B76BD538646083CCB546D9.jpg"
       }
     },
     {
@@ -5360,31 +6384,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/FA349E672F8071E4BD0AD4524992B0BC.jpg"
-      }
-    },
-    {
-      "book_id": "D317BB9E11F93813DD21F5663CF8F838",
-      "author": "Friedrich Schiller",
-      "title": "A Educacao Estética do Homem",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-07-28 00:07:06 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 20775710,
-      "page_count": 80,
-      "created_at": "2023-07-28 00:07:06 -0400",
-      "updated_at": "2023-08-11 11:28:14 -0400",
-      "asset_details_modification_date": "2023-08-11 11:28:14 -0400",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/D317BB9E11F93813DD21F5663CF8F838.jpg"
       }
     },
     {
@@ -49405,149 +50404,6 @@ var ibook_history = {
       }
     },
     {
-      "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-      "author": "Anton Tchékhov",
-      "title": "A ilha de Sacalina",
-      "last_engaged_date": "2023-06-16 17:13:39 -0400",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-07-25 13:57:27 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 2117800,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-07-25 13:57:27 -0400",
-      "asset_details_modification_date": "2023-06-16 17:16:13 -0400",
-      "notes": [
-        {
-          "pk": 3088,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "V",
-          "text": "prisão de Aleksándrovski",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/90/1,:184,:208)",
-          "created_at": "2023-01-26 04:10:52 -0500",
-          "updated_at": "2023-01-26 04:10:54 -0500",
-          "is_inderline": 1,
-          "color": 0,
-          "type": 2,
-          "words_count": 3
-        },
-        {
-          "pk": 3037,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "V",
-          "text": " Se a vida surge e se desenvolve de uma forma que não é a natural, mas sim artificial, e se seu crescimento depende menos das condições naturais e econômicas do que da teoria e do arbítrio de determinadas pessoas, acasos desse tipo subordinam a vida de forma imperiosa e inevitável e se tornam uma espécie de lei, para essa vida artificial.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/36/3,:193,:533)",
-          "created_at": "2023-01-19 13:56:53 -0500",
-          "updated_at": "2023-01-19 13:56:54 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 61
-        },
-        {
-          "pk": 3036,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "IV",
-          "text": "A população sobrevive a duras penas, mas mesmo assim as pessoas bebem chá todo dia, fumam tabaco turco, andam em roupas de pessoas livres, pagam aluguel, compram as casas dos camponeses que partem para o continente e constroem casas novas.",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/30/1,:357,:596)",
-          "created_at": "2023-01-19 13:53:09 -0500",
-          "updated_at": "2023-01-19 13:53:10 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 40
-        }
-      ],
-      "new_words": [
-        {
-          "pk": 3035,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "IV",
-          "text": "isbás",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[id113]!/4/26/1,:60,:65)",
-          "created_at": "2023-01-19 13:49:03 -0500",
-          "updated_at": "2023-01-19 13:49:04 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 3034,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "IV",
-          "text": "cabal",
-          "sentence": null,
-          "note": "Completa",
-          "path": "epubcfi(/6/6[id113]!/4/24/1,:116,:121)",
-          "created_at": "2023-01-19 13:47:48 -0500",
-          "updated_at": "2023-01-19 13:47:56 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 2631,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "II",
-          "text": "Arrabaldes",
-          "sentence": null,
-          "note": "Suburbio",
-          "path": "epubcfi(/6/4[id114]!/4/256/1,:15,:25)",
-          "created_at": "2022-12-10 02:06:17 -0500",
-          "updated_at": "2022-12-10 02:06:26 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 2630,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "I",
-          "text": "istmo",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/4[id114]!/4/192/5,:385,:390)",
-          "created_at": "2022-12-10 01:40:14 -0500",
-          "updated_at": "2022-12-10 01:40:15 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        },
-        {
-          "pk": 2629,
-          "book_id": "D2F0D17CF863FA1805CED4D675016FC5",
-          "chapter": "Apresentação",
-          "text": "liceu",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/4[id114]!/4/84/1,:264,:269)",
-          "created_at": "2022-12-10 00:08:10 -0500",
-          "updated_at": "2022-12-10 00:08:11 -0500",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        }
-      ],
-      "cover": {
-        "src": "assets/images/D2F0D17CF863FA1805CED4D675016FC5.jpg"
-      }
-    },
-    {
       "book_id": "378E77F898105F94FE125BADA5E7B52C",
       "author": "Anton Tchékhov",
       "title": "Sem Trama e Sem Final",
@@ -54820,45 +55676,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/3E340449016038F24FE0DB12EC3C523D.jpg"
-      }
-    },
-    {
-      "book_id": "D27C288BF852405F23ABD1A8DF43BE6E",
-      "author": "Clarice Lispector",
-      "title": "A Descoberta do Mundo",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-07-25 13:57:27 -0400",
-      "genre": "Contos e Crônicas",
-      "lang": null,
-      "file_size": 1505497,
-      "page_count": 0,
-      "created_at": "2022-01-18 09:29:45 -0800",
-      "updated_at": "2023-07-25 13:57:27 -0400",
-      "asset_details_modification_date": "2022-10-31 13:59:41 -0400",
-      "notes": [
-        {
-          "pk": 2359,
-          "book_id": "D27C288BF852405F23ABD1A8DF43BE6E",
-          "chapter": "",
-          "text": "Repito por pura alegria de viver: a salvação é pelo risco, sem o qual a vida não vale a pena!",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/12[html6]!/4/2/232/2/1,:0,:93)",
-          "created_at": "2022-10-30 18:55:15 -0400",
-          "updated_at": "2022-10-30 18:55:15 -0400",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 20
-        }
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/D27C288BF852405F23ABD1A8DF43BE6E.jpg"
       }
     },
     {
