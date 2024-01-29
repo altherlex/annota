@@ -1,10 +1,35 @@
 var ibook_history = {
-  "updated_at": "2024-01-27 10:50:11 -0500",
+  "updated_at": "2024-01-29 07:47:46 -0500",
   "book_count": 475,
   "author_count": 335,
-  "notes_count": 3128,
-  "new_words_count": 866,
+  "notes_count": 3136,
+  "new_words_count": 870,
   "data": [
+    {
+      "book_id": "1DF5B14D85CB1F2D601B5685651111C3",
+      "author": "Walter Benjamin",
+      "title": "Passagens",
+      "last_engaged_date": null,
+      "reading_progress": 0.0,
+      "marked_as_finished": null,
+      "purchase_date": "2023-07-25 13:57:27 -0400",
+      "genre": null,
+      "lang": null,
+      "file_size": 136193286,
+      "page_count": 0,
+      "created_at": "2023-01-18 09:29:45 -0800",
+      "updated_at": "2024-01-27 11:45:17 -0500",
+      "asset_details_modification_date": "2024-01-27 11:45:17 -0500",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ],
+      "cover": {
+        "src": "assets/images/1DF5B14D85CB1F2D601B5685651111C3.jpg"
+      }
+    },
     {
       "book_id": "4C5F32ADFFE3E080196FC4B9B1D62943",
       "author": "George Orwell",
@@ -18,8 +43,8 @@ var ibook_history = {
       "file_size": 716263,
       "page_count": 0,
       "created_at": "2024-01-22 10:05:56 -0500",
-      "updated_at": "2024-01-22 10:05:59 -0500",
-      "asset_details_modification_date": "2024-01-22 10:05:59 -0500",
+      "updated_at": "2024-01-27 11:45:17 -0500",
+      "asset_details_modification_date": "2024-01-27 11:45:17 -0500",
       "notes": [
 
       ],
@@ -227,9 +252,9 @@ var ibook_history = {
       "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
       "author": "Clarice Lispector",
       "title": "A paixão segundo G.H.",
-      "last_engaged_date": "2024-01-26 10:37:51 -0500",
-      "reading_progress": 0.5987653732299805,
-      "marked_as_finished": null,
+      "last_engaged_date": "2024-01-28 07:43:09 -0500",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
       "purchase_date": "2024-01-06 18:59:37 -0500",
       "genre": "",
       "lang": "pt",
@@ -237,8 +262,128 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2024-01-06 18:59:37 -0500",
       "updated_at": "2024-01-12 21:31:55 -0500",
-      "asset_details_modification_date": "2024-01-12 21:31:55 -0500",
+      "asset_details_modification_date": "2024-01-28 07:47:13 -0500",
       "notes": [
+        {
+          "pk": 4481,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "A desistência é uma revelação.",
+          "text": "pertencer ao desconhecido",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/78[id47]!/4/24/1,:35,:60)",
+          "created_at": "2024-01-28 07:45:44 -0500",
+          "updated_at": "2024-01-28 07:45:46 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 3
+        },
+        {
+          "pk": 4480,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Falta apenas o golpe da graça – que se chama paixão.",
+          "text": "Mas é do buscar e não achar que nasce o que eu não conhecia, e que instantaneamente reconheço.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/76[id46]!/4/50/1,:226,:320)",
+          "created_at": "2024-01-28 07:38:43 -0500",
+          "updated_at": "2024-01-28 07:38:48 -0500",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 18
+        },
+        {
+          "pk": 4479,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "O divino para mim é o real.",
+          "text": " A fé – é saber que se pode ir e comer o milagre",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/74[id45]!/4/10/1,:230,:278)",
+          "created_at": "2024-01-28 07:23:05 -0500",
+          "updated_at": "2024-01-28 07:23:06 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 13
+        },
+        {
+          "pk": 4478,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "estou procurando, estou procurando",
+          "text": "traduzir sinais de telégrafo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[id15]!/4/80/1,:285,:313)",
+          "created_at": "2024-01-28 07:14:54 -0500",
+          "updated_at": "2024-01-28 07:14:54 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 4
+        },
+        {
+          "pk": 4477,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "estou procurando, estou procurando",
+          "text": "aterradora liberdade",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[id15]!/4/16/1,:400,:420)",
+          "created_at": "2024-01-28 06:58:07 -0500",
+          "updated_at": "2024-01-28 06:58:07 -0500",
+          "is_inderline": 1,
+          "color": 0,
+          "type": 2,
+          "words_count": 2
+        },
+        {
+          "pk": 4474,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Falta apenas o golpe da graça – que se chama paixão.",
+          "text": "A deseroização de mim mesma está minando subterraneamente o meu edifício, cumprindo-se à minha revelia como uma vocação ignorada. Até que me seja enfim revelado que a vida em mim não tem o meu nome.",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/76[id46]!/4/42/1,:0,:198)",
+          "created_at": "2024-01-27 09:44:54 -0500",
+          "updated_at": "2024-01-27 09:44:55 -0500",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 35
+        },
+        {
+          "pk": 4473,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Falta apenas o golpe da graça – que se chama paixão.",
+          "text": "A gradual deseroização de si mesmo é o verdadeiro trabalho que se labora sob o aparente trabalho, a vida é uma missão secreta. Tão secreta é a verdadeira vida que nem a mim, que morro dela, me pode ser confiada a senha, morro sem saber de quê. E o segredo é tal que, somente se a missão chegar a se cumprir é que, por um relance, percebo que nasci incumbida – toda vida é uma missão secreta.",
+          "sentence": null,
+          "note": "A missão secreta da vida",
+          "path": "epubcfi(/6/76[id46]!/4/40/1,:0,:391)",
+          "created_at": "2024-01-27 09:40:51 -0500",
+          "updated_at": "2024-01-27 09:40:57 -0500",
+          "is_inderline": 0,
+          "color": 1,
+          "type": 2,
+          "words_count": 77
+        },
+        {
+          "pk": 4470,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Falta apenas o golpe da graça – que se chama paixão.",
+          "text": "O desconhecido nos aguarda, mas sinto que esse desconhecido é uma totalização e será a verdadeira humanização pela qual ansiamos. Estou falando da morte? não, da vida.",
+          "sentence": null,
+          "note": "O desconhecido nos aguarda",
+          "path": "epubcfi(/6/76[id46]!/4/12/1,:218,:385)",
+          "created_at": "2024-01-28 07:28:50 -0500",
+          "updated_at": "2024-01-28 07:29:04 -0500",
+          "is_inderline": 0,
+          "color": 2,
+          "type": 2,
+          "words_count": 27
+        },
         {
           "pk": 4469,
           "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
@@ -616,6 +761,66 @@ var ibook_history = {
         }
       ],
       "new_words": [
+        {
+          "pk": 4476,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "estou procurando, estou procurando",
+          "text": "engastar",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/14[id15]!/4/8/1,:577,:585)",
+          "created_at": "2024-01-27 10:07:31 -0500",
+          "updated_at": "2024-01-27 10:07:32 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4475,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Falta apenas o golpe da graça – que se chama paixão.",
+          "text": "penosamente",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/76[id46]!/4/46/1,:124,:135)",
+          "created_at": "2024-01-27 09:46:09 -0500",
+          "updated_at": "2024-01-27 09:46:11 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4472,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Falta apenas o golpe da graça – que se chama paixão.",
+          "text": "recrudesce",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/76[id46]!/4/38/1,:279,:289)",
+          "created_at": "2024-01-27 09:37:14 -0500",
+          "updated_at": "2024-01-27 09:37:15 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
+        {
+          "pk": 4471,
+          "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
+          "chapter": "Falta apenas o golpe da graça – que se chama paixão.",
+          "text": "prescindindo",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/76[id46]!/4/14/1,:284,:296)",
+          "created_at": "2024-01-27 09:31:20 -0500",
+          "updated_at": "2024-01-27 09:31:21 -0500",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        },
         {
           "pk": 4467,
           "book_id": "C7BEE1C0F4A990EE7033B1D97E569A4E",
@@ -44308,31 +44513,6 @@ var ibook_history = {
       ],
       "cover": {
         "src": "assets/images/4A75E1DB973B1DC5AA4A2800416B54DE"
-      }
-    },
-    {
-      "book_id": "1DF5B14D85CB1F2D601B5685651111C3",
-      "author": "Walter Benjamin",
-      "title": "Passagens",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2023-07-25 13:57:27 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 136193286,
-      "page_count": 0,
-      "created_at": "2023-01-18 09:29:45 -0800",
-      "updated_at": "2023-07-25 13:57:27 -0400",
-      "asset_details_modification_date": "2023-01-13 15:52:20 -0500",
-      "notes": [
-
-      ],
-      "new_words": [
-
-      ],
-      "cover": {
-        "src": "assets/images/1DF5B14D85CB1F2D601B5685651111C3.jpg"
       }
     },
     {
