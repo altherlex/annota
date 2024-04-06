@@ -89,7 +89,7 @@ var ibook_history = {
       "lang": "pt",
       "file_size": 262460,
       "page_count": 0,
-      "created_at": "2023-09-12 23:57:32 -0400",
+      "created_at": "2024-09-12 23:57:32 -0400",
       "updated_at": "2024-03-23 18:00:34 -0400",
       "asset_details_modification_date": "2024-04-06 13:35:27 -0400",
       "notes": [
