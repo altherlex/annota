@@ -1,17 +1,39 @@
 var ibook_history = {
-  "updated_at": "2024-03-24 04:40:26 -0400",
-  "book_count": 482,
-  "author_count": 340,
+  "updated_at": "2024-04-06 13:50:49 -0400",
+  "book_count": 483,
+  "author_count": 341,
   "notes_count": 3278,
   "new_words_count": 964,
   "data": [
     {
+      "book_id": "69BD551FA867B814358015AE66DFBEAA",
+      "author": "Christian Jacq",
+      "title": "Ramsés 1 - O Filho da Luz",
+      "last_engaged_date": "2024-03-24 10:06:42 -0400",
+      "reading_progress": 0.011286679655313492,
+      "marked_as_finished": null,
+      "purchase_date": "2024-03-24 10:00:47 -0400",
+      "genre": "",
+      "lang": "pt",
+      "file_size": 962181,
+      "page_count": 0,
+      "created_at": "2024-03-24 10:00:47 -0400",
+      "updated_at": "2024-03-28 05:57:46 -0400",
+      "asset_details_modification_date": "2024-03-28 05:57:46 -0400",
+      "notes": [
+
+      ],
+      "new_words": [
+
+      ]
+    },
+    {
       "book_id": "4D01F47F1D4FFB45FB35418501A69234",
       "author": "José Saramago",
       "title": "O conto da ilha desconhecida",
-      "last_engaged_date": null,
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
+      "last_engaged_date": "2024-03-28 04:53:34 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
       "purchase_date": "2024-03-24 03:38:02 -0400",
       "genre": "",
       "lang": "pt",
@@ -19,7 +41,7 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2024-03-24 03:38:02 -0400",
       "updated_at": "2024-03-24 03:40:04 -0400",
-      "asset_details_modification_date": "2024-03-24 03:40:04 -0400",
+      "asset_details_modification_date": "2024-03-28 05:57:45 -0400",
       "notes": [
 
       ],
@@ -59,9 +81,9 @@ var ibook_history = {
       "book_id": "29157214736096A63716719AF97D8C54",
       "author": "Liev Tolstói",
       "title": "A Morte de Ivan Ilitch",
-      "last_engaged_date": null,
-      "reading_progress": 0.039473678916692734,
-      "marked_as_finished": null,
+      "last_engaged_date": "2024-04-06 13:14:57 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
       "purchase_date": "2023-09-12 23:57:32 -0400",
       "genre": "Ficção russa - Romance",
       "lang": "pt",
@@ -69,7 +91,7 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2023-09-12 23:57:32 -0400",
       "updated_at": "2024-03-23 18:00:34 -0400",
-      "asset_details_modification_date": "2024-03-23 18:00:34 -0400",
+      "asset_details_modification_date": "2024-04-06 13:35:27 -0400",
       "notes": [
 
       ],
