@@ -1,5 +1,5 @@
 var ibook_history = {
-  "updated_at": "2024-07-13 22:53:48 -0400",
+  "updated_at": "2024-07-14 06:30:40 -0400",
   "book_count": 495,
   "author_count": 351,
   "notes_count": 3315,
@@ -136,9 +136,9 @@ var ibook_history = {
       "book_id": "E8A0234E8B22246CF2BD2914A05AC472",
       "author": "Graciliano Ramos",
       "title": "S. Bernardo",
-      "last_engaged_date": "2024-07-02 01:11:11 -0400",
-      "reading_progress": 0.5564972162246704,
-      "marked_as_finished": null,
+      "last_engaged_date": "2024-07-13 23:00:39 -0400",
+      "reading_progress": 1.0,
+      "marked_as_finished": 1,
       "purchase_date": "2024-06-01 10:52:32 -0400",
       "genre": "Fiction",
       "lang": "pt",
@@ -146,7 +146,7 @@ var ibook_history = {
       "page_count": 0,
       "created_at": "2024-06-01 10:52:32 -0400",
       "updated_at": "2024-06-01 10:53:42 -0400",
-      "asset_details_modification_date": "2024-06-01 10:53:42 -0400",
+      "asset_details_modification_date": "2024-07-13 23:01:11 -0400",
       "notes": [
         {
           "pk": 4804,
