@@ -11,8 +11,12 @@ def download(book)
   filename = book["book_id"]+ext
   img_path = "assets/images/#{filename}"
 
-  File.open(img_path, "wb") do |fo|
-    fo.write open(url).read 
+  begin
+    File.open(img_path, "wb") do |fo|
+      fo.write open(url).read 
+    end
+  rescue => e
+    raise "Error for image: #{img_path}"
   end
 
   img_path

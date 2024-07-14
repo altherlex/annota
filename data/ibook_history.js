@@ -25,7 +25,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/1262A12FBEFE189ACC6E35482EDF64E8"
+      }
     },
     {
       "book_id": "F3AA55645F8F6E29C1FA47579FA3F329",
@@ -86,7 +89,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/AA33A21BC55ACB0B4FBB52FCC8627ED6.jpg"
+      }
     },
     {
       "book_id": "2B2B710B49ABDD12A0A8F0B44B031E5C",
@@ -108,7 +114,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/2B2B710B49ABDD12A0A8F0B44B031E5C.jpg"
+      }
     },
     {
       "book_id": "029C4A6FEC32ADC7DDE33EF0C4A81782",
@@ -130,7 +139,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/029C4A6FEC32ADC7DDE33EF0C4A81782.jpg"
+      }
     },
     {
       "book_id": "E8A0234E8B22246CF2BD2914A05AC472",
@@ -855,7 +867,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/E8A0234E8B22246CF2BD2914A05AC472.jpg"
+      }
     },
     {
       "book_id": "3CCFE0F054AFD5D2EC19FF50A4076CBE",
@@ -877,7 +892,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/3CCFE0F054AFD5D2EC19FF50A4076CBE.jpg"
+      }
     },
     {
       "book_id": "BC4E40C29017A726578255B5DAD77C4E",
@@ -899,11 +917,15 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/BC4E40C29017A726578255B5DAD77C4E.jpg"
+      }
     },
     {
       "book_id": "9F6A4101F7AB249C8F96EDBDA704766F",
       "author": "Schopenhauer, Arthur",
+      "authorz": "Arthur Schopenhauer",
       "title": "A Arte de Escrever",
       "last_engaged_date": null,
       "reading_progress": 0.26618701219558716,
@@ -921,7 +943,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/9F6A4101F7AB249C8F96EDBDA704766F.jpg"
+      }
     },
     {
       "book_id": "175D68CB8F63E9FE19B6C6C90B81F8D9",
@@ -943,7 +968,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/175D68CB8F63E9FE19B6C6C90B81F8D9.jpg"
+      }
     },
     {
       "book_id": "5D18441695C4760206B94B8080628227",
@@ -965,7 +993,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/5D18441695C4760206B94B8080628227.jpg"
+      }
     },
     {
       "book_id": "237A8C35FDCF7B08990E32B276BD44D1",
@@ -1293,6 +1324,7 @@ var ibook_history = {
     {
       "book_id": "7B64C067BFD0EA439156C6BF6CBD7F86",
       "author": "Evans, Richard J.;",
+      "authorz": "Richard J. Evans",
       "title": "Eric Hobsbawm",
       "last_engaged_date": null,
       "reading_progress": 0.0,
@@ -1310,7 +1342,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/7B64C067BFD0EA439156C6BF6CBD7F86.jpg"
+      }
     },
     {
       "book_id": "7631EDFC03D896FBF7A0E94772E10F1B",
@@ -1332,7 +1367,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/7631EDFC03D896FBF7A0E94772E10F1B.jpg"
+      }
     },
     {
       "book_id": "69BD551FA867B814358015AE66DFBEAA",
@@ -1354,7 +1392,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "assets/images/69BD551FA867B814358015AE66DFBEAA.jpg"
+      }
     },
     {
       "book_id": "7AA6C94AA0B1F8D8C3405913F2591C63",
