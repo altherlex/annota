@@ -1,14 +1,14 @@
 var ibook_history = {
-  "updated_at": "2025-03-09 18:55:04 -0400",
+  "updated_at": "2025-03-09 19:37:26 -0400",
   "book_count": 537,
-  "author_count": 378,
+  "author_count": 379,
   "notes_count": 3534,
   "new_words_count": 1067,
   "data": [
     {
       "book_id": "3BF755C6D8481B368B69070456ACD2F5",
-      "author": "UnknownAuthor",
-      "title": "Poetry As Insurgent Art (Lawrence Ferlinghetti) (Z-Library)",
+      "author": "Lawrence Ferlinghetti",
+      "title": "Poetry As Insurgent Art",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -25,12 +25,15 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://cdn.sanity.io/images/p34gzxcg/production/ff78c9de2b6c5eaa91f06b2a5b08b2136f6223fd-500x736.jpg?dl=Poetry_Insurgent.jpg"
+      }
     },
     {
       "book_id": "DA1DB2C72C569D1B1071427D33903B52",
-      "author": "UnknownAuthor",
-      "title": "A imaginação (Jean-paul Sartre) (Z-Library)",
+      "author": "Jean-paul Sartre",
+      "title": "A imaginação",
       "last_engaged_date": null,
       "reading_progress": 0.0,
       "marked_as_finished": null,
@@ -47,7 +50,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51n8gXS53qL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "F2D4E7668B44C3451D0B014B7CA31DBA",
@@ -69,7 +75,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://i.ebayimg.com/images/g/KdMAAOSwHXFmrT6K/s-l400.jpg"
+      }
     },
     {
       "book_id": "64115B8C417EC6B95F4DB6FBF28CB4CE",
@@ -145,7 +154,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://cdn.kobo.com/book-images/214e0ff3-9efd-4e45-83b9-66c4a7b47bef/353/569/90/False/fernao-de-magalhaes-o-homem-e-seu-feito.jpg"
+      }
     },
     {
       "book_id": "588DDB56F3CB0BDB1B512B97C311D07B",
@@ -167,7 +179,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576604989i/6430118.jpg"
+      }
     },
     {
       "book_id": "ED99899115F5B5FB954173F820E8B190",
@@ -218,7 +233,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://literaturaeoutrasdrogas.wordpress.com/wp-content/uploads/2015/08/download.jpg"
+      }
     },
     {
       "book_id": "DED577E399382A51DB6A0ED6F5F147F2",
@@ -240,7 +258,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://www.lpm.com.br/livros/Imagens/amor_nos_tempos_furia_9788525436696_g.jpg"
+      }
     },
     {
       "book_id": "D9B4329DF886AF2AB6EE3C405EB8FE97",
@@ -900,7 +921,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450379763i/28233932.jpg"
+      }
     },
     {
       "book_id": "D454102EDBD0245B24A94AFA624D90A0",
@@ -1745,7 +1769,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "https://livrandante.com.br/wp-content/uploads/2017/02/O-Prazer-do-Texto.jpg"
+      }
     },
     {
       "book_id": "4F76966BEE5E53090E0985D65CDF8AAC",
@@ -1825,7 +1852,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/717lfIgWTZL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "CFCD5F03449EF5DB32FEBC2052AAD5E0",
@@ -1951,7 +1981,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/6188fYBXpML._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "F2B5D05088A6379776AA824D3283BA18",
@@ -2329,14 +2362,14 @@ var ibook_history = {
     {
       "book_id": "F88348C4D7C736EB1E71543436F78A56",
       "author": "Nietzsche, Friedrich",
-      "title": "Genealogia da Moral - Uma Polêmica - Ed. De Bolso",
+      "title": "Genealogia da Moral - Uma Polêmica",
       "last_engaged_date": "2024-12-16 05:09:28 -0500",
       "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2025-02-16 16:08:30 -0500",
       "genre": null,
       "lang": null,
-      "file_size": 1230372,
+      "file_size": 1232137,
       "page_count": 0,
       "created_at": "2024-11-20 18:07:45 -0500",
       "updated_at": "2025-02-16 16:08:30 -0500",
@@ -2782,15 +2815,15 @@ var ibook_history = {
     },
     {
       "book_id": "D261487AEBCD2882D697F60DCED272D7",
-      "author": "huberto rohdem",
-      "title": "sabedoria das parábolas",
+      "author": "Huberto Rohdem",
+      "title": "Sabedoria das parábolas",
       "last_engaged_date": "2024-10-13 19:18:00 -0400",
       "reading_progress": 0.0,
       "marked_as_finished": null,
       "purchase_date": "2025-02-16 16:08:30 -0500",
       "genre": null,
       "lang": null,
-      "file_size": 927420,
+      "file_size": 926926,
       "page_count": 0,
       "created_at": "2024-09-29 18:59:35 -0400",
       "updated_at": "2025-02-16 16:08:30 -0500",
@@ -2885,7 +2918,7 @@ var ibook_history = {
     },
     {
       "book_id": "B7E767BD48A400221F9C26451EF5BE13",
-      "author": "Antonio Carlos Secchin (Seleção)",
+      "author": "Antonio Carlos Secchin",
       "title": "Fagundes Varela - Melhores Poemas",
       "last_engaged_date": "2024-09-15 22:09:37 -0400",
       "reading_progress": 0.0,
@@ -2893,7 +2926,7 @@ var ibook_history = {
       "purchase_date": "2025-02-16 16:08:30 -0500",
       "genre": "Poesia brasileira",
       "lang": null,
-      "file_size": 701052,
+      "file_size": 700571,
       "page_count": 0,
       "created_at": "2024-09-16 00:12:41 -0400",
       "updated_at": "2025-02-16 16:08:30 -0500",
@@ -82167,7 +82200,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://img.wook.pt/images/homenagem-a-catalunha-george-orwell/MXwyMzAzMDE2M3wxODkzNTY0OHwxNTU2MDI5OTI1MDAw/500x"
+      }
     },
     {
       "book_id": "1580986391",
