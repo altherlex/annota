@@ -27,7 +27,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://cdn.sanity.io/images/p34gzxcg/production/ff78c9de2b6c5eaa91f06b2a5b08b2136f6223fd-500x736.jpg?dl=Poetry_Insurgent.jpg"
+        "src": "assets/images/3BF755C6D8481B368B69070456ACD2F5.jpg"
       }
     },
     {
@@ -52,7 +52,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/51n8gXS53qL._AC_UF1000,1000_QL80_.jpg"
+        "src": "assets/images/DA1DB2C72C569D1B1071427D33903B52.jpg"
       }
     },
     {
@@ -77,7 +77,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://i.ebayimg.com/images/g/KdMAAOSwHXFmrT6K/s-l400.jpg"
+        "src": "assets/images/F2D4E7668B44C3451D0B014B7CA31DBA.jpg"
       }
     },
     {
@@ -156,7 +156,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://cdn.kobo.com/book-images/214e0ff3-9efd-4e45-83b9-66c4a7b47bef/353/569/90/False/fernao-de-magalhaes-o-homem-e-seu-feito.jpg"
+        "src": "assets/images/93B3D445644FCE9175E66CCCEEFD4CCE.jpg"
       }
     },
     {
@@ -181,7 +181,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576604989i/6430118.jpg"
+        "src": "assets/images/588DDB56F3CB0BDB1B512B97C311D07B.jpg"
       }
     },
     {
@@ -235,7 +235,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://literaturaeoutrasdrogas.wordpress.com/wp-content/uploads/2015/08/download.jpg"
+        "src": "assets/images/ED99899115F5B5FB954173F820E8B190.jpg"
       }
     },
     {
@@ -260,7 +260,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://www.lpm.com.br/livros/Imagens/amor_nos_tempos_furia_9788525436696_g.jpg"
+        "src": "assets/images/DED577E399382A51DB6A0ED6F5F147F2.jpg"
       }
     },
     {
@@ -923,7 +923,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450379763i/28233932.jpg"
+        "src": "assets/images/B5D8B590C23707EA662FD4E4973369EB.jpg"
       }
     },
     {
@@ -1771,7 +1771,7 @@ var ibook_history = {
         }
       ],
       "cover": {
-        "src": "https://livrandante.com.br/wp-content/uploads/2017/02/O-Prazer-do-Texto.jpg"
+        "src": "assets/images/D454102EDBD0245B24A94AFA624D90A0.jpg"
       }
     },
     {
@@ -1854,7 +1854,7 @@ var ibook_history = {
         }
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/717lfIgWTZL._AC_UF1000,1000_QL80_.jpg"
+        "src": "assets/images/4F76966BEE5E53090E0985D65CDF8AAC.jpg"
       }
     },
     {
@@ -1983,7 +1983,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://m.media-amazon.com/images/I/6188fYBXpML._AC_UF1000,1000_QL80_.jpg"
+        "src": "assets/images/CFCD5F03449EF5DB32FEBC2052AAD5E0.jpg"
       }
     },
     {
@@ -82202,7 +82202,7 @@ var ibook_history = {
 
       ],
       "cover": {
-        "src": "https://img.wook.pt/images/homenagem-a-catalunha-george-orwell/MXwyMzAzMDE2M3wxODkzNTY0OHwxNTU2MDI5OTI1MDAw/500x"
+        "src": "assets/images/1553340701.jpg"
       }
     },
     {
