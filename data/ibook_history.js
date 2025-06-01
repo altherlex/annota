@@ -1,10 +1,63 @@
 var ibook_history = {
-  "updated_at": "2025-06-01 15:27:04 -0400",
+  "updated_at": "2025-06-01 15:36:01 -0400",
   "book_count": 544,
   "author_count": 384,
   "notes_count": 3595,
   "new_words_count": 1095,
   "data": [
+    {
+      "book_id": "87310FB2196C39BAEE0605AA7D1A9E07",
+      "author": "Paul Celan",
+      "title": "Selections",
+      "last_engaged_date": "2025-06-01 15:34:17 -0400",
+      "reading_progress": 0.22959180176258087,
+      "marked_as_finished": null,
+      "purchase_date": "2025-05-15 16:22:41 -0400",
+      "genre": "",
+      "lang": "en",
+      "file_size": 1694897,
+      "page_count": 0,
+      "created_at": "2025-05-15 16:22:48 -0400",
+      "updated_at": "2025-06-01 15:34:09 -0400",
+      "asset_details_modification_date": "2025-06-01 15:34:09 -0400",
+      "notes": [
+        {
+          "pk": 5160,
+          "book_id": "87310FB2196C39BAEE0605AA7D1A9E07",
+          "chapter": "Introduction \"Polysemy without mask\"",
+          "text": " \"To that in your work which did not — or not yet — open up to my comprehension, I responded with respect and by waiting: one can never pretend to comprehend completely —: that would be disrespect in the face of the Unknown that inhabits — or comes to inhabit — the poet; that would be to forget that poetry is something one breathes; that poetry breathes you in.\"",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/4[content-0012]!/4/160/4[block.48.0.0.box.212.261.1192.1203.q.60]/8[para.48.0.2.box.213.733.1187.731.q.60]/7,:204,:568)",
+          "created_at": "2025-04-20 11:18:42 -0400",
+          "updated_at": "2025-04-20 11:18:43 -0400",
+          "is_inderline": 0,
+          "color": 5,
+          "type": 2,
+          "words_count": 69
+        }
+      ],
+      "new_words": [
+        {
+          "pk": 5161,
+          "book_id": "87310FB2196C39BAEE0605AA7D1A9E07",
+          "chapter": "from ROMANIAN PROSE POEMS",
+          "text": "ecstatic",
+          "sentence": null,
+          "note": null,
+          "path": "epubcfi(/6/6[content-0013]!/4/4/6[block.54.1.0.box.211.825.1188.667.q.60]/4[para.54.1.0.box.211.825.1188.667.q.60]/7,:574,:582)",
+          "created_at": "2025-04-20 11:43:30 -0400",
+          "updated_at": "2025-04-20 11:43:33 -0400",
+          "is_inderline": 0,
+          "color": 3,
+          "type": 2,
+          "words_count": 1
+        }
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51km7PzTPcL._AC_UF1000,1000_QL80_.jpg"
+      }
+    },
     {
       "book_id": "C649A247BF43221B816B8F64D24FEB63",
       "author": "Mark Matousek",
@@ -50,7 +103,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/71AHR5SQzXL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "4F76966BEE5E53090E0985D65CDF8AAC",
@@ -200,7 +256,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437670978i/25964874.jpg"
+      }
     },
     {
       "book_id": "8C7EEE9C1D115D24A6855C8BF7606B10",
@@ -73442,7 +73501,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://archive.org/services/img/oamornatural0000andr/full/pct:200/0/default.jpg"
+      }
     },
     {
       "book_id": "CDB1BDD887CCD7040302013E428CDC83",
@@ -73464,7 +73526,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/71VkRBf1OlL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "96279DBD2990251709417953139BD7AA",
@@ -73500,57 +73565,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
-    },
-    {
-      "book_id": "87310FB2196C39BAEE0605AA7D1A9E07",
-      "author": "Paul Celan",
-      "title": "Paul Celan",
-      "last_engaged_date": "2025-05-03 12:43:09 -0400",
-      "reading_progress": 0.0,
-      "marked_as_finished": null,
-      "purchase_date": "2025-05-15 16:22:41 -0400",
-      "genre": null,
-      "lang": null,
-      "file_size": 1695201,
-      "page_count": 0,
-      "created_at": "2025-05-15 16:22:48 -0400",
-      "updated_at": "2025-05-15 16:22:41 -0400",
-      "asset_details_modification_date": "2025-05-03 12:43:16 -0400",
-      "notes": [
-        {
-          "pk": 5160,
-          "book_id": "87310FB2196C39BAEE0605AA7D1A9E07",
-          "chapter": "Introduction \"Polysemy without mask\"",
-          "text": " \"To that in your work which did not — or not yet — open up to my comprehension, I responded with respect and by waiting: one can never pretend to comprehend completely —: that would be disrespect in the face of the Unknown that inhabits — or comes to inhabit — the poet; that would be to forget that poetry is something one breathes; that poetry breathes you in.\"",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/4[content-0012]!/4/160/4[block.48.0.0.box.212.261.1192.1203.q.60]/8[para.48.0.2.box.213.733.1187.731.q.60]/7,:204,:568)",
-          "created_at": "2025-04-20 11:18:42 -0400",
-          "updated_at": "2025-04-20 11:18:43 -0400",
-          "is_inderline": 0,
-          "color": 5,
-          "type": 2,
-          "words_count": 69
-        }
       ],
-      "new_words": [
-        {
-          "pk": 5161,
-          "book_id": "87310FB2196C39BAEE0605AA7D1A9E07",
-          "chapter": "from ROMANIAN PROSE POEMS",
-          "text": "ecstatic",
-          "sentence": null,
-          "note": null,
-          "path": "epubcfi(/6/6[content-0013]!/4/4/6[block.54.1.0.box.211.825.1188.667.q.60]/4[para.54.1.0.box.211.825.1188.667.q.60]/7,:574,:582)",
-          "created_at": "2025-04-20 11:43:30 -0400",
-          "updated_at": "2025-04-20 11:43:33 -0400",
-          "is_inderline": 0,
-          "color": 3,
-          "type": 2,
-          "words_count": 1
-        }
-      ]
+      "cover": {
+        "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1721680432i/213263145.jpg"
+      }
     },
     {
       "book_id": "9D7051DD3BF701C076B1EFA56EA92BE4",
@@ -73572,7 +73590,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/41b21MOxF6L._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "3BF755C6D8481B368B69070456ACD2F5",
