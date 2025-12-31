@@ -25,7 +25,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://img.wook.pt/images/o-sentido-do-fim-julian-barnes/MXwxMTkxNzIyMXw3NDg4NjI1fDEzODM1ODE0NjcwMDA=/500x"
+      }
     },
     {
       "book_id": "ADD295BD05318852778C3B73384812B4",
@@ -47,7 +50,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://img.travessa.pt/livro/GR/bc/bce2bc09-4db0-468d-840e-3fdd34a04cad.jpg"
+      }
     },
     {
       "book_id": "509B32F84A5FA3D28307FAAE968667B0",
@@ -69,7 +75,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328314552i/8187291.jpg"
+      }
     },
     {
       "book_id": "CF80EBFBEE9C2E79713DAF9AD065C623",
@@ -225,7 +234,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/91KfueaZZ5L._UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "DD34E4F1CB5A0EA9FF7501C51BE7AD12",
@@ -272,7 +284,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://upload.wikimedia.org/wikipedia/en/e/e2/Leonard_Cohen_Selected_Poems_1956-1968_front_%28Viking%2C_US%29.jpg"
+      }
     },
     {
       "book_id": "AA7025DEB20CB59AF22FEC95FE66F979",
@@ -294,7 +309,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://img.travessa.com.br/livro/GR/e9/e9a66e2c-a1f7-41ca-83c9-a44a43ea8ce8.jpg"
+      }
     },
     {
       "book_id": "3E6B894F7EC446CE4C5785DC54B33FA3",
@@ -316,7 +334,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/81tbWx7cpdL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "A1AD7A82E9F98C8D6BEFE170C063A803",
@@ -338,7 +359,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://cdn.kobo.com/book-images/bc4a0907-1470-425e-aae6-78196cb464d2/353/569/90/False/constantine-p-cavafy-poems.jpg"
+      }
     },
     {
       "book_id": "CBF419C5ACEDE8451C7602B30D7F9AC8",
@@ -360,7 +384,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "http://www.versobooks.com/cdn/shop/files/getimage_0370ca43-b752-4ac2-a65f-b599dd169dd2.jpg?v=1766987829"
+      }
     },
     {
       "book_id": "7A05CE1CE31B87E8396EFDEC75BD0D99",
@@ -382,7 +409,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/7105Qsb07mL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "2410EC11A439248CB9655977786FA703",
@@ -817,7 +847,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://img.wook.pt/images/de-mal-a-pior-vasco-pulido-valente/MXwxNzk4OTA5MHwxMzY1OTc1NXwxNDY0OTQzNTIzMDAwfHdlYnA=/250x"
+      }
     },
     {
       "book_id": "351CB8ECE231F96CA7B94FADAB41DCBF",
@@ -897,7 +930,10 @@ var ibook_history = {
           "type": 2,
           "words_count": 1
         }
-      ]
+      ],
+      "cover": {
+        "src": "https://0.academia-photos.com/attachment_thumbnails/110832473/mini_magick20240125-1-3qdrwv.png?1706192833"
+      }
     },
     {
       "book_id": "A291C71263CE19500018EA3FF4BFD9E5",
@@ -1038,7 +1074,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788535924008/poesia-total.jpg"
+      }
     },
     {
       "book_id": "134ED572B5718752FBC9BBE0E87838B2",
@@ -1060,7 +1099,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1268387524i/7851924.jpg"
+      }
     },
     {
       "book_id": "52C4A7115BAA0966052AFF8218021E06",
@@ -1082,7 +1124,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/51RCfMUGcWL._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "71D8A89F1D0965974DB644966726EFF4",
@@ -1104,7 +1149,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://m.media-amazon.com/images/I/81Pw1kZWD9L._AC_UF1000,1000_QL80_.jpg"
+      }
     },
     {
       "book_id": "DCEB86E3BF70B66BDD5AEABC8F843344",
@@ -1126,7 +1174,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://img.wook.pt/images/grandes-esperancas-charles-dickens/MXwxODkxMTc5NXwxNDY0NDIzNXwxNDc4NTM2Mjc5MDAw/500x"
+      }
     },
     {
       "book_id": "7BE5139C05F594406F9CCF10102F4DAB",
@@ -1148,7 +1199,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://images.penguinrandomhouse.com/cover/9780735249547"
+      }
     },
     {
       "book_id": "C2526E0536E3A5F48033F3BA951021BC",
@@ -1195,7 +1249,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Infinite_jest_cover.jpg/250px-Infinite_jest_cover.jpg"
+      }
     },
     {
       "book_id": "8F1866E7014F282A6138119AAD2F5823",
@@ -1217,7 +1274,10 @@ var ibook_history = {
       ],
       "new_words": [
 
-      ]
+      ],
+      "cover": {
+        "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446876799l/6759.jpg"
+      }
     },
     {
       "book_id": "58926C5A2C14B4A55C8DA5CEF08001EA",
