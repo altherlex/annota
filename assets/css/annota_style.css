@@ -1,0 +1,141 @@
+/* Annota custom stylesheet
+   Usage: save as annota-style.css and include in your HTML:
+   <link rel="stylesheet" href="/path/to/annota-style.css">
+
+   This file provides a modern, responsive, accessible style with a light/dark mode.
+   It assumes the site markup uses semantic elements and simple utility classes (see notes at the end).
+*/
+
+:root{
+  --bg: #0f1724; /* deep navy */
+  --panel: #0b1220;
+  --muted: #94a3b8;
+  --text: #e6eef8;
+  --accent: #7c3aed; /* purple */
+  --accent-2: #06b6d4; /* teal */
+  --glass: rgba(255,255,255,0.04);
+  --radius: 12px;
+  --card-gap: 1rem;
+  --max-width: 1100px;
+  --shadow: 0 6px 18px rgba(2,6,23,0.6);
+}
+
+/* Light-mode overrides (prefers or .light class) */
+@media (prefers-color-scheme: light){
+  :root{
+    --bg: #f7fafc;
+    --panel: #ffffff;
+    --muted: #475569;
+    --text: #0b1220;
+    --accent: #6d28d9;
+    --accent-2: #0ea5a0;
+    --glass: rgba(11,17,32,0.03);
+    --shadow: 0 6px 18px rgba(12,18,33,0.06);
+  }
+}
+
+/* Utility resets */
+*{box-sizing: border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(180deg,var(--bg), #05060a 140%);
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  line-height:1.45;
+}
+
+.container{
+  width:100%;
+  max-width:var(--max-width);
+  margin:0 auto;
+  padding:2rem 1rem;
+}
+
+/* Header */
+.site-header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  padding:1rem 0;
+}
+.site-title{
+  display:flex;align-items:center;gap:.8rem;font-weight:700;font-size:1.25rem;
+}
+.site-title .logo{
+  width:44px;height:44px;border-radius:8px;background:linear-gradient(135deg,var(--accent),var(--accent-2));display:inline-grid;place-items:center;color:white;font-weight:700;
+}
+
+/* Top controls */
+.controls{display:flex;gap:.75rem;align-items:center}
+.search-input{
+  background:var(--panel);
+  border:1px solid rgba(255,255,255,0.04);
+  padding:.55rem .75rem;border-radius:999px;min-width:220px;outline:none;transition:box-shadow .18s,transform .12s;
+}
+.search-input:focus{box-shadow:0 6px 20px rgba(0,0,0,.45);transform:translateY(-1px)}
+
+.btn{
+  background:linear-gradient(90deg,var(--accent),var(--accent-2));border:none;color:white;padding:.6rem .9rem;border-radius:10px;font-weight:600;cursor:pointer;box-shadow:var(--shadow);display:inline-flex;gap:.5rem;align-items:center
+}
+.btn.ghost{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--text);box-shadow:none}
+
+/* Main layout */
+.grid{
+  display:grid;grid-template-columns: 1fr 320px;gap:2rem;align-items:start;
+}
+@media (max-width: 880px){
+  .grid{grid-template-columns:1fr}
+}
+
+/* Card list */
+.card-list{display:grid;grid-template-columns:repeat(2,1fr);gap:var(--card-gap)}
+@media (max-width:880px){.card-list{grid-template-columns:1fr}}
+
+.card{
+  background:linear-gradient(180deg, rgba(255,255,255,0.02), var(--glass));
+  border-radius:var(--radius);padding:1.1rem;border:1px solid rgba(255,255,255,0.03);box-shadow:var(--shadow);transition:transform .18s,box-shadow .18s;
+}
+.card:hover{transform:translateY(-6px);box-shadow:0 18px 40px rgba(2,6,23,0.6)}
+.card h3{margin:.1rem 0 .35rem 0}
+.card p{margin:0;color:var(--muted);font-size:.95rem}
+.card .meta{display:flex;gap:.6rem;margin-top:.7rem;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,0.03);padding:.25rem .6rem;border-radius:999px;font-size:.825rem;color:var(--muted)}
+
+/* Sidebar */
+.sidebar{
+  position:sticky;top:1.5rem;padding:1rem;border-radius:var(--radius);background:var(--panel);border:1px solid rgba(255,255,255,0.03);
+}
+.filter-list{display:flex;flex-direction:column;gap:.5rem}
+.filter-list button{background:transparent;border:1px solid rgba(255,255,255,0.04);padding:.5rem .65rem;border-radius:8px;text-align:left;cursor:pointer}
+.filter-list button.active{border-color:var(--accent);background:linear-gradient(90deg, rgba(124,58,237,0.08), rgba(6,182,212,0.03))}
+
+/* Pagination */
+.pagination{display:flex;gap:.5rem;align-items:center;justify-content:center;padding:1rem 0}
+.page-btn{background:transparent;border:1px solid rgba(255,255,255,0.04);padding:.45rem .6rem;border-radius:8px}
+.page-btn[aria-current="true"]{background:var(--accent);color:white;border:none}
+
+/* Empty / no-results */
+.empty{padding:3rem;border-radius:12px;text-align:center;background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.02));border:1px dashed rgba(255,255,255,0.03)}
+
+/* Footer */
+.site-footer{padding:2rem 0;text-align:center;color:var(--muted);font-size:.95rem}
+
+/* Accessibility */
+:focus{outline: 3px solid rgba(124,58,237,0.18);outline-offset:3px}
+
+/* Small helpers */
+.center{display:flex;align-items:center;justify-content:center}
+.row{display:flex;gap:1rem;align-items:center}
+.stack{display:flex;flex-direction:column;gap:.5rem}
+.mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, monospace}
+
+/* Notes for implementer:
+ - Add classes: .container, .site-header, .site-title, .logo, .controls, .search-input, .btn, .grid, .card-list, .card, .sidebar, .filter-list, .pagination
+ - Use <main class="container"><div class="grid"> ... </div></main>
+ - For dark-mode toggle, toggle .light on <html> to force light variables, or rely on OS pref.
+ - If you want a denser list, change --card-gap and card padding.
+*/
